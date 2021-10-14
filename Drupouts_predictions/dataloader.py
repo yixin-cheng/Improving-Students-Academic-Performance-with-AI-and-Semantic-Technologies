@@ -95,10 +95,10 @@ train_loader = torch.utils.data.DataLoader(train_dataset, batch_size=batch_size,
 Step 2: Define a neural network 
 
 Here we build a neural network with one hidden layer.
-    input layer: 2 neurons, representing the features of dropouts
+    input layer: n neurons, representing the features of status of students
     hidden layer: 50 neurons, using Sigmoid/Tanh/Tanh/Softmax as activation function
     
-    output layer: 7 neurons, representing the type of glass
+    output layer: 2 neurons, representing the type of dropouts
 """
 
 
