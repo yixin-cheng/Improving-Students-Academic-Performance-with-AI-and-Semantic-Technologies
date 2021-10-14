@@ -170,9 +170,6 @@ for epoch in range(num_epochs):
 """
 Evaluating the Results
 
-To see how well the network performs on different categories, we will
-create a confusion matrix, indicating for every glass (rows)
-which class the network guesses (columns).
 
 """
 
@@ -212,9 +209,9 @@ print('Testing Accuracy: %.2f %%' % (100 * sum(correct)/total))
 """
 Evaluating the Results
 
-To see how well the network performs on different categories, we will
-create a confusion matrix, indicating for every glass (rows)
-which class the network guesses (columns).
+To see how well the network performs on different categories, will
+create a confusion matrix, indicating for every  (rows)
+which class the network (columns).
 
 """
 
