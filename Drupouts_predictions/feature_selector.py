@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 from sklearn import svm
 import pandas as pd
 from sklearn import metrics
+from sklearn.model_selection import cross_validate
+from imblearn.over_sampling import SMOTE
 from sklearn.model_selection import train_test_split
 
 
@@ -50,8 +52,10 @@ class Selector:
             data.drop(data.columns[droplist], axis=1)
             X = data.iloc[:, :-1]
             y = data.iloc[:, -1]
+            print('here')
             # print(X)
             # print(y)
+            X_resampled, y_resampled = SMOTE(random_state=42).fit_sample(X, y)
             X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2,
                                                                 random_state=109)  # 80% training and 20% test
             clf = svm.SVC(kernel='linear')  # Linear Kernel
@@ -61,7 +65,7 @@ class Selector:
 
             # Predict the response for test dataset
             y_pred = clf.predict(X_test)
-            # print("Accuracy:", metrics.accuracy_score(y_test, y_pred))
+            print("Accuracy:", metrics.accuracy_score(y_test, y_pred))
             res.append(metrics.accuracy_score(y_test, y_pred))
         return res
 

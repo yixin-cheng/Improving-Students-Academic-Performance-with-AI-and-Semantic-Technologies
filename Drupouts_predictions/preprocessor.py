@@ -9,6 +9,7 @@ class Preprocessor:
         def __init__(self,path,new_path):
             self.path=path
             self.new_path=new_path
+            self.organise()
             self.impute_missing_value()
 
 
@@ -30,16 +31,11 @@ class Preprocessor:
                 x) is str else x)  # remove the beginning and end space of string, apply it in each element
             # remove all null columns
             self.dfh=self.dfh.drop(['cod_enfase','count'],axis=1)
+
             precessing_list=[0,1,2,3,4,7,13,14,18,20,21,27,28]
             for i in precessing_list:
                 self.dfh.iloc[:, i] = LabelEncoder().fit_transform(self.dfh.iloc[:, i])
 
-            # for i in range(len(self.dfh['sit_vinculo_atual'])):
-            #     if self.dfh['sit_vinculo_atual'][i] == ('DESLIGADO' or 'JUBILADO' or 'MATRICULA EM ABANDONO'):
-            #         self.dfh.loc[i, 'sit_vinculo_atual'] = 0
-            #     else:
-            #         self.dfh.loc[i, 'sit_vinculo_atual'] = 1
-            # replace 0 or 1 standing for the dropouts or not.
             self.dfh['sit_vinculo_atual']=self.dfh['sit_vinculo_atual'].replace(['DESLIGADO'],0)
             self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['JUBILADO'], 0)
             self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULA EM ABANDONO'], 0)
@@ -59,7 +55,8 @@ class Preprocessor:
             for column in self.dfh.columns[:-1]:
                 # the last column is target
                 self.dfh[column] = self.dfh.loc[:, [column]].apply(lambda x: x / x.max())
-            return self.dfh
+
+            self.dfh.to_csv(self.new_path,header=None,index=False)
 
         def impute_missing_value(self):
             """
@@ -67,9 +64,8 @@ class Preprocessor:
             the order of imputation is from the least column to the most ones first, fill the missing values with 0 in other columns
             then run the algorithm and do the iteration.
             """
-            df = self.organise()
-            df.to_csv('333.csv',index=False)
-            y_full = df
+            df = pd.read_csv(self.new_path)
+            y_full = pd.read_csv(self.new_path)
             X_missing_reg = df.copy()  # temp df
             # get columns containing nan
             nan_values = df.isna()
@@ -83,6 +79,7 @@ class Preprocessor:
                 new_columns_with_nan.append(index_no)
             # print(new_columns_with_nan)
             for i in new_columns_with_nan:
+                print(i)
                 df = X_missing_reg
                 # construct new pattern matrix
                 fillc = df.iloc[:, i]  # all rows

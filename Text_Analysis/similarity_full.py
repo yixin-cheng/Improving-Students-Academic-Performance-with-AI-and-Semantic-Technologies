@@ -5,7 +5,7 @@ import sys
 import numpy as np
 from bert_serving.client import BertClient
 from termcolor import colored
-
+from sentence_transformers import SentenceTransformer
 prefix_q = ''
 topk = 1
 

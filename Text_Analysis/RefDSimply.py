@@ -13,6 +13,7 @@ Created on Tue Apr 10 20:04:48 2018
 from SPARQLWrapper import SPARQLWrapper, JSON
 import configparser
 import math
+from taxonomicanalysis import TaxonomicAnalysis
 
 class SemRefD:
 

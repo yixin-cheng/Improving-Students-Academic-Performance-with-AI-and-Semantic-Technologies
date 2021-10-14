@@ -4,6 +4,7 @@ import sys
 import numpy as np
 from bert_serving.client import BertClient
 from termcolor import colored
+from sentence_transformers import SentenceTransformer
 
 prefix_q = ''
 topk = 1
@@ -20,8 +21,8 @@ def run(sentences2encode, sentences2compare, fout):
         sentences = [x.strip() for x in sentences]
         print('%d sentences loaded, avg. len of %d' % (len(sentences), np.mean([len(d.split()) for d in sentences])))
 
-    with BertClient(port=8190, port_out=5556) as bc:
-        doc_vecs = bc.encode(sentences)
+        model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
+        doc_vecs = model.encode(sentences)
 
         with open(sentences2compare) as fq:
             sentence2comp = fq.readlines()
@@ -32,7 +33,7 @@ def run(sentences2encode, sentences2compare, fout):
             writer.writeheader()
             for s in sentence2comp:
                 query = s
-                query_vec = bc.encode([s])
+                query_vec = model.encode([s])
                 # compute normalized dot product as score
                 score = np.sum(query_vec * doc_vecs, axis=1) / (np.linalg.norm(query_vec, axis=1) * np.linalg.norm(doc_vecs, axis=1))
                 topk_idx = np.argsort(score)[::-1][:topk] ##top n will be listed in the resultl
@@ -54,4 +55,4 @@ if __name__== "__main__":
         for j in range(len(list)):
             run("/home/yixincheng/8755project/WebAndReligion/raw_foundational_books/" + list[i] + '.txt',
                 "/home/yixincheng/8755project/WebAndReligion/raw_foundational_books/" + list[j] + '.txt',
-                "BertClient/"+list[i][:8]+"_"+list[j][:8]+".csv")
+                "all-mpnet-base-v2/"+list[i][:8]+"_"+list[j][:8]+".csv")
