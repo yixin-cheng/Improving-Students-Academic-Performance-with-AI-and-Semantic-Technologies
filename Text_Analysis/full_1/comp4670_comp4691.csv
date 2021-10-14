@@ -1,0 +1,8 @@
+score,s1,s2
+0.9191,"This course provides foundations and plenty of exercises in practical optimisation problems, while covering all basic elements of optimisation including forms of constraint programming as well as variations on linear programming and convex optimisation.",This course provides a broad but thorough introduction to the methods and practice of statistical machine learning.
+0.9371,Be able to apply Linear Programming and Mixed-Integer Programming model to solve real-world problems.,"Interpret the mathematical equations from Linear Algebra, Statistics, and Probability Theory used in these machine learning models."
+0.9170,Be able to recognize and formulate convex optimization problems arising in practice.,"Interpret the mathematical equations from Linear Algebra, Statistics, and Probability Theory used in these machine learning models."
+0.9254,Demonstrate an understanding of theoretical foundations of convex optimization and be able to use it to characterize optimal solutions to general problems.,"Interpret the mathematical equations from Linear Algebra, Statistics, and Probability Theory used in these machine learning models."
+0.9222,Be able to define an appropriate local search neighbourhood for a given problem.,Make choices for a model for new machine learning tasks based on reasoned argument.
+0.9234,Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.,Make choices for a model for new machine learning tasks based on reasoned argument.
+0.9179,Demonstrate an understanding of the propagation of a global constraint in a Constraint programming system.,Make choices for a model for new machine learning tasks based on reasoned argument.

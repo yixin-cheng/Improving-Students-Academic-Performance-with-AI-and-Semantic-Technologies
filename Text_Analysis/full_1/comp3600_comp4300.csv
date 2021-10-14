@@ -1,0 +1,8 @@
+score,s1,s2
+0.9287,A practically oriented introduction to programming paradigms for parallel computers.,This course provides basic approaches for designing and analysing algorithms and data structures.
+0.9335,"Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance.",Define and analyse time and space complexities of algorithms.
+0.9291,"Description, implementation and use of parallel programming languages, parallel features of operating systems, library routines and applications.","Demonstrate experience in the design and implementation of algorithms for practical problems, using languages like C, C++."
+0.9190,Be proficient at programming multiple parallel machines in more than one special programming language or programming system.,"Demonstrate experience in the design and implementation of algorithms for practical problems, using languages like C, C++."
+0.9228,Be able to descriptively compare the performance of different programs and methods on one machine,"Display an advanced understanding of a variety of algorithms, including linear selection, minimum spanning trees, single source shortest path, Huffman coding, etc, with real-life applications and the resource requirements."
+0.9392,Demonstrate advanced knowledge of the elements of parallel programming language and system implementation.,"Demonstrate experience in the design and implementation of algorithms for practical problems, using languages like C, C++."
+0.9189,Recall the history of parallel systems and describe the developments in the field.,Define and analyse time and space complexities of algorithms.

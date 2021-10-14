@@ -1,0 +1,8 @@
+score,s1,s2
+0.9260,"This course provides foundations and plenty of exercises in practical optimisation problems, while covering all basic elements of optimisation including forms of constraint programming as well as variations on linear programming and convex optimisation.","In this course students will learn about fundamental algorithms, data structures and programming models used in 3D graphics applications."
+0.9231,Be able to apply Linear Programming and Mixed-Integer Programming model to solve real-world problems.,"In this course students will learn about fundamental algorithms, data structures and programming models used in 3D graphics applications."
+0.9133,Be able to recognize and formulate convex optimization problems arising in practice.,"Construct and manipulate complex models, geometries and scene graphs in both 2D and 3D"
+0.9232,Demonstrate an understanding of theoretical foundations of convex optimization and be able to use it to characterize optimal solutions to general problems.,"In this course students will learn about fundamental algorithms, data structures and programming models used in 3D graphics applications."
+0.8967,Be able to define an appropriate local search neighbourhood for a given problem.,In this course students will explore these concepts through practical implementation in a modern computer graphics software context.
+0.9126,Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.,"Construct and manipulate complex models, geometries and scene graphs in both 2D and 3D"
+0.9185,Demonstrate an understanding of the propagation of a global constraint in a Constraint programming system.,Implement computer graphics algorithms in a shader language

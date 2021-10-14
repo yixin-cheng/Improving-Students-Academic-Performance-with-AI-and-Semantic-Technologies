@@ -1,0 +1,9 @@
+score,s1,s2
+0.9012,"This course covers a range of concepts, techniques and technologies in network security.",Computational Methods for Network Science covers the essentials of using computational approaches to pose and answer social science research problems.
+0.8837,"This includes an overview of relevant network protocols and cryptography; analyses of designs and implementations of security protocols, including basic tools and techniques; an understanding of network threats and attacks such as eavesdropping, spoofing, protocol failures, DoS attacks and man-in-the-middle attacks; network defence including threat analysis and identification, architecture control, intrusion detection and layered security.","This includes random graph models, homophily and friendship paradox, influence and contagion in networks, markets and network games, network resilence."
+0.9411,"The course features hands-on lectures and labs to analyse network vulnerabilities, and design and implement appropriate defensive techniques.",The course equips the students with in-depth knowledge and hands-on experience in working with network data to study social processes at both the individual and aggregate levels.
+0.9198,Explain network security issues.,Apply network analysis algorithms in practical contexts.
+0.9192,"Understand various threats and vulnerabilities of a network, and explain appropriate countermeasures.","Analyze results from network algorithms, and articulate their limitations."
+0.9211,Perform simple penetration testing of a network and network services,Apply network analysis algorithms in practical contexts.
+0.9209,Perform a threat analysis / vulnerability assessment of protocol designs and implementations.,Apply network analysis algorithms in practical contexts.
+0.8813,Design and implement appropriate defensive countermeasures against identified threats and vulnerabilities.,"Analyze results from network algorithms, and articulate their limitations."

@@ -1,0 +1,14 @@
+score,s1,s2
+0.9470,This course teaches introductory programming within a problem solving framework applicable to the sciences.,demonstrate a basic knowledge of numerical computing using an appropriate programming language.
+0.9558,"The course emphasises technical programming, the simulation of scientific systems and the processing of scientific data.",Aspects of numerical computing and the design and construction of sophisticated scientific software will be considered.
+0.9142,There is an emphasis on designing and writing correct code.,demonstrate a basic knowledge of numerical computing using an appropriate programming language.
+0.9211,Testing and debugging are seen as integral to the programming enterprise.,appreciate the building blocks of scientific and engineering software.
+0.9014,Both top-down and object oriented design are taught.,"The focus will be on the C and C++ programming languages, although reflecting the reality of modern scientific computation this course will also touch on other languages such as Python, Java and FORTRAN95."
+0.9288,There will be an introduction to widely-used computer science algorithms and to machine architecture.,It will also look at practical methods of estimating and measuring algorithm/architecture performance.
+0.9435,The course will be taught using one or more programming languages which are widely applicable to scientific work.,demonstrate a basic knowledge of numerical computing using an appropriate programming language.
+0.9246,"Design, write and debug small programs to solve practical problems of a scientific nature.",be competent in experimental computing in a numerical context and of the optimisation of algorithms on high performance architectures.
+0.9487,Have a practical understanding of the processing of scientific data.,be able to reason about the accuracy of mathematical and numerical models of real physical phenomena.
+0.9228,Be able to describe and design small computer programs using both procedural and object-oriented methodologies.,"be capable of writing algorithms that yield good performance on high-performance architectures, and to be able to estimate and evaluate their performance."
+0.8862,Have an awareness of good program organisation.,demonstrate a basic knowledge of numerical computing using an appropriate programming language.
+0.9339,Have an understanding of some widely-used algorithms.,demonstrate a basic knowledge of numerical computing using an appropriate programming language.
+0.9319,Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.,demonstrate a basic knowledge of numerical computing using an appropriate programming language.

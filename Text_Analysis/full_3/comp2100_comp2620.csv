@@ -1,0 +1,8 @@
+score,s1,s2
+0.8915,"An introductory course in formal logic, dealing with propositional and predicate logic.","Students will learn appropriate application of programming abstractions they have learned in previous courses to the structuring of medium scale software: inheritance, generic types, polymorphism, procedural abstraction, and abstract recursive data structures (including abstract syntax trees as a program representation, and tools that manipulate them)."
+0.9085,Techniques of formal deduction and tests for the validity of arguments will be studied.,"Understand, apply, and analyse state and state machines in expressing computations."
+0.9052,Basic semantic concepts will be discussed.,Apply fundamental programming concepts for medium scale programs.
+0.9245,Express reasoning problems using first order logical notation.,Apply fundamental programming concepts for medium scale programs.
+0.9225,Construct natural deduction proofs in first order logic and translate between calculi.,"Understand, apply, and analyse state and state machines in expressing computations."
+0.9096,Explain the relationship between rules of deduction and the semantics of logic.,"Understand, apply, and analyse state and state machines in expressing computations."
+0.9300,Critically assess and compare philosophical views on issues arising from elementary logic.,"Contrast the concepts of copyright, patenting, and trademarks as mechanisms for protecting intellectual property, within the legal context for these mechanisms;  understand, analyse, and evaluate ethical/social tradeoffs in technical decisions, evaluating stakeholder positions."

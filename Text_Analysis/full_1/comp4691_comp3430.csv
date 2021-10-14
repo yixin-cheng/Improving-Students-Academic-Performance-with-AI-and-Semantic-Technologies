@@ -1,0 +1,8 @@
+score,s1,s2
+0.8752,"Real-world data are commonly messy, distributed, and heterogeneous.",Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.
+0.9154,"This course introduces core concepts of data cleaning, standardisation, and data integration, that are aimed at converting and mapping raw data into other formats that allow more efficient and convenient use and analysis of data. The courses also discusses data quality, management, and storage issues as relevant to data analytics.","This course provides foundations and plenty of exercises in practical optimisation problems, while covering all basic elements of optimisation including forms of constraint programming as well as variations on linear programming and convex optimisation."
+0.8841,"Critically reflect upon different data sources, types, formats and structures.",Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.
+0.8991,"Justify and apply data cleaning, preprocessing, and standardisation for data analytics.",Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.
+0.8997,Apply data integration concepts and techniques to heterogeneous and distributed data.,Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.
+0.8995,"Interpret, assess and discuss data quality measurements.",Be able to recognize and formulate convex optimization problems arising in practice.
+0.9152,"Understand and be able to use advanced data wrangling, data integration, and database techniques as relevant to data analytics.",Demonstrate an understanding of theoretical foundations of convex optimization and be able to use it to characterize optimal solutions to general problems.

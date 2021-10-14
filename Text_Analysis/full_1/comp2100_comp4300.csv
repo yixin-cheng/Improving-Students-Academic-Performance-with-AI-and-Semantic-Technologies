@@ -1,0 +1,8 @@
+score,s1,s2
+0.9385,A practically oriented introduction to programming paradigms for parallel computers.,Apply fundamental programming concepts for medium scale programs.
+0.9399,"Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance.","Understand, apply, and analyse state and state machines in expressing computations."
+0.9319,"Description, implementation and use of parallel programming languages, parallel features of operating systems, library routines and applications.","Students will learn appropriate application of programming abstractions they have learned in previous courses to the structuring of medium scale software: inheritance, generic types, polymorphism, procedural abstraction, and abstract recursive data structures (including abstract syntax trees as a program representation, and tools that manipulate them)."
+0.9194,Be proficient at programming multiple parallel machines in more than one special programming language or programming system.,Apply fundamental programming concepts for medium scale programs.
+0.9321,Be able to descriptively compare the performance of different programs and methods on one machine,Explain how system components contribute to performance; understand Amdahl’s law and its limitations; design and conduct performance experiments; use software tools to profile and measure program performance
+0.9481,Demonstrate advanced knowledge of the elements of parallel programming language and system implementation.,Apply fundamental programming concepts for medium scale programs.
+0.9209,Recall the history of parallel systems and describe the developments in the field.,Apply fundamental programming concepts for medium scale programs.

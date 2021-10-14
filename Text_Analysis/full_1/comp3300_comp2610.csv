@@ -1,0 +1,10 @@
+score,s1,s2
+0.8863,Information theory studies the fundamental limits of the representation and transmission of information.,"define and analyse the structure of operating systems in general, especially those that support communicating processes."
+0.8751,"This course provides an introduction to information theory, studying fundamental concepts such as probability, information, and entropy and examining their applications in the areas of data compression, coding, communications, pattern recognition and probabilistic inference.","define and analyse the structure of operating systems in general, especially those that support communicating processes."
+0.9016,"Understand and apply fundamental concepts in information theory such as probability, entropy, information content and their inter-relationships.",identify and describe the reasons for many architectural features of contemporary machines.
+0.8983,Understand the principles of data compression.,identify and describe the reasons for many architectural features of contemporary machines.
+0.8384,Compute entropy and mutual information of random variables.,describe and analyse the actual algorithms and data structures that are used in a particular operating system.
+0.9208,Implement and analyse basic coding and compression algorithms.,describe and analyse the actual algorithms and data structures that are used in a particular operating system.
+0.8945,Understand the relationship of information theoretical principles and Bayesian inference in data modelling and pattern recognition.,identify and describe the reasons for many architectural features of contemporary machines.
+0.9143,"Understand some key theorems and inequalities that quantify essential limitations on compression, communication and inference.",identify and describe the reasons for many architectural features of contemporary machines.
+0.9150,Know the basic concepts regarding communications over noisy channels.,identify and describe the reasons for many architectural features of contemporary machines.

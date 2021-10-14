@@ -1,0 +1,16 @@
+score,s1,s2
+0.9289,This course is based on the foundations set by the previous course on computer organisation.,The course also introduces students to standard productivity tools for software development that will be used throughout the course and remainder of the computer science degree.
+0.9352,It expands particularly into all forms of concurrent programming including aspects of massively parallel programming.,"The course covers functional programming in depth, developing the core idea of functions operating on data structures."
+0.9340,"This course introduces all basic mechanisms to analyse, design, and manage concurrent, single computer-node (multicore) as well as distributed applications (e.g. as performance or dependability enhancements).","Discuss, use, and apply the fundamentals of data structures, algorithms, and design; create, implement, and debug algorithms for solving simple problems, including recursively, using divide-and-conquer, and via decomposition."
+0.9086,"Following on from the previous course, the fields of operating systems and networking will also be expanded on.",The course also introduces students to standard productivity tools for software development that will be used throughout the course and remainder of the computer science degree.
+0.9080,"On the operating system side aspects of security, scheduling algorithms and memory management are discussed.","The course covers functional programming in depth, developing the core idea of functions operating on data structures."
+0.9289,More specific networking aspects follow on from message passing as a core concurrency construct.,"The course covers functional programming in depth, developing the core idea of functions operating on data structures."
+0.9365,These include the basics of routing and dependable protocols.,Understand basic types and the benefits of static typing.
+0.9181,"Model, design and program concurrent systems.","Describe, understand and evolve programs, via documentation, testing, and debugging."
+0.9517,"Select appropriate modeling techniques, tools and mechanisms to solve a range of problems in concurrent and distributed systems.",Describe and apply alternative computational paradigms to simple problems.
+0.8989,This includes the appropriate programming language and runtime environment for the task at hand.,"Apply fundamental programming concepts, using a functional programming language, to solve simple problems."
+0.9027,Analyse and debug concurrent programs.,"Describe, understand and evolve programs, via documentation, testing, and debugging."
+0.9092,"Understand the aspects of an operating system concerning scheduling, protection and memory management.","Describe, understand and evolve programs, via documentation, testing, and debugging."
+0.9198,Employ message passing locally and over networks to construct distributed systems.,Describe and apply alternative computational paradigms to simple problems.
+0.9350,Distinguish as well as connect conceptual concurrency with physical parallelism at all levels of a distributed system.,Describe and apply alternative computational paradigms to simple problems.
+0.9022,Identify core aspects of operating systems and networks irrespective of the specific system at hand.,"The course covers functional programming in depth, developing the core idea of functions operating on data structures."

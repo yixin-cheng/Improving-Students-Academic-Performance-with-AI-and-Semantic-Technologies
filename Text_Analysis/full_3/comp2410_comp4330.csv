@@ -1,0 +1,11 @@
+score,s1,s2
+0.9431,"Real-time and embedded systems are all around us. Controlling cars, trains, or aeroplanes, as well as mobile phones, cameras, or A/V equipment, embedded systems are a challenging and demanding part of computer science and engineering.","Networked Information Systems (NISs) are becoming an essential part of everyday experiences, in our kitchen appliances, cars, and public transport and for Internet banking and shopping."
+0.9354,This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).,"In this course, you will learn fundamental concepts of data communication and networking in addition to gaining a working knowledge of network scalability, mobility, security, and managing capabilities."
+0.9289,It also delivers the principles of fault tolerant systems and highly reliable systems.,"Apply network design principles, topologies, architectures, and their components."
+0.9272,"Techniques which are introduced include real-time calculus, real-time scheduling, elementary sensor data filtering and fusion methods, error recovery strategies, and graceful degradation methods.","Analyse the role of network standards, protocols, and layered models."
+0.8976,Formulate real-time constraints.,"Analyse the role of network standards, protocols, and layered models."
+0.9216,Employ standard real-time programming constructs.,Create a virtual machine and apply tools for packet analysis and file encryption in a lab environment.
+0.9121,Develop a concept to handle the requests level of reliability.,Apply logical and physical networks at levels from the local area to the Internet.
+0.9123,"Construct and implement an architecture for an asynchronous, distributed real-time system.",Create a virtual machine and apply tools for packet analysis and file encryption in a lab environment.
+0.9155,Understand and consider constraints from physical dynamical systems.,"Analyse the role of network standards, protocols, and layered models."
+0.9160,Participate significantly in the enhancement of the reliability (or analysis) of safety critical systems.,"Analyse the role of network standards, protocols, and layered models."

@@ -1,0 +1,16 @@
+score,s1,s2
+0.9133,This course is based on the foundations set by the previous course on computer organisation.,In doing so it also covers a selected set of network algorithms in depth.
+0.9170,It expands particularly into all forms of concurrent programming including aspects of massively parallel programming.,In doing so it also covers a selected set of network algorithms in depth.
+0.9209,"This course introduces all basic mechanisms to analyse, design, and manage concurrent, single computer-node (multicore) as well as distributed applications (e.g. as performance or dependability enhancements).",Communicate the process of formulating and solving computational social science problems to a team of professionals with computing and/or social sciences.
+0.8970,"Following on from the previous course, the fields of operating systems and networking will also be expanded on.",The course equips the students with in-depth knowledge and hands-on experience in working with network data to study social processes at both the individual and aggregate levels.
+0.8907,"On the operating system side aspects of security, scheduling algorithms and memory management are discussed.",Apply network analysis algorithms in practical contexts.
+0.9161,More specific networking aspects follow on from message passing as a core concurrency construct.,"Analyze results from network algorithms, and articulate their limitations."
+0.9399,These include the basics of routing and dependable protocols.,"Analyze results from network algorithms, and articulate their limitations."
+0.8888,"Model, design and program concurrent systems.","Analyze results from network algorithms, and articulate their limitations."
+0.9418,"Select appropriate modeling techniques, tools and mechanisms to solve a range of problems in concurrent and distributed systems.",Computational Methods for Network Science covers the essentials of using computational approaches to pose and answer social science research problems.
+0.8862,This includes the appropriate programming language and runtime environment for the task at hand.,Communicate the process of formulating and solving computational social science problems to a team of professionals with computing and/or social sciences.
+0.8892,Analyse and debug concurrent programs.,"Analyze results from network algorithms, and articulate their limitations."
+0.8869,"Understand the aspects of an operating system concerning scheduling, protection and memory management.",Communicate the process of formulating and solving computational social science problems to a team of professionals with computing and/or social sciences.
+0.9209,Employ message passing locally and over networks to construct distributed systems.,Apply network analysis algorithms in practical contexts.
+0.9211,Distinguish as well as connect conceptual concurrency with physical parallelism at all levels of a distributed system.,"Analyze results from network algorithms, and articulate their limitations."
+0.9064,Identify core aspects of operating systems and networks irrespective of the specific system at hand.,Communicate the process of formulating and solving computational social science problems to a team of professionals with computing and/or social sciences.

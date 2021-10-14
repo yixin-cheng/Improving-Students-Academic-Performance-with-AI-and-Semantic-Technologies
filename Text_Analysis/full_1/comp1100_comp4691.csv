@@ -1,0 +1,8 @@
+score,s1,s2
+0.9406,"This course provides foundations and plenty of exercises in practical optimisation problems, while covering all basic elements of optimisation including forms of constraint programming as well as variations on linear programming and convex optimisation.","The course covers functional programming in depth, developing the core idea of functions operating on data structures."
+0.9436,Be able to apply Linear Programming and Mixed-Integer Programming model to solve real-world problems.,"Apply fundamental programming concepts, using a functional programming language, to solve simple problems."
+0.9403,Be able to recognize and formulate convex optimization problems arising in practice.,Describe and apply alternative computational paradigms to simple problems.
+0.9406,Demonstrate an understanding of theoretical foundations of convex optimization and be able to use it to characterize optimal solutions to general problems.,Describe and apply alternative computational paradigms to simple problems.
+0.9169,Be able to define an appropriate local search neighbourhood for a given problem.,Describe and apply alternative computational paradigms to simple problems.
+0.9367,Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.,Describe and apply alternative computational paradigms to simple problems.
+0.9344,Demonstrate an understanding of the propagation of a global constraint in a Constraint programming system.,"Apply fundamental programming concepts, using a functional programming language, to solve simple problems."

@@ -1,0 +1,14 @@
+score,s1,s2
+0.9550,This course teaches introductory programming within a problem solving framework applicable to the sciences.,It introduces students to the field of computer science as a discipline for solving problems through computation and provides the foundation for more advanced courses on programming and software development.
+0.9398,"The course emphasises technical programming, the simulation of scientific systems and the processing of scientific data.",It introduces students to the field of computer science as a discipline for solving problems through computation and provides the foundation for more advanced courses on programming and software development.
+0.9181,There is an emphasis on designing and writing correct code.,"The course covers functional programming in depth, developing the core idea of functions operating on data structures."
+0.9434,Testing and debugging are seen as integral to the programming enterprise.,"Describe, understand and evolve programs, via documentation, testing, and debugging."
+0.9237,Both top-down and object oriented design are taught.,"The course covers functional programming in depth, developing the core idea of functions operating on data structures."
+0.9183,There will be an introduction to widely-used computer science algorithms and to machine architecture.,"The course covers functional programming in depth, developing the core idea of functions operating on data structures."
+0.9376,The course will be taught using one or more programming languages which are widely applicable to scientific work.,"Apply fundamental programming concepts, using a functional programming language, to solve simple problems."
+0.9386,"Design, write and debug small programs to solve practical problems of a scientific nature.","Describe, understand and evolve programs, via documentation, testing, and debugging."
+0.9206,Have a practical understanding of the processing of scientific data.,Describe and apply alternative computational paradigms to simple problems.
+0.9380,Be able to describe and design small computer programs using both procedural and object-oriented methodologies.,"Apply fundamental programming concepts, using a functional programming language, to solve simple problems."
+0.8906,Have an awareness of good program organisation.,Describe and apply alternative computational paradigms to simple problems.
+0.9274,Have an understanding of some widely-used algorithms.,The functional paradigm demonstrates elegant solutions to many programming problems.
+0.9370,Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.,"Students also gain exposure to structural induction and proof, introduction to asymptotic analysis of basic data structures, abstract data types, modules, laziness, and streams."

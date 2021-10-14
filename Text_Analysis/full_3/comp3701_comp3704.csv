@@ -1,0 +1,9 @@
+score,s1,s2
+0.9081,"This course covers a range of concepts, techniques and technologies in network security.",Demonstrate a thorough understanding of the fundamental principles underlying the defence of systems and networks.
+0.9029,"This includes an overview of relevant network protocols and cryptography; analyses of designs and implementations of security protocols, including basic tools and techniques; an understanding of network threats and attacks such as eavesdropping, spoofing, protocol failures, DoS attacks and man-in-the-middle attacks; network defence including threat analysis and identification, architecture control, intrusion detection and layered security.",Defensive Cyber Security operations introduces and exercises a complete range of anomaly / intrusion detection and identification mechanisms.
+0.9410,"The course features hands-on lectures and labs to analyse network vulnerabilities, and design and implement appropriate defensive techniques.",Defensive Cyber Security operations introduces and exercises a complete range of anomaly / intrusion detection and identification mechanisms.
+0.9223,Explain network security issues.,Define and identify defensive cyber security architectures and their purpose.
+0.9319,"Understand various threats and vulnerabilities of a network, and explain appropriate countermeasures.",Define and identify defensive cyber security architectures and their purpose.
+0.9334,Perform simple penetration testing of a network and network services,Operate defensive network architectures and systems in a practical context.
+0.9378,Perform a threat analysis / vulnerability assessment of protocol designs and implementations.,Define and identify defensive cyber security architectures and their purpose.
+0.9233,Design and implement appropriate defensive countermeasures against identified threats and vulnerabilities.,"Extrapolate current threats and identify potential, future threats."

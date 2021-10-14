@@ -1,0 +1,9 @@
+score,s1,s2
+0.9078,"This course covers a range of concepts, techniques and technologies in network security.","The course covers functional programming in depth, developing the core idea of functions operating on data structures."
+0.8923,"This includes an overview of relevant network protocols and cryptography; analyses of designs and implementations of security protocols, including basic tools and techniques; an understanding of network threats and attacks such as eavesdropping, spoofing, protocol failures, DoS attacks and man-in-the-middle attacks; network defence including threat analysis and identification, architecture control, intrusion detection and layered security.","Discuss, use, and apply the fundamentals of data structures, algorithms, and design; create, implement, and debug algorithms for solving simple problems, including recursively, using divide-and-conquer, and via decomposition."
+0.9214,"The course features hands-on lectures and labs to analyse network vulnerabilities, and design and implement appropriate defensive techniques.",Describe and apply alternative computational paradigms to simple problems.
+0.9055,Explain network security issues.,Understand basic types and the benefits of static typing.
+0.8990,"Understand various threats and vulnerabilities of a network, and explain appropriate countermeasures.",Describe and apply alternative computational paradigms to simple problems.
+0.9101,Perform simple penetration testing of a network and network services,Describe and apply alternative computational paradigms to simple problems.
+0.9036,Perform a threat analysis / vulnerability assessment of protocol designs and implementations.,"Describe, understand and evolve programs, via documentation, testing, and debugging."
+0.8810,Design and implement appropriate defensive countermeasures against identified threats and vulnerabilities.,Describe and apply alternative computational paradigms to simple problems.

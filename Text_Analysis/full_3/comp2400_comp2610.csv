@@ -1,0 +1,10 @@
+score,s1,s2
+0.9067,Information theory studies the fundamental limits of the representation and transmission of information.,Describe the basic concepts of the relational model and understand its mathematical foundation;
+0.9024,"This course provides an introduction to information theory, studying fundamental concepts such as probability, information, and entropy and examining their applications in the areas of data compression, coding, communications, pattern recognition and probabilistic inference.",This course is an introduction to relational databases and the general skills for designing and using them.
+0.9261,"Understand and apply fundamental concepts in information theory such as probability, entropy, information content and their inter-relationships.",Describe the basic concepts of the relational model and understand its mathematical foundation;
+0.8976,Understand the principles of data compression.,Describe the basic concepts of the relational model and understand its mathematical foundation;
+0.8600,Compute entropy and mutual information of random variables.,Apply database design methods on functional dependencies and normal forms to evaluate the quality of a relational database design.
+0.9060,Implement and analyse basic coding and compression algorithms.,Apply database design methods on functional dependencies and normal forms to evaluate the quality of a relational database design.
+0.9288,Understand the relationship of information theoretical principles and Bayesian inference in data modelling and pattern recognition.,Apply conceptual database modelling methods such as entity-relationship model to design a relational database.
+0.9174,"Understand some key theorems and inequalities that quantify essential limitations on compression, communication and inference.",Describe the basic concepts of the relational model and understand its mathematical foundation;
+0.9031,Know the basic concepts regarding communications over noisy channels.,Describe the basic concepts of the relational model and understand its mathematical foundation;

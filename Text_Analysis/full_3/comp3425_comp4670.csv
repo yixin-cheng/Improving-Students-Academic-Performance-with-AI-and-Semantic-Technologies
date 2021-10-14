@@ -1,0 +1,10 @@
+score,s1,s2
+0.9445,This course provides a broad but thorough introduction to the methods and practice of statistical machine learning.,This course provides a practical focus on the technology and research in the area of data mining.
+0.8871,"Topics covered will include Bayesian inference and maximum likelihood modeling; regression, classification, density estimation, clustering, principal and independent component analysis; parametric, semi-parametric, and non-parametric models; basis functions, neural networks, kernel methods, and graphical models; deterministic and stochastic optimisation; overfitting, regularisation, and validation.",Test and apply the principal algorithms and techniques used in data mining.
+0.8959,"Describe a number of models for supervised, unsupervised, and reinforcement machine learning.",Test and apply the principal algorithms and techniques used in data mining.
+0.9074,Assess the strength and weakness of each of these models.,Critically analyse and justify the steps involved in the data mining process.
+0.9304,"Interpret the mathematical equations from Linear Algebra, Statistics, and Probability Theory used in these machine learning models.",Test and apply the principal algorithms and techniques used in data mining.
+0.9067,Implement efficient machine learning algorithms on a computer.,Test and apply the principal algorithms and techniques used in data mining.
+0.9270,Design test procedures in order to evaluate a model.,Appraise and reflect upon the results of a data mining project using suitable measurements.
+0.9204,Combine several models in order to gain better results.,Justify suitable techniques to use for a given data mining problem.
+0.9324,Make choices for a model for new machine learning tasks based on reasoned argument.,Justify suitable techniques to use for a given data mining problem.

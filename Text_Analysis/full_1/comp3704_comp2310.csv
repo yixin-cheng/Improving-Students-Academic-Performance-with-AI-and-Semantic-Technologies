@@ -1,0 +1,16 @@
+score,s1,s2
+0.9023,This course is based on the foundations set by the previous course on computer organisation.,"The course features hands-on lectures and labs to analyse network vulnerabilities, and design and implement appropriate defensive techniques."
+0.8921,It expands particularly into all forms of concurrent programming including aspects of massively parallel programming.,"This course covers a range of concepts, techniques and technologies in network security."
+0.9270,"This course introduces all basic mechanisms to analyse, design, and manage concurrent, single computer-node (multicore) as well as distributed applications (e.g. as performance or dependability enhancements).","The course features hands-on lectures and labs to analyse network vulnerabilities, and design and implement appropriate defensive techniques."
+0.9008,"Following on from the previous course, the fields of operating systems and networking will also be expanded on.","This course covers a range of concepts, techniques and technologies in network security."
+0.9021,"On the operating system side aspects of security, scheduling algorithms and memory management are discussed.",Perform a threat analysis / vulnerability assessment of protocol designs and implementations.
+0.9090,More specific networking aspects follow on from message passing as a core concurrency construct.,Perform simple penetration testing of a network and network services
+0.9224,These include the basics of routing and dependable protocols.,Perform simple penetration testing of a network and network services
+0.8913,"Model, design and program concurrent systems.",Perform a threat analysis / vulnerability assessment of protocol designs and implementations.
+0.9261,"Select appropriate modeling techniques, tools and mechanisms to solve a range of problems in concurrent and distributed systems.","The course features hands-on lectures and labs to analyse network vulnerabilities, and design and implement appropriate defensive techniques."
+0.8734,This includes the appropriate programming language and runtime environment for the task at hand.,Perform a threat analysis / vulnerability assessment of protocol designs and implementations.
+0.8841,Analyse and debug concurrent programs.,Perform a threat analysis / vulnerability assessment of protocol designs and implementations.
+0.9041,"Understand the aspects of an operating system concerning scheduling, protection and memory management.",Perform a threat analysis / vulnerability assessment of protocol designs and implementations.
+0.9134,Employ message passing locally and over networks to construct distributed systems.,Perform simple penetration testing of a network and network services
+0.9221,Distinguish as well as connect conceptual concurrency with physical parallelism at all levels of a distributed system.,Perform simple penetration testing of a network and network services
+0.8981,Identify core aspects of operating systems and networks irrespective of the specific system at hand.,Perform simple penetration testing of a network and network services

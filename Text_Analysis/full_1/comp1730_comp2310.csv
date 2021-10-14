@@ -1,0 +1,16 @@
+score,s1,s2
+0.9268,This course is based on the foundations set by the previous course on computer organisation.,This course teaches introductory programming within a problem solving framework applicable to the sciences.
+0.9243,It expands particularly into all forms of concurrent programming including aspects of massively parallel programming.,Be able to describe and design small computer programs using both procedural and object-oriented methodologies.
+0.9284,"This course introduces all basic mechanisms to analyse, design, and manage concurrent, single computer-node (multicore) as well as distributed applications (e.g. as performance or dependability enhancements).",Be able to describe and design small computer programs using both procedural and object-oriented methodologies.
+0.9014,"Following on from the previous course, the fields of operating systems and networking will also be expanded on.",The course will be taught using one or more programming languages which are widely applicable to scientific work.
+0.9090,"On the operating system side aspects of security, scheduling algorithms and memory management are discussed.",Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.
+0.9204,More specific networking aspects follow on from message passing as a core concurrency construct.,Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.
+0.9353,These include the basics of routing and dependable protocols.,Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.
+0.9247,"Model, design and program concurrent systems.","Design, write and debug small programs to solve practical problems of a scientific nature."
+0.9370,"Select appropriate modeling techniques, tools and mechanisms to solve a range of problems in concurrent and distributed systems.",Be able to describe and design small computer programs using both procedural and object-oriented methodologies.
+0.9069,This includes the appropriate programming language and runtime environment for the task at hand.,The course will be taught using one or more programming languages which are widely applicable to scientific work.
+0.9281,Analyse and debug concurrent programs.,"Design, write and debug small programs to solve practical problems of a scientific nature."
+0.9131,"Understand the aspects of an operating system concerning scheduling, protection and memory management.",Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.
+0.9117,Employ message passing locally and over networks to construct distributed systems.,Be able to describe and design small computer programs using both procedural and object-oriented methodologies.
+0.9226,Distinguish as well as connect conceptual concurrency with physical parallelism at all levels of a distributed system.,Testing and debugging are seen as integral to the programming enterprise.
+0.9019,Identify core aspects of operating systems and networks irrespective of the specific system at hand.,Testing and debugging are seen as integral to the programming enterprise.

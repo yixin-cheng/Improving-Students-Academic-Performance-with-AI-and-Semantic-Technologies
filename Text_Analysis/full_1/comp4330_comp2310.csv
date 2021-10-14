@@ -1,0 +1,16 @@
+score,s1,s2
+0.9097,This course is based on the foundations set by the previous course on computer organisation.,This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).
+0.9258,It expands particularly into all forms of concurrent programming including aspects of massively parallel programming.,This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).
+0.9440,"This course introduces all basic mechanisms to analyse, design, and manage concurrent, single computer-node (multicore) as well as distributed applications (e.g. as performance or dependability enhancements).",This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).
+0.9018,"Following on from the previous course, the fields of operating systems and networking will also be expanded on.",This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).
+0.9076,"On the operating system side aspects of security, scheduling algorithms and memory management are discussed.",Employ standard real-time programming constructs.
+0.9310,More specific networking aspects follow on from message passing as a core concurrency construct.,Employ standard real-time programming constructs.
+0.9429,These include the basics of routing and dependable protocols.,It also delivers the principles of fault tolerant systems and highly reliable systems.
+0.9068,"Model, design and program concurrent systems.","Construct and implement an architecture for an asynchronous, distributed real-time system."
+0.9442,"Select appropriate modeling techniques, tools and mechanisms to solve a range of problems in concurrent and distributed systems.",This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).
+0.9036,This includes the appropriate programming language and runtime environment for the task at hand.,Employ standard real-time programming constructs.
+0.8860,Analyse and debug concurrent programs.,Employ standard real-time programming constructs.
+0.9138,"Understand the aspects of an operating system concerning scheduling, protection and memory management.",This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).
+0.9294,Employ message passing locally and over networks to construct distributed systems.,"Construct and implement an architecture for an asynchronous, distributed real-time system."
+0.9287,Distinguish as well as connect conceptual concurrency with physical parallelism at all levels of a distributed system.,This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).
+0.9280,Identify core aspects of operating systems and networks irrespective of the specific system at hand.,This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).

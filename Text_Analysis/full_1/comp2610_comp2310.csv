@@ -1,0 +1,16 @@
+score,s1,s2
+0.8938,This course is based on the foundations set by the previous course on computer organisation.,Know the basic concepts regarding communications over noisy channels.
+0.8969,It expands particularly into all forms of concurrent programming including aspects of massively parallel programming.,Understand the relationship of information theoretical principles and Bayesian inference in data modelling and pattern recognition.
+0.9062,"This course introduces all basic mechanisms to analyse, design, and manage concurrent, single computer-node (multicore) as well as distributed applications (e.g. as performance or dependability enhancements).","Understand and apply fundamental concepts in information theory such as probability, entropy, information content and their inter-relationships."
+0.8632,"Following on from the previous course, the fields of operating systems and networking will also be expanded on.","Understand and apply fundamental concepts in information theory such as probability, entropy, information content and their inter-relationships."
+0.8903,"On the operating system side aspects of security, scheduling algorithms and memory management are discussed.","Understand and apply fundamental concepts in information theory such as probability, entropy, information content and their inter-relationships."
+0.9113,More specific networking aspects follow on from message passing as a core concurrency construct.,Know the basic concepts regarding communications over noisy channels.
+0.9323,These include the basics of routing and dependable protocols.,Know the basic concepts regarding communications over noisy channels.
+0.8907,"Model, design and program concurrent systems.",Implement and analyse basic coding and compression algorithms.
+0.9298,"Select appropriate modeling techniques, tools and mechanisms to solve a range of problems in concurrent and distributed systems.",Understand the relationship of information theoretical principles and Bayesian inference in data modelling and pattern recognition.
+0.8621,This includes the appropriate programming language and runtime environment for the task at hand.,Implement and analyse basic coding and compression algorithms.
+0.9193,Analyse and debug concurrent programs.,Implement and analyse basic coding and compression algorithms.
+0.8892,"Understand the aspects of an operating system concerning scheduling, protection and memory management.","Understand and apply fundamental concepts in information theory such as probability, entropy, information content and their inter-relationships."
+0.9050,Employ message passing locally and over networks to construct distributed systems.,Understand the relationship of information theoretical principles and Bayesian inference in data modelling and pattern recognition.
+0.9175,Distinguish as well as connect conceptual concurrency with physical parallelism at all levels of a distributed system.,"Understand and apply fundamental concepts in information theory such as probability, entropy, information content and their inter-relationships."
+0.8913,Identify core aspects of operating systems and networks irrespective of the specific system at hand.,"Understand and apply fundamental concepts in information theory such as probability, entropy, information content and their inter-relationships."

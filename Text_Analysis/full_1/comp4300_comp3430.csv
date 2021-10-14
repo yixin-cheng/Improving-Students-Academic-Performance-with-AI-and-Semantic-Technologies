@@ -1,0 +1,8 @@
+score,s1,s2
+0.8726,"Real-world data are commonly messy, distributed, and heterogeneous.",Be able to descriptively compare the performance of different programs and methods on one machine
+0.9328,"This course introduces core concepts of data cleaning, standardisation, and data integration, that are aimed at converting and mapping raw data into other formats that allow more efficient and convenient use and analysis of data. The courses also discusses data quality, management, and storage issues as relevant to data analytics.","Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance."
+0.9054,"Critically reflect upon different data sources, types, formats and structures.",Recall the history of parallel systems and describe the developments in the field.
+0.9144,"Justify and apply data cleaning, preprocessing, and standardisation for data analytics.","Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance."
+0.9081,Apply data integration concepts and techniques to heterogeneous and distributed data.,Be able to descriptively compare the performance of different programs and methods on one machine
+0.9054,"Interpret, assess and discuss data quality measurements.","Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance."
+0.9294,"Understand and be able to use advanced data wrangling, data integration, and database techniques as relevant to data analytics.",Demonstrate advanced knowledge of the elements of parallel programming language and system implementation.

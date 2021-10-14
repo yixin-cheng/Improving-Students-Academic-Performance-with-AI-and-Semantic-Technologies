@@ -1,0 +1,10 @@
+score,s1,s2
+0.9148,This course provides a broad but thorough introduction to the methods and practice of statistical machine learning.,This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).
+0.9273,"Topics covered will include Bayesian inference and maximum likelihood modeling; regression, classification, density estimation, clustering, principal and independent component analysis; parametric, semi-parametric, and non-parametric models; basis functions, neural networks, kernel methods, and graphical models; deterministic and stochastic optimisation; overfitting, regularisation, and validation.","Techniques which are introduced include real-time calculus, real-time scheduling, elementary sensor data filtering and fusion methods, error recovery strategies, and graceful degradation methods."
+0.9011,"Describe a number of models for supervised, unsupervised, and reinforcement machine learning.","Techniques which are introduced include real-time calculus, real-time scheduling, elementary sensor data filtering and fusion methods, error recovery strategies, and graceful degradation methods."
+0.9098,Assess the strength and weakness of each of these models.,Develop a concept to handle the requests level of reliability.
+0.9305,"Interpret the mathematical equations from Linear Algebra, Statistics, and Probability Theory used in these machine learning models.",Understand and consider constraints from physical dynamical systems.
+0.9075,Implement efficient machine learning algorithms on a computer.,Employ standard real-time programming constructs.
+0.9253,Design test procedures in order to evaluate a model.,Develop a concept to handle the requests level of reliability.
+0.9002,Combine several models in order to gain better results.,Understand and consider constraints from physical dynamical systems.
+0.9214,Make choices for a model for new machine learning tasks based on reasoned argument.,Understand and consider constraints from physical dynamical systems.

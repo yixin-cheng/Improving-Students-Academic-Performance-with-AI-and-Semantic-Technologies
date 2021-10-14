@@ -1,0 +1,8 @@
+score,s1,s2
+0.8903,"Real-world data are commonly messy, distributed, and heterogeneous.","Massive amounts of data are being collected by public and private organisations, and research projects, while the Internet provides a very large source of information about almost every aspect of human life and society."
+0.9380,"This course introduces core concepts of data cleaning, standardisation, and data integration, that are aimed at converting and mapping raw data into other formats that allow more efficient and convenient use and analysis of data. The courses also discusses data quality, management, and storage issues as relevant to data analytics.",This course provides a practical focus on the technology and research in the area of data mining.
+0.9195,"Critically reflect upon different data sources, types, formats and structures.",Reflect upon ethical and social impacts of data mining.
+0.9290,"Justify and apply data cleaning, preprocessing, and standardisation for data analytics.",Anticipate and identify data issues related to data mining.
+0.9194,Apply data integration concepts and techniques to heterogeneous and distributed data.,Anticipate and identify data issues related to data mining.
+0.9428,"Interpret, assess and discuss data quality measurements.",Appraise and reflect upon the results of a data mining project using suitable measurements.
+0.9440,"Understand and be able to use advanced data wrangling, data integration, and database techniques as relevant to data analytics.",Anticipate and identify data issues related to data mining.

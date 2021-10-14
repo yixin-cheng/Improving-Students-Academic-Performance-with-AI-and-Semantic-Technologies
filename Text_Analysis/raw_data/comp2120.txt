@@ -1,0 +1,10 @@
+Real-world software development is a complex and dynamic activity involving people, technology and processes interacting within a complex environment of clients, users and other stakeholders while being observant of technological, physical, social, legal, and ethical constraints.
+This course will empower students with the ability and confidence necessary to exercise critical thinking and professional judgment to select and apply appropriate knowledge, practices and tools to the development of non-trivial software systems. 
+This will be achieved by introducing students to important design methodologies. 
+We will build on previous programming courses to deepen and broaden students' knowledge and understanding of the practices and tools used to build large software systems within complex environments. 
+We will use real-world examples such as distributed, high-integrity, web-based systems where rigorous software engineering can demonstrably enhance business value.
+Students will learn how practices and tools can be adapted to suit specific project needs and contexts. 
+Knowledge, practices and tools considered in this course will include process models, requirements engineering, design, modelling and user experience.
+Demonstrate an understanding of the following key software engineering activities within the context of a realistic software engineering process (Requirements, Design, Construction, Architectures, Testing, verification and validation)
+Demonstrate an ability to use professional judgement to select and apply appropriate knowledge, practices and tools to analyse, design and solve problems relating to the software engineering activities listed above.
+Demonstrate how practices and tools can be adapted to suit specific project needs and contexts.

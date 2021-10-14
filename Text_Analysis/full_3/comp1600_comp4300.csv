@@ -1,0 +1,8 @@
+score,s1,s2
+0.9011,A practically oriented introduction to programming paradigms for parallel computers.,"This course presents some formal notations that are commonly used for the description of computation and of computing systems, for the specification of software and for mathematically rigorous arguments about program properties."
+0.9172,"Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance.","This course presents some formal notations that are commonly used for the description of computation and of computing systems, for the specification of software and for mathematically rigorous arguments about program properties."
+0.9222,"Description, implementation and use of parallel programming languages, parallel features of operating systems, library routines and applications.","This course presents some formal notations that are commonly used for the description of computation and of computing systems, for the specification of software and for mathematically rigorous arguments about program properties."
+0.9027,Be proficient at programming multiple parallel machines in more than one special programming language or programming system.,Design a Turing Machine which will accomplish simple tasks.
+0.9228,Be able to descriptively compare the performance of different programs and methods on one machine,Design a Turing Machine which will accomplish simple tasks.
+0.9174,Demonstrate advanced knowledge of the elements of parallel programming language and system implementation.,Prove simple programs correct using Hoare Logic.
+0.8901,Recall the history of parallel systems and describe the developments in the field.,Design a Turing Machine which will accomplish simple tasks.

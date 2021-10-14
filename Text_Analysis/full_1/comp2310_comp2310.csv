@@ -1,0 +1,16 @@
+score,s1,s2
+1.0000,This course is based on the foundations set by the previous course on computer organisation.,This course is based on the foundations set by the previous course on computer organisation.
+1.0000,It expands particularly into all forms of concurrent programming including aspects of massively parallel programming.,It expands particularly into all forms of concurrent programming including aspects of massively parallel programming.
+1.0000,"This course introduces all basic mechanisms to analyse, design, and manage concurrent, single computer-node (multicore) as well as distributed applications (e.g. as performance or dependability enhancements).","This course introduces all basic mechanisms to analyse, design, and manage concurrent, single computer-node (multicore) as well as distributed applications (e.g. as performance or dependability enhancements)."
+1.0000,"Following on from the previous course, the fields of operating systems and networking will also be expanded on.","Following on from the previous course, the fields of operating systems and networking will also be expanded on."
+1.0000,"On the operating system side aspects of security, scheduling algorithms and memory management are discussed.","On the operating system side aspects of security, scheduling algorithms and memory management are discussed."
+1.0000,More specific networking aspects follow on from message passing as a core concurrency construct.,More specific networking aspects follow on from message passing as a core concurrency construct.
+1.0000,These include the basics of routing and dependable protocols.,These include the basics of routing and dependable protocols.
+1.0000,"Model, design and program concurrent systems.","Model, design and program concurrent systems."
+1.0000,"Select appropriate modeling techniques, tools and mechanisms to solve a range of problems in concurrent and distributed systems.","Select appropriate modeling techniques, tools and mechanisms to solve a range of problems in concurrent and distributed systems."
+1.0000,This includes the appropriate programming language and runtime environment for the task at hand.,This includes the appropriate programming language and runtime environment for the task at hand.
+1.0000,Analyse and debug concurrent programs.,Analyse and debug concurrent programs.
+1.0000,"Understand the aspects of an operating system concerning scheduling, protection and memory management.","Understand the aspects of an operating system concerning scheduling, protection and memory management."
+1.0000,Employ message passing locally and over networks to construct distributed systems.,Employ message passing locally and over networks to construct distributed systems.
+1.0000,Distinguish as well as connect conceptual concurrency with physical parallelism at all levels of a distributed system.,Distinguish as well as connect conceptual concurrency with physical parallelism at all levels of a distributed system.
+1.0000,Identify core aspects of operating systems and networks irrespective of the specific system at hand.,Identify core aspects of operating systems and networks irrespective of the specific system at hand.

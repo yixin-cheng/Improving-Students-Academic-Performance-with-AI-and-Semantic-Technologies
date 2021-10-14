@@ -1,0 +1,7 @@
+Real-world data are commonly messy, distributed, and heterogeneous. 
+This course introduces core concepts of data cleaning, standardisation, and data integration, that are aimed at converting and mapping raw data into other formats that allow more efficient and convenient use and analysis of data. The courses also discusses data quality, management, and storage issues as relevant to data analytics.
+Critically reflect upon different data sources, types, formats and structures.
+Justify and apply data cleaning, preprocessing, and standardisation for data analytics.
+Apply data integration concepts and techniques to heterogeneous and distributed data.
+Interpret, assess and discuss data quality measurements.
+Understand and be able to use advanced data wrangling, data integration, and database techniques as relevant to data analytics.

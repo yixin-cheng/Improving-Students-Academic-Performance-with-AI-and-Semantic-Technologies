@@ -1,0 +1,10 @@
+score,s1,s2
+0.9030,This course provides a broad but thorough introduction to the methods and practice of statistical machine learning.,Recall the history of parallel systems and describe the developments in the field.
+0.8766,"Topics covered will include Bayesian inference and maximum likelihood modeling; regression, classification, density estimation, clustering, principal and independent component analysis; parametric, semi-parametric, and non-parametric models; basis functions, neural networks, kernel methods, and graphical models; deterministic and stochastic optimisation; overfitting, regularisation, and validation.","Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance."
+0.8843,"Describe a number of models for supervised, unsupervised, and reinforcement machine learning.","Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance."
+0.8984,Assess the strength and weakness of each of these models.,Be able to descriptively compare the performance of different programs and methods on one machine
+0.9175,"Interpret the mathematical equations from Linear Algebra, Statistics, and Probability Theory used in these machine learning models.","Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance."
+0.9088,Implement efficient machine learning algorithms on a computer.,Be able to descriptively compare the performance of different programs and methods on one machine
+0.9192,Design test procedures in order to evaluate a model.,Demonstrate advanced knowledge of the elements of parallel programming language and system implementation.
+0.9147,Combine several models in order to gain better results.,Be able to descriptively compare the performance of different programs and methods on one machine
+0.9144,Make choices for a model for new machine learning tasks based on reasoned argument.,Demonstrate advanced knowledge of the elements of parallel programming language and system implementation.

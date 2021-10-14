@@ -1,0 +1,16 @@
+score,s1,s2
+0.9380,This course is based on the foundations set by the previous course on computer organisation.,This course provides a practical focus on the technology and research in the area of data mining.
+0.9055,It expands particularly into all forms of concurrent programming including aspects of massively parallel programming.,It focuses on the algorithms and techniques and less on the mathematical and statistical foundations.
+0.9163,"This course introduces all basic mechanisms to analyse, design, and manage concurrent, single computer-node (multicore) as well as distributed applications (e.g. as performance or dependability enhancements).",Test and apply the principal algorithms and techniques used in data mining.
+0.9239,"Following on from the previous course, the fields of operating systems and networking will also be expanded on.",This course provides a practical focus on the technology and research in the area of data mining.
+0.8879,"On the operating system side aspects of security, scheduling algorithms and memory management are discussed.",It focuses on the algorithms and techniques and less on the mathematical and statistical foundations.
+0.9034,More specific networking aspects follow on from message passing as a core concurrency construct.,This course provides a practical focus on the technology and research in the area of data mining.
+0.9244,These include the basics of routing and dependable protocols.,Test and apply the principal algorithms and techniques used in data mining.
+0.8887,"Model, design and program concurrent systems.",Test and apply the principal algorithms and techniques used in data mining.
+0.9386,"Select appropriate modeling techniques, tools and mechanisms to solve a range of problems in concurrent and distributed systems.",Test and apply the principal algorithms and techniques used in data mining.
+0.9024,This includes the appropriate programming language and runtime environment for the task at hand.,Justify suitable techniques to use for a given data mining problem.
+0.8873,Analyse and debug concurrent programs.,Test and apply the principal algorithms and techniques used in data mining.
+0.8891,"Understand the aspects of an operating system concerning scheduling, protection and memory management.",Test and apply the principal algorithms and techniques used in data mining.
+0.9058,Employ message passing locally and over networks to construct distributed systems.,Test and apply the principal algorithms and techniques used in data mining.
+0.9107,Distinguish as well as connect conceptual concurrency with physical parallelism at all levels of a distributed system.,Critically analyse and justify the steps involved in the data mining process.
+0.8956,Identify core aspects of operating systems and networks irrespective of the specific system at hand.,This course provides a practical focus on the technology and research in the area of data mining.

@@ -1,0 +1,11 @@
+score,s1,s2
+0.9224,"Real-time and embedded systems are all around us. Controlling cars, trains, or aeroplanes, as well as mobile phones, cameras, or A/V equipment, embedded systems are a challenging and demanding part of computer science and engineering.","Massive amounts of data are being collected by public and private organisations, and research projects, while the Internet provides a very large source of information about almost every aspect of human life and society."
+0.9421,This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).,This course provides a practical focus on the technology and research in the area of data mining.
+0.9226,It also delivers the principles of fault tolerant systems and highly reliable systems.,It focuses on the algorithms and techniques and less on the mathematical and statistical foundations.
+0.9321,"Techniques which are introduced include real-time calculus, real-time scheduling, elementary sensor data filtering and fusion methods, error recovery strategies, and graceful degradation methods.",Test and apply the principal algorithms and techniques used in data mining.
+0.8967,Formulate real-time constraints.,Justify suitable techniques to use for a given data mining problem.
+0.9149,Employ standard real-time programming constructs.,Test and apply the principal algorithms and techniques used in data mining.
+0.9215,Develop a concept to handle the requests level of reliability.,Justify suitable techniques to use for a given data mining problem.
+0.8717,"Construct and implement an architecture for an asynchronous, distributed real-time system.",Test and apply the principal algorithms and techniques used in data mining.
+0.9161,Understand and consider constraints from physical dynamical systems.,Critically analyse and justify the steps involved in the data mining process.
+0.9245,Participate significantly in the enhancement of the reliability (or analysis) of safety critical systems.,Appraise and reflect upon the results of a data mining project using suitable measurements.

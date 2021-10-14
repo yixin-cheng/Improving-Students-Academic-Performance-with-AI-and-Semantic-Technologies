@@ -1,0 +1,11 @@
+score,s1,s2
+0.9081,"Real-time and embedded systems are all around us. Controlling cars, trains, or aeroplanes, as well as mobile phones, cameras, or A/V equipment, embedded systems are a challenging and demanding part of computer science and engineering.","The course emphasises technical programming, the simulation of scientific systems and the processing of scientific data."
+0.9547,This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).,"The course emphasises technical programming, the simulation of scientific systems and the processing of scientific data."
+0.9275,It also delivers the principles of fault tolerant systems and highly reliable systems.,"The course emphasises technical programming, the simulation of scientific systems and the processing of scientific data."
+0.9286,"Techniques which are introduced include real-time calculus, real-time scheduling, elementary sensor data filtering and fusion methods, error recovery strategies, and graceful degradation methods.",Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.
+0.9065,Formulate real-time constraints.,Have an understanding of some widely-used algorithms.
+0.9333,Employ standard real-time programming constructs.,Be able to describe and design small computer programs using both procedural and object-oriented methodologies.
+0.9281,Develop a concept to handle the requests level of reliability.,Have an awareness of good program organisation.
+0.9152,"Construct and implement an architecture for an asynchronous, distributed real-time system.",Be able to describe and design small computer programs using both procedural and object-oriented methodologies.
+0.9157,Understand and consider constraints from physical dynamical systems.,Have a practical understanding of the processing of scientific data.
+0.9282,Participate significantly in the enhancement of the reliability (or analysis) of safety critical systems.,Have a practical understanding of the processing of scientific data.

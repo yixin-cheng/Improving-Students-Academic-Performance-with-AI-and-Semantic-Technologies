@@ -1,0 +1,8 @@
+score,s1,s2
+0.9366,A practically oriented introduction to programming paradigms for parallel computers.,The functional paradigm demonstrates elegant solutions to many programming problems.
+0.9326,"Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance.",Describe and apply alternative computational paradigms to simple problems.
+0.9222,"Description, implementation and use of parallel programming languages, parallel features of operating systems, library routines and applications.","Students learn the organization of programming languages using types, how programs are evaluated (reduction), functional composition, recursive functions, algebraic data types, pattern matching, parametric polymorphism, higher-order functions."
+0.9195,Be proficient at programming multiple parallel machines in more than one special programming language or programming system.,"Apply fundamental programming concepts, using a functional programming language, to solve simple problems."
+0.9286,Be able to descriptively compare the performance of different programs and methods on one machine,Describe and apply alternative computational paradigms to simple problems.
+0.9427,Demonstrate advanced knowledge of the elements of parallel programming language and system implementation.,"The course covers functional programming in depth, developing the core idea of functions operating on data structures."
+0.9337,Recall the history of parallel systems and describe the developments in the field.,Describe and apply alternative computational paradigms to simple problems.
