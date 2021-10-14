@@ -36,18 +36,12 @@ class Preprocessor:
             for i in precessing_list:
                 self.dfh.iloc[:, i] = LabelEncoder().fit_transform(self.dfh.iloc[:, i])
 
-            self.dfh['sit_vinculo_atual']=self.dfh['sit_vinculo_atual'].replace(['DESLIGADO'],0)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['JUBILADO'], 0)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULA EM ABANDONO'], 0)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['FORMADO'], 1)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULADO'], 1)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['HABILITADO A FORMATURA'], 1)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULA DESATIVADA'], 1)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULA TRANCADA'], 1)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['TRANSFERIDO PARA OUTRA IES'], 1)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['FALECIDO'], 1)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['EM ADMISSAO'], 1)
-            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULADO EM CONVENIO'], 1)
+            self.dfh['sit_vinculo_atual']=self.dfh['sit_vinculo_atual'].replace(['DESLIGADO','MATRICULA EM ABANDONO','JUBILADO'],0)
+
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['FORMADO','MATRICULADO','MATRICULADO','HABILITADO A FORMATURA',
+                                                                                   'MATRICULA DESATIVADA','MATRICULA TRANCADA','TRANSFERIDO PARA OUTRA IES',
+                                                                                   'EM ADMISSAO','MATRICULADO EM CONVENIO','FALECIDO'], 1)
+
 
 
             self.dfh = self.dfh.apply(pd.to_numeric)
