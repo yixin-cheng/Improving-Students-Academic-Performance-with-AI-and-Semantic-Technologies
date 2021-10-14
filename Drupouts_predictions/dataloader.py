@@ -5,6 +5,8 @@ import pandas as pd
 import torch
 import torch.nn as nn
 import torch.utils.data
+from preprocessor import Preprocessor
+from feature_selector import Selector
 from sklearn.model_selection import KFold
 import random
 import torch.optim as optim
@@ -12,13 +14,24 @@ from torch.nn import functional as F
 import torchvision
 from torchvision import datasets,transforms
 import torchvision.transforms as transforms
+initial_path='data/historicosFinal.csv'
+target_path= 'data/preprocessing.csv'
+ga_path= 'data/ga_data.csv'
 
+Preprocessor('data/historicosFinal.csv', target_path)
+Selector(target_path,ga_path) # apply GA for feature selection
 
+if torch.cuda.is_available():
+    device = torch.device("cuda:2")  # you can continue going on here, like cuda:1 cuda:2....etc.
+    print("Running on the GPU")
+else:
+    device = torch.device("cpu")
+    print("Running on the CPU")
 
 # Hyper Parameters
-input_size = 9
+input_size = len(pd.read_csv(ga_path).columns)-1
 hidden_size = 50
-num_classes = 7
+num_classes = 2
 num_epochs = 500
 batch_size = 10
 learning_rate = 0.01
@@ -108,7 +121,7 @@ class Net(nn.Module):
         return out
 
 
-net = Net(input_size, hidden_size, num_classes)
+net = Net(input_size, hidden_size, num_classes).to(device=device)
 
 # Loss and Optimizer
 criterion = nn.CrossEntropyLoss()

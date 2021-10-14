@@ -1,5 +1,5 @@
 import pandas as pd
-data=pd.read_csv('result_new_full_top1_norepeat.csv')
+data=pd.read_csv('result/result_new_full_top1_norepeat.csv')
 threshold_1=0.9
 threshold_2=0.95
 delete_list=[]
@@ -42,40 +42,28 @@ for i in range(len(list2)):
             if float(df.iloc[k,0])>=threshold_2 and (m in df.iloc([k,1]) and m in df.iloc([k,2])for m in bloom):
 
                 if bloom[0] in df.iloc[k,1]:
-                    # print('b1')
                     x+=1
                 if bloom[1] in df.iloc[k,1]:
-                    # print('b2')
                     x+=2
                 if bloom[2] in df.iloc[k,1]:
-                    # print('b3')
                     x+=3
                 if bloom[3] in df.iloc[k,1]:
-                    # print('b4')
                     x+=10
                 if bloom[4] in df.iloc[k,1]:
-                    # print('b5')
                     x+=11
                 if bloom[5] in df.iloc[k,1]:
-                    # print('b6')
                     x+=12
                 if bloom[0] in df.iloc[k,2]:
-                    # print('1')
                     y+=1
                 if bloom[1] in df.iloc[k,2]:
-                    # print('1')
                     y+=2
                 if bloom[2] in df.iloc[k,2]:
-                    # print('1')
                     y+=3
                 if bloom[3] in df.iloc[k,2]:
-                    # print('4')
                     y+=10
                 if bloom[4] in df.iloc[k,2]:
-                    # print('3')
                     y+=11
                 if bloom[5] in df.iloc[k,2]:
-                    # print('2')
                     y+=12
         print('x:'+str(x))
         print('y:'+str(y))

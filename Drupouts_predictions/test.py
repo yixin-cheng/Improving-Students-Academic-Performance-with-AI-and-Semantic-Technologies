@@ -1,3 +1,3 @@
 from preprocessor import Preprocessor
 
-Preprocessor('historicosFinal.csv','111.csv').impute_missing_value()
+Preprocessor('data/historicosFinal.csv', '111.csv').impute_missing_value()

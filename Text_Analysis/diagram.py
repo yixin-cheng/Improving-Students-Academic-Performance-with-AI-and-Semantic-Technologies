@@ -1,7 +1,7 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
-data=pd.read_csv("result_new_full.csv")
+data=pd.read_csv("result/result_new_full.csv")
 list=[]
 for i in range (len(data)):
     if data.iloc[i,0]==data.iloc[i,1]:

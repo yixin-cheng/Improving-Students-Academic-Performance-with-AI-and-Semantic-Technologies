@@ -9,8 +9,7 @@ class Preprocessor:
         def __init__(self,path,new_path):
             self.path=path
             self.new_path=new_path
-
-
+            self.impute_missing_value()
 
 
         def organise(self):
@@ -24,22 +23,42 @@ class Preprocessor:
                      'identificador': np.string_, 'cod_curriculo': np.int8, 'cod_enfase': np.string_}
             self.dfh = pd.read_csv(self.path, sep=';', dtype=self.dtype,
                               converters={'grau': lambda x: x.replace(',', '.')})
+            column_to_move = self.dfh.pop("sit_vinculo_atual")
+            self.dfh["sit_vinculo_atual"]=column_to_move
+
             self.dfh = self.dfh.applymap(lambda x: x.strip() if type(
                 x) is str else x)  # remove the beginning and end space of string, apply it in each element
+            # remove all null columns
             self.dfh=self.dfh.drop(['cod_enfase','count'],axis=1)
-            precessing_list=[0,1,2,3,4,5,7,10,12,13,14,18,20,22,28,29]
+            precessing_list=[0,1,2,3,4,7,13,14,18,20,21,27,28]
             for i in precessing_list:
                 self.dfh.iloc[:, i] = LabelEncoder().fit_transform(self.dfh.iloc[:, i])
-            for i in range(len(self.dfh['sit_vinculo_atual'])):
-                if self.dfh['sit_vinculo_atual'][i] == ('DESLIGADO' or 'JUBILADO' or 'MATRICULA EM ABANDONO'):
-                    self.dfh.loc[i, 'sit_vinculo_atual'] = 0
-                else:
-                    self.dfh.loc[i, 'sit_vinculo_atual'] = 1
+
+            # for i in range(len(self.dfh['sit_vinculo_atual'])):
+            #     if self.dfh['sit_vinculo_atual'][i] == ('DESLIGADO' or 'JUBILADO' or 'MATRICULA EM ABANDONO'):
+            #         self.dfh.loc[i, 'sit_vinculo_atual'] = 0
+            #     else:
+            #         self.dfh.loc[i, 'sit_vinculo_atual'] = 1
+            # replace 0 or 1 standing for the dropouts or not.
+            self.dfh['sit_vinculo_atual']=self.dfh['sit_vinculo_atual'].replace(['DESLIGADO'],0)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['JUBILADO'], 0)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULA EM ABANDONO'], 0)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['FORMADO'], 1)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULADO'], 1)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['HABILITADO A FORMATURA'], 1)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULA DESATIVADA'], 1)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULA TRANCADA'], 1)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['TRANSFERIDO PARA OUTRA IES'], 1)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['FALECIDO'], 1)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['EM ADMISSAO'], 1)
+            self.dfh['sit_vinculo_atual'] = self.dfh['sit_vinculo_atual'].replace(['MATRICULADO EM CONVENIO'], 1)
+
+
             self.dfh = self.dfh.apply(pd.to_numeric)
+
             for column in self.dfh.columns[:-1]:
                 # the last column is target
                 self.dfh[column] = self.dfh.loc[:, [column]].apply(lambda x: x / x.max())
-            self.dfh.to_csv('222.csv')
             return self.dfh
 
         def impute_missing_value(self):
@@ -49,8 +68,8 @@ class Preprocessor:
             then run the algorithm and do the iteration.
             """
             df = self.organise()
-            print(df)
-            y_full = self.organise()
+            df.to_csv('333.csv',index=False)
+            y_full = df
             X_missing_reg = df.copy()  # temp df
             # get columns containing nan
             nan_values = df.isna()
