@@ -42,8 +42,6 @@ class Preprocessor:
                                                                                    'MATRICULA DESATIVADA','MATRICULA TRANCADA','TRANSFERIDO PARA OUTRA IES',
                                                                                    'EM ADMISSAO','MATRICULADO EM CONVENIO','FALECIDO'], 1)
 
-
-
             self.dfh = self.dfh.apply(pd.to_numeric)
 
             for column in self.dfh.columns[:-1]:

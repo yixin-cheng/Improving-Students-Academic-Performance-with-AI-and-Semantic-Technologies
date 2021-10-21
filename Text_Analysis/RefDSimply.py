@@ -13,7 +13,7 @@ Created on Tue Apr 10 20:04:48 2018
 from SPARQLWrapper import SPARQLWrapper, JSON
 import configparser
 import math
-from taxonomicanalysis import TaxonomicAnalysis
+# from taxonomicanalysis import TaxonomicAnalysis
 
 class SemRefD:
 
@@ -61,7 +61,7 @@ class SemRefD:
                  FILTER(STRSTARTS(STR(?o1), 'http://dbpedia.org/resource/')) \
                  }";
 
-    df_dict = {} #Guardar el df de cada concepto para reducir la complejidad
+    df_dict = {} #Save the df of each concept to reduce complexity
 
     DBpediaInstances2016 = 4678230.0
 
@@ -73,16 +73,17 @@ class SemRefD:
         config = configparser.ConfigParser()
         config.read('config.cfg')
         self.virtuoso = config.get('Virtuoso', 'endpoint')
-        self.indiConcepta = [] #Guarda los recursos que apuntan al concepto a
-        self.indiConceptb = [] #Guarda los recursos que apuntan al concepto b
+        self.indiConcepta = [] #Save the resources that point to the concept a
+        self.indiConceptb = [] #Save the resources that point to the concept b
 
-        self.neighConcepta = [] #Guarda los recursos que apuntan al concepto a con la propiedad a traves de la cual se recupero
-        self.neighConceptb = [] #Guarda los recursos que apuntan al concepto b con la propiedad a traves de la cual se recupero
+        self.neighConcepta = [] #Save the resources that point to concept a with the property through which it was retrieved
+        self.neighConceptb = [] #Save the resources that point to concept a with the property through which it was retrieved
         self.capturarIndicadores()
 
 
     def capturarIndicadores(self):
         consultainidi = self.fun_indi % (self.limpiaRecursos(self.concepta))
+        print(consultainidi)
         resultoCC=self.consulta(consultainidi)
         for resul in resultoCC['results']['bindings']:
             recurso = resul['s1']['value']
@@ -90,24 +91,28 @@ class SemRefD:
 
 
         consultaneight = self.fun_neigh % (self.limpiaRecursos(self.concepta))
+        print(consultaneight)
         resultoCC=self.consulta(consultaneight)
         for resul in resultoCC['results']['bindings']:
             recurso = resul['o1']['value']
             self.neighConcepta.append(recurso)
 
         consultainidi = self.fun_indi % (self.limpiaRecursos(self.conceptb))
+        print(consultainidi)
         resultoCC=self.consulta(consultainidi)
         for resul in resultoCC['results']['bindings']:
             recurso = resul['s1']['value']
             self.indiConceptb.append(recurso)
 
         consultaneight = self.fun_neigh % (self.limpiaRecursos(self.conceptb))
+        print(consultaneight)
         resultoCC=self.consulta(consultaneight)
         for resul in resultoCC['results']['bindings']:
             recurso = resul['o1']['value']
+            print(recurso)
             self.neighConceptb.append(recurso)
 
-        #Despues de recolver los redirects pueden existir duplicados en INDIS
+        #After recovering the redirects there may be duplicates in INDIS
         self.indiConcepta = list(set(self.indiConcepta))
         self.indiConceptb = list(set(self.indiConceptb))
 
@@ -189,7 +194,7 @@ class SemRefD:
             resultoCC=self.consulta(consultadf)
             indiConceptC = []
             for resul in resultoCC['results']['bindings']:
-            	df = float(resul['count']['value']) + 1 # The number of Wikipedia articles where the concept C appears= Los recursos que tienen un enlace al concepto C mas el articulo del concepto mismo
+                df = float(resul['count']['value']) + 1 # The number of Wikipedia articles where the concept C appears= Los recursos que tienen un enlace al concepto C mas el articulo del concepto mismo
             self.df_dict[conceptC] = df
         else:
             df = self.df_dict[conceptC]
@@ -211,7 +216,7 @@ class SemRefD:
             return None
 
     def consulta(self, sqlQuery):
-        """Ejecuta query"""
+        """Run query"""
         #print(sqlQuery)
         sparql = SPARQLWrapper(self.virtuoso)
         sparql.setCredentials(user="dba", passwd = "dba")
@@ -222,9 +227,19 @@ class SemRefD:
         return results
 
     def limpiaRecursos(self, recursoDirty):
-        """Limpia de () las consultas SPARQL"""
+        """Clean from () queries SPARQL"""
         recursoDirty = recursoDirty.replace(" ","_")
         if "http://dbpedia.org/resource" not in recursoDirty:
             recursoDirty = "http://dbpedia.org/resource/" + recursoDirty
         recursoClean = "<" + recursoDirty + ">"
         return recursoClean
+concept = "Artificial Intelligence"
+conceptb = "Machine Learning"
+# try:
+print(concept + " " + conceptb)
+mmss = SemRefD(concept, conceptb, "equals")
+refdE = mmss.calculaRefD()
+
+print(conceptb + " - " + concept + " : " + str(refdE))
+# except Exception as e:
+#     print(e)
