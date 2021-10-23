@@ -1,0 +1,3969 @@
+0,1
+Computer:Focus (linguistics),0.0
+Computer:Time,-0.0021237585943468286
+Computer:Spacetime,-0.013824884792626729
+Computer:Space,-0.014247517188693659
+Computer:Space complexity,-0.14285714285714285
+Computer:Complexity,-0.13333333333333333
+Computer:Object (computer science),-0.05432900432900433
+Computer:Object-oriented programming,-0.004500978473581212
+Computer:Language,0.01378585629082647
+Computer:Data,-0.08458333333333333
+Computer:Data structure,-0.09987012987012986
+Computer:Software,-0.15845843422114608
+Computer:Engineering,-0.07096525096525097
+Computer:Paradigm,-0.013059163059163062
+Computer:Computer programming,-0.15501661129568106
+Computer:Formal methods,-0.07263736263736265
+Computer:Risk,-0.028070692194403536
+Computer:Understanding,-0.10810810810810811
+Computer:Experience,-0.02127659574468085
+Computer:Concept,-0.02488721804511278
+Computer:Programming language,-0.04375190645653278
+Computer:Definition,-0.00980392156862745
+Computer:Implementation,-0.19428571428571428
+Computer:Syntax,0.0068202764976958525
+Computer:Parsing,-0.0190625
+Computer:Semantics (computer science),-0.050109890109890115
+Computer:Evaluation,-0.04975124378109453
+Computer:Map,-0.010046082949308756
+Computer:Memory,-0.0071428571428571435
+Computer:Memory management,-0.12111380145278451
+Computer:Reachability,0.0
+Computer:Integrated development environment,-0.015954487989886218
+Computer:Analysis,-0.04081632653061224
+Computer:Defensive programming,-0.16735562310030394
+Computer:Design,-0.04530901722391084
+Computer:Software system,-0.21785714285714286
+Computer:System,-0.056623376623376624
+Computer:Algorithm,-0.08129032258064516
+Computer:Debugging,-0.13691813804173353
+Computer:Recursion,-0.011578947368421053
+Computer:Divide-and-conquer algorithm,-0.12558441558441558
+Computer:Decomposition,0.0
+Computer:Abstract data type,-0.1476804915514593
+Computer:Data type,-0.1446031746031746
+Computer:Brute-force search,-0.1831893687707641
+Computer:Backtracking,-0.09327526132404182
+Computer:Heuristic,-0.004285714285714286
+Computer:Event-driven programming,-0.12974025974025974
+Computer:Graphical user interface,-0.008571428571428591
+Computer:Tool,-0.05850589777195282
+Computer:Software engineering,-0.15988904299583911
+Computer:Programming paradigm,-0.11320802005012531
+Computer:Productivity,-0.004492753623188406
+Computer:Version control,-0.0710801393728223
+Computer:Construction,-0.050540915395284325
+Computer:Imperative programming,-0.07012422360248446
+Computer:Test-driven development,-0.06107142857142857
+Computer:Inheritance (object-oriented programming),-0.030357142857142857
+Computer:Polymorphism (computer science),-0.03252446183953033
+Computer:Parametric polymorphism,-0.03778711484593837
+Computer:Boxing,-0.0087409200968523
+Computer:Library (computing),-0.06598425196850394
+Computer:Hash table,-0.057605344295991776
+Computer:Theory,-0.04795414462081128
+Computer science:Focus (linguistics),-0.09090909090909091
+Computer science:Time,-0.012514634686580386
+Computer science:Spacetime,-0.00034085021678073764
+Computer science:Space,-0.04460019618390659
+Computer science:Space complexity,-0.20836855452240066
+Computer science:Complexity,-0.245414201183432
+Computer science:Object (computer science),-0.15187376725838264
+Computer science:Object-oriented programming,-0.10411769473940179
+Computer science:Language,-0.022057007070006
+Computer science:Data,-0.0969551282051282
+Computer science:Data structure,-0.40129101667563205
+Computer science:Software,-0.03580383111021963
+Computer science:Engineering,-0.0031548493086954593
+Computer science:Paradigm,-0.0036758113681190606
+Computer science:Computer programming,-0.11483418191826061
+Computer science:Formal methods,-0.2615384615384615
+Computer science:Risk,-0.00802171658634783
+Computer science:Understanding,-0.16679993603070528
+Computer science:Experience,-0.06855092534306936
+Computer science:Concept,-0.10515934807432782
+Computer science:Programming language,-0.16215334077365284
+Computer science:Definition,-0.07640097459101984
+Computer science:Implementation,-0.09335963182117027
+Computer science:Syntax,-0.013879420827311646
+Computer science:Parsing,-0.23982988165680474
+Computer science:Semantics (computer science),-0.43846153846153846
+Computer science:Evaluation,-0.06965174129353234
+Computer science:Map,-0.016396258828020614
+Computer science:Memory,0.003668639053254437
+Computer science:Memory management,-0.2453615484906228
+Computer science:Reachability,-0.38989856297548603
+Computer science:Integrated development environment,-0.029428706079488925
+Computer science:Analysis,-0.07061345248158435
+Computer science:Defensive programming,-0.10638297872340426
+Computer science:Design,-0.0821478030970666
+Computer science:Software system,-0.2440828402366864
+Computer science:System,-0.11538461538461539
+Computer science:Algorithm,-0.11521282687535789
+Computer science:Debugging,-0.10228708197593245
+Computer science:Recursion,-0.22896293989411398
+Computer science:Divide-and-conquer algorithm,-0.3488434642280796
+Computer science:Decomposition,-0.005847953216374269
+Computer science:Abstract data type,-0.44461411210790863
+Computer science:Data type,-0.35634451019066404
+Computer science:Brute-force search,-0.2410210540800881
+Computer science:Backtracking,-0.23206811949776301
+Computer science:Heuristic,-0.09928994082840237
+Computer science:Event-driven programming,-0.14249596557288866
+Computer science:Graphical user interface,0.003254437869822484
+Computer science:Tool,0.0029585798816568047
+Computer science:Software engineering,-0.1615442063537657
+Computer science:Programming paradigm,-0.26855600539811064
+Computer science:Productivity,-0.008575593859874796
+Computer science:Version control,-0.07944869389522298
+Computer science:Construction,-0.04854368932038835
+Computer science:Imperative programming,-0.17494211474144586
+Computer science:Test-driven development,-0.08487426035502958
+Computer science:Inheritance (object-oriented programming),-0.14408284023668638
+Computer science:Polymorphism (computer science),-0.1906865526465105
+Computer science:Parametric polymorphism,-0.2205012182387748
+Computer science:Boxing,0.0
+Computer science:Library (computing),-0.07869356567115501
+Computer science:Hash table,-0.3419607509258865
+Computer science:Theory,-0.09335963182117027
+Science:Focus (linguistics),-0.0288237403622019
+Science:Time,-0.03430054108787141
+Science:Spacetime,0.01359992364955144
+Science:Space,-0.10979179191848873
+Science:Space complexity,0.0
+Science:Complexity,-0.1205621301775148
+Science:Object (computer science),-0.015151515151515152
+Science:Object-oriented programming,-0.008794682661911322
+Science:Language,0.0052201583399014186
+Science:Data,-0.08499753451676528
+Science:Data structure,-0.021536156151540767
+Science:Software,0.0008023267475679476
+Science:Engineering,-0.02775031621185467
+Science:Paradigm,-0.13350965274042198
+Science:Computer programming,-0.0012728773909453685
+Science:Formal methods,-0.02337278106508876
+Science:Risk,-0.032361373757091444
+Science:Understanding,-0.1097873020949944
+Science:Experience,-0.14034369885433717
+Science:Concept,-0.06542613931277899
+Science:Programming language,-0.012476573522289373
+Science:Definition,-0.04698920988513749
+Science:Implementation,-0.13185404339250492
+Science:Syntax,0.0009680146156572939
+Science:Parsing,-0.0390625
+Science:Semantics (computer science),-0.03727810650887574
+Science:Evaluation,-0.06870970590832817
+Science:Map,-0.04421645352166444
+Science:Memory,0.0027514792899408294
+Science:Memory management,0.0
+Science:Reachability,0.0
+Science:Integrated development environment,0.0
+Science:Analysis,-0.0916857867407318
+Science:Defensive programming,0.0
+Science:Design,-0.08628142179697007
+Science:Software system,-0.05
+Science:System,-0.0988434642280796
+Science:Algorithm,-0.010603168543615194
+Science:Debugging,0.0029585798816568047
+Science:Recursion,-0.04967299906571161
+Science:Divide-and-conquer algorithm,-0.025974025974025976
+Science:Decomposition,-0.026281186200214537
+Science:Abstract data type,-0.021505376344086023
+Science:Data type,-0.03026674180520334
+Science:Brute-force search,-0.02177652401265997
+Science:Backtracking,0.0
+Science:Heuristic,-0.050769230769230775
+Science:Event-driven programming,-0.01818181818181818
+Science:Graphical user interface,-0.017041420118343194
+Science:Tool,-0.03699581998805711
+Science:Software engineering,-0.05085597748032401
+Science:Programming paradigm,-0.02631578947368421
+Science:Productivity,-0.0056170139782179915
+Science:Version control,-0.012195121951219513
+Science:Construction,-0.04748089848911357
+Science:Imperative programming,-0.03112940571134551
+Science:Test-driven development,-0.010416666666666666
+Science:Inheritance (object-oriented programming),0.0
+Science:Polymorphism (computer science),-0.0273972602739726
+Science:Parametric polymorphism,0.0
+Science:Boxing,-0.0038210811352923477
+Science:Library (computing),-0.007874015748031496
+Science:Hash table,-0.005714954663488145
+Science:Theory,-0.0937979399517861
+Software development:Focus (linguistics),0.0
+Software development:Time,0.0033142271606519586
+Software development:Spacetime,0.0
+Software development:Space,0.011976047904191617
+Software development:Space complexity,-0.03571428571428571
+Software development:Complexity,0.001297405189620758
+Software development:Object (computer science),-0.0039012883324260617
+Software development:Object-oriented programming,0.20697645804281845
+Software development:Language,0.07784431137724551
+Software development:Data,0.039046906187624755
+Software development:Data structure,0.050859320320398166
+Software development:Software,0.06065834432829258
+Software development:Engineering,0.07262134208241992
+Software development:Paradigm,0.025827133611564745
+Software development:Computer programming,0.04470129508425011
+Software development:Formal methods,-0.0589590050667895
+Software development:Risk,0.011976047904191617
+Software development:Understanding,0.017964071856287425
+Software development:Experience,0.011976047904191617
+Software development:Concept,0.012396260111356236
+Software development:Programming language,0.14292411618045048
+Software development:Definition,0.005988023952095809
+Software development:Implementation,-0.07518296739853625
+Software development:Syntax,0.029940119760479042
+Software development:Parsing,0.03826721556886228
+Software development:Semantics (computer science),-0.025610317825886693
+Software development:Evaluation,-0.009950248756218905
+Software development:Map,0.011976047904191617
+Software development:Memory,0.006976047904191617
+Software development:Memory management,0.0010149193139145432
+Software development:Reachability,0.0
+Software development:Integrated development environment,0.040379418154840765
+Software development:Analysis,0.005988023952095809
+Software development:Defensive programming,-0.036565167537265894
+Software development:Design,-0.006625047776786852
+Software development:Software system,-0.04610778443113773
+Software development:System,0.07583434529542314
+Software development:Algorithm,0.125284914042882
+Software development:Debugging,0.011168673888178701
+Software development:Recursion,-0.00907658367475575
+Software development:Divide-and-conquer algorithm,-0.006998989034917179
+Software development:Decomposition,0.0
+Software development:Abstract data type,-0.02981134505183182
+Software development:Data type,0.04205873966353009
+Software development:Brute-force search,-0.023255813953488372
+Software development:Backtracking,0.011976047904191617
+Software development:Heuristic,0.005988023952095809
+Software development:Event-driven programming,-0.00642351660315732
+Software development:Graphical user interface,0.08377245508982036
+Software development:Tool,0.0028017359775861124
+Software development:Software engineering,0.0670309865705482
+Software development:Programming paradigm,0.10820464334488916
+Software development:Productivity,-0.008504729671092597
+Software development:Version control,-0.08689937198773187
+Software development:Construction,-0.007441427823963721
+Software development:Imperative programming,0.023496485290288992
+Software development:Test-driven development,-0.14558383233532934
+Software development:Inheritance (object-oriented programming),0.01639221556886228
+Software development:Polymorphism (computer science),0.0384710031990813
+Software development:Parametric polymorphism,0.011976047904191617
+Software development:Boxing,0.0
+Software development:Library (computing),0.09425244000188598
+Software development:Hash table,0.027527678456037562
+Software development:Theory,0.0
+Functional programming:Focus (linguistics),-0.030303030303030304
+Functional programming:Time,0.003952569169960474
+Functional programming:Spacetime,0.0
+Functional programming:Space,-0.0013950244129272262
+Functional programming:Space complexity,-0.07142857142857142
+Functional programming:Complexity,-0.03333333333333333
+Functional programming:Object (computer science),-0.02832674571805005
+Functional programming:Object-oriented programming,0.05775894742541554
+Functional programming:Language,0.12645863946754257
+Functional programming:Data,-0.016510210803689064
+Functional programming:Data structure,-0.05759457933370979
+Functional programming:Software,-0.01866863178580202
+Functional programming:Engineering,0.021258412562760388
+Functional programming:Paradigm,0.005709266578831794
+Functional programming:Computer programming,0.02183105064803749
+Functional programming:Formal methods,-0.08397689267254485
+Functional programming:Risk,0.003952569169960474
+Functional programming:Understanding,-0.02702702702702703
+Functional programming:Experience,0.0
+Functional programming:Concept,-0.004819360654600929
+Functional programming:Programming language,0.17620581491848705
+Functional programming:Definition,-0.011702704797333954
+Functional programming:Implementation,-0.13974527887571367
+Functional programming:Syntax,0.03162055335968379
+Functional programming:Parsing,0.016366106719367585
+Functional programming:Semantics (computer science),-0.17148069321982368
+Functional programming:Evaluation,0.003952569169960474
+Functional programming:Map,0.0
+Functional programming:Memory,0.003952569169960474
+Functional programming:Memory management,-0.006833255175185918
+Functional programming:Reachability,-0.03176171654432524
+Functional programming:Integrated development environment,-0.05764454860260941
+Functional programming:Analysis,0.003952569169960474
+Functional programming:Defensive programming,-0.055924648894121604
+Functional programming:Design,0.011857707509881422
+Functional programming:Software system,-0.0591897233201581
+Functional programming:System,0.020674977196716328
+Functional programming:Algorithm,0.0501083768965957
+Functional programming:Debugging,-0.050361948749833456
+Functional programming:Recursion,-0.01302267526523819
+Functional programming:Divide-and-conquer algorithm,-0.08018068887634106
+Functional programming:Decomposition,0.0
+Functional programming:Abstract data type,-0.24004420077351352
+Functional programming:Data type,-0.012547838634795139
+Functional programming:Brute-force search,-0.06976744186046512
+Functional programming:Backtracking,-0.11404608117227417
+Functional programming:Heuristic,-0.002094861660079052
+Functional programming:Event-driven programming,-0.19051383399209484
+Functional programming:Graphical user interface,0.059051383399209484
+Functional programming:Tool,-0.005221742756645031
+Functional programming:Software engineering,-0.04209678038297708
+Functional programming:Programming paradigm,-0.152381942999792
+Functional programming:Productivity,0.0
+Functional programming:Version control,-0.008917381663935214
+Functional programming:Construction,0.0
+Functional programming:Imperative programming,-0.07509881422924902
+Functional programming:Test-driven development,-0.050642292490118576
+Functional programming:Inheritance (object-oriented programming),-0.1032114624505929
+Functional programming:Polymorphism (computer science),-0.12220477556987383
+Functional programming:Parametric polymorphism,-0.3954894210648686
+Functional programming:Boxing,0.003952569169960474
+Functional programming:Library (computing),0.016214870374404777
+Functional programming:Hash table,-0.07811300366821167
+Functional programming:Theory,0.001732298833748109
+Paradigm:Focus (linguistics),-0.030303030303030304
+Paradigm:Time,0.05258467023172905
+Paradigm:Spacetime,0.08630079597821534
+Paradigm:Space,0.0600118835412953
+Paradigm:Space complexity,0.0
+Paradigm:Complexity,-0.058333333333333334
+Paradigm:Object (computer science),-0.0202020202020202
+Paradigm:Object-oriented programming,-0.0071952400719523975
+Paradigm:Language,0.02251139626885154
+Paradigm:Data,-0.0006313131313131284
+Paradigm:Data structure,-0.002886002886002886
+Paradigm:Software,-0.005649717514124294
+Paradigm:Engineering,0.04586404586404587
+Paradigm:Paradigm,0.0
+Paradigm:Computer programming,-0.029069767441860465
+Paradigm:Formal methods,-0.023076923076923078
+Paradigm:Risk,-0.020618556701030927
+Paradigm:Understanding,-0.00013650013650013532
+Paradigm:Experience,-0.022351171287341497
+Paradigm:Concept,0.03561935140882509
+Paradigm:Programming language,-0.014810021927459649
+Paradigm:Definition,-0.0095068330362448
+Paradigm:Implementation,-0.022222222222222223
+Paradigm:Syntax,0.031187450542289254
+Paradigm:Parsing,-0.0078125
+Paradigm:Semantics (computer science),-0.005283605283605284
+Paradigm:Evaluation,-0.019749736167646616
+Paradigm:Map,0.010101010101010102
+Paradigm:Memory,0.010202020202020204
+Paradigm:Memory management,0.0
+Paradigm:Reachability,0.0
+Paradigm:Integrated development environment,-0.02654867256637168
+Paradigm:Analysis,0.014996907854050712
+Paradigm:Defensive programming,-0.0425531914893617
+Paradigm:Design,-0.004083387062110465
+Paradigm:Software system,-0.075
+Paradigm:System,0.029526029526029524
+Paradigm:Algorithm,0.014597588791137182
+Paradigm:Debugging,-0.011235955056179775
+Paradigm:Recursion,-0.010526315789473684
+Paradigm:Divide-and-conquer algorithm,-0.025974025974025976
+Paradigm:Decomposition,-0.005847953216374269
+Paradigm:Abstract data type,-0.03225806451612903
+Paradigm:Data type,-0.015873015873015872
+Paradigm:Brute-force search,-0.03641061780596664
+Paradigm:Backtracking,-0.024390243902439025
+Paradigm:Heuristic,0.020505050505050505
+Paradigm:Event-driven programming,-0.03636363636363636
+Paradigm:Graphical user interface,-0.02
+Paradigm:Tool,0.010101010101010102
+Paradigm:Software engineering,0.0007845444738648656
+Paradigm:Programming paradigm,-0.09649122807017543
+Paradigm:Productivity,0.0
+Paradigm:Version control,-0.012195121951219513
+Paradigm:Construction,0.0
+Paradigm:Imperative programming,-0.03337725076855511
+Paradigm:Test-driven development,-0.010416666666666666
+Paradigm:Inheritance (object-oriented programming),-0.0148989898989899
+Paradigm:Polymorphism (computer science),-0.0035976200359761987
+Paradigm:Parametric polymorphism,0.0
+Paradigm:Boxing,0.0
+Paradigm:Library (computing),-0.031496062992125984
+Paradigm:Hash table,0.0
+Paradigm:Theory,0.09034792368125702
+Imperative programming:Focus (linguistics),-0.015151515151515152
+Imperative programming:Time,0.021739130434782608
+Imperative programming:Spacetime,0.0
+Imperative programming:Space,0.0
+Imperative programming:Space complexity,-0.10714285714285714
+Imperative programming:Complexity,-0.041666666666666664
+Imperative programming:Object (computer science),0.05270092226613965
+Imperative programming:Object-oriented programming,0.2955628350208457
+Imperative programming:Language,0.19366410234246695
+Imperative programming:Data,0.012228260869565216
+Imperative programming:Data structure,0.046442687747035555
+Imperative programming:Software,0.0139400638663719
+Imperative programming:Engineering,0.01928212797778015
+Imperative programming:Paradigm,0.03337725076855511
+Imperative programming:Computer programming,0.06926188068756318
+Imperative programming:Formal methods,-0.06605351170568563
+Imperative programming:Risk,0.0
+Imperative programming:Understanding,-0.04054054054054054
+Imperative programming:Experience,0.0
+Imperative programming:Concept,0.012967200610221205
+Imperative programming:Programming language,0.30407705399969054
+Imperative programming:Definition,0.0
+Imperative programming:Implementation,-0.10072463768115941
+Imperative programming:Syntax,0.06521739130434782
+Imperative programming:Parsing,0.04789402173913043
+Imperative programming:Semantics (computer science),-0.08411371237458196
+Imperative programming:Evaluation,0.010869565217391304
+Imperative programming:Map,0.0
+Imperative programming:Memory,0.010869565217391304
+Imperative programming:Memory management,0.11827560795873251
+Imperative programming:Reachability,0.0
+Imperative programming:Integrated development environment,0.041169680646402446
+Imperative programming:Analysis,0.0
+Imperative programming:Defensive programming,-0.0425531914893617
+Imperative programming:Design,0.010869565217391304
+Imperative programming:Software system,-0.028260869565217395
+Imperative programming:System,-0.003116448768622682
+Imperative programming:Algorithm,0.12110799438990183
+Imperative programming:Debugging,-0.0025647288715192895
+Imperative programming:Recursion,0.001716247139588102
+Imperative programming:Divide-and-conquer algorithm,-0.054065499717673625
+Imperative programming:Decomposition,0.0
+Imperative programming:Abstract data type,-0.07480130902290791
+Imperative programming:Data type,0.04986197377501725
+Imperative programming:Brute-force search,-0.06976744186046512
+Imperative programming:Backtracking,-0.07582184517497349
+Imperative programming:Heuristic,0.02260869565217391
+Imperative programming:Event-driven programming,-0.051185770750988124
+Imperative programming:Graphical user interface,0.1915217391304348
+Imperative programming:Tool,0.0
+Imperative programming:Software engineering,-0.021000422119037562
+Imperative programming:Programming paradigm,-0.01353928299008389
+Imperative programming:Productivity,0.0
+Imperative programming:Version control,-0.0013255567338282086
+Imperative programming:Construction,0.0
+Imperative programming:Imperative programming,0.0
+Imperative programming:Test-driven development,-0.04121376811594203
+Imperative programming:Inheritance (object-oriented programming),0.03206521739130436
+Imperative programming:Polymorphism (computer science),-0.025908278737343637
+Imperative programming:Parametric polymorphism,-0.27024722932651324
+Imperative programming:Boxing,0.0
+Imperative programming:Library (computing),0.16338582677165353
+Imperative programming:Hash table,-0.04285267438223335
+Imperative programming:Theory,0.010869565217391304
+Divide-and-conquer algorithm:Focus (linguistics),0.0
+Divide-and-conquer algorithm:Time,0.0
+Divide-and-conquer algorithm:Spacetime,0.0
+Divide-and-conquer algorithm:Space,0.0
+Divide-and-conquer algorithm:Space complexity,0.003246753246753248
+Divide-and-conquer algorithm:Complexity,-0.0036796536796536786
+Divide-and-conquer algorithm:Object (computer science),-0.004329004329004328
+Divide-and-conquer algorithm:Object-oriented programming,0.021837751289806084
+Divide-and-conquer algorithm:Language,0.023985954403449434
+Divide-and-conquer algorithm:Data,0.012987012987012988
+Divide-and-conquer algorithm:Data structure,0.11688311688311688
+Divide-and-conquer algorithm:Software,0.009024873431653094
+Divide-and-conquer algorithm:Engineering,0.025974025974025976
+Divide-and-conquer algorithm:Paradigm,0.025974025974025976
+Divide-and-conquer algorithm:Computer programming,0.040320144971307766
+Divide-and-conquer algorithm:Formal methods,-0.007692307692307693
+Divide-and-conquer algorithm:Risk,0.0
+Divide-and-conquer algorithm:Understanding,-0.02702702702702703
+Divide-and-conquer algorithm:Experience,0.0
+Divide-and-conquer algorithm:Concept,0.0
+Divide-and-conquer algorithm:Programming language,0.15459629338632896
+Divide-and-conquer algorithm:Definition,0.003183091418385537
+Divide-and-conquer algorithm:Implementation,-0.009235209235209235
+Divide-and-conquer algorithm:Syntax,0.0
+Divide-and-conquer algorithm:Parsing,0.06493506493506493
+Divide-and-conquer algorithm:Semantics (computer science),0.025974025974025976
+Divide-and-conquer algorithm:Evaluation,0.0
+Divide-and-conquer algorithm:Map,0.0
+Divide-and-conquer algorithm:Memory,0.025974025974025976
+Divide-and-conquer algorithm:Memory management,0.02201188641866608
+Divide-and-conquer algorithm:Reachability,-0.03571428571428571
+Divide-and-conquer algorithm:Integrated development environment,0.012987012987012988
+Divide-and-conquer algorithm:Analysis,0.0
+Divide-and-conquer algorithm:Defensive programming,-0.02127659574468085
+Divide-and-conquer algorithm:Design,0.005894814405452704
+Divide-and-conquer algorithm:Software system,0.0
+Divide-and-conquer algorithm:System,0.0
+Divide-and-conquer algorithm:Algorithm,0.2957268537913699
+Divide-and-conquer algorithm:Debugging,0.001751057930833213
+Divide-and-conquer algorithm:Recursion,0.15269993164730009
+Divide-and-conquer algorithm:Divide-and-conquer algorithm,0.0
+Divide-and-conquer algorithm:Decomposition,0.0
+Divide-and-conquer algorithm:Abstract data type,0.006702974444909929
+Divide-and-conquer algorithm:Data type,-0.015873015873015872
+Divide-and-conquer algorithm:Brute-force search,0.008154636061612805
+Divide-and-conquer algorithm:Backtracking,0.05511561609122585
+Divide-and-conquer algorithm:Heuristic,0.008961038961038961
+Divide-and-conquer algorithm:Event-driven programming,-0.01818181818181818
+Divide-and-conquer algorithm:Graphical user interface,0.012987012987012988
+Divide-and-conquer algorithm:Tool,0.0
+Divide-and-conquer algorithm:Software engineering,0.006556550245870638
+Divide-and-conquer algorithm:Programming paradigm,-0.03508771929824561
+Divide-and-conquer algorithm:Productivity,0.0
+Divide-and-conquer algorithm:Version control,0.0
+Divide-and-conquer algorithm:Construction,0.0
+Divide-and-conquer algorithm:Imperative programming,0.054065499717673625
+Divide-and-conquer algorithm:Test-driven development,-0.010416666666666666
+Divide-and-conquer algorithm:Inheritance (object-oriented programming),0.0004870129870129872
+Divide-and-conquer algorithm:Polymorphism (computer science),-0.0136986301369863
+Divide-and-conquer algorithm:Parametric polymorphism,-0.0196078431372549
+Divide-and-conquer algorithm:Boxing,0.0
+Divide-and-conquer algorithm:Library (computing),0.031087023213007464
+Divide-and-conquer algorithm:Hash table,-0.0014014762216201064
+Divide-and-conquer algorithm:Theory,0.0
+Data:Focus (linguistics),0.0
+Data:Time,0.030971479500891262
+Data:Spacetime,0.010416666666666666
+Data:Space,-0.00027852049910873436
+Data:Space complexity,-0.03571428571428571
+Data:Complexity,0.004166666666666666
+Data:Object (computer science),-0.05965909090909091
+Data:Object-oriented programming,0.014269406392694063
+Data:Language,0.03570245195493704
+Data:Data,0.0
+Data:Data structure,-0.0413961038961039
+Data:Software,0.08545197740112995
+Data:Engineering,0.02201064701064701
+Data:Paradigm,0.0006313131313131284
+Data:Computer programming,0.015988372093023256
+Data:Formal methods,-0.023076923076923078
+Data:Risk,-0.005154639175257732
+Data:Understanding,0.014639639639639636
+Data:Experience,-0.021941489361702128
+Data:Concept,-0.015899122807017545
+Data:Programming language,0.051564353499406884
+Data:Definition,0.010416666666666666
+Data:Implementation,-0.023611111111111114
+Data:Syntax,0.041666666666666664
+Data:Parsing,0.03125
+Data:Semantics (computer science),-0.004967948717948719
+Data:Evaluation,-0.029850746268656716
+Data:Map,0.010416666666666666
+Data:Memory,0.010833333333333332
+Data:Memory management,-0.07432909604519773
+Data:Reachability,0.0
+Data:Integrated development environment,0.015117994100294983
+Data:Analysis,-0.015093537414965988
+Data:Defensive programming,-0.0851063829787234
+Data:Design,-0.014184397163120567
+Data:Software system,-0.08958333333333333
+Data:System,0.024111305361305364
+Data:Algorithm,0.12647849462365593
+Data:Debugging,-0.011235955056179775
+Data:Recursion,0.0
+Data:Divide-and-conquer algorithm,-0.012987012987012988
+Data:Decomposition,0.010416666666666666
+Data:Abstract data type,-0.021841397849462367
+Data:Data type,0.0069444444444444475
+Data:Brute-force search,-0.023255813953488372
+Data:Backtracking,-0.038363821138211386
+Data:Heuristic,0.020833333333333332
+Data:Event-driven programming,-0.03636363636363636
+Data:Graphical user interface,0.010833333333333332
+Data:Tool,-0.009174311926605505
+Data:Software engineering,0.04379045307443366
+Data:Programming paradigm,-0.003837719298245612
+Data:Productivity,0.03125
+Data:Version control,-0.015752032520325202
+Data:Construction,-0.0048543689320388345
+Data:Imperative programming,-0.012228260869565216
+Data:Test-driven development,-0.010416666666666666
+Data:Inheritance (object-oriented programming),-0.0625
+Data:Polymorphism (computer science),-0.0410958904109589
+Data:Parametric polymorphism,-0.0196078431372549
+Data:Boxing,0.0
+Data:Library (computing),0.01017060367454068
+Data:Hash table,-0.025554556354916068
+Data:Theory,-0.008101851851851851
+Structural induction:Focus (linguistics),-0.015151515151515152
+Structural induction:Time,0.0
+Structural induction:Spacetime,0.0
+Structural induction:Space,0.0
+Structural induction:Space complexity,0.0
+Structural induction:Complexity,0.0
+Structural induction:Object (computer science),0.03333333333333333
+Structural induction:Object-oriented programming,0.03333333333333333
+Structural induction:Language,-0.0019880715705765406
+Structural induction:Data,0.03333333333333333
+Structural induction:Data structure,0.23333333333333334
+Structural induction:Software,0.0
+Structural induction:Engineering,0.0
+Structural induction:Paradigm,0.0
+Structural induction:Computer programming,0.06666666666666667
+Structural induction:Formal methods,0.0
+Structural induction:Risk,0.0
+Structural induction:Understanding,0.0
+Structural induction:Experience,0.0
+Structural induction:Concept,0.0
+Structural induction:Programming language,0.1631079478054567
+Structural induction:Definition,0.013725490196078431
+Structural induction:Implementation,0.03333333333333333
+Structural induction:Syntax,0.1
+Structural induction:Parsing,0.06666666666666667
+Structural induction:Semantics (computer science),0.05128205128205128
+Structural induction:Evaluation,0.0
+Structural induction:Map,0.0
+Structural induction:Memory,0.0
+Structural induction:Memory management,-0.01694915254237288
+Structural induction:Reachability,0.03333333333333333
+Structural induction:Integrated development environment,0.0
+Structural induction:Analysis,0.03333333333333333
+Structural induction:Defensive programming,0.03333333333333333
+Structural induction:Design,0.0
+Structural induction:Software system,0.0
+Structural induction:System,0.0
+Structural induction:Algorithm,0.12043010752688171
+Structural induction:Debugging,0.0
+Structural induction:Recursion,0.17894736842105263
+Structural induction:Divide-and-conquer algorithm,0.007359307359307357
+Structural induction:Decomposition,0.0
+Structural induction:Abstract data type,0.02258064516129032
+Structural induction:Data type,0.05873015873015873
+Structural induction:Brute-force search,0.0
+Structural induction:Backtracking,-0.024390243902439025
+Structural induction:Heuristic,0.0
+Structural induction:Event-driven programming,0.0
+Structural induction:Graphical user interface,0.0
+Structural induction:Tool,0.0
+Structural induction:Software engineering,0.03333333333333333
+Structural induction:Programming paradigm,-0.008771929824561403
+Structural induction:Productivity,0.0
+Structural induction:Version control,0.0
+Structural induction:Construction,0.03333333333333333
+Structural induction:Imperative programming,0.06666666666666667
+Structural induction:Test-driven development,0.0
+Structural induction:Inheritance (object-oriented programming),0.0
+Structural induction:Polymorphism (computer science),0.019634703196347032
+Structural induction:Parametric polymorphism,-0.0392156862745098
+Structural induction:Boxing,0.0
+Structural induction:Library (computing),0.0
+Structural induction:Hash table,0.03333333333333333
+Structural induction:Theory,-0.0030864197530864196
+Data structure:Focus (linguistics),0.0
+Data structure:Time,0.0
+Data structure:Spacetime,0.0
+Data structure:Space,0.0
+Data structure:Space complexity,-0.03571428571428571
+Data structure:Complexity,-0.028679653679653676
+Data structure:Object (computer science),0.010822510822510845
+Data structure:Object-oriented programming,0.22736167941647395
+Data structure:Language,0.11489504531254034
+Data structure:Data,0.0413961038961039
+Data structure:Data structure,0.0
+Data structure:Software,0.024800058698363783
+Data structure:Engineering,0.00315900315900316
+Data structure:Paradigm,0.002886002886002886
+Data structure:Computer programming,0.01940501359106009
+Data structure:Formal methods,-0.04565434565434566
+Data structure:Risk,0.0
+Data structure:Understanding,-0.02702702702702703
+Data structure:Experience,0.0
+Data structure:Concept,-0.004556846662109818
+Data structure:Programming language,0.2367703470906318
+Data structure:Definition,0.0
+Data structure:Implementation,-0.05916305916305915
+Data structure:Syntax,0.03435274403016338
+Data structure:Parsing,0.00771103896103896
+Data structure:Semantics (computer science),0.05534465534465534
+Data structure:Evaluation,-0.004975124378109453
+Data structure:Map,-0.0064516129032258064
+Data structure:Memory,0.0029870129870129877
+Data structure:Memory management,0.09311027955095752
+Data structure:Reachability,-0.12987012987012986
+Data structure:Integrated development environment,0.03723709918400184
+Data structure:Analysis,-0.00510204081632653
+Data structure:Defensive programming,-0.0425531914893617
+Data structure:Design,-0.0011973841761075792
+Data structure:Software system,-0.11201298701298701
+Data structure:System,-0.027972027972027972
+Data structure:Algorithm,0.1724759111855886
+Data structure:Debugging,-0.062162556544579015
+Data structure:Recursion,0.06671223513328775
+Data structure:Divide-and-conquer algorithm,-0.11688311688311688
+Data structure:Decomposition,0.0
+Data structure:Abstract data type,-0.1385281385281385
+Data structure:Data type,0.06926406926406925
+Data structure:Brute-force search,-0.0670492298399275
+Data structure:Backtracking,-0.03420969274627811
+Data structure:Heuristic,0.015974025974025974
+Data structure:Event-driven programming,-0.15064935064935064
+Data structure:Graphical user interface,0.06792207792207793
+Data structure:Tool,0.0
+Data structure:Software engineering,-0.041861051569789434
+Data structure:Programming paradigm,-0.13260423786739575
+Data structure:Productivity,0.0
+Data structure:Version control,-0.059391827684510616
+Data structure:Construction,-0.0048543689320388345
+Data structure:Imperative programming,-0.046442687747035555
+Data structure:Test-driven development,-0.03909632034632035
+Data structure:Inheritance (object-oriented programming),0.004383116883116878
+Data structure:Polymorphism (computer science),0.032556484611279135
+Data structure:Parametric polymorphism,-0.013241660300483828
+Data structure:Boxing,0.0
+Data structure:Library (computing),0.09244299008078537
+Data structure:Hash table,-0.08735868448098666
+Data structure:Theory,-0.006172839506172839
+Algorithm:Focus (linguistics),0.0
+Algorithm:Time,0.007555632223563913
+Algorithm:Spacetime,0.00967741935483871
+Algorithm:Space,-0.01171295497671209
+Algorithm:Space complexity,-0.34101382488479265
+Algorithm:Complexity,-0.13198924731182796
+Algorithm:Object (computer science),-0.11700879765395894
+Algorithm:Object-oriented programming,-0.04348210340256296
+Algorithm:Language,0.019091900211633428
+Algorithm:Data,-0.12647849462365593
+Algorithm:Data structure,-0.1724759111855886
+Algorithm:Software,-0.08073628576635684
+Algorithm:Engineering,-0.011967979709915193
+Algorithm:Paradigm,-0.014597588791137182
+Algorithm:Computer programming,-0.07760690172543136
+Algorithm:Formal methods,-0.10694789081885857
+Algorithm:Risk,-0.022547389424675754
+Algorithm:Understanding,-0.13190932868352223
+Algorithm:Experience,-0.02546328071379547
+Algorithm:Concept,-0.04063384267119411
+Algorithm:Programming language,0.0038112731029732727
+Algorithm:Definition,-0.013156230234029096
+Algorithm:Implementation,-0.1870967741935484
+Algorithm:Syntax,0.040552995391705066
+Algorithm:Parsing,-0.10055443548387097
+Algorithm:Semantics (computer science),-0.17419354838709677
+Algorithm:Evaluation,-0.03482587064676617
+Algorithm:Map,-0.02258064516129032
+Algorithm:Memory,0.01435483870967742
+Algorithm:Memory management,-0.014543466375068342
+Algorithm:Reachability,-0.2824884792626728
+Algorithm:Integrated development environment,-0.05789323437053954
+Algorithm:Analysis,-0.06497695852534562
+Algorithm:Defensive programming,-0.14893617021276595
+Algorithm:Design,-0.046419583619309084
+Algorithm:Software system,-0.2217741935483871
+Algorithm:System,-0.0543424317617866
+Algorithm:Algorithm,0.0
+Algorithm:Debugging,-0.08977890540050742
+Algorithm:Recursion,-0.052122241086587445
+Algorithm:Divide-and-conquer algorithm,-0.2957268537913699
+Algorithm:Decomposition,-0.005847953216374269
+Algorithm:Abstract data type,-0.16989247311827957
+Algorithm:Data type,-0.1535074244751664
+Algorithm:Brute-force search,-0.33728432108027007
+Algorithm:Backtracking,-0.19551534225019668
+Algorithm:Heuristic,-0.07806451612903226
+Algorithm:Event-driven programming,-0.0844574780058651
+Algorithm:Graphical user interface,-0.02032258064516129
+Algorithm:Tool,-0.015122817401598107
+Algorithm:Software engineering,-0.13924209207641716
+Algorithm:Programming paradigm,-0.13208828522920202
+Algorithm:Productivity,0.00967741935483871
+Algorithm:Version control,-0.11872541306058222
+Algorithm:Construction,-0.009708737864077669
+Algorithm:Imperative programming,-0.12110799438990183
+Algorithm:Test-driven development,-0.04885752688172043
+Algorithm:Inheritance (object-oriented programming),-0.0717741935483871
+Algorithm:Polymorphism (computer science),-0.0894387980556783
+Algorithm:Parametric polymorphism,-0.0784313725490196
+Algorithm:Boxing,-0.00016402405686167295
+Algorithm:Library (computing),-0.049707899415798826
+Algorithm:Hash table,-0.10294731956370387
+Algorithm:Theory,-0.06144962166467542
+Concept:Focus (linguistics),-0.015151515151515152
+Concept:Time,0.026644150483159768
+Concept:Spacetime,0.003718974856496077
+Concept:Space,0.00834975138380711
+Concept:Space complexity,0.0
+Concept:Complexity,-0.02412280701754386
+Concept:Object (computer science),-0.051834130781499205
+Concept:Object-oriented programming,0.0004205719778899303
+Concept:Language,0.03754664992501133
+Concept:Data,0.015899122807017545
+Concept:Data structure,0.004556846662109818
+Concept:Software,0.0031222123104371093
+Concept:Engineering,0.010172852278115435
+Concept:Paradigm,-0.03561935140882509
+Concept:Computer programming,0.020501835985312116
+Concept:Formal methods,0.0010796221322537103
+Concept:Risk,0.016006511123168747
+Concept:Understanding,0.02560455192034139
+Concept:Experience,-0.021836506159014557
+Concept:Concept,0.0
+Concept:Programming language,0.027970281575825685
+Concept:Definition,-0.03353973168214655
+Concept:Implementation,0.0
+Concept:Syntax,0.03880669415474169
+Concept:Parsing,-0.0078125
+Concept:Semantics (computer science),-0.004453441295546562
+Concept:Evaluation,-0.037182508510081175
+Concept:Map,-0.01935483870967742
+Concept:Memory,0.08526315789473683
+Concept:Memory management,-0.01694915254237288
+Concept:Reachability,0.0
+Concept:Integrated development environment,0.0
+Concept:Analysis,0.0022377372001432146
+Concept:Defensive programming,-0.02127659574468085
+Concept:Design,-0.01959686450167973
+Concept:Software system,-0.05
+Concept:System,-0.04539320328794014
+Concept:Algorithm,0.04063384267119411
+Concept:Debugging,0.0
+Concept:Recursion,-0.012280701754385965
+Concept:Divide-and-conquer algorithm,0.0
+Concept:Decomposition,0.0
+Concept:Abstract data type,-0.010752688172043012
+Concept:Data type,-0.015037593984962405
+Concept:Brute-force search,0.0
+Concept:Backtracking,0.0
+Concept:Heuristic,0.008771929824561403
+Concept:Event-driven programming,-0.03636363636363636
+Concept:Graphical user interface,0.0
+Concept:Tool,-0.0004023821020441021
+Concept:Software engineering,0.01660705160960654
+Concept:Programming paradigm,-0.02631578947368421
+Concept:Productivity,-0.005720823798627003
+Concept:Version control,0.0
+Concept:Construction,-0.010645545903593935
+Concept:Imperative programming,-0.012967200610221205
+Concept:Test-driven development,0.0
+Concept:Inheritance (object-oriented programming),-0.0162280701754386
+Concept:Polymorphism (computer science),0.0
+Concept:Parametric polymorphism,0.0
+Concept:Boxing,-0.003389830508474576
+Concept:Library (computing),0.0
+Concept:Hash table,0.0
+Concept:Theory,-0.014782326185834957
+Computer programming:Focus (linguistics),-0.015151515151515152
+Computer programming:Time,0.005813953488372093
+Computer programming:Spacetime,-0.004608294930875576
+Computer programming:Space,0.0004663599054843927
+Computer programming:Space complexity,-0.02990033222591362
+Computer programming:Complexity,-0.041666666666666664
+Computer programming:Object (computer science),-0.0956659619450317
+Computer programming:Object-oriented programming,0.05559095253265371
+Computer programming:Language,0.05997734523093994
+Computer programming:Data,-0.015988372093023256
+Computer programming:Data structure,-0.01940501359106009
+Computer programming:Software,0.027197477335435566
+Computer programming:Engineering,0.021284498028684075
+Computer programming:Paradigm,0.029069767441860465
+Computer programming:Computer programming,0.0
+Computer programming:Formal methods,-0.04203935599284437
+Computer programming:Risk,0.006473267801486454
+Computer programming:Understanding,-0.04824010056568197
+Computer programming:Experience,0.0
+Computer programming:Concept,-0.020501835985312116
+Computer programming:Programming language,0.17872217164611437
+Computer programming:Definition,-0.013793889648882809
+Computer programming:Implementation,-0.11007751937984496
+Computer programming:Syntax,0.03488372093023256
+Computer programming:Parsing,-0.00236191860465116
+Computer programming:Semantics (computer science),-0.06493738819320216
+Computer programming:Evaluation,0.0
+Computer programming:Map,0.0
+Computer programming:Memory,0.011627906976744186
+Computer programming:Memory management,-0.031434765471028775
+Computer programming:Reachability,0.0
+Computer programming:Integrated development environment,0.05988886602181519
+Computer programming:Analysis,0.006525866160417656
+Computer programming:Defensive programming,-0.2224146462147452
+Computer programming:Design,-0.033481774698993896
+Computer programming:Software system,-0.13430232558139532
+Computer programming:System,0.01036753943730688
+Computer programming:Algorithm,0.07760690172543136
+Computer programming:Debugging,-0.018944342827279845
+Computer programming:Recursion,-0.049326805385556914
+Computer programming:Divide-and-conquer algorithm,-0.040320144971307766
+Computer programming:Decomposition,0.0
+Computer programming:Abstract data type,-0.08920980245061266
+Computer programming:Data type,-0.026024363233665554
+Computer programming:Brute-force search,-0.040697674418604654
+Computer programming:Backtracking,-0.04410096426545661
+Computer programming:Heuristic,-0.008372093023255815
+Computer programming:Event-driven programming,-0.2007399577167019
+Computer programming:Graphical user interface,0.06383720930232557
+Computer programming:Tool,-0.003360358438233412
+Computer programming:Software engineering,-0.02940844434409573
+Computer programming:Programming paradigm,-0.021011831905344752
+Computer programming:Productivity,0.01744186046511628
+Computer programming:Version control,-0.027226318774815662
+Computer programming:Construction,-0.0048543689320388345
+Computer programming:Imperative programming,-0.06926188068756318
+Computer programming:Test-driven development,-0.14219961240310078
+Computer programming:Inheritance (object-oriented programming),-0.07180232558139535
+Computer programming:Polymorphism (computer science),-0.024052245938196874
+Computer programming:Parametric polymorphism,-0.08641130870953032
+Computer programming:Boxing,0.0
+Computer programming:Library (computing),0.03172495879875481
+Computer programming:Hash table,-0.04149238748536055
+Computer programming:Theory,-0.0003588860178007462
+Organization:Focus (linguistics),0.0
+Organization:Time,-0.00267379679144385
+Organization:Spacetime,0.0
+Organization:Space,0.007518796992481203
+Organization:Space complexity,0.0
+Organization:Complexity,-0.035776942355889726
+Organization:Object (computer science),0.0
+Organization:Object-oriented programming,0.007518796992481203
+Organization:Language,0.02609904482877173
+Organization:Data,-0.010416666666666666
+Organization:Data structure,0.007518796992481203
+Organization:Software,-0.022598870056497175
+Organization:Engineering,0.0029003713214239522
+Organization:Paradigm,-0.015265436318067899
+Organization:Computer programming,-0.005813953488372093
+Organization:Formal methods,-0.007692307692307693
+Organization:Risk,-0.02619951941709945
+Organization:Understanding,-0.005994716521032312
+Organization:Experience,-0.0031195008798592227
+Organization:Concept,0.013784461152882205
+Organization:Programming language,0.007920156262542477
+Organization:Definition,0.0
+Organization:Implementation,-0.06666666666666667
+Organization:Syntax,-0.006306087800145526
+Organization:Parsing,0.0
+Organization:Semantics (computer science),0.0
+Organization:Evaluation,-0.0969588149478173
+Organization:Map,0.0
+Organization:Memory,-0.005
+Organization:Memory management,0.0
+Organization:Reachability,0.0
+Organization:Integrated development environment,0.0
+Organization:Analysis,-0.005370569280343716
+Organization:Defensive programming,-0.02127659574468085
+Organization:Design,-0.06382978723404255
+Organization:Software system,-0.025
+Organization:System,-0.05121194594878806
+Organization:Algorithm,0.016104778074217802
+Organization:Debugging,0.0
+Organization:Recursion,-0.021052631578947368
+Organization:Divide-and-conquer algorithm,0.0
+Organization:Decomposition,0.015037593984962405
+Organization:Abstract data type,0.007518796992481203
+Organization:Data type,0.007518796992481203
+Organization:Brute-force search,0.0
+Organization:Backtracking,-0.024390243902439025
+Organization:Heuristic,0.007518796992481203
+Organization:Event-driven programming,0.0
+Organization:Graphical user interface,-0.005
+Organization:Tool,0.007518796992481203
+Organization:Software engineering,0.007518796992481203
+Organization:Programming paradigm,0.0
+Organization:Productivity,-0.035414623515310016
+Organization:Version control,-0.024390243902439025
+Organization:Construction,-0.021607416599751808
+Organization:Imperative programming,0.0
+Organization:Test-driven development,0.0
+Organization:Inheritance (object-oriented programming),0.0
+Organization:Polymorphism (computer science),0.0
+Organization:Parametric polymorphism,0.0
+Organization:Boxing,-0.006779661016949152
+Organization:Library (computing),0.0
+Organization:Hash table,-0.006869692216151892
+Organization:Theory,0.0009514527058386707
+Programming language:Focus (linguistics),-0.08379165318667098
+Programming language:Time,-0.00267379679144385
+Programming language:Spacetime,0.0
+Programming language:Space,-0.0053475935828877
+Programming language:Space complexity,-0.10714285714285714
+Programming language:Complexity,-0.07977461447212336
+Programming language:Object (computer science),-0.15701498975520328
+Programming language:Object-oriented programming,-0.10785843123872668
+Programming language:Language,0.15292586120288942
+Programming language:Data,-0.051564353499406884
+Programming language:Data structure,-0.2367703470906318
+Programming language:Software,-0.13305989504795224
+Programming language:Engineering,0.0005945771070326247
+Programming language:Paradigm,0.014810021927459649
+Programming language:Computer programming,-0.17872217164611437
+Programming language:Formal methods,-0.12652614289624967
+Programming language:Risk,0.0035587188612099642
+Programming language:Understanding,-0.09103587573338463
+Programming language:Experience,-0.010638297872340425
+Programming language:Concept,-0.027970281575825685
+Programming language:Programming language,0.0
+Programming language:Definition,-0.02585304584467239
+Programming language:Implementation,-0.08975879794385132
+Programming language:Syntax,0.021532709054233566
+Programming language:Parsing,-0.18941837188612098
+Programming language:Semantics (computer science),-0.1690117711470025
+Programming language:Evaluation,-0.0014164055168994884
+Programming language:Map,-0.012903225806451613
+Programming language:Memory,0.0071174377224199285
+Programming language:Memory management,-0.08848543337957658
+Programming language:Reachability,-0.07142857142857142
+Programming language:Integrated development environment,-0.2242307813434951
+Programming language:Analysis,-0.018392766359212727
+Programming language:Defensive programming,-0.287196183841902
+Programming language:Design,-0.010600439161050957
+Programming language:Software system,-0.13220640569395017
+Programming language:System,0.0004977229176517418
+Programming language:Algorithm,-0.0038112731029732727
+Programming language:Debugging,-0.12639449798072694
+Programming language:Recursion,-0.09057876006742838
+Programming language:Divide-and-conquer algorithm,-0.15459629338632896
+Programming language:Decomposition,0.0
+Programming language:Abstract data type,-0.3013813951708568
+Programming language:Data type,-0.22081003219793252
+Programming language:Brute-force search,-0.06620872299925515
+Programming language:Backtracking,-0.19815988195469142
+Programming language:Heuristic,0.0006761565836298934
+Programming language:Event-driven programming,-0.20789388547395665
+Programming language:Graphical user interface,0.014644128113878996
+Programming language:Tool,-0.005615593065395541
+Programming language:Software engineering,-0.0938741664651211
+Programming language:Programming paradigm,-0.25023412624086905
+Programming language:Productivity,0.0
+Programming language:Version control,-0.18088707577467233
+Programming language:Construction,-0.009708737864077669
+Programming language:Imperative programming,-0.30407705399969054
+Programming language:Test-driven development,-0.18724051008303677
+Programming language:Inheritance (object-oriented programming),-0.2626779359430605
+Programming language:Polymorphism (computer science),-0.33978452688538974
+Programming language:Parametric polymorphism,-0.3832949549926732
+Programming language:Boxing,0.0
+Programming language:Library (computing),-0.14747667217754365
+Programming language:Hash table,-0.1335159630302875
+Programming language:Theory,-0.027305478669654232
+Language:Focus (linguistics),-0.12169407795650342
+Language:Time,-0.014123813270111947
+Language:Spacetime,0.003976143141153081
+Language:Space,-0.015426159619821179
+Language:Space complexity,0.0
+Language:Complexity,-0.03769052352551358
+Language:Object (computer science),-0.045454545454545456
+Language:Object-oriented programming,-0.11445028459380702
+Language:Language,0.0
+Language:Data,-0.03570245195493704
+Language:Data structure,-0.11489504531254034
+Language:Software,-0.052521032000089854
+Language:Engineering,-0.0018757235457036656
+Language:Paradigm,-0.02251139626885154
+Language:Computer programming,-0.05997734523093994
+Language:Formal methods,-0.10371616455115462
+Language:Risk,0.0019880715705765406
+Language:Understanding,-0.017086669174144323
+Language:Experience,-0.05388942938115984
+Language:Concept,-0.03754664992501133
+Language:Programming language,-0.15292586120288942
+Language:Definition,-0.03523954313335672
+Language:Implementation,-0.02023415065164568
+Language:Syntax,0.08622000714606369
+Language:Parsing,-0.06804485586481113
+Language:Semantics (computer science),-0.040189631442116534
+Language:Evaluation,-0.024875621890547265
+Language:Map,-0.03473353427820176
+Language:Memory,-0.018071570576540755
+Language:Memory management,-0.01694915254237288
+Language:Reachability,0.0
+Language:Integrated development environment,-0.061946902654867256
+Language:Analysis,-0.04306812188095915
+Language:Defensive programming,-0.02127659574468085
+Language:Design,-0.028368794326241134
+Language:Software system,0.0
+Language:System,-0.01110817611811648
+Language:Algorithm,-0.019091900211633428
+Language:Debugging,-0.04295574865414256
+Language:Recursion,-0.06035366746887098
+Language:Divide-and-conquer algorithm,-0.023985954403449434
+Language:Decomposition,0.0
+Language:Abstract data type,-0.08602150537634409
+Language:Data type,-0.06349206349206349
+Language:Brute-force search,-0.02126774238291183
+Language:Backtracking,-0.0975609756097561
+Language:Heuristic,-0.014035785288270378
+Language:Event-driven programming,-0.05454545454545454
+Language:Graphical user interface,-0.015
+Language:Tool,-0.03593120178014482
+Language:Software engineering,-0.02713814202165647
+Language:Programming paradigm,-0.19976631439433573
+Language:Productivity,-0.012504682052611866
+Language:Version control,-0.012195121951219513
+Language:Construction,-0.022283773089617633
+Language:Imperative programming,-0.19366410234246695
+Language:Test-driven development,-0.020833333333333332
+Language:Inheritance (object-oriented programming),-0.075
+Language:Polymorphism (computer science),-0.0547945205479452
+Language:Parametric polymorphism,-0.19607843137254902
+Language:Boxing,-0.013559322033898305
+Language:Library (computing),-0.05313003866564393
+Language:Hash table,-0.050359712230215826
+Language:Theory,-0.04650492109073951
+Abstract data type:Focus (linguistics),0.0
+Abstract data type:Time,-0.00267379679144385
+Abstract data type:Spacetime,0.0
+Abstract data type:Space,0.0
+Abstract data type:Space complexity,0.021505376344086023
+Abstract data type:Complexity,0.010752688172043012
+Abstract data type:Object (computer science),0.048875855327468215
+Abstract data type:Object-oriented programming,0.2682648401826484
+Abstract data type:Language,0.08602150537634409
+Abstract data type:Data,0.021841397849462367
+Abstract data type:Data structure,0.1385281385281385
+Abstract data type:Software,0.03681428831784217
+Abstract data type:Engineering,0.03225806451612903
+Abstract data type:Paradigm,0.03225806451612903
+Abstract data type:Computer programming,0.08920980245061266
+Abstract data type:Formal methods,0.022994210090984284
+Abstract data type:Risk,0.010752688172043012
+Abstract data type:Understanding,-0.013513513513513514
+Abstract data type:Experience,0.010752688172043012
+Abstract data type:Concept,0.010752688172043012
+Abstract data type:Programming language,0.3013813951708568
+Abstract data type:Definition,0.0
+Abstract data type:Implementation,0.009318996415770608
+Abstract data type:Syntax,0.021505376344086023
+Abstract data type:Parsing,0.01663306451612903
+Abstract data type:Semantics (computer science),0.06137303556658395
+Abstract data type:Evaluation,0.0
+Abstract data type:Map,0.0
+Abstract data type:Memory,0.010752688172043012
+Abstract data type:Memory management,0.06743211226535448
+Abstract data type:Reachability,0.010752688172043012
+Abstract data type:Integrated development environment,0.03416119516604815
+Abstract data type:Analysis,0.0
+Abstract data type:Defensive programming,-0.010523907572637839
+Abstract data type:Design,0.043010752688172046
+Abstract data type:Software system,0.021505376344086023
+Abstract data type:System,0.02526505752312204
+Abstract data type:Algorithm,0.16989247311827957
+Abstract data type:Debugging,0.03177479763199227
+Abstract data type:Recursion,0.12903225806451613
+Abstract data type:Divide-and-conquer algorithm,-0.006702974444909929
+Abstract data type:Decomposition,0.0
+Abstract data type:Abstract data type,0.0
+Abstract data type:Data type,0.07731694828469024
+Abstract data type:Brute-force search,0.010752688172043012
+Abstract data type:Backtracking,0.03225806451612903
+Abstract data type:Heuristic,0.021505376344086023
+Abstract data type:Event-driven programming,-0.014858260019550339
+Abstract data type:Graphical user interface,0.043010752688172046
+Abstract data type:Tool,0.0
+Abstract data type:Software engineering,-0.006576886940181645
+Abstract data type:Programming paradigm,0.0588568194680249
+Abstract data type:Productivity,0.0
+Abstract data type:Version control,0.00931025439286651
+Abstract data type:Construction,-0.0048543689320388345
+Abstract data type:Imperative programming,0.07480130902290791
+Abstract data type:Test-driven development,0.0114247311827957
+Abstract data type:Inheritance (object-oriented programming),0.048790322580645154
+Abstract data type:Polymorphism (computer science),0.02238915893356902
+Abstract data type:Parametric polymorphism,-0.024667931688804552
+Abstract data type:Boxing,0.0
+Abstract data type:Library (computing),0.07103547540428415
+Abstract data type:Hash table,0.10010056470952272
+Abstract data type:Theory,0.021505376344086023
+Data type:Focus (linguistics),-0.015151515151515152
+Data type:Time,0.021135727018079958
+Data type:Spacetime,0.007936507936507936
+Data type:Space,-0.0053475935828877
+Data type:Space complexity,-0.03571428571428571
+Data type:Complexity,-0.025
+Data type:Object (computer science),-0.11471861471861472
+Data type:Object-oriented programming,0.05566427484235703
+Data type:Language,0.06349206349206349
+Data type:Data,-0.0069444444444444475
+Data type:Data structure,-0.06926406926406925
+Data type:Software,-0.05757331181059995
+Data type:Engineering,0.03968253968253968
+Data type:Paradigm,0.015873015873015872
+Data type:Computer programming,0.026024363233665554
+Data type:Formal methods,0.009157509157509153
+Data type:Risk,0.0
+Data type:Understanding,-0.013513513513513514
+Data type:Experience,0.0
+Data type:Concept,0.015037593984962405
+Data type:Programming language,0.22081003219793252
+Data type:Definition,0.0
+Data type:Implementation,-0.04285714285714286
+Data type:Syntax,0.047619047619047616
+Data type:Parsing,0.0008680555555555525
+Data type:Semantics (computer science),-0.005006105006105016
+Data type:Evaluation,0.0029613835583984834
+Data type:Map,0.0
+Data type:Memory,0.007936507936507936
+Data type:Memory management,0.0025558245897228937
+Data type:Reachability,0.007936507936507936
+Data type:Integrated development environment,-0.01432785503581964
+Data type:Analysis,-0.007369614512471655
+Data type:Defensive programming,-0.0851063829787234
+Data type:Design,0.0
+Data type:Software system,-0.04206349206349207
+Data type:System,0.0009435009435009431
+Data type:Algorithm,0.1535074244751664
+Data type:Debugging,-0.008560727661851258
+Data type:Recursion,0.01086048454469507
+Data type:Divide-and-conquer algorithm,0.015873015873015872
+Data type:Decomposition,0.0
+Data type:Abstract data type,-0.07731694828469024
+Data type:Data type,0.0
+Data type:Brute-force search,0.007936507936507936
+Data type:Backtracking,-0.06523422377080913
+Data type:Heuristic,0.007936507936507936
+Data type:Event-driven programming,-0.02049062049062049
+Data type:Graphical user interface,0.008809523809523809
+Data type:Tool,0.0
+Data type:Software engineering,0.00878409616273694
+Data type:Programming paradigm,-0.08897243107769423
+Data type:Productivity,0.0
+Data type:Version control,-0.01645373596593109
+Data type:Construction,0.007936507936507936
+Data type:Imperative programming,-0.04986197377501725
+Data type:Test-driven development,-0.08581349206349206
+Data type:Inheritance (object-oriented programming),-0.1285714285714286
+Data type:Polymorphism (computer science),-0.19243313763861708
+Data type:Parametric polymorphism,-0.2661064425770308
+Data type:Boxing,0.0
+Data type:Library (computing),0.0009998750156230418
+Data type:Hash table,-0.05087358684480987
+Data type:Theory,-0.015432098765432098
+Modular programming:Focus (linguistics),0.0
+Modular programming:Time,0.0
+Modular programming:Spacetime,0.0
+Modular programming:Space,0.0
+Modular programming:Space complexity,0.0
+Modular programming:Complexity,-0.008333333333333333
+Modular programming:Object (computer science),-0.06304112554112554
+Modular programming:Object-oriented programming,0.3595890410958904
+Modular programming:Language,0.26785714285714285
+Modular programming:Data,0.016369047619047616
+Modular programming:Data structure,0.02597402597402597
+Modular programming:Software,0.023859967715899925
+Modular programming:Engineering,0.026785714285714284
+Modular programming:Paradigm,0.017857142857142856
+Modular programming:Computer programming,-0.009551495016611289
+Modular programming:Formal methods,-0.010439560439560444
+Modular programming:Risk,0.0
+Modular programming:Understanding,-0.004584942084942086
+Modular programming:Experience,0.0
+Modular programming:Concept,0.0
+Modular programming:Programming language,0.337919420437214
+Modular programming:Definition,0.0
+Modular programming:Implementation,-0.030952380952380953
+Modular programming:Syntax,0.03571428571428571
+Modular programming:Parsing,0.055803571428571425
+Modular programming:Semantics (computer science),-0.0015109890109890126
+Modular programming:Evaluation,0.0
+Modular programming:Map,0.008928571428571428
+Modular programming:Memory,0.0
+Modular programming:Memory management,0.07324455205811137
+Modular programming:Reachability,0.008928571428571428
+Modular programming:Integrated development environment,0.1435682680151707
+Modular programming:Analysis,0.0
+Modular programming:Defensive programming,-0.09745440729483283
+Modular programming:Design,0.003672745694022289
+Modular programming:Software system,-0.0642857142857143
+Modular programming:System,0.046578421578421576
+Modular programming:Algorithm,0.09423963133640552
+Modular programming:Debugging,-0.0273876404494382
+Modular programming:Recursion,0.041447368421052636
+Modular programming:Divide-and-conquer algorithm,-0.012987012987012988
+Modular programming:Decomposition,0.0
+Modular programming:Abstract data type,-0.08803763440860216
+Modular programming:Data type,0.11706349206349206
+Modular programming:Brute-force search,0.0
+Modular programming:Backtracking,-0.015461672473867597
+Modular programming:Heuristic,0.008928571428571428
+Modular programming:Event-driven programming,-0.09188311688311687
+Modular programming:Graphical user interface,0.1625
+Modular programming:Tool,0.0
+Modular programming:Software engineering,-0.00858183079056865
+Modular programming:Programming paradigm,0.1542919799498747
+Modular programming:Productivity,0.0
+Modular programming:Version control,-0.030923344947735194
+Modular programming:Construction,0.0
+Modular programming:Imperative programming,0.19021739130434784
+Modular programming:Test-driven development,-0.15773809523809523
+Modular programming:Inheritance (object-oriented programming),0.0
+Modular programming:Polymorphism (computer science),0.019569471624266144
+Modular programming:Parametric polymorphism,-0.11221988795518206
+Modular programming:Boxing,0.0
+Modular programming:Library (computing),0.16183914510686162
+Modular programming:Hash table,0.001477389516957861
+Modular programming:Theory,0.0
+Solution:Focus (linguistics),0.0
+Solution:Time,0.010638297872340425
+Solution:Spacetime,0.02127659574468085
+Solution:Space,0.010638297872340425
+Solution:Space complexity,0.0
+Solution:Complexity,-0.008333333333333333
+Solution:Object (computer science),-0.015151515151515152
+Solution:Object-oriented programming,-0.003424657534246575
+Solution:Language,0.0
+Solution:Data,-0.010416666666666666
+Solution:Data structure,0.0
+Solution:Software,-0.005649717514124294
+Solution:Engineering,0.006534581002666108
+Solution:Paradigm,0.0
+Solution:Computer programming,0.0
+Solution:Formal methods,0.0
+Solution:Risk,0.0
+Solution:Understanding,0.0
+Solution:Experience,-0.010638297872340425
+Solution:Concept,0.010638297872340425
+Solution:Programming language,0.0
+Solution:Definition,0.0
+Solution:Implementation,0.0
+Solution:Syntax,0.0
+Solution:Parsing,0.0
+Solution:Semantics (computer science),0.0
+Solution:Evaluation,-0.004975124378109453
+Solution:Map,0.0
+Solution:Memory,0.0
+Solution:Memory management,0.0
+Solution:Reachability,0.0
+Solution:Integrated development environment,0.0
+Solution:Analysis,-0.01020408163265306
+Solution:Defensive programming,0.0
+Solution:Design,0.0
+Solution:Software system,0.0
+Solution:System,0.02127659574468085
+Solution:Algorithm,-0.0032258064516129032
+Solution:Debugging,0.0
+Solution:Recursion,0.0
+Solution:Divide-and-conquer algorithm,0.0
+Solution:Decomposition,-0.003172825681224338
+Solution:Abstract data type,0.0
+Solution:Data type,0.0
+Solution:Brute-force search,0.0
+Solution:Backtracking,0.0
+Solution:Heuristic,0.0
+Solution:Event-driven programming,0.0
+Solution:Graphical user interface,0.0
+Solution:Tool,0.010638297872340425
+Solution:Software engineering,0.0
+Solution:Programming paradigm,0.0
+Solution:Productivity,0.0
+Solution:Version control,0.0
+Solution:Construction,-0.009708737864077669
+Solution:Imperative programming,0.0
+Solution:Test-driven development,0.0
+Solution:Inheritance (object-oriented programming),0.0
+Solution:Polymorphism (computer science),0.0
+Solution:Parametric polymorphism,0.0
+Solution:Boxing,0.0
+Solution:Library (computing),0.0
+Solution:Hash table,0.0
+Solution:Theory,-0.007880220646178092
+Programming paradigm:Focus (linguistics),0.0
+Programming paradigm:Time,0.008771929824561403
+Programming paradigm:Spacetime,0.0
+Programming paradigm:Space,0.008771929824561403
+Programming paradigm:Space complexity,-0.02694235588972431
+Programming paradigm:Complexity,-0.03333333333333333
+Programming paradigm:Object (computer science),0.060606060606060594
+Programming paradigm:Object-oriented programming,0.2581711127132901
+Programming paradigm:Language,0.19976631439433573
+Programming paradigm:Data,0.003837719298245612
+Programming paradigm:Data structure,0.13260423786739575
+Programming paradigm:Software,-0.006987808504311632
+Programming paradigm:Engineering,0.023858787016681753
+Programming paradigm:Paradigm,0.09649122807017543
+Programming paradigm:Computer programming,0.021011831905344752
+Programming paradigm:Formal methods,-0.019838056680161947
+Programming paradigm:Risk,0.017543859649122806
+Programming paradigm:Understanding,0.0
+Programming paradigm:Experience,0.0
+Programming paradigm:Concept,0.02631578947368421
+Programming paradigm:Programming language,0.25023412624086905
+Programming paradigm:Definition,0.017543859649122806
+Programming paradigm:Implementation,-0.07134502923976609
+Programming paradigm:Syntax,0.02631578947368421
+Programming paradigm:Parsing,0.06332236842105263
+Programming paradigm:Semantics (computer science),-0.008906882591093124
+Programming paradigm:Evaluation,0.0
+Programming paradigm:Map,0.0
+Programming paradigm:Memory,0.03508771929824561
+Programming paradigm:Memory management,0.14035087719298245
+Programming paradigm:Reachability,0.0
+Programming paradigm:Integrated development environment,-0.0010867877658748692
+Programming paradigm:Analysis,0.0
+Programming paradigm:Defensive programming,-0.0425531914893617
+Programming paradigm:Design,0.008771929824561403
+Programming paradigm:Software system,-0.0412280701754386
+Programming paradigm:System,0.03508771929824561
+Programming paradigm:Algorithm,0.13208828522920202
+Programming paradigm:Debugging,0.0027597082594125744
+Programming paradigm:Recursion,0.033333333333333326
+Programming paradigm:Divide-and-conquer algorithm,0.03508771929824561
+Programming paradigm:Decomposition,0.0
+Programming paradigm:Abstract data type,-0.0588568194680249
+Programming paradigm:Data type,0.08897243107769423
+Programming paradigm:Brute-force search,0.017543859649122806
+Programming paradigm:Backtracking,-0.03808301240907146
+Programming paradigm:Heuristic,0.02631578947368421
+Programming paradigm:Event-driven programming,-0.03955342902711323
+Programming paradigm:Graphical user interface,0.12657894736842104
+Programming paradigm:Tool,-0.0004023821020441021
+Programming paradigm:Software engineering,-0.006557656276613866
+Programming paradigm:Programming paradigm,0.0
+Programming paradigm:Productivity,0.017543859649122806
+Programming paradigm:Version control,-0.031236628155755244
+Programming paradigm:Construction,0.0
+Programming paradigm:Imperative programming,0.01353928299008389
+Programming paradigm:Test-driven development,-0.06414473684210527
+Programming paradigm:Inheritance (object-oriented programming),-0.01842105263157895
+Programming paradigm:Polymorphism (computer science),0.026916606584955538
+Programming paradigm:Parametric polymorphism,-0.2786377708978328
+Programming paradigm:Boxing,0.0
+Programming paradigm:Library (computing),0.14145600221025
+Programming paradigm:Hash table,-0.04089360090874669
+Programming paradigm:Theory,0.008771929824561403
+Subroutine:Focus (linguistics),-0.015151515151515152
+Subroutine:Time,0.0
+Subroutine:Spacetime,0.0
+Subroutine:Space,0.0
+Subroutine:Space complexity,0.0
+Subroutine:Complexity,-0.016666666666666666
+Subroutine:Object (computer science),-0.18838062150164062
+Subroutine:Object-oriented programming,0.06546112904633103
+Subroutine:Language,0.0808144762001241
+Subroutine:Data,0.006966560509554139
+Subroutine:Data structure,-0.11299528496980726
+Subroutine:Software,-0.06552952607146713
+Subroutine:Engineering,0.005367846132177343
+Subroutine:Paradigm,0.02174612365695168
+Subroutine:Computer programming,0.010850244408235843
+Subroutine:Formal methods,-0.02067613914747673
+Subroutine:Risk,0.0
+Subroutine:Understanding,-0.02702702702702703
+Subroutine:Experience,0.0
+Subroutine:Concept,-0.008771929824561403
+Subroutine:Programming language,0.1482195072194392
+Subroutine:Definition,0.006369426751592357
+Subroutine:Implementation,-0.12059447983014862
+Subroutine:Syntax,0.03184713375796178
+Subroutine:Parsing,-0.034982085987261144
+Subroutine:Semantics (computer science),-0.01322880940715336
+Subroutine:Evaluation,0.0
+Subroutine:Map,0.0
+Subroutine:Memory,0.006369426751592357
+Subroutine:Memory management,-0.05268271618266221
+Subroutine:Reachability,0.0
+Subroutine:Integrated development environment,-0.044980553520094696
+Subroutine:Analysis,0.0
+Subroutine:Defensive programming,-0.07873695622713105
+Subroutine:Design,-0.001445543659935853
+Subroutine:Software system,-0.06863057324840764
+Subroutine:System,0.005745846510177721
+Subroutine:Algorithm,0.07238545305116087
+Subroutine:Debugging,-0.08874257496600586
+Subroutine:Recursion,0.0027489104927924946
+Subroutine:Divide-and-conquer algorithm,-0.11737943585077343
+Subroutine:Decomposition,0.0
+Subroutine:Abstract data type,-0.146976234504486
+Subroutine:Data type,-0.06465473662925891
+Subroutine:Brute-force search,-0.06976744186046512
+Subroutine:Backtracking,-0.13997203666304178
+Subroutine:Heuristic,-0.003630573248407643
+Subroutine:Event-driven programming,-0.30631152287203245
+Subroutine:Graphical user interface,0.024585987261146493
+Subroutine:Tool,-0.009174311926605505
+Subroutine:Software engineering,-0.07494898274689257
+Subroutine:Programming paradigm,-0.1748240026818639
+Subroutine:Productivity,0.0
+Subroutine:Version control,-0.011651390399254311
+Subroutine:Construction,0.0
+Subroutine:Imperative programming,-0.1642204375519247
+Subroutine:Test-driven development,-0.12267781316348195
+Subroutine:Inheritance (object-oriented programming),-0.14219745222929936
+Subroutine:Polymorphism (computer science),-0.1309658843032894
+Subroutine:Parametric polymorphism,-0.15736230798051706
+Subroutine:Boxing,0.0
+Subroutine:Library (computing),-0.09343497667887055
+Subroutine:Hash table,-0.07524171745406222
+Subroutine:Theory,0.0
+Productivity:Focus (linguistics),0.0
+Productivity:Time,0.02096411687204526
+Productivity:Spacetime,0.0
+Productivity:Space,0.0
+Productivity:Space complexity,0.0
+Productivity:Complexity,0.006159420289855073
+Productivity:Object (computer science),0.0
+Productivity:Object-oriented programming,-0.003424657534246575
+Productivity:Language,0.012504682052611866
+Productivity:Data,-0.03125
+Productivity:Data structure,0.0
+Productivity:Software,0.0031933185949398184
+Productivity:Engineering,-0.010077270946836163
+Productivity:Paradigm,0.0
+Productivity:Computer programming,-0.01744186046511628
+Productivity:Formal methods,0.0
+Productivity:Risk,-0.020618556701030927
+Productivity:Understanding,-0.013513513513513514
+Productivity:Experience,-0.010638297872340425
+Productivity:Concept,0.005720823798627003
+Productivity:Programming language,0.0
+Productivity:Definition,0.0
+Productivity:Implementation,0.0
+Productivity:Syntax,0.0
+Productivity:Parsing,0.0
+Productivity:Semantics (computer science),0.0
+Productivity:Evaluation,-0.004975124378109453
+Productivity:Map,-0.0064516129032258064
+Productivity:Memory,-0.005
+Productivity:Memory management,0.0
+Productivity:Reachability,0.0
+Productivity:Integrated development environment,0.0
+Productivity:Analysis,0.0042886719905353456
+Productivity:Defensive programming,0.0
+Productivity:Design,0.00030835646006783894
+Productivity:Software system,0.0
+Productivity:System,-0.006993006993006993
+Productivity:Algorithm,-0.00967741935483871
+Productivity:Debugging,0.0
+Productivity:Recursion,0.0
+Productivity:Divide-and-conquer algorithm,0.0
+Productivity:Decomposition,0.0
+Productivity:Abstract data type,0.0
+Productivity:Data type,0.0
+Productivity:Brute-force search,0.0
+Productivity:Backtracking,0.0
+Productivity:Heuristic,-0.01
+Productivity:Event-driven programming,-0.01818181818181818
+Productivity:Graphical user interface,-0.005
+Productivity:Tool,-0.01303018215662811
+Productivity:Software engineering,-0.009708737864077669
+Productivity:Programming paradigm,-0.017543859649122806
+Productivity:Productivity,0.0
+Productivity:Version control,0.0
+Productivity:Construction,-0.009708737864077669
+Productivity:Imperative programming,0.0
+Productivity:Test-driven development,0.0
+Productivity:Inheritance (object-oriented programming),0.0
+Productivity:Polymorphism (computer science),0.0
+Productivity:Parametric polymorphism,0.0
+Productivity:Boxing,0.0
+Productivity:Library (computing),0.0
+Productivity:Hash table,0.0
+Productivity:Theory,0.03421900161030596
+Software:Focus (linguistics),0.0
+Software:Time,-0.00267379679144385
+Software:Spacetime,0.0
+Software:Space,-0.0053475935828877
+Software:Space complexity,-0.07142857142857142
+Software:Complexity,-0.05268361581920904
+Software:Object (computer science),-0.05341551104262969
+Software:Object-oriented programming,0.06727420478291155
+Software:Language,0.052521032000089854
+Software:Data,-0.08545197740112995
+Software:Data structure,-0.024800058698363783
+Software:Software,0.0
+Software:Engineering,-0.036369188911561795
+Software:Paradigm,0.005649717514124294
+Software:Computer programming,-0.027197477335435566
+Software:Formal methods,-0.11946979574098218
+Software:Risk,-0.014968839186906634
+Software:Understanding,-0.021377309512902735
+Software:Experience,-0.010638297872340425
+Software:Concept,-0.0031222123104371093
+Software:Programming language,0.13305989504795224
+Software:Definition,-0.0196078431372549
+Software:Implementation,-0.14425612052730696
+Software:Syntax,0.04058944518211877
+Software:Parsing,0.03738524011299435
+Software:Semantics (computer science),-0.08509343763581052
+Software:Evaluation,-0.014925373134328358
+Software:Map,-0.0064516129032258064
+Software:Memory,0.01194915254237288
+Software:Memory management,-0.0790960451977401
+Software:Reachability,0.0
+Software:Integrated development environment,0.047097645117744114
+Software:Analysis,-0.04537069064914101
+Software:Defensive programming,-0.14328645269864165
+Software:Design,-0.05108787113835797
+Software:Software system,-0.36610169491525424
+Software:System,-0.012366164908537793
+Software:Algorithm,0.08073628576635684
+Software:Debugging,-0.11756490827144035
+Software:Recursion,0.022598870056497175
+Software:Divide-and-conquer algorithm,-0.009024873431653094
+Software:Decomposition,0.0
+Software:Abstract data type,-0.03681428831784217
+Software:Data type,0.05757331181059995
+Software:Brute-force search,-0.06411772434634082
+Software:Backtracking,-0.03748105277662946
+Software:Heuristic,-0.014350282485875707
+Software:Event-driven programming,-0.11155624036979969
+Software:Graphical user interface,0.06274011299435028
+Software:Tool,0.005649717514124294
+Software:Software engineering,-0.08436180132740936
+Software:Programming paradigm,0.006987808504311632
+Software:Productivity,-0.0031933185949398184
+Software:Version control,-0.09163566211933306
+Software:Construction,-0.007322692117821293
+Software:Imperative programming,-0.0139400638663719
+Software:Test-driven development,-0.09675141242937853
+Software:Inheritance (object-oriented programming),0.008898305084745761
+Software:Polymorphism (computer science),-0.016097825245724014
+Software:Parametric polymorphism,0.0
+Software:Boxing,0.0
+Software:Library (computing),0.06027848213888519
+Software:Hash table,-0.0061781083607690135
+Software:Theory,-0.0005231219920485454
+Variable (computer science):Focus (linguistics),0.0
+Variable (computer science):Time,0.023255813953488372
+Variable (computer science):Spacetime,0.0
+Variable (computer science):Space,-0.0053475935828877
+Variable (computer science):Space complexity,-0.03571428571428571
+Variable (computer science):Complexity,-0.025
+Variable (computer science):Object (computer science),0.03805496828752644
+Variable (computer science):Object-oriented programming,0.2693532972284167
+Variable (computer science):Language,0.06777937028988858
+Variable (computer science):Data,0.02567829457364341
+Variable (computer science):Data structure,-0.0292962851102386
+Variable (computer science):Software,-0.02194192615950598
+Variable (computer science):Engineering,0.023255813953488372
+Variable (computer science):Paradigm,0.023255813953488372
+Variable (computer science):Computer programming,0.2325581395348837
+Variable (computer science):Formal methods,0.01180679785330948
+Variable (computer science):Risk,0.0
+Variable (computer science):Understanding,0.0
+Variable (computer science):Experience,0.011627906976744186
+Variable (computer science):Concept,0.03488372093023256
+Variable (computer science):Programming language,0.3842174956550526
+Variable (computer science):Definition,0.0
+Variable (computer science):Implementation,-0.044444444444444446
+Variable (computer science):Syntax,0.046511627906976744
+Variable (computer science):Parsing,0.019258720930232558
+Variable (computer science):Semantics (computer science),0.0776386404293381
+Variable (computer science):Evaluation,-0.004975124378109453
+Variable (computer science):Map,0.011627906976744186
+Variable (computer science):Memory,0.0
+Variable (computer science):Memory management,0.1754040204966496
+Variable (computer science):Reachability,0.0
+Variable (computer science):Integrated development environment,0.00452768059271455
+Variable (computer science):Analysis,0.0
+Variable (computer science):Defensive programming,-0.0851063829787234
+Variable (computer science):Design,0.023255813953488372
+Variable (computer science):Software system,-0.025
+Variable (computer science):System,0.0
+Variable (computer science):Algorithm,0.10532633158289573
+Variable (computer science):Debugging,0.025999477397439255
+Variable (computer science):Recursion,0.01493268053855569
+Variable (computer science):Divide-and-conquer algorithm,0.011627906976744186
+Variable (computer science):Decomposition,0.0
+Variable (computer science):Abstract data type,-0.04763690922730682
+Variable (computer science):Data type,0.1124031007751938
+Variable (computer science):Brute-force search,0.0
+Variable (computer science):Backtracking,0.011627906976744186
+Variable (computer science):Heuristic,0.0
+Variable (computer science):Event-driven programming,-0.01310782241014799
+Variable (computer science):Graphical user interface,0.03651162790697674
+Variable (computer science):Tool,-0.009174311926605505
+Variable (computer science):Software engineering,-0.015579137502822304
+Variable (computer science):Programming paradigm,0.05446756425948593
+Variable (computer science):Productivity,0.0
+Variable (computer science):Version control,-0.02495745887691435
+Variable (computer science):Construction,0.0
+Variable (computer science):Imperative programming,-0.08948432760364003
+Variable (computer science):Test-driven development,-0.04045542635658915
+Variable (computer science):Inheritance (object-oriented programming),-0.04360465116279069
+Variable (computer science):Polymorphism (computer science),0.043644472762026126
+Variable (computer science):Parametric polymorphism,-0.028271773825809393
+Variable (computer science):Boxing,0.0
+Variable (computer science):Library (computing),0.06830250869804066
+Variable (computer science):Hash table,0.012213485025932738
+Variable (computer science):Theory,0.0
+Conditional (computer programming):Focus (linguistics),0.0
+Conditional (computer programming):Time,0.0
+Conditional (computer programming):Spacetime,0.0
+Conditional (computer programming):Space,0.0
+Conditional (computer programming):Space complexity,0.0
+Conditional (computer programming):Complexity,-0.008333333333333333
+Conditional (computer programming):Object (computer science),0.07347055460263008
+Conditional (computer programming):Object-oriented programming,0.3911217368829155
+Conditional (computer programming):Language,0.22641509433962265
+Conditional (computer programming):Data,-0.001965408805031446
+Conditional (computer programming):Data structure,0.12141631952952707
+Conditional (computer programming):Software,-0.03389830508474576
+Conditional (computer programming):Engineering,-0.002457002457002457
+Conditional (computer programming):Paradigm,0.018867924528301886
+Conditional (computer programming):Computer programming,0.06450197455024134
+Conditional (computer programming):Formal methods,0.011175616835994193
+Conditional (computer programming):Risk,0.0
+Conditional (computer programming):Understanding,-0.013513513513513514
+Conditional (computer programming):Experience,0.0
+Conditional (computer programming):Concept,0.0
+Conditional (computer programming):Programming language,0.4135164171087088
+Conditional (computer programming):Definition,0.009433962264150943
+Conditional (computer programming):Implementation,-0.02557651991614256
+Conditional (computer programming):Syntax,0.04716981132075472
+Conditional (computer programming):Parsing,0.08033608490566038
+Conditional (computer programming):Semantics (computer science),0.04470246734397677
+Conditional (computer programming):Evaluation,0.0
+Conditional (computer programming):Map,0.0
+Conditional (computer programming):Memory,0.0
+Conditional (computer programming):Memory management,0.10377358490566038
+Conditional (computer programming):Reachability,0.0
+Conditional (computer programming):Integrated development environment,0.16154616797462013
+Conditional (computer programming):Analysis,0.0
+Conditional (computer programming):Defensive programming,0.0
+Conditional (computer programming):Design,0.0
+Conditional (computer programming):Software system,-0.025
+Conditional (computer programming):System,0.00244095527114395
+Conditional (computer programming):Algorithm,0.04643944004869141
+Conditional (computer programming):Debugging,0.04176383294466822
+Conditional (computer programming):Recursion,0.09324726911618669
+Conditional (computer programming):Divide-and-conquer algorithm,0.018867924528301886
+Conditional (computer programming):Decomposition,0.0
+Conditional (computer programming):Abstract data type,-0.016027591803611282
+Conditional (computer programming):Data type,0.15693321353698714
+Conditional (computer programming):Brute-force search,0.009433962264150943
+Conditional (computer programming):Backtracking,0.02830188679245283
+Conditional (computer programming):Heuristic,0.018867924528301886
+Conditional (computer programming):Event-driven programming,0.08490566037735849
+Conditional (computer programming):Graphical user interface,0.14537735849056604
+Conditional (computer programming):Tool,0.0
+Conditional (computer programming):Software engineering,0.008609635464370761
+Conditional (computer programming):Programming paradigm,0.20407149950347567
+Conditional (computer programming):Productivity,0.0
+Conditional (computer programming):Version control,0.018867924528301886
+Conditional (computer programming):Construction,0.0
+Conditional (computer programming):Imperative programming,0.23748974569319112
+Conditional (computer programming):Test-driven development,0.009433962264150943
+Conditional (computer programming):Inheritance (object-oriented programming),0.11014150943396227
+Conditional (computer programming):Polymorphism (computer science),0.1183768415611269
+Conditional (computer programming):Parametric polymorphism,0.02756196818349982
+Conditional (computer programming):Boxing,0.0
+Conditional (computer programming):Library (computing),0.15086911305898085
+Conditional (computer programming):Hash table,0.04221528437627257
+Conditional (computer programming):Theory,0.0
+Iteration:Focus (linguistics),0.0
+Iteration:Time,0.0
+Iteration:Spacetime,-0.004608294930875576
+Iteration:Space,0.037037037037037035
+Iteration:Space complexity,-0.03571428571428571
+Iteration:Complexity,-0.012962962962962968
+Iteration:Object (computer science),0.07407407407407407
+Iteration:Object-oriented programming,0.1276002029426687
+Iteration:Language,0.03306089389588395
+Iteration:Data,0.016203703703703703
+Iteration:Data structure,0.10918710918710918
+Iteration:Software,0.03138731952291274
+Iteration:Engineering,0.06916006916006916
+Iteration:Paradigm,0.037037037037037035
+Iteration:Computer programming,0.13070628768303186
+Iteration:Formal methods,-0.015384615384615385
+Iteration:Risk,0.037037037037037035
+Iteration:Understanding,-0.013513513513513514
+Iteration:Experience,0.0
+Iteration:Concept,0.0
+Iteration:Programming language,0.16027415315671542
+Iteration:Definition,0.037037037037037035
+Iteration:Implementation,-0.06666666666666667
+Iteration:Syntax,0.037037037037037035
+Iteration:Parsing,0.14033564814814814
+Iteration:Semantics (computer science),0.09572649572649572
+Iteration:Evaluation,-0.014925373134328358
+Iteration:Map,0.0
+Iteration:Memory,0.037037037037037035
+Iteration:Memory management,-0.05084745762711865
+Iteration:Reachability,-0.03571428571428571
+Iteration:Integrated development environment,0.07407407407407407
+Iteration:Analysis,-0.00510204081632653
+Iteration:Defensive programming,0.0
+Iteration:Design,-0.028368794326241134
+Iteration:Software system,0.037037037037037035
+Iteration:System,-0.006993006993006993
+Iteration:Algorithm,0.34778972520908
+Iteration:Debugging,0.037037037037037035
+Iteration:Recursion,0.10604288499025341
+Iteration:Divide-and-conquer algorithm,0.033189033189033185
+Iteration:Decomposition,0.0
+Iteration:Abstract data type,-0.01672640382317802
+Iteration:Data type,0.07142857142857142
+Iteration:Brute-force search,0.013781223083548663
+Iteration:Backtracking,0.037940379403794036
+Iteration:Heuristic,0.054074074074074066
+Iteration:Event-driven programming,0.0006734006734006731
+Iteration:Graphical user interface,0.037037037037037035
+Iteration:Tool,0.0
+Iteration:Software engineering,0.05465659834591873
+Iteration:Programming paradigm,0.08674463937621832
+Iteration:Productivity,-0.014492753623188406
+Iteration:Version control,-0.012195121951219513
+Iteration:Construction,-0.009708737864077669
+Iteration:Imperative programming,0.21578099838969403
+Iteration:Test-driven development,0.037037037037037035
+Iteration:Inheritance (object-oriented programming),0.037037037037037035
+Iteration:Polymorphism (computer science),0.009639776763064434
+Iteration:Parametric polymorphism,0.017429193899782133
+Iteration:Boxing,0.0
+Iteration:Library (computing),0.037037037037037035
+Iteration:Hash table,0.04529709565680788
+Iteration:Theory,-0.006172839506172839
+Eager evaluation:Focus (linguistics),-0.015151515151515152
+Eager evaluation:Time,0.0
+Eager evaluation:Spacetime,0.0
+Eager evaluation:Space,0.0
+Eager evaluation:Space complexity,0.0
+Eager evaluation:Complexity,0.0
+Eager evaluation:Object (computer science),0.13636363636363635
+Eager evaluation:Object-oriented programming,0.1715442092154421
+Eager evaluation:Language,0.045454545454545456
+Eager evaluation:Data,-0.010416666666666666
+Eager evaluation:Data structure,0.3181818181818182
+Eager evaluation:Software,0.045454545454545456
+Eager evaluation:Engineering,0.045454545454545456
+Eager evaluation:Paradigm,0.09090909090909091
+Eager evaluation:Computer programming,0.20983086680761098
+Eager evaluation:Formal methods,-0.007692307692307693
+Eager evaluation:Risk,0.0
+Eager evaluation:Understanding,0.0
+Eager evaluation:Experience,0.0
+Eager evaluation:Concept,0.0
+Eager evaluation:Programming language,0.3458427693303138
+Eager evaluation:Definition,0.0
+Eager evaluation:Implementation,0.045454545454545456
+Eager evaluation:Syntax,0.0
+Eager evaluation:Parsing,0.045454545454545456
+Eager evaluation:Semantics (computer science),0.10559440559440558
+Eager evaluation:Evaluation,0.0
+Eager evaluation:Map,0.0
+Eager evaluation:Memory,0.0
+Eager evaluation:Memory management,0.09090909090909091
+Eager evaluation:Reachability,0.0
+Eager evaluation:Integrated development environment,0.09090909090909091
+Eager evaluation:Analysis,0.0
+Eager evaluation:Defensive programming,0.0
+Eager evaluation:Design,0.0
+Eager evaluation:Software system,0.0
+Eager evaluation:System,0.045454545454545456
+Eager evaluation:Algorithm,0.12668621700879765
+Eager evaluation:Debugging,0.18181818181818182
+Eager evaluation:Recursion,-0.010526315789473684
+Eager evaluation:Divide-and-conquer algorithm,0.0
+Eager evaluation:Decomposition,0.0
+Eager evaluation:Abstract data type,0.03470185728250244
+Eager evaluation:Data type,0.07503607503607504
+Eager evaluation:Brute-force search,0.0
+Eager evaluation:Backtracking,0.0
+Eager evaluation:Heuristic,0.0
+Eager evaluation:Event-driven programming,0.045454545454545456
+Eager evaluation:Graphical user interface,0.045454545454545456
+Eager evaluation:Tool,0.0
+Eager evaluation:Software engineering,0.09090909090909091
+Eager evaluation:Programming paradigm,0.17464114832535885
+Eager evaluation:Productivity,0.0
+Eager evaluation:Version control,0.0
+Eager evaluation:Construction,0.0
+Eager evaluation:Imperative programming,0.1383399209486166
+Eager evaluation:Test-driven development,0.0
+Eager evaluation:Inheritance (object-oriented programming),0.0
+Eager evaluation:Polymorphism (computer science),0.018057285180572855
+Eager evaluation:Parametric polymorphism,-0.01336898395721925
+Eager evaluation:Boxing,0.0
+Eager evaluation:Library (computing),0.13636363636363635
+Eager evaluation:Hash table,-0.007194244604316547
+Eager evaluation:Theory,0.0
+Evaluation:Focus (linguistics),0.0
+Evaluation:Time,0.03980099502487562
+Evaluation:Spacetime,0.005341953825343329
+Evaluation:Space,-0.0003724692047782476
+Evaluation:Space complexity,0.0
+Evaluation:Complexity,0.011567164179104477
+Evaluation:Object (computer science),-0.015151515151515152
+Evaluation:Object-oriented programming,0.004975124378109453
+Evaluation:Language,0.024875621890547265
+Evaluation:Data,0.029850746268656716
+Evaluation:Data structure,0.004975124378109453
+Evaluation:Software,0.014925373134328358
+Evaluation:Engineering,0.032552226582077334
+Evaluation:Paradigm,0.019749736167646616
+Evaluation:Computer programming,0.0
+Evaluation:Formal methods,0.0
+Evaluation:Risk,0.01474585833718008
+Evaluation:Understanding,0.014925373134328358
+Evaluation:Experience,0.002910977029744896
+Evaluation:Concept,0.037182508510081175
+Evaluation:Programming language,0.0014164055168994884
+Evaluation:Definition,0.0
+Evaluation:Implementation,-0.07396351575456053
+Evaluation:Syntax,0.005708783272577206
+Evaluation:Parsing,0.0
+Evaluation:Semantics (computer science),0.0
+Evaluation:Evaluation,0.0
+Evaluation:Map,-0.0064516129032258064
+Evaluation:Memory,0.01490049751243781
+Evaluation:Memory management,0.0
+Evaluation:Reachability,0.0
+Evaluation:Integrated development environment,0.0
+Evaluation:Analysis,-0.00025383287643415513
+Evaluation:Defensive programming,0.0
+Evaluation:Design,0.0014819519424155818
+Evaluation:Software system,0.0
+Evaluation:System,0.05768360992241589
+Evaluation:Algorithm,0.03482587064676617
+Evaluation:Debugging,0.0
+Evaluation:Recursion,0.009950248756218905
+Evaluation:Divide-and-conquer algorithm,0.0
+Evaluation:Decomposition,0.0
+Evaluation:Abstract data type,0.0
+Evaluation:Data type,-0.0029613835583984834
+Evaluation:Brute-force search,0.0
+Evaluation:Backtracking,0.0
+Evaluation:Heuristic,0.004925373134328358
+Evaluation:Event-driven programming,0.0
+Evaluation:Graphical user interface,0.0
+Evaluation:Tool,0.004975124378109453
+Evaluation:Software engineering,0.00024151089214123622
+Evaluation:Programming paradigm,0.0
+Evaluation:Productivity,0.004975124378109453
+Evaluation:Version control,0.004975124378109453
+Evaluation:Construction,0.015046128580398976
+Evaluation:Imperative programming,-0.010869565217391304
+Evaluation:Test-driven development,0.0
+Evaluation:Inheritance (object-oriented programming),0.0
+Evaluation:Polymorphism (computer science),0.0
+Evaluation:Parametric polymorphism,0.0
+Evaluation:Boxing,0.0
+Evaluation:Library (computing),0.0
+Evaluation:Hash table,0.0
+Evaluation:Theory,0.03482587064676617
+Parametric polymorphism:Focus (linguistics),0.0
+Parametric polymorphism:Time,0.0196078431372549
+Parametric polymorphism:Spacetime,0.0
+Parametric polymorphism:Space,0.0
+Parametric polymorphism:Space complexity,0.0
+Parametric polymorphism:Complexity,0.0
+Parametric polymorphism:Object (computer science),0.002673796791443847
+Parametric polymorphism:Object-oriented programming,0.37751813053988714
+Parametric polymorphism:Language,0.19607843137254902
+Parametric polymorphism:Data,0.0196078431372549
+Parametric polymorphism:Data structure,0.013241660300483828
+Parametric polymorphism:Software,0.0
+Parametric polymorphism:Engineering,0.0
+Parametric polymorphism:Paradigm,0.0
+Parametric polymorphism:Computer programming,0.08641130870953032
+Parametric polymorphism:Formal methods,0.03574660633484163
+Parametric polymorphism:Risk,0.0
+Parametric polymorphism:Understanding,0.0
+Parametric polymorphism:Experience,0.0
+Parametric polymorphism:Concept,0.0
+Parametric polymorphism:Programming language,0.3832949549926732
+Parametric polymorphism:Definition,0.0196078431372549
+Parametric polymorphism:Implementation,-0.0026143790849673214
+Parametric polymorphism:Syntax,0.0196078431372549
+Parametric polymorphism:Parsing,0.058823529411764705
+Parametric polymorphism:Semantics (computer science),0.028054298642533934
+Parametric polymorphism:Evaluation,0.0
+Parametric polymorphism:Map,0.0
+Parametric polymorphism:Memory,0.0
+Parametric polymorphism:Memory management,0.13725490196078433
+Parametric polymorphism:Reachability,0.0
+Parametric polymorphism:Integrated development environment,0.09994794377928162
+Parametric polymorphism:Analysis,0.0
+Parametric polymorphism:Defensive programming,0.0
+Parametric polymorphism:Design,0.0
+Parametric polymorphism:Software system,0.0
+Parametric polymorphism:System,0.0392156862745098
+Parametric polymorphism:Algorithm,0.0784313725490196
+Parametric polymorphism:Debugging,0.008371888081075127
+Parametric polymorphism:Recursion,0.0
+Parametric polymorphism:Divide-and-conquer algorithm,0.0196078431372549
+Parametric polymorphism:Decomposition,0.0
+Parametric polymorphism:Abstract data type,0.024667931688804552
+Parametric polymorphism:Data type,0.2661064425770308
+Parametric polymorphism:Brute-force search,0.0
+Parametric polymorphism:Backtracking,0.0
+Parametric polymorphism:Heuristic,0.0
+Parametric polymorphism:Event-driven programming,0.058823529411764705
+Parametric polymorphism:Graphical user interface,0.11764705882352941
+Parametric polymorphism:Tool,0.0
+Parametric polymorphism:Software engineering,0.0392156862745098
+Parametric polymorphism:Programming paradigm,0.2786377708978328
+Parametric polymorphism:Productivity,0.0
+Parametric polymorphism:Version control,0.0196078431372549
+Parametric polymorphism:Construction,0.0
+Parametric polymorphism:Imperative programming,0.27024722932651324
+Parametric polymorphism:Test-driven development,0.0
+Parametric polymorphism:Inheritance (object-oriented programming),0.02303921568627451
+Parametric polymorphism:Polymorphism (computer science),0.11012624227773304
+Parametric polymorphism:Parametric polymorphism,0.0
+Parametric polymorphism:Boxing,0.0
+Parametric polymorphism:Library (computing),0.19206422726570943
+Parametric polymorphism:Hash table,0.0
+Parametric polymorphism:Theory,0.0196078431372549
+Polymorphism (computer science):Focus (linguistics),0.0
+Polymorphism (computer science):Time,0.0
+Polymorphism (computer science):Spacetime,0.0
+Polymorphism (computer science):Space,0.0
+Polymorphism (computer science):Space complexity,0.0
+Polymorphism (computer science):Complexity,0.0
+Polymorphism (computer science):Object (computer science),0.028019925280199254
+Polymorphism (computer science):Object-oriented programming,0.21232876712328766
+Polymorphism (computer science):Language,0.0547945205479452
+Polymorphism (computer science):Data,0.0410958904109589
+Polymorphism (computer science):Data structure,-0.032556484611279135
+Polymorphism (computer science):Software,0.016097825245724014
+Polymorphism (computer science):Engineering,0.0
+Polymorphism (computer science):Paradigm,0.0035976200359761987
+Polymorphism (computer science):Computer programming,0.024052245938196874
+Polymorphism (computer science):Formal methods,0.018018967334035824
+Polymorphism (computer science):Risk,0.0
+Polymorphism (computer science):Understanding,0.0
+Polymorphism (computer science):Experience,0.0
+Polymorphism (computer science):Concept,0.0
+Polymorphism (computer science):Programming language,0.33978452688538974
+Polymorphism (computer science):Definition,0.0
+Polymorphism (computer science):Implementation,-0.0033485540334855443
+Polymorphism (computer science):Syntax,0.0136986301369863
+Polymorphism (computer science):Parsing,0.005886130136986301
+Polymorphism (computer science):Semantics (computer science),0.09251844046364593
+Polymorphism (computer science):Evaluation,0.0
+Polymorphism (computer science):Map,0.0
+Polymorphism (computer science):Memory,0.0
+Polymorphism (computer science):Memory management,0.02414673786858602
+Polymorphism (computer science):Reachability,0.0
+Polymorphism (computer science):Integrated development environment,0.019396290459449628
+Polymorphism (computer science):Analysis,0.0
+Polymorphism (computer science):Defensive programming,-0.02127659574468085
+Polymorphism (computer science):Design,0.0136986301369863
+Polymorphism (computer science):Software system,0.0
+Polymorphism (computer science):System,0.0273972602739726
+Polymorphism (computer science):Algorithm,0.0894387980556783
+Polymorphism (computer science):Debugging,-0.020009235031553024
+Polymorphism (computer science):Recursion,0.03056957462148522
+Polymorphism (computer science):Divide-and-conquer algorithm,0.0136986301369863
+Polymorphism (computer science):Decomposition,0.0
+Polymorphism (computer science):Abstract data type,-0.02238915893356902
+Polymorphism (computer science):Data type,0.19243313763861708
+Polymorphism (computer science):Brute-force search,0.0
+Polymorphism (computer science):Backtracking,0.0136986301369863
+Polymorphism (computer science):Heuristic,0.0
+Polymorphism (computer science):Event-driven programming,-0.05902864259028642
+Polymorphism (computer science):Graphical user interface,0.0086986301369863
+Polymorphism (computer science):Tool,0.0
+Polymorphism (computer science):Software engineering,0.0022609389546482256
+Polymorphism (computer science):Programming paradigm,-0.026916606584955538
+Polymorphism (computer science):Productivity,0.0
+Polymorphism (computer science):Version control,0.015202138322753089
+Polymorphism (computer science):Construction,0.0
+Polymorphism (computer science):Imperative programming,0.025908278737343637
+Polymorphism (computer science):Test-driven development,-0.0488013698630137
+Polymorphism (computer science):Inheritance (object-oriented programming),-0.0570205479452055
+Polymorphism (computer science):Polymorphism (computer science),0.0
+Polymorphism (computer science):Parametric polymorphism,-0.11012624227773304
+Polymorphism (computer science):Boxing,0.0
+Polymorphism (computer science):Library (computing),0.06612015963757954
+Polymorphism (computer science):Hash table,-0.009263821819256925
+Polymorphism (computer science):Theory,0.0136986301369863
+Higher-order function:Focus (linguistics),-0.015151515151515152
+Higher-order function:Time,0.031746031746031744
+Higher-order function:Spacetime,0.0
+Higher-order function:Space,0.026398438163144043
+Higher-order function:Space complexity,0.0
+Higher-order function:Complexity,0.0
+Higher-order function:Object (computer science),0.1277056277056277
+Higher-order function:Object-oriented programming,0.22532072189606434
+Higher-order function:Language,0.031746031746031744
+Higher-order function:Data,0.02132936507936508
+Higher-order function:Data structure,0.11688311688311687
+Higher-order function:Software,0.0
+Higher-order function:Engineering,0.031746031746031744
+Higher-order function:Paradigm,0.031746031746031744
+Higher-order function:Computer programming,0.13971945367294203
+Higher-order function:Formal methods,0.00818070818070818
+Higher-order function:Risk,0.015873015873015872
+Higher-order function:Understanding,0.0
+Higher-order function:Experience,0.0
+Higher-order function:Concept,0.0
+Higher-order function:Programming language,0.3470033327684573
+Higher-order function:Definition,0.031746031746031744
+Higher-order function:Implementation,0.015873015873015872
+Higher-order function:Syntax,0.0
+Higher-order function:Parsing,0.015873015873015872
+Higher-order function:Semantics (computer science),0.00146520146520146
+Higher-order function:Evaluation,0.0
+Higher-order function:Map,0.0
+Higher-order function:Memory,0.0
+Higher-order function:Memory management,0.06349206349206349
+Higher-order function:Reachability,0.0
+Higher-order function:Integrated development environment,0.054642505969939595
+Higher-order function:Analysis,0.010770975056689343
+Higher-order function:Defensive programming,-0.02127659574468085
+Higher-order function:Design,0.0
+Higher-order function:Software system,0.0
+Higher-order function:System,0.031746031746031744
+Higher-order function:Algorithm,0.07910906298003072
+Higher-order function:Debugging,0.004637060816836097
+Higher-order function:Recursion,0.05847953216374269
+Higher-order function:Divide-and-conquer algorithm,-0.023088023088023088
+Higher-order function:Decomposition,0.0
+Higher-order function:Abstract data type,0.020481310803891442
+Higher-order function:Data type,0.10317460317460317
+Higher-order function:Brute-force search,0.0
+Higher-order function:Backtracking,0.0
+Higher-order function:Heuristic,0.015873015873015872
+Higher-order function:Event-driven programming,0.011255411255411255
+Higher-order function:Graphical user interface,0.04261904761904762
+Higher-order function:Tool,0.0
+Higher-order function:Software engineering,0.006164278008938203
+Higher-order function:Programming paradigm,0.04803675856307435
+Higher-order function:Productivity,0.0
+Higher-order function:Version control,0.015873015873015872
+Higher-order function:Construction,0.0
+Higher-order function:Imperative programming,0.06677018633540371
+Higher-order function:Test-driven development,0.005456349206349206
+Higher-order function:Inheritance (object-oriented programming),0.07023809523809524
+Higher-order function:Polymorphism (computer science),0.15155468580126114
+Higher-order function:Parametric polymorphism,-0.011204481792717089
+Higher-order function:Boxing,0.0
+Higher-order function:Library (computing),0.07149106361704786
+Higher-order function:Hash table,0.01735754253739865
+Higher-order function:Theory,0.0
+Mathematical proof:Focus (linguistics),-0.015151515151515152
+Mathematical proof:Time,0.020796197266785502
+Mathematical proof:Spacetime,0.038462696906719676
+Mathematical proof:Space,0.0190136660724896
+Mathematical proof:Space complexity,-0.03571428571428571
+Mathematical proof:Complexity,-0.0119281045751634
+Mathematical proof:Object (computer science),0.006535947712418301
+Mathematical proof:Object-oriented programming,0.0031112901781717257
+Mathematical proof:Language,0.028703595420938425
+Mathematical proof:Data,0.02879901960784314
+Mathematical proof:Data structure,0.013071895424836602
+Mathematical proof:Software,0.006535947712418301
+Mathematical proof:Engineering,0.05798846975317564
+Mathematical proof:Paradigm,-0.013666072489601902
+Mathematical proof:Computer programming,-0.004369965040279677
+Mathematical proof:Formal methods,-0.07154348919054802
+Mathematical proof:Risk,-0.0023920221009365947
+Mathematical proof:Understanding,-0.006977565801095213
+Mathematical proof:Experience,0.0024335975524961764
+Mathematical proof:Concept,0.012899896800825594
+Mathematical proof:Programming language,0.04517014397692648
+Mathematical proof:Definition,0.0
+Mathematical proof:Implementation,0.006535947712418301
+Mathematical proof:Syntax,0.04307099183759525
+Mathematical proof:Parsing,0.006535947712418301
+Mathematical proof:Semantics (computer science),-0.1011563599798894
+Mathematical proof:Evaluation,-0.009950248756218905
+Mathematical proof:Map,0.0
+Mathematical proof:Memory,0.006535947712418301
+Mathematical proof:Memory management,0.0
+Mathematical proof:Reachability,0.0
+Mathematical proof:Integrated development environment,0.0
+Mathematical proof:Analysis,-0.013872215552887819
+Mathematical proof:Defensive programming,-0.02127659574468085
+Mathematical proof:Design,0.0
+Mathematical proof:Software system,-0.025
+Mathematical proof:System,0.0051647698706522235
+Mathematical proof:Algorithm,0.07579590976175417
+Mathematical proof:Debugging,-0.02247191011235955
+Mathematical proof:Recursion,-0.02793257653938768
+Mathematical proof:Divide-and-conquer algorithm,-0.012987012987012988
+Mathematical proof:Decomposition,0.0
+Mathematical proof:Abstract data type,-0.02572211680371073
+Mathematical proof:Data type,-0.013538748832866477
+Mathematical proof:Brute-force search,-0.039975680194558445
+Mathematical proof:Backtracking,0.0
+Mathematical proof:Heuristic,0.0030718954248366015
+Mathematical proof:Event-driven programming,0.0
+Mathematical proof:Graphical user interface,0.0
+Mathematical proof:Tool,0.006535947712418301
+Mathematical proof:Software engineering,-0.009708737864077669
+Mathematical proof:Programming paradigm,-0.02631578947368421
+Mathematical proof:Productivity,0.0
+Mathematical proof:Version control,0.0
+Mathematical proof:Construction,0.006535947712418301
+Mathematical proof:Imperative programming,-0.010869565217391304
+Mathematical proof:Test-driven development,0.0
+Mathematical proof:Inheritance (object-oriented programming),0.0
+Mathematical proof:Polymorphism (computer science),-0.0136986301369863
+Mathematical proof:Parametric polymorphism,0.0
+Mathematical proof:Boxing,0.0
+Mathematical proof:Library (computing),0.006535947712418301
+Mathematical proof:Hash table,-0.0006582968918982463
+Mathematical proof:Theory,0.009440813362381992
+Asymptotic analysis:Focus (linguistics),0.013513513513513514
+Asymptotic analysis:Time,0.02702702702702703
+Asymptotic analysis:Spacetime,0.02702702702702703
+Asymptotic analysis:Space,0.0
+Asymptotic analysis:Space complexity,-0.08011583011583011
+Asymptotic analysis:Complexity,-0.03333333333333333
+Asymptotic analysis:Object (computer science),0.0
+Asymptotic analysis:Object-oriented programming,0.013513513513513514
+Asymptotic analysis:Language,0.0
+Asymptotic analysis:Data,0.02702702702702703
+Asymptotic analysis:Data structure,0.0005265005265005264
+Asymptotic analysis:Software,-0.005649717514124294
+Asymptotic analysis:Engineering,0.1031941031941032
+Asymptotic analysis:Paradigm,0.0
+Asymptotic analysis:Computer programming,-0.0039283469516027646
+Asymptotic analysis:Formal methods,0.0
+Asymptotic analysis:Risk,-0.005154639175257732
+Asymptotic analysis:Understanding,-0.013513513513513514
+Asymptotic analysis:Experience,0.013513513513513514
+Asymptotic analysis:Concept,-0.008771929824561403
+Asymptotic analysis:Programming language,0.033423102818120616
+Asymptotic analysis:Definition,0.0
+Asymptotic analysis:Implementation,0.02702702702702703
+Asymptotic analysis:Syntax,0.0
+Asymptotic analysis:Parsing,0.0
+Asymptotic analysis:Semantics (computer science),0.013513513513513514
+Asymptotic analysis:Evaluation,0.0
+Asymptotic analysis:Map,0.0
+Asymptotic analysis:Memory,0.0
+Asymptotic analysis:Memory management,0.0
+Asymptotic analysis:Reachability,-0.07142857142857142
+Asymptotic analysis:Integrated development environment,0.0
+Asymptotic analysis:Analysis,0.013513513513513514
+Asymptotic analysis:Defensive programming,0.0
+Asymptotic analysis:Design,0.0
+Asymptotic analysis:Software system,0.0
+Asymptotic analysis:System,0.020034020034020036
+Asymptotic analysis:Algorithm,0.11255448997384482
+Asymptotic analysis:Debugging,0.0
+Asymptotic analysis:Recursion,-0.010526315789473684
+Asymptotic analysis:Divide-and-conquer algorithm,-0.03843453843453844
+Asymptotic analysis:Decomposition,0.0
+Asymptotic analysis:Abstract data type,-0.021505376344086023
+Asymptotic analysis:Data type,0.013513513513513514
+Asymptotic analysis:Brute-force search,-0.009742300439974858
+Asymptotic analysis:Backtracking,0.0
+Asymptotic analysis:Heuristic,0.003513513513513514
+Asymptotic analysis:Event-driven programming,0.0
+Asymptotic analysis:Graphical user interface,0.0
+Asymptotic analysis:Tool,0.0
+Asymptotic analysis:Software engineering,0.013513513513513514
+Asymptotic analysis:Programming paradigm,0.0
+Asymptotic analysis:Productivity,0.0
+Asymptotic analysis:Version control,0.013513513513513514
+Asymptotic analysis:Construction,0.013513513513513514
+Asymptotic analysis:Imperative programming,0.013513513513513514
+Asymptotic analysis:Test-driven development,0.0
+Asymptotic analysis:Inheritance (object-oriented programming),0.0
+Asymptotic analysis:Polymorphism (computer science),0.0
+Asymptotic analysis:Parametric polymorphism,-0.0196078431372549
+Asymptotic analysis:Boxing,0.0
+Asymptotic analysis:Library (computing),0.0
+Asymptotic analysis:Hash table,-0.022457709508069218
+Asymptotic analysis:Theory,0.010427093760427095
+Analysis:Focus (linguistics),0.01020408163265306
+Analysis:Time,0.015306122448979591
+Analysis:Spacetime,0.01020408163265306
+Analysis:Space,-0.005838699116010043
+Analysis:Space complexity,0.0
+Analysis:Complexity,-0.008333333333333333
+Analysis:Object (computer science),0.0
+Analysis:Object-oriented programming,0.02040816326530612
+Analysis:Language,0.04306812188095915
+Analysis:Data,0.015093537414965988
+Analysis:Data structure,0.00510204081632653
+Analysis:Software,0.04537069064914101
+Analysis:Engineering,0.02097227097227097
+Analysis:Paradigm,-0.014996907854050712
+Analysis:Computer programming,-0.006525866160417656
+Analysis:Formal methods,0.015306122448979591
+Analysis:Risk,-0.010361876709446667
+Analysis:Understanding,0.01020408163265306
+Analysis:Experience,0.0
+Analysis:Concept,-0.0022377372001432146
+Analysis:Programming language,0.018392766359212727
+Analysis:Definition,0.00510204081632653
+Analysis:Implementation,-0.044444444444444446
+Analysis:Syntax,0.10714285714285714
+Analysis:Parsing,0.01259566326530612
+Analysis:Semantics (computer science),-7.849293563579399e-05
+Analysis:Evaluation,0.00025383287643415513
+Analysis:Map,0.003752468729427254
+Analysis:Memory,0.0001020408163265301
+Analysis:Memory management,0.0
+Analysis:Reachability,0.0
+Analysis:Integrated development environment,-0.0037475167057973635
+Analysis:Analysis,0.0
+Analysis:Defensive programming,-0.0425531914893617
+Analysis:Design,-0.01617455492835432
+Analysis:Software system,0.0
+Analysis:System,0.02872127872127872
+Analysis:Algorithm,0.06497695852534562
+Analysis:Debugging,-0.006133914239853245
+Analysis:Recursion,0.01498388829215897
+Analysis:Divide-and-conquer algorithm,0.0
+Analysis:Decomposition,0.00510204081632653
+Analysis:Abstract data type,0.0
+Analysis:Data type,0.007369614512471655
+Analysis:Brute-force search,0.01020408163265306
+Analysis:Backtracking,0.015306122448979591
+Analysis:Heuristic,0.015306122448979591
+Analysis:Event-driven programming,0.0
+Analysis:Graphical user interface,0.0
+Analysis:Tool,-0.004072271110278975
+Analysis:Software engineering,0.0014860313057261723
+Analysis:Programming paradigm,0.0
+Analysis:Productivity,-0.0042886719905353456
+Analysis:Version control,0.00510204081632653
+Analysis:Construction,-0.014315434911828809
+Analysis:Imperative programming,0.0
+Analysis:Test-driven development,0.0
+Analysis:Inheritance (object-oriented programming),0.0
+Analysis:Polymorphism (computer science),0.0
+Analysis:Parametric polymorphism,0.0
+Analysis:Boxing,0.0
+Analysis:Library (computing),0.0
+Analysis:Hash table,0.0
+Analysis:Theory,0.013164525069286975
+Recursion (computer science):Focus (linguistics),0.0
+Recursion (computer science):Time,-0.0053475935828877
+Recursion (computer science):Spacetime,0.0
+Recursion (computer science):Space,0.0
+Recursion (computer science):Space complexity,-0.021008403361344536
+Recursion (computer science):Complexity,-0.009313725490196078
+Recursion (computer science):Object (computer science),0.02116755793226381
+Recursion (computer science):Object-oriented programming,0.09961724415793716
+Recursion (computer science):Language,0.020070751958835224
+Recursion (computer science):Data,0.00428921568627451
+Recursion (computer science):Data structure,0.06913674560733385
+Recursion (computer science):Software,0.01021934197407777
+Recursion (computer science):Engineering,0.04411764705882353
+Recursion (computer science):Paradigm,-0.0027480689245395137
+Recursion (computer science):Computer programming,0.06686046511627908
+Recursion (computer science):Formal methods,0.021380090497737557
+Recursion (computer science):Risk,0.0
+Recursion (computer science):Understanding,-0.02702702702702703
+Recursion (computer science):Experience,0.0
+Recursion (computer science):Concept,0.007352941176470588
+Recursion (computer science):Programming language,0.23361942641825414
+Recursion (computer science):Definition,-0.0024509803921568627
+Recursion (computer science):Implementation,-0.014869281045751635
+Recursion (computer science):Syntax,0.029411764705882353
+Recursion (computer science):Parsing,0.027113970588235295
+Recursion (computer science):Semantics (computer science),0.028054298642533934
+Recursion (computer science):Evaluation,-0.004975124378109453
+Recursion (computer science):Map,0.0
+Recursion (computer science):Memory,0.0
+Recursion (computer science):Memory management,0.08599202392821535
+Recursion (computer science):Reachability,0.014705882352941176
+Recursion (computer science):Integrated development environment,0.06318323789692869
+Recursion (computer science):Analysis,0.014705882352941176
+Recursion (computer science):Defensive programming,-0.03520025031289111
+Recursion (computer science):Design,0.0
+Recursion (computer science):Software system,-0.04264705882352941
+Recursion (computer science):System,0.00035993418346359513
+Recursion (computer science):Algorithm,0.14691650853889943
+Recursion (computer science):Debugging,-0.00470918704560476
+Recursion (computer science):Recursion,0.0489938080495356
+Recursion (computer science):Divide-and-conquer algorithm,-0.11564171122994653
+Recursion (computer science):Decomposition,0.0
+Recursion (computer science):Abstract data type,-0.013598987982289694
+Recursion (computer science):Data type,0.00210084033613446
+Recursion (computer science):Brute-force search,-0.03300273597811217
+Recursion (computer science):Backtracking,0.019727403156384507
+Recursion (computer science):Heuristic,-0.005294117647058824
+Recursion (computer science):Event-driven programming,-0.06537433155080213
+Recursion (computer science):Graphical user interface,0.03676470588235294
+Recursion (computer science):Tool,0.0
+Recursion (computer science):Software engineering,0.012635636778983439
+Recursion (computer science):Programming paradigm,-0.01702786377708977
+Recursion (computer science):Productivity,0.007352941176470588
+Recursion (computer science):Version control,0.0025107604017216636
+Recursion (computer science):Construction,0.0
+Recursion (computer science):Imperative programming,0.023337595907928388
+Recursion (computer science):Test-driven development,-0.006127450980392156
+Recursion (computer science):Inheritance (object-oriented programming),-0.01764705882352941
+Recursion (computer science):Polymorphism (computer science),-0.004331184528605959
+Recursion (computer science):Parametric polymorphism,-0.0784313725490196
+Recursion (computer science):Boxing,0.0
+Recursion (computer science):Library (computing),0.06461324687355258
+Recursion (computer science):Hash table,0.03724079559881506
+Recursion (computer science):Theory,-0.006172839506172839
+Algebraic data type:Focus (linguistics),0.0
+Algebraic data type:Time,0.0
+Algebraic data type:Spacetime,0.0
+Algebraic data type:Space,0.0
+Algebraic data type:Space complexity,0.0
+Algebraic data type:Complexity,0.0
+Algebraic data type:Object (computer science),0.039141414141414144
+Algebraic data type:Object-oriented programming,0.3268645357686454
+Algebraic data type:Language,0.25
+Algebraic data type:Data,0.03125
+Algebraic data type:Data structure,0.07305194805194805
+Algebraic data type:Software,0.008239171374764594
+Algebraic data type:Engineering,0.013888888888888888
+Algebraic data type:Paradigm,0.0
+Algebraic data type:Computer programming,0.04974160206718346
+Algebraic data type:Formal methods,-0.004487179487179492
+Algebraic data type:Risk,0.0
+Algebraic data type:Understanding,0.0
+Algebraic data type:Experience,0.0
+Algebraic data type:Concept,-0.008771929824561403
+Algebraic data type:Programming language,0.502866745749308
+Algebraic data type:Definition,0.0
+Algebraic data type:Implementation,-0.008333333333333335
+Algebraic data type:Syntax,0.027777777777777776
+Algebraic data type:Parsing,0.0954861111111111
+Algebraic data type:Semantics (computer science),0.02329059829059829
+Algebraic data type:Evaluation,0.0
+Algebraic data type:Map,0.0
+Algebraic data type:Memory,0.0
+Algebraic data type:Memory management,0.06638418079096045
+Algebraic data type:Reachability,0.0
+Algebraic data type:Integrated development environment,0.125
+Algebraic data type:Analysis,0.0
+Algebraic data type:Defensive programming,0.0
+Algebraic data type:Design,0.013888888888888888
+Algebraic data type:Software system,0.0
+Algebraic data type:System,-0.006993006993006993
+Algebraic data type:Algorithm,0.07688172043010752
+Algebraic data type:Debugging,0.03043071161048689
+Algebraic data type:Recursion,0.03450292397660819
+Algebraic data type:Divide-and-conquer algorithm,0.0009018759018759002
+Algebraic data type:Decomposition,0.0
+Algebraic data type:Abstract data type,0.03270609318996416
+Algebraic data type:Data type,0.16468253968253968
+Algebraic data type:Brute-force search,-0.023255813953488372
+Algebraic data type:Backtracking,0.027777777777777776
+Algebraic data type:Heuristic,0.013888888888888888
+Algebraic data type:Event-driven programming,0.0
+Algebraic data type:Graphical user interface,0.06444444444444444
+Algebraic data type:Tool,0.0
+Algebraic data type:Software engineering,0.03195792880258899
+Algebraic data type:Programming paradigm,0.2880116959064328
+Algebraic data type:Productivity,0.0
+Algebraic data type:Version control,0.013888888888888888
+Algebraic data type:Construction,0.013888888888888888
+Algebraic data type:Imperative programming,0.283816425120773
+Algebraic data type:Test-driven development,0.013888888888888888
+Algebraic data type:Inheritance (object-oriented programming),0.059722222222222225
+Algebraic data type:Polymorphism (computer science),0.11225266362252664
+Algebraic data type:Parametric polymorphism,-0.006535947712418305
+Algebraic data type:Boxing,0.0
+Algebraic data type:Library (computing),0.09536307961504811
+Algebraic data type:Hash table,0.02727817745803357
+Algebraic data type:Theory,0.0
+Pattern matching:Focus (linguistics),0.0
+Pattern matching:Time,0.0
+Pattern matching:Spacetime,0.0
+Pattern matching:Space,0.0
+Pattern matching:Space complexity,0.0
+Pattern matching:Complexity,0.0
+Pattern matching:Object (computer science),0.06172839506172839
+Pattern matching:Object-oriented programming,0.18797564687975646
+Pattern matching:Language,0.18518518518518517
+Pattern matching:Data,0.037037037037037035
+Pattern matching:Data structure,0.19688953022286354
+Pattern matching:Software,0.0066959614982213846
+Pattern matching:Engineering,0.012345679012345678
+Pattern matching:Paradigm,0.0
+Pattern matching:Computer programming,0.08132357163364914
+Pattern matching:Formal methods,0.04169040835707502
+Pattern matching:Risk,0.0
+Pattern matching:Understanding,-0.013513513513513514
+Pattern matching:Experience,0.0
+Pattern matching:Concept,0.012345679012345678
+Pattern matching:Programming language,0.3663723035016036
+Pattern matching:Definition,0.0
+Pattern matching:Implementation,0.06172839506172839
+Pattern matching:Syntax,0.057120100130852815
+Pattern matching:Parsing,0.10455246913580246
+Pattern matching:Semantics (computer science),0.058689458689458684
+Pattern matching:Evaluation,0.0
+Pattern matching:Map,0.0
+Pattern matching:Memory,0.0
+Pattern matching:Memory management,0.06172839506172839
+Pattern matching:Reachability,0.012345679012345678
+Pattern matching:Integrated development environment,0.0016388069485414603
+Pattern matching:Analysis,-0.00510204081632653
+Pattern matching:Defensive programming,0.012345679012345678
+Pattern matching:Design,0.012345679012345678
+Pattern matching:Software system,0.0
+Pattern matching:System,0.0
+Pattern matching:Algorithm,0.11700517722023097
+Pattern matching:Debugging,0.013455402968511582
+Pattern matching:Recursion,0.07953216374269005
+Pattern matching:Divide-and-conquer algorithm,-0.0019240019240019252
+Pattern matching:Decomposition,0.0
+Pattern matching:Abstract data type,0.004778972520908004
+Pattern matching:Data type,0.21075837742504408
+Pattern matching:Brute-force search,0.012345679012345678
+Pattern matching:Backtracking,-0.011442336645588677
+Pattern matching:Heuristic,0.002345679012345678
+Pattern matching:Event-driven programming,0.006509539842873176
+Pattern matching:Graphical user interface,0.04938271604938271
+Pattern matching:Tool,0.012345679012345678
+Pattern matching:Software engineering,0.037037037037037035
+Pattern matching:Programming paradigm,0.099090318388564
+Pattern matching:Productivity,0.0
+Pattern matching:Version control,0.012345679012345678
+Pattern matching:Construction,0.012345679012345678
+Pattern matching:Imperative programming,0.15552871712292002
+Pattern matching:Test-driven development,0.024691358024691357
+Pattern matching:Inheritance (object-oriented programming),0.03672839506172839
+Pattern matching:Polymorphism (computer science),0.005580923389142567
+Pattern matching:Parametric polymorphism,-0.11474219317356574
+Pattern matching:Boxing,0.0
+Pattern matching:Library (computing),0.11558277437542529
+Pattern matching:Hash table,0.008260058619770846
+Pattern matching:Theory,0.0
+Distributed computing:Focus (linguistics),-0.015151515151515152
+Distributed computing:Time,-0.00267379679144385
+Distributed computing:Spacetime,0.0029105020616056266
+Distributed computing:Space,-0.003176390173294198
+Distributed computing:Space complexity,0.015037593984962405
+Distributed computing:Complexity,0.014223057644110275
+Distributed computing:Object (computer science),-0.17441330599225335
+Distributed computing:Object-oriented programming,-0.019955711195797712
+Distributed computing:Language,0.0
+Distributed computing:Data,0.021381578947368418
+Distributed computing:Data structure,-0.006835269993164736
+Distributed computing:Software,0.0920096852300242
+Distributed computing:Engineering,0.0326799800484011
+Distributed computing:Paradigm,0.0
+Distributed computing:Computer programming,-0.02806434691379612
+Distributed computing:Formal methods,-0.06188548293811452
+Distributed computing:Risk,-0.005154639175257732
+Distributed computing:Understanding,-0.005994716521032312
+Distributed computing:Experience,0.0
+Distributed computing:Concept,-0.0012531328320802004
+Distributed computing:Programming language,0.03248334359029245
+Distributed computing:Definition,0.0
+Distributed computing:Implementation,-0.036925647451963244
+Distributed computing:Syntax,0.022556390977443608
+Distributed computing:Parsing,0.02226268796992481
+Distributed computing:Semantics (computer science),-0.038982070561017934
+Distributed computing:Evaluation,-0.004975124378109453
+Distributed computing:Map,0.007518796992481203
+Distributed computing:Memory,0.015037593984962405
+Distributed computing:Memory management,-0.069708168726902
+Distributed computing:Reachability,0.0
+Distributed computing:Integrated development environment,-0.027879433096014372
+Distributed computing:Analysis,0.0
+Distributed computing:Defensive programming,-0.02127659574468085
+Distributed computing:Design,-0.0070921985815602835
+Distributed computing:Software system,-0.09492481203007519
+Distributed computing:System,0.06872075293127924
+Distributed computing:Algorithm,0.17184089255396556
+Distributed computing:Debugging,-0.033707865168539325
+Distributed computing:Recursion,0.007518796992481203
+Distributed computing:Divide-and-conquer algorithm,-0.01093643198906357
+Distributed computing:Decomposition,-0.005847953216374269
+Distributed computing:Abstract data type,-0.053763440860215055
+Distributed computing:Data type,-0.009189640768588136
+Distributed computing:Brute-force search,-0.023955236929533136
+Distributed computing:Backtracking,-0.0018338529249954175
+Distributed computing:Heuristic,0.015037593984962405
+Distributed computing:Event-driven programming,-0.11975393028024606
+Distributed computing:Graphical user interface,0.03763157894736842
+Distributed computing:Tool,-0.009174311926605505
+Distributed computing:Software engineering,0.013796627491057742
+Distributed computing:Programming paradigm,-0.06390977443609022
+Distributed computing:Productivity,0.015037593984962405
+Distributed computing:Version control,-0.04126169081239685
+Distributed computing:Construction,-0.0048543689320388345
+Distributed computing:Imperative programming,-0.042661000326904217
+Distributed computing:Test-driven development,-0.052083333333333336
+Distributed computing:Inheritance (object-oriented programming),-0.0625
+Distributed computing:Polymorphism (computer science),-0.0273972602739726
+Distributed computing:Parametric polymorphism,-0.09803921568627451
+Distributed computing:Boxing,0.0
+Distributed computing:Library (computing),-0.02610857853294654
+Distributed computing:Hash table,-0.006220587439822581
+Distributed computing:Theory,0.007518796992481203
+Version control:Focus (linguistics),0.0
+Version control:Time,0.012195121951219513
+Version control:Spacetime,0.0
+Version control:Space,0.012195121951219513
+Version control:Space complexity,0.0
+Version control:Complexity,0.0
+Version control:Object (computer science),-0.0029563932002956393
+Version control:Object-oriented programming,0.043852322084864684
+Version control:Language,0.012195121951219513
+Version control:Data,0.015752032520325202
+Version control:Data structure,0.059391827684510616
+Version control:Software,0.09163566211933306
+Version control:Engineering,0.04869059747108528
+Version control:Paradigm,0.012195121951219513
+Version control:Computer programming,0.027226318774815662
+Version control:Formal methods,0.012195121951219513
+Version control:Risk,0.024390243902439025
+Version control:Understanding,-0.013513513513513514
+Version control:Experience,0.0
+Version control:Concept,0.0
+Version control:Programming language,0.18088707577467233
+Version control:Definition,0.012195121951219513
+Version control:Implementation,-0.06449864498644986
+Version control:Syntax,0.04878048780487805
+Version control:Parsing,0.04535060975609756
+Version control:Semantics (computer science),0.012195121951219513
+Version control:Evaluation,-0.004975124378109453
+Version control:Map,0.012195121951219513
+Version control:Memory,0.012195121951219513
+Version control:Memory management,0.0
+Version control:Reachability,0.012195121951219513
+Version control:Integrated development environment,0.03464278005611915
+Version control:Analysis,-0.00510204081632653
+Version control:Defensive programming,-0.03035806953814219
+Version control:Design,0.010205846739318458
+Version control:Software system,-0.07621951219512195
+Version control:System,0.07317073170731707
+Version control:Algorithm,0.11872541306058222
+Version control:Debugging,0.02822691148259797
+Version control:Recursion,0.012195121951219513
+Version control:Divide-and-conquer algorithm,0.0
+Version control:Decomposition,0.0
+Version control:Abstract data type,-0.00931025439286651
+Version control:Data type,0.01645373596593109
+Version control:Brute-force search,0.0
+Version control:Backtracking,0.012195121951219513
+Version control:Heuristic,0.012195121951219513
+Version control:Event-driven programming,-0.005986696230598668
+Version control:Graphical user interface,0.10914634146341465
+Version control:Tool,-0.01834862385321101
+Version control:Software engineering,0.005209566658773382
+Version control:Programming paradigm,0.031236628155755244
+Version control:Productivity,0.0
+Version control:Version control,0.0
+Version control:Construction,-0.014563106796116505
+Version control:Imperative programming,0.0013255567338282086
+Version control:Test-driven development,-0.038109756097560975
+Version control:Inheritance (object-oriented programming),-0.025
+Version control:Polymorphism (computer science),-0.015202138322753089
+Version control:Parametric polymorphism,-0.0196078431372549
+Version control:Boxing,0.0
+Version control:Library (computing),0.08613405031688112
+Version control:Hash table,-0.014388489208633094
+Version control:Theory,0.0
+System:Focus (linguistics),-0.015151515151515152
+System:Time,0.0195392842451666
+System:Spacetime,0.014147143179401243
+System:Space,0.018922254216371864
+System:Space complexity,0.0
+System:Complexity,-0.08275058275058274
+System:Object (computer science),-0.015151515151515152
+System:Object-oriented programming,0.021266404828048667
+System:Language,0.01110817611811648
+System:Data,-0.024111305361305364
+System:Data structure,0.027972027972027972
+System:Software,0.012366164908537793
+System:Engineering,0.08372708372708373
+System:Paradigm,-0.029526029526029524
+System:Computer programming,-0.01036753943730688
+System:Formal methods,-0.03146853146853147
+System:Risk,-0.009948814072525413
+System:Understanding,-0.047061047061047065
+System:Experience,-0.0072905817586668645
+System:Concept,0.04539320328794014
+System:Programming language,-0.0004977229176517418
+System:Definition,0.013986013986013986
+System:Implementation,-0.09712509712509712
+System:Syntax,0.03496503496503497
+System:Parsing,-0.024256993006993008
+System:Semantics (computer science),-0.025174825174825177
+System:Evaluation,-0.05768360992241589
+System:Map,-0.03225806451612903
+System:Memory,0.012972027972027973
+System:Memory management,-0.06779661016949153
+System:Reachability,0.0
+System:Integrated development environment,-0.05309734513274336
+System:Analysis,-0.02872127872127872
+System:Defensive programming,-0.02127659574468085
+System:Design,-0.04324753260923473
+System:Software system,-0.2
+System:System,0.0
+System:Algorithm,0.0543424317617866
+System:Debugging,-0.03795081323171211
+System:Recursion,0.003459698196540302
+System:Divide-and-conquer algorithm,0.0
+System:Decomposition,-0.016398805872490083
+System:Abstract data type,-0.02526505752312204
+System:Data type,-0.0009435009435009431
+System:Brute-force search,0.006993006993006993
+System:Backtracking,-0.024390243902439025
+System:Heuristic,-0.006013986013986014
+System:Event-driven programming,-0.07272727272727272
+System:Graphical user interface,-0.053006993006993006
+System:Tool,0.013986013986013986
+System:Software engineering,-0.017448570846629097
+System:Programming paradigm,-0.03508771929824561
+System:Productivity,0.006993006993006993
+System:Version control,-0.07317073170731707
+System:Construction,-0.02756466834136737
+System:Imperative programming,0.003116448768622682
+System:Test-driven development,-0.020833333333333332
+System:Inheritance (object-oriented programming),0.006993006993006993
+System:Polymorphism (computer science),-0.0273972602739726
+System:Parametric polymorphism,-0.0392156862745098
+System:Boxing,-0.003389830508474576
+System:Library (computing),-0.040251087495181984
+System:Hash table,-0.01458972681994265
+System:Theory,0.025079858413191748
+Understanding:Focus (linguistics),0.013513513513513514
+Understanding:Time,0.008165919930625813
+Understanding:Spacetime,-0.004608294930875576
+Understanding:Space,0.021679433444139327
+Understanding:Space complexity,0.0
+Understanding:Complexity,-0.008333333333333333
+Understanding:Object (computer science),0.013513513513513514
+Understanding:Object-oriented programming,0.013513513513513514
+Understanding:Language,0.017086669174144323
+Understanding:Data,-0.014639639639639636
+Understanding:Data structure,0.02702702702702703
+Understanding:Software,0.021377309512902735
+Understanding:Engineering,0.038083538083538086
+Understanding:Paradigm,0.00013650013650013532
+Understanding:Computer programming,0.04824010056568197
+Understanding:Formal methods,0.0
+Understanding:Risk,0.016717748676511567
+Understanding:Understanding,0.0
+Understanding:Experience,0.005750431282346178
+Understanding:Concept,-0.02560455192034139
+Understanding:Programming language,0.09103587573338463
+Understanding:Definition,0.02093269740328564
+Understanding:Implementation,-0.022222222222222223
+Understanding:Syntax,0.07647278615020552
+Understanding:Parsing,0.01921452702702703
+Understanding:Semantics (computer science),0.02702702702702703
+Understanding:Evaluation,-0.014925373134328358
+Understanding:Map,0.0
+Understanding:Memory,0.05756756756756757
+Understanding:Memory management,0.0
+Understanding:Reachability,0.0
+Understanding:Integrated development environment,0.013513513513513514
+Understanding:Analysis,-0.01020408163265306
+Understanding:Defensive programming,0.0
+Understanding:Design,-0.0070921985815602835
+Understanding:Software system,0.0
+Understanding:System,0.047061047061047065
+Understanding:Algorithm,0.13190932868352223
+Understanding:Debugging,0.0
+Understanding:Recursion,0.05405405405405406
+Understanding:Divide-and-conquer algorithm,0.02702702702702703
+Understanding:Decomposition,0.0
+Understanding:Abstract data type,0.013513513513513514
+Understanding:Data type,0.013513513513513514
+Understanding:Brute-force search,0.013513513513513514
+Understanding:Backtracking,0.013513513513513514
+Understanding:Heuristic,0.06756756756756757
+Understanding:Event-driven programming,0.0
+Understanding:Graphical user interface,0.035540540540540545
+Understanding:Tool,0.0
+Understanding:Software engineering,0.01731828916294936
+Understanding:Programming paradigm,0.0
+Understanding:Productivity,0.013513513513513514
+Understanding:Version control,0.013513513513513514
+Understanding:Construction,0.0
+Understanding:Imperative programming,0.04054054054054054
+Understanding:Test-driven development,0.0
+Understanding:Inheritance (object-oriented programming),0.0
+Understanding:Polymorphism (computer science),0.0
+Understanding:Parametric polymorphism,0.0
+Understanding:Boxing,0.0
+Understanding:Library (computing),0.013513513513513514
+Understanding:Hash table,0.013513513513513514
+Understanding:Theory,0.015849182515849186
+Experience:Focus (linguistics),0.010638297872340425
+Experience:Time,0.0158152235749232
+Experience:Spacetime,0.0014217080105892732
+Experience:Space,0.005176925702582772
+Experience:Space complexity,0.0
+Experience:Complexity,-0.006028368794326241
+Experience:Object (computer science),0.0
+Experience:Object-oriented programming,0.0
+Experience:Language,0.05388942938115984
+Experience:Data,0.021941489361702128
+Experience:Data structure,0.0
+Experience:Software,0.010638297872340425
+Experience:Engineering,0.022086883789011448
+Experience:Paradigm,0.022351171287341497
+Experience:Computer programming,0.0
+Experience:Formal methods,0.0
+Experience:Risk,0.0
+Experience:Understanding,-0.005750431282346178
+Experience:Experience,0.0
+Experience:Concept,0.021836506159014557
+Experience:Programming language,0.010638297872340425
+Experience:Definition,-0.029411764705882353
+Experience:Implementation,0.0
+Experience:Syntax,0.031914893617021274
+Experience:Parsing,0.0
+Experience:Semantics (computer science),0.010638297872340425
+Experience:Evaluation,-0.002910977029744896
+Experience:Map,0.004186684969114619
+Experience:Memory,0.0551063829787234
+Experience:Memory management,0.0
+Experience:Reachability,0.0
+Experience:Integrated development environment,0.0
+Experience:Analysis,0.0
+Experience:Defensive programming,0.0
+Experience:Design,0.0035460992907801418
+Experience:Software system,-0.025
+Experience:System,0.0072905817586668645
+Experience:Algorithm,0.02546328071379547
+Experience:Debugging,0.0
+Experience:Recursion,0.02127659574468085
+Experience:Divide-and-conquer algorithm,0.0
+Experience:Decomposition,0.0
+Experience:Abstract data type,-0.010752688172043012
+Experience:Data type,0.0
+Experience:Brute-force search,0.0
+Experience:Backtracking,0.0
+Experience:Heuristic,0.01127659574468085
+Experience:Event-driven programming,0.0
+Experience:Graphical user interface,-0.01
+Experience:Tool,-0.009174311926605505
+Experience:Software engineering,0.010638297872340425
+Experience:Programming paradigm,0.0
+Experience:Productivity,0.010638297872340425
+Experience:Version control,0.0
+Experience:Construction,0.0
+Experience:Imperative programming,0.0
+Experience:Test-driven development,0.0
+Experience:Inheritance (object-oriented programming),0.0
+Experience:Polymorphism (computer science),0.0
+Experience:Parametric polymorphism,0.0
+Experience:Boxing,0.0
+Experience:Library (computing),0.0
+Experience:Hash table,0.0
+Experience:Theory,-0.0020357236669293413
+Discipline:Focus (linguistics),0.0
+Discipline:Time,0.0
+Discipline:Spacetime,0.0
+Discipline:Space,-0.0053475935828877
+Discipline:Space complexity,0.0
+Discipline:Complexity,-0.008333333333333333
+Discipline:Object (computer science),0.0
+Discipline:Object-oriented programming,0.0
+Discipline:Language,0.043478260869565216
+Discipline:Data,0.0
+Discipline:Data structure,0.0
+Discipline:Software,-0.011299435028248588
+Discipline:Engineering,-0.022486913791261616
+Discipline:Paradigm,0.0
+Discipline:Computer programming,-0.005813953488372093
+Discipline:Formal methods,-0.007692307692307693
+Discipline:Risk,0.0
+Discipline:Understanding,-0.02702702702702703
+Discipline:Experience,-0.010638297872340425
+Discipline:Concept,0.043478260869565216
+Discipline:Programming language,0.0
+Discipline:Definition,0.0
+Discipline:Implementation,-0.06666666666666667
+Discipline:Syntax,0.0
+Discipline:Parsing,0.0
+Discipline:Semantics (computer science),0.0
+Discipline:Evaluation,-0.009950248756218905
+Discipline:Map,0.0
+Discipline:Memory,0.021739130434782608
+Discipline:Memory management,0.0
+Discipline:Reachability,0.0
+Discipline:Integrated development environment,0.0
+Discipline:Analysis,-0.01020408163265306
+Discipline:Defensive programming,0.0
+Discipline:Design,-0.014184397163120567
+Discipline:Software system,0.0
+Discipline:System,0.014746123441775616
+Discipline:Algorithm,-0.0032258064516129032
+Discipline:Debugging,0.0
+Discipline:Recursion,0.0
+Discipline:Divide-and-conquer algorithm,0.0
+Discipline:Decomposition,-0.005847953216374269
+Discipline:Abstract data type,0.0
+Discipline:Data type,0.0
+Discipline:Brute-force search,0.0
+Discipline:Backtracking,0.0
+Discipline:Heuristic,0.0
+Discipline:Event-driven programming,0.0
+Discipline:Graphical user interface,-0.005
+Discipline:Tool,0.021739130434782608
+Discipline:Software engineering,-0.02912621359223301
+Discipline:Programming paradigm,0.0
+Discipline:Productivity,-0.007246376811594204
+Discipline:Version control,0.0
+Discipline:Construction,-0.024271844660194174
+Discipline:Imperative programming,0.0
+Discipline:Test-driven development,0.0
+Discipline:Inheritance (object-oriented programming),0.0
+Discipline:Polymorphism (computer science),0.0
+Discipline:Parametric polymorphism,0.0
+Discipline:Boxing,0.0
+Discipline:Library (computing),0.0
+Discipline:Hash table,0.0
+Discipline:Theory,0.01247987117552335
+Computation:Focus (linguistics),-0.015151515151515152
+Computation:Time,0.01790822037060067
+Computation:Spacetime,0.0
+Computation:Space,-0.0053475935828877
+Computation:Space complexity,-0.07142857142857142
+Computation:Complexity,-0.06666666666666667
+Computation:Object (computer science),0.00810429880197322
+Computation:Object-oriented programming,0.04579483912073909
+Computation:Language,-0.003976143141153081
+Computation:Data,-0.018410852713178293
+Computation:Data structure,-0.018423437028088185
+Computation:Software,0.030219419261595055
+Computation:Engineering,0.010970801668476087
+Computation:Paradigm,0.01315480385247827
+Computation:Computer programming,0.0872093023255814
+Computation:Formal methods,-0.022898032200357785
+Computation:Risk,-0.010309278350515464
+Computation:Understanding,-0.01728472658705217
+Computation:Experience,-0.02127659574468085
+Computation:Concept,-0.0030599755201958373
+Computation:Programming language,0.17727385583050567
+Computation:Definition,0.023255813953488372
+Computation:Implementation,-0.043410852713178294
+Computation:Syntax,0.009430929160861643
+Computation:Parsing,0.023074127906976744
+Computation:Semantics (computer science),0.05474060822898032
+Computation:Evaluation,-0.009950248756218905
+Computation:Map,-0.0064516129032258064
+Computation:Memory,0.054767441860465116
+Computation:Memory management,0.0063066614111154905
+Computation:Reachability,0.0
+Computation:Integrated development environment,0.023255813953488372
+Computation:Analysis,-0.01020408163265306
+Computation:Defensive programming,-0.02127659574468085
+Computation:Design,0.0
+Computation:Software system,-0.05
+Computation:System,0.0790372418279395
+Computation:Algorithm,0.18094523630907727
+Computation:Debugging,-0.02247191011235955
+Computation:Recursion,0.01493268053855569
+Computation:Divide-and-conquer algorithm,-0.01570522500755059
+Computation:Decomposition,0.0
+Computation:Abstract data type,-0.07526881720430108
+Computation:Data type,-0.023809523809523808
+Computation:Brute-force search,-0.023255813953488372
+Computation:Backtracking,-0.02552467385138968
+Computation:Heuristic,0.03651162790697674
+Computation:Event-driven programming,-0.03636363636363636
+Computation:Graphical user interface,0.008255813953488372
+Computation:Tool,0.0
+Computation:Software engineering,0.0018062768119214284
+Computation:Programming paradigm,-0.029375764993880046
+Computation:Productivity,0.0
+Computation:Version control,-0.0011344299489506535
+Computation:Construction,0.0
+Computation:Imperative programming,0.040192113245702724
+Computation:Test-driven development,0.0
+Computation:Inheritance (object-oriented programming),-0.0125
+Computation:Polymorphism (computer science),-0.0136986301369863
+Computation:Parametric polymorphism,0.0
+Computation:Boxing,0.0
+Computation:Library (computing),0.03076359641091375
+Computation:Hash table,-0.02158273381294964
+Computation:Theory,-0.009259259259259259
+Type system:Focus (linguistics),-0.030303030303030304
+Type system:Time,0.0
+Type system:Spacetime,0.0
+Type system:Space,0.0
+Type system:Space complexity,0.0
+Type system:Complexity,0.0
+Type system:Object (computer science),-0.00501833622852732
+Type system:Object-oriented programming,0.04395340720704999
+Type system:Language,0.0724569778779552
+Type system:Data,0.006966560509554139
+Type system:Data structure,-0.06154355198941186
+Type system:Software,-0.022490913670876966
+Type system:Engineering,0.006369426751592357
+Type system:Paradigm,0.0
+Type system:Computer programming,0.028551325729521557
+Type system:Formal methods,-0.037628613424791776
+Type system:Risk,0.0
+Type system:Understanding,0.0
+Type system:Experience,0.0
+Type system:Concept,0.003966923678623311
+Type system:Programming language,0.17127184532039805
+Type system:Definition,-0.00980392156862745
+Type system:Implementation,-0.06341118188251946
+Type system:Syntax,0.03536939739939534
+Type system:Parsing,-0.0016918789808917228
+Type system:Semantics (computer science),-0.1145516903478687
+Type system:Evaluation,0.0
+Type system:Map,0.0
+Type system:Memory,0.006369426751592357
+Type system:Memory management,0.07438194969232431
+Type system:Reachability,0.0
+Type system:Integrated development environment,-0.028352404035849155
+Type system:Analysis,-0.008936695697387234
+Type system:Defensive programming,-0.07873695622713105
+Type system:Design,0.012738853503184714
+Type system:Software system,0.00047770700636942665
+Type system:System,0.018484700013362436
+Type system:Algorithm,0.12060817752208752
+Type system:Debugging,-0.040435124883704286
+Type system:Recursion,-0.02715387194099899
+Type system:Divide-and-conquer algorithm,-0.00024815948382827385
+Type system:Decomposition,0.0
+Type system:Abstract data type,-0.09122662831312923
+Type system:Data type,0.10731978566373471
+Type system:Brute-force search,-0.023255813953488372
+Type system:Backtracking,-0.03604163430169334
+Type system:Heuristic,0.006369426751592357
+Type system:Event-driven programming,-0.03543717429067747
+Type system:Graphical user interface,0.06143312101910828
+Type system:Tool,0.0
+Type system:Software engineering,-0.00092758642013481
+Type system:Programming paradigm,-0.1342049390993407
+Type system:Productivity,0.0
+Type system:Version control,0.01965201180674227
+Type system:Construction,0.0
+Type system:Imperative programming,-0.13237330379396292
+Type system:Test-driven development,-0.04743895966029724
+Type system:Inheritance (object-oriented programming),-0.13511146496815288
+Type system:Polymorphism (computer science),-0.23165517843120145
+Type system:Parametric polymorphism,-0.4603471962033221
+Type system:Boxing,0.0
+Type system:Library (computing),-0.004614072922413365
+Type system:Hash table,-0.09127984236814371
+Type system:Theory,0.01313202799402375
+Definition:Focus (linguistics),0.0196078431372549
+Definition:Time,0.006238859180035651
+Definition:Spacetime,0.00980392156862745
+Definition:Space,0.008912655971479501
+Definition:Space complexity,0.0
+Definition:Complexity,-0.008333333333333333
+Definition:Object (computer science),-0.030303030303030304
+Definition:Object-oriented programming,-0.00684931506849315
+Definition:Language,0.03523954313335672
+Definition:Data,-0.010416666666666666
+Definition:Data structure,0.0
+Definition:Software,0.0196078431372549
+Definition:Engineering,0.0024329141976200796
+Definition:Paradigm,0.0095068330362448
+Definition:Computer programming,0.013793889648882809
+Definition:Formal methods,-0.007692307692307693
+Definition:Risk,0.00980392156862745
+Definition:Understanding,-0.02093269740328564
+Definition:Experience,0.029411764705882353
+Definition:Concept,0.03353973168214655
+Definition:Programming language,0.02585304584467239
+Definition:Definition,0.0
+Definition:Implementation,-0.044444444444444446
+Definition:Syntax,0.06862745098039216
+Definition:Parsing,0.00980392156862745
+Definition:Semantics (computer science),-0.036349924585218706
+Definition:Evaluation,0.0
+Definition:Map,0.00980392156862745
+Definition:Memory,0.0
+Definition:Memory management,-0.03389830508474576
+Definition:Reachability,0.0
+Definition:Integrated development environment,0.0
+Definition:Analysis,-0.00510204081632653
+Definition:Defensive programming,0.0
+Definition:Design,-0.014184397163120567
+Definition:Software system,0.0
+Definition:System,-0.013986013986013986
+Definition:Algorithm,0.013156230234029096
+Definition:Debugging,0.0
+Definition:Recursion,0.027966976264189886
+Definition:Divide-and-conquer algorithm,-0.003183091418385537
+Definition:Decomposition,0.0
+Definition:Abstract data type,0.0
+Definition:Data type,0.0
+Definition:Brute-force search,0.0
+Definition:Backtracking,-0.024390243902439025
+Definition:Heuristic,-0.01019607843137255
+Definition:Event-driven programming,0.0
+Definition:Graphical user interface,0.0
+Definition:Tool,0.0
+Definition:Software engineering,0.0
+Definition:Programming paradigm,-0.017543859649122806
+Definition:Productivity,0.0
+Definition:Version control,-0.012195121951219513
+Definition:Construction,0.004949552636588616
+Definition:Imperative programming,0.0
+Definition:Test-driven development,0.0
+Definition:Inheritance (object-oriented programming),-0.0125
+Definition:Polymorphism (computer science),0.0
+Definition:Parametric polymorphism,-0.0196078431372549
+Definition:Boxing,0.0
+Definition:Library (computing),0.0
+Definition:Hash table,0.0
+Definition:Theory,0.0010893246187363842
+Implementation:Focus (linguistics),0.0
+Implementation:Time,0.0
+Implementation:Spacetime,0.0
+Implementation:Space,0.022222222222222223
+Implementation:Space complexity,0.0
+Implementation:Complexity,0.005555555555555557
+Implementation:Object (computer science),0.0808080808080808
+Implementation:Object-oriented programming,0.16407914764079148
+Implementation:Language,0.02023415065164568
+Implementation:Data,0.023611111111111114
+Implementation:Data structure,0.05916305916305915
+Implementation:Software,0.14425612052730696
+Implementation:Engineering,0.10374010374010373
+Implementation:Paradigm,0.022222222222222223
+Implementation:Computer programming,0.11007751937984496
+Implementation:Formal methods,-0.023076923076923078
+Implementation:Risk,0.022222222222222223
+Implementation:Understanding,0.022222222222222223
+Implementation:Experience,0.0
+Implementation:Concept,0.0
+Implementation:Programming language,0.08975879794385132
+Implementation:Definition,0.044444444444444446
+Implementation:Implementation,0.0
+Implementation:Syntax,0.022222222222222223
+Implementation:Parsing,0.058854166666666666
+Implementation:Semantics (computer science),0.0735042735042735
+Implementation:Evaluation,0.07396351575456053
+Implementation:Map,0.015770609318996417
+Implementation:Memory,0.044444444444444446
+Implementation:Memory management,0.0
+Implementation:Reachability,0.0
+Implementation:Integrated development environment,0.10226155358898721
+Implementation:Analysis,0.044444444444444446
+Implementation:Defensive programming,0.0
+Implementation:Design,-0.006146572104018911
+Implementation:Software system,0.0611111111111111
+Implementation:System,0.09712509712509712
+Implementation:Algorithm,0.1870967741935484
+Implementation:Debugging,0.03320848938826467
+Implementation:Recursion,0.011695906432748539
+Implementation:Divide-and-conquer algorithm,0.009235209235209235
+Implementation:Decomposition,0.0
+Implementation:Abstract data type,-0.009318996415770608
+Implementation:Data type,0.04285714285714286
+Implementation:Brute-force search,-0.0010335917312661487
+Implementation:Backtracking,0.044444444444444446
+Implementation:Heuristic,0.056666666666666664
+Implementation:Event-driven programming,0.022222222222222223
+Implementation:Graphical user interface,0.0788888888888889
+Implementation:Tool,0.0
+Implementation:Software engineering,0.1389428263214671
+Implementation:Programming paradigm,0.07134502923976609
+Implementation:Productivity,0.0
+Implementation:Version control,0.06449864498644986
+Implementation:Construction,0.02988133764832794
+Implementation:Imperative programming,0.10072463768115941
+Implementation:Test-driven development,-0.03125
+Implementation:Inheritance (object-oriented programming),0.019444444444444445
+Implementation:Polymorphism (computer science),0.0033485540334855443
+Implementation:Parametric polymorphism,0.0026143790849673214
+Implementation:Boxing,0.0
+Implementation:Library (computing),0.025896762904636925
+Implementation:Hash table,0.007833733013589129
+Implementation:Theory,0.03827160493827161
+Syntax:Focus (linguistics),-0.19962295768747382
+Syntax:Time,-0.008021390374331552
+Syntax:Spacetime,0.0
+Syntax:Space,-0.016042780748663103
+Syntax:Space complexity,0.0
+Syntax:Complexity,-0.03333333333333333
+Syntax:Object (computer science),0.0
+Syntax:Object-oriented programming,-0.0273972602739726
+Syntax:Language,-0.08622000714606369
+Syntax:Data,-0.041666666666666664
+Syntax:Data structure,-0.03435274403016338
+Syntax:Software,-0.04058944518211877
+Syntax:Engineering,0.002151292473873119
+Syntax:Paradigm,-0.031187450542289254
+Syntax:Computer programming,-0.03488372093023256
+Syntax:Formal methods,-0.06770648706132577
+Syntax:Risk,0.0
+Syntax:Understanding,-0.07647278615020552
+Syntax:Experience,-0.031914893617021274
+Syntax:Concept,-0.03880669415474169
+Syntax:Programming language,-0.021532709054233566
+Syntax:Definition,-0.06862745098039216
+Syntax:Implementation,-0.022222222222222223
+Syntax:Syntax,0.0
+Syntax:Parsing,-0.14141705069124424
+Syntax:Semantics (computer science),-0.06770648706132577
+Syntax:Evaluation,-0.005708783272577206
+Syntax:Map,0.0
+Syntax:Memory,-0.010783410138248848
+Syntax:Memory management,0.0
+Syntax:Reachability,-0.03571428571428571
+Syntax:Integrated development environment,-0.02654867256637168
+Syntax:Analysis,-0.10714285714285714
+Syntax:Defensive programming,-0.02127659574468085
+Syntax:Design,-0.02127659574468085
+Syntax:Software system,-0.025
+Syntax:System,-0.03496503496503497
+Syntax:Algorithm,-0.040552995391705066
+Syntax:Debugging,-0.011235955056179775
+Syntax:Recursion,-0.0447247150133398
+Syntax:Divide-and-conquer algorithm,0.0
+Syntax:Decomposition,-0.005847953216374269
+Syntax:Abstract data type,-0.021505376344086023
+Syntax:Data type,-0.047619047619047616
+Syntax:Brute-force search,0.0
+Syntax:Backtracking,0.004608294930875576
+Syntax:Heuristic,-0.01
+Syntax:Event-driven programming,0.0
+Syntax:Graphical user interface,-0.015
+Syntax:Tool,-0.004566016995729929
+Syntax:Software engineering,0.0
+Syntax:Programming paradigm,-0.02631578947368421
+Syntax:Productivity,0.0
+Syntax:Version control,-0.04878048780487805
+Syntax:Construction,0.00411614692854906
+Syntax:Imperative programming,-0.06521739130434782
+Syntax:Test-driven development,-0.010416666666666666
+Syntax:Inheritance (object-oriented programming),-0.0125
+Syntax:Polymorphism (computer science),-0.0136986301369863
+Syntax:Parametric polymorphism,-0.0196078431372549
+Syntax:Boxing,-0.003389830508474576
+Syntax:Library (computing),-0.023622047244094488
+Syntax:Hash table,-0.014388489208633094
+Syntax:Theory,-0.031034875120896623
+Parsing:Focus (linguistics),-0.037642045454545456
+Parsing:Time,-0.00267379679144385
+Parsing:Spacetime,0.0
+Parsing:Space,0.0
+Parsing:Space complexity,-0.07142857142857142
+Parsing:Complexity,-0.041666666666666664
+Parsing:Object (computer science),0.008285984848484848
+Parsing:Object-oriented programming,0.017016267123287673
+Parsing:Language,0.06804485586481113
+Parsing:Data,-0.03125
+Parsing:Data structure,-0.00771103896103896
+Parsing:Software,-0.03738524011299435
+Parsing:Engineering,0.002898495085995086
+Parsing:Paradigm,0.0078125
+Parsing:Computer programming,0.00236191860465116
+Parsing:Formal methods,-0.0075721153846153855
+Parsing:Risk,0.0
+Parsing:Understanding,-0.01921452702702703
+Parsing:Experience,0.0
+Parsing:Concept,0.0078125
+Parsing:Programming language,0.18941837188612098
+Parsing:Definition,-0.00980392156862745
+Parsing:Implementation,-0.058854166666666666
+Parsing:Syntax,0.14141705069124424
+Parsing:Parsing,0.0
+Parsing:Semantics (computer science),-0.07620192307692308
+Parsing:Evaluation,0.0
+Parsing:Map,-0.0064516129032258064
+Parsing:Memory,0.015625
+Parsing:Memory management,0.015625
+Parsing:Reachability,-0.03571428571428571
+Parsing:Integrated development environment,0.0073285398230088505
+Parsing:Analysis,-0.01259566326530612
+Parsing:Defensive programming,-0.06382978723404255
+Parsing:Design,-0.0070921985815602835
+Parsing:Software system,-0.1
+Parsing:System,0.024256993006993008
+Parsing:Algorithm,0.10055443548387097
+Parsing:Debugging,-0.024929775280898875
+Parsing:Recursion,-0.003042763157894736
+Parsing:Divide-and-conquer algorithm,-0.06493506493506493
+Parsing:Decomposition,0.0
+Parsing:Abstract data type,-0.01663306451612903
+Parsing:Data type,-0.0008680555555555525
+Parsing:Brute-force search,-0.038517441860465115
+Parsing:Backtracking,0.06935975609756098
+Parsing:Heuristic,0.0134375
+Parsing:Event-driven programming,-0.010369318181818181
+Parsing:Graphical user interface,0.021249999999999998
+Parsing:Tool,0.0078125
+Parsing:Software engineering,0.0021237864077669893
+Parsing:Programming paradigm,-0.06332236842105263
+Parsing:Productivity,0.0
+Parsing:Version control,-0.04535060975609756
+Parsing:Construction,0.0
+Parsing:Imperative programming,-0.04789402173913043
+Parsing:Test-driven development,-0.03125
+Parsing:Inheritance (object-oriented programming),-0.0125
+Parsing:Polymorphism (computer science),-0.005886130136986301
+Parsing:Parametric polymorphism,-0.058823529411764705
+Parsing:Boxing,0.0
+Parsing:Library (computing),0.015255905511811024
+Parsing:Hash table,-0.02096447841726619
+Parsing:Theory,-0.009259259259259259
+Semantics (computer science):Focus (linguistics),-0.030303030303030304
+Semantics (computer science):Time,0.0
+Semantics (computer science):Spacetime,0.015384615384615385
+Semantics (computer science):Space,0.015384615384615385
+Semantics (computer science):Space complexity,-0.03571428571428571
+Semantics (computer science):Complexity,-0.008333333333333333
+Semantics (computer science):Object (computer science),-0.014219114219114218
+Semantics (computer science):Object-oriented programming,0.1195995785036881
+Semantics (computer science):Language,0.040189631442116534
+Semantics (computer science):Data,0.004967948717948719
+Semantics (computer science):Data structure,-0.05534465534465534
+Semantics (computer science):Software,0.08509343763581052
+Semantics (computer science):Engineering,0.012927612927612929
+Semantics (computer science):Paradigm,0.005283605283605284
+Semantics (computer science):Computer programming,0.06493738819320216
+Semantics (computer science):Formal methods,0.007692307692307693
+Semantics (computer science):Risk,0.015384615384615385
+Semantics (computer science):Understanding,-0.02702702702702703
+Semantics (computer science):Experience,-0.010638297872340425
+Semantics (computer science):Concept,0.004453441295546562
+Semantics (computer science):Programming language,0.1690117711470025
+Semantics (computer science):Definition,0.036349924585218706
+Semantics (computer science):Implementation,-0.0735042735042735
+Semantics (computer science):Syntax,0.06770648706132577
+Semantics (computer science):Parsing,0.07620192307692308
+Semantics (computer science):Semantics (computer science),0.0
+Semantics (computer science):Evaluation,0.0
+Semantics (computer science):Map,-0.0064516129032258064
+Semantics (computer science):Memory,0.0
+Semantics (computer science):Memory management,0.015384615384615385
+Semantics (computer science):Reachability,0.0
+Semantics (computer science):Integrated development environment,-0.004628999319264804
+Semantics (computer science):Analysis,7.849293563579399e-05
+Semantics (computer science):Defensive programming,0.0
+Semantics (computer science):Design,0.015384615384615385
+Semantics (computer science):Software system,0.03076923076923077
+Semantics (computer science):System,0.025174825174825177
+Semantics (computer science):Algorithm,0.17419354838709677
+Semantics (computer science):Debugging,0.03906655142610199
+Semantics (computer science):Recursion,0.0040485829959514205
+Semantics (computer science):Divide-and-conquer algorithm,-0.025974025974025976
+Semantics (computer science):Decomposition,0.0
+Semantics (computer science):Abstract data type,-0.06137303556658395
+Semantics (computer science):Data type,0.005006105006105016
+Semantics (computer science):Brute-force search,-0.046511627906976744
+Semantics (computer science):Backtracking,-0.024390243902439025
+Semantics (computer science):Heuristic,-0.01
+Semantics (computer science):Event-driven programming,-0.05454545454545454
+Semantics (computer science):Graphical user interface,-0.005
+Semantics (computer science):Tool,0.0
+Semantics (computer science):Software engineering,0.05914861837191935
+Semantics (computer science):Programming paradigm,0.008906882591093124
+Semantics (computer science):Productivity,0.0
+Semantics (computer science):Version control,-0.012195121951219513
+Semantics (computer science):Construction,0.0
+Semantics (computer science):Imperative programming,0.08411371237458196
+Semantics (computer science):Test-driven development,0.015384615384615385
+Semantics (computer science):Inheritance (object-oriented programming),-0.0038461538461538464
+Semantics (computer science):Polymorphism (computer science),-0.09251844046364593
+Semantics (computer science):Parametric polymorphism,-0.028054298642533934
+Semantics (computer science):Boxing,0.0
+Semantics (computer science):Library (computing),-0.0007268322228952129
+Semantics (computer science):Hash table,0.0019922523519645824
+Semantics (computer science):Theory,0.012250712250712253
+Documentation:Focus (linguistics),0.0
+Documentation:Time,0.0
+Documentation:Spacetime,0.0
+Documentation:Space,0.0
+Documentation:Space complexity,0.0
+Documentation:Complexity,-0.008333333333333333
+Documentation:Object (computer science),-0.015151515151515152
+Documentation:Object-oriented programming,-0.010273972602739725
+Documentation:Language,0.016129032258064516
+Documentation:Data,-0.020833333333333332
+Documentation:Data structure,0.0
+Documentation:Software,0.10725350829232731
+Documentation:Engineering,0.0038440199730522314
+Documentation:Paradigm,0.0
+Documentation:Computer programming,-0.01744186046511628
+Documentation:Formal methods,-0.015384615384615385
+Documentation:Risk,0.0
+Documentation:Understanding,0.016129032258064516
+Documentation:Experience,0.0
+Documentation:Concept,0.04838709677419355
+Documentation:Programming language,-0.014234875444839857
+Documentation:Definition,0.016129032258064516
+Documentation:Implementation,-0.06666666666666667
+Documentation:Syntax,0.0
+Documentation:Parsing,-0.0078125
+Documentation:Semantics (computer science),0.0
+Documentation:Evaluation,-0.004975124378109453
+Documentation:Map,0.016129032258064516
+Documentation:Memory,0.0
+Documentation:Memory management,0.0
+Documentation:Reachability,0.0
+Documentation:Integrated development environment,-0.017699115044247787
+Documentation:Analysis,0.0
+Documentation:Defensive programming,0.0
+Documentation:Design,0.020018302447952413
+Documentation:Software system,-0.008870967741935486
+Documentation:System,0.04838709677419355
+Documentation:Algorithm,0.0
+Documentation:Debugging,-0.056179775280898875
+Documentation:Recursion,-0.021052631578947368
+Documentation:Divide-and-conquer algorithm,0.0
+Documentation:Decomposition,0.0
+Documentation:Abstract data type,-0.021505376344086023
+Documentation:Data type,-0.015873015873015872
+Documentation:Brute-force search,0.0
+Documentation:Backtracking,0.0
+Documentation:Heuristic,0.0
+Documentation:Event-driven programming,-0.01818181818181818
+Documentation:Graphical user interface,0.016129032258064516
+Documentation:Tool,0.0
+Documentation:Software engineering,-0.035703100532414656
+Documentation:Programming paradigm,-0.017543859649122806
+Documentation:Productivity,0.0
+Documentation:Version control,0.023996852871754522
+Documentation:Construction,-0.009708737864077669
+Documentation:Imperative programming,-0.010869565217391304
+Documentation:Test-driven development,-0.0047043010752688165
+Documentation:Inheritance (object-oriented programming),0.0
+Documentation:Polymorphism (computer science),-0.0136986301369863
+Documentation:Parametric polymorphism,-0.0392156862745098
+Documentation:Boxing,0.0
+Documentation:Library (computing),0.024384048768097535
+Documentation:Hash table,-0.007194244604316547
+Documentation:Theory,-0.0030864197530864196
+Debugging:Focus (linguistics),0.0
+Debugging:Time,0.011235955056179775
+Debugging:Spacetime,0.0
+Debugging:Space,0.0
+Debugging:Space complexity,0.0
+Debugging:Complexity,-0.016666666666666666
+Debugging:Object (computer science),0.04102826012938372
+Debugging:Object-oriented programming,0.07372633523164537
+Debugging:Language,0.04295574865414256
+Debugging:Data,0.011235955056179775
+Debugging:Data structure,0.062162556544579015
+Debugging:Software,0.11756490827144035
+Debugging:Engineering,0.035115810396709274
+Debugging:Paradigm,0.011235955056179775
+Debugging:Computer programming,0.018944342827279845
+Debugging:Formal methods,0.002938634399308554
+Debugging:Risk,0.0
+Debugging:Understanding,0.0
+Debugging:Experience,0.0
+Debugging:Concept,0.0
+Debugging:Programming language,0.12639449798072694
+Debugging:Definition,0.0
+Debugging:Implementation,-0.03320848938826467
+Debugging:Syntax,0.011235955056179775
+Debugging:Parsing,0.024929775280898875
+Debugging:Semantics (computer science),-0.03906655142610199
+Debugging:Evaluation,0.0
+Debugging:Map,0.0
+Debugging:Memory,0.0
+Debugging:Memory management,0.06722529042087222
+Debugging:Reachability,0.0
+Debugging:Integrated development environment,0.0623446355772099
+Debugging:Analysis,0.006133914239853245
+Debugging:Defensive programming,-0.10518766435572555
+Debugging:Design,0.012431269423858474
+Debugging:Software system,-0.12752808988764044
+Debugging:System,0.03795081323171211
+Debugging:Algorithm,0.08977890540050742
+Debugging:Debugging,0.0
+Debugging:Recursion,-0.009107037256061504
+Debugging:Divide-and-conquer algorithm,-0.001751057930833213
+Debugging:Decomposition,0.0
+Debugging:Abstract data type,-0.03177479763199227
+Debugging:Data type,0.008560727661851258
+Debugging:Brute-force search,-0.046511627906976744
+Debugging:Backtracking,0.011235955056179775
+Debugging:Heuristic,-0.02
+Debugging:Event-driven programming,-0.06843718079673136
+Debugging:Graphical user interface,0.0848876404494382
+Debugging:Tool,0.011235955056179775
+Debugging:Software engineering,0.08116068506599759
+Debugging:Programming paradigm,-0.0027597082594125744
+Debugging:Productivity,0.0
+Debugging:Version control,-0.02822691148259797
+Debugging:Construction,0.0
+Debugging:Imperative programming,0.0025647288715192895
+Debugging:Test-driven development,-0.01591760299625468
+Debugging:Inheritance (object-oriented programming),-0.027528089887640453
+Debugging:Polymorphism (computer science),0.020009235031553024
+Debugging:Parametric polymorphism,-0.008371888081075127
+Debugging:Boxing,0.0
+Debugging:Library (computing),0.10333539768203132
+Debugging:Hash table,-0.017541023361086414
+Debugging:Theory,0.0
+Design:Focus (linguistics),0.0
+Design:Time,0.0
+Design:Spacetime,0.0
+Design:Space,-0.0213903743315508
+Design:Space complexity,0.0
+Design:Complexity,-0.003723404255319151
+Design:Object (computer science),-0.008059316569954868
+Design:Object-oriented programming,0.0288545613523754
+Design:Language,0.028368794326241134
+Design:Data,0.014184397163120567
+Design:Data structure,0.0011973841761075792
+Design:Software,0.05108787113835797
+Design:Engineering,0.07304790283513689
+Design:Paradigm,0.004083387062110465
+Design:Computer programming,0.033481774698993896
+Design:Formal methods,-0.015384615384615385
+Design:Risk,0.0019375594063025517
+Design:Understanding,0.0070921985815602835
+Design:Experience,-0.0035460992907801418
+Design:Concept,0.01959686450167973
+Design:Programming language,0.010600439161050957
+Design:Definition,0.014184397163120567
+Design:Implementation,0.006146572104018911
+Design:Syntax,0.02127659574468085
+Design:Parsing,0.0070921985815602835
+Design:Semantics (computer science),-0.015384615384615385
+Design:Evaluation,-0.0014819519424155818
+Design:Map,-0.025165865934568748
+Design:Memory,0.0
+Design:Memory management,0.0
+Design:Reachability,0.0
+Design:Integrated development environment,0.0
+Design:Analysis,0.01617455492835432
+Design:Defensive programming,-0.02127659574468085
+Design:Design,0.0
+Design:Software system,-0.010815602836879434
+Design:System,0.04324753260923473
+Design:Algorithm,0.046419583619309084
+Design:Debugging,-0.012431269423858474
+Design:Recursion,0.0
+Design:Divide-and-conquer algorithm,-0.005894814405452704
+Design:Decomposition,0.0
+Design:Abstract data type,-0.043010752688172046
+Design:Data type,0.0
+Design:Brute-force search,0.0
+Design:Backtracking,0.0
+Design:Heuristic,0.014184397163120567
+Design:Event-driven programming,-0.01818181818181818
+Design:Graphical user interface,0.0033687943262411327
+Design:Tool,-0.0020821133450452216
+Design:Software engineering,-0.008607037113544033
+Design:Programming paradigm,-0.008771929824561403
+Design:Productivity,-0.00030835646006783894
+Design:Version control,-0.010205846739318458
+Design:Construction,-0.03026234249122082
+Design:Imperative programming,-0.010869565217391304
+Design:Test-driven development,-0.013741134751773049
+Design:Inheritance (object-oriented programming),-0.0125
+Design:Polymorphism (computer science),-0.0136986301369863
+Design:Parametric polymorphism,0.0
+Design:Boxing,0.0
+Design:Library (computing),-0.007874015748031496
+Design:Hash table,0.0
+Design:Theory,0.03112687155240347
+Decomposition:Focus (linguistics),0.0
+Decomposition:Time,0.014870062857678955
+Decomposition:Spacetime,0.005847953216374269
+Decomposition:Space,0.005847953216374269
+Decomposition:Space complexity,0.0
+Decomposition:Complexity,0.0
+Decomposition:Object (computer science),0.0
+Decomposition:Object-oriented programming,0.0
+Decomposition:Language,0.0
+Decomposition:Data,-0.010416666666666666
+Decomposition:Data structure,0.0
+Decomposition:Software,0.0
+Decomposition:Engineering,0.00923890397574608
+Decomposition:Paradigm,0.005847953216374269
+Decomposition:Computer programming,0.0
+Decomposition:Formal methods,0.0
+Decomposition:Risk,0.0
+Decomposition:Understanding,0.0
+Decomposition:Experience,0.0
+Decomposition:Concept,0.0
+Decomposition:Programming language,0.0
+Decomposition:Definition,0.0
+Decomposition:Implementation,0.0
+Decomposition:Syntax,0.005847953216374269
+Decomposition:Parsing,0.0
+Decomposition:Semantics (computer science),0.0
+Decomposition:Evaluation,0.0
+Decomposition:Map,0.0
+Decomposition:Memory,0.005847953216374269
+Decomposition:Memory management,0.0
+Decomposition:Reachability,0.0
+Decomposition:Integrated development environment,0.0
+Decomposition:Analysis,-0.00510204081632653
+Decomposition:Defensive programming,0.0
+Decomposition:Design,0.0
+Decomposition:Software system,0.0
+Decomposition:System,0.016398805872490083
+Decomposition:Algorithm,0.005847953216374269
+Decomposition:Debugging,0.0
+Decomposition:Recursion,0.0
+Decomposition:Divide-and-conquer algorithm,0.0
+Decomposition:Decomposition,0.0
+Decomposition:Abstract data type,0.0
+Decomposition:Data type,0.0
+Decomposition:Brute-force search,0.0
+Decomposition:Backtracking,0.0
+Decomposition:Heuristic,0.0
+Decomposition:Event-driven programming,0.0
+Decomposition:Graphical user interface,0.0
+Decomposition:Tool,-0.01834862385321101
+Decomposition:Software engineering,0.0
+Decomposition:Programming paradigm,0.0
+Decomposition:Productivity,0.0
+Decomposition:Version control,0.0
+Decomposition:Construction,0.006841537500709703
+Decomposition:Imperative programming,0.0
+Decomposition:Test-driven development,0.0
+Decomposition:Inheritance (object-oriented programming),0.0
+Decomposition:Polymorphism (computer science),0.0
+Decomposition:Parametric polymorphism,0.0
+Decomposition:Boxing,0.0024581227078996925
+Decomposition:Library (computing),0.0
+Decomposition:Hash table,0.0
+Decomposition:Theory,-0.0030864197530864196
+Brute-force search:Focus (linguistics),0.0
+Brute-force search:Time,0.0
+Brute-force search:Spacetime,0.0
+Brute-force search:Space,0.023255813953488372
+Brute-force search:Space complexity,-0.10714285714285714
+Brute-force search:Complexity,0.006589147286821705
+Brute-force search:Object (computer science),0.0
+Brute-force search:Object-oriented programming,0.03623765530423702
+Brute-force search:Language,0.02126774238291183
+Brute-force search:Data,0.023255813953488372
+Brute-force search:Data structure,0.0670492298399275
+Brute-force search:Software,0.06411772434634082
+Brute-force search:Engineering,0.06976744186046512
+Brute-force search:Paradigm,0.03641061780596664
+Brute-force search:Computer programming,0.040697674418604654
+Brute-force search:Formal methods,0.0
+Brute-force search:Risk,-0.005154639175257732
+Brute-force search:Understanding,-0.013513513513513514
+Brute-force search:Experience,0.0
+Brute-force search:Concept,0.0
+Brute-force search:Programming language,0.06620872299925515
+Brute-force search:Definition,0.0
+Brute-force search:Implementation,0.0010335917312661487
+Brute-force search:Syntax,0.0
+Brute-force search:Parsing,0.038517441860465115
+Brute-force search:Semantics (computer science),0.046511627906976744
+Brute-force search:Evaluation,0.0
+Brute-force search:Map,0.0
+Brute-force search:Memory,0.023255813953488372
+Brute-force search:Memory management,-0.01694915254237288
+Brute-force search:Reachability,-0.03571428571428571
+Brute-force search:Integrated development environment,0.023255813953488372
+Brute-force search:Analysis,-0.01020408163265306
+Brute-force search:Defensive programming,0.0
+Brute-force search:Design,0.0
+Brute-force search:Software system,0.0
+Brute-force search:System,-0.006993006993006993
+Brute-force search:Algorithm,0.33728432108027007
+Brute-force search:Debugging,0.046511627906976744
+Brute-force search:Recursion,0.0824969400244798
+Brute-force search:Divide-and-conquer algorithm,-0.008154636061612805
+Brute-force search:Decomposition,0.0
+Brute-force search:Abstract data type,-0.010752688172043012
+Brute-force search:Data type,-0.007936507936507936
+Brute-force search:Brute-force search,0.0
+Brute-force search:Backtracking,-0.009075439591605228
+Brute-force search:Heuristic,0.14279069767441863
+Brute-force search:Event-driven programming,0.0
+Brute-force search:Graphical user interface,0.06976744186046512
+Brute-force search:Tool,0.0
+Brute-force search:Software engineering,0.03680289004289908
+Brute-force search:Programming paradigm,-0.017543859649122806
+Brute-force search:Productivity,0.0
+Brute-force search:Version control,0.0
+Brute-force search:Construction,0.0
+Brute-force search:Imperative programming,0.06976744186046512
+Brute-force search:Test-driven development,0.0
+Brute-force search:Inheritance (object-oriented programming),0.0
+Brute-force search:Polymorphism (computer science),0.0
+Brute-force search:Parametric polymorphism,0.0
+Brute-force search:Boxing,0.0
+Brute-force search:Library (computing),0.023255813953488372
+Brute-force search:Hash table,0.017734649489710555
+Brute-force search:Theory,-0.006172839506172839
+Backtracking:Focus (linguistics),0.0
+Backtracking:Time,0.024390243902439025
+Backtracking:Spacetime,0.0
+Backtracking:Space,0.0
+Backtracking:Space complexity,-0.07142857142857142
+Backtracking:Complexity,-0.016666666666666666
+Backtracking:Object (computer science),0.024390243902439025
+Backtracking:Object-oriented programming,0.09071166054126295
+Backtracking:Language,0.0975609756097561
+Backtracking:Data,0.038363821138211386
+Backtracking:Data structure,0.03420969274627811
+Backtracking:Software,0.03748105277662946
+Backtracking:Engineering,0.07317073170731707
+Backtracking:Paradigm,0.024390243902439025
+Backtracking:Computer programming,0.04410096426545661
+Backtracking:Formal methods,0.024390243902439025
+Backtracking:Risk,0.0
+Backtracking:Understanding,-0.013513513513513514
+Backtracking:Experience,0.0
+Backtracking:Concept,0.0
+Backtracking:Programming language,0.19815988195469142
+Backtracking:Definition,0.024390243902439025
+Backtracking:Implementation,-0.044444444444444446
+Backtracking:Syntax,-0.004608294930875576
+Backtracking:Parsing,-0.06935975609756098
+Backtracking:Semantics (computer science),0.024390243902439025
+Backtracking:Evaluation,0.0
+Backtracking:Map,0.0
+Backtracking:Memory,0.024390243902439025
+Backtracking:Memory management,0.04878048780487805
+Backtracking:Reachability,0.0
+Backtracking:Integrated development environment,0.0
+Backtracking:Analysis,-0.015306122448979591
+Backtracking:Defensive programming,0.0
+Backtracking:Design,0.0
+Backtracking:Software system,-0.025
+Backtracking:System,0.024390243902439025
+Backtracking:Algorithm,0.19551534225019668
+Backtracking:Debugging,-0.011235955056179775
+Backtracking:Recursion,0.10089858793324775
+Backtracking:Divide-and-conquer algorithm,-0.05511561609122585
+Backtracking:Decomposition,0.0
+Backtracking:Abstract data type,-0.03225806451612903
+Backtracking:Data type,0.06523422377080913
+Backtracking:Brute-force search,0.009075439591605228
+Backtracking:Backtracking,0.0
+Backtracking:Heuristic,0.13634146341463413
+Backtracking:Event-driven programming,0.024390243902439025
+Backtracking:Graphical user interface,0.019390243902439024
+Backtracking:Tool,0.0
+Backtracking:Software engineering,0.004972768174283687
+Backtracking:Programming paradigm,0.03808301240907146
+Backtracking:Productivity,0.0
+Backtracking:Version control,-0.012195121951219513
+Backtracking:Construction,0.0
+Backtracking:Imperative programming,0.07582184517497349
+Backtracking:Test-driven development,0.0
+Backtracking:Inheritance (object-oriented programming),0.0
+Backtracking:Polymorphism (computer science),-0.0136986301369863
+Backtracking:Parametric polymorphism,0.0
+Backtracking:Boxing,0.0
+Backtracking:Library (computing),0.01651622815440753
+Backtracking:Hash table,0.024390243902439025
+Backtracking:Theory,0.0
+Heuristic:Focus (linguistics),0.0
+Heuristic:Time,-0.0106951871657754
+Heuristic:Spacetime,0.0061751152073732715
+Heuristic:Space,-0.016042780748663103
+Heuristic:Space complexity,-0.03571428571428571
+Heuristic:Complexity,-0.030000000000000002
+Heuristic:Object (computer science),0.0
+Heuristic:Object-oriented programming,-0.010273972602739725
+Heuristic:Language,0.014035785288270378
+Heuristic:Data,-0.020833333333333332
+Heuristic:Data structure,-0.015974025974025974
+Heuristic:Software,0.014350282485875707
+Heuristic:Engineering,0.04508599508599509
+Heuristic:Paradigm,-0.020505050505050505
+Heuristic:Computer programming,0.008372093023255815
+Heuristic:Formal methods,-0.007692307692307693
+Heuristic:Risk,0.014226804123711342
+Heuristic:Understanding,-0.06756756756756757
+Heuristic:Experience,-0.01127659574468085
+Heuristic:Concept,-0.008771929824561403
+Heuristic:Programming language,-0.0006761565836298934
+Heuristic:Definition,0.01019607843137255
+Heuristic:Implementation,-0.056666666666666664
+Heuristic:Syntax,0.01
+Heuristic:Parsing,-0.0134375
+Heuristic:Semantics (computer science),0.01
+Heuristic:Evaluation,-0.004925373134328358
+Heuristic:Map,0.02
+Heuristic:Memory,0.045000000000000005
+Heuristic:Memory management,-0.01694915254237288
+Heuristic:Reachability,0.0
+Heuristic:Integrated development environment,-0.017699115044247787
+Heuristic:Analysis,-0.015306122448979591
+Heuristic:Defensive programming,0.0
+Heuristic:Design,-0.014184397163120567
+Heuristic:Software system,0.0
+Heuristic:System,0.006013986013986014
+Heuristic:Algorithm,0.07806451612903226
+Heuristic:Debugging,0.02
+Heuristic:Recursion,0.009473684210526316
+Heuristic:Divide-and-conquer algorithm,-0.008961038961038961
+Heuristic:Decomposition,0.0
+Heuristic:Abstract data type,-0.021505376344086023
+Heuristic:Data type,-0.007936507936507936
+Heuristic:Brute-force search,-0.14279069767441863
+Heuristic:Backtracking,-0.13634146341463413
+Heuristic:Heuristic,0.0
+Heuristic:Event-driven programming,-0.01818181818181818
+Heuristic:Graphical user interface,0.0
+Heuristic:Tool,0.0
+Heuristic:Software engineering,0.00029126213592233115
+Heuristic:Programming paradigm,-0.02631578947368421
+Heuristic:Productivity,0.01
+Heuristic:Version control,-0.012195121951219513
+Heuristic:Construction,0.005145631067961166
+Heuristic:Imperative programming,-0.02260869565217391
+Heuristic:Test-driven development,-0.010416666666666666
+Heuristic:Inheritance (object-oriented programming),-0.0125
+Heuristic:Polymorphism (computer science),0.0
+Heuristic:Parametric polymorphism,0.0
+Heuristic:Boxing,-0.003389830508474576
+Heuristic:Library (computing),0.0021259842519685043
+Heuristic:Hash table,-0.02158273381294964
+Heuristic:Theory,0.024567901234567903
+Dynamic programming:Focus (linguistics),0.0
+Dynamic programming:Time,0.0
+Dynamic programming:Spacetime,0.006896551724137931
+Dynamic programming:Space,0.006896551724137931
+Dynamic programming:Space complexity,-0.09334975369458128
+Dynamic programming:Complexity,-0.025
+Dynamic programming:Object (computer science),0.005538140020898641
+Dynamic programming:Object-oriented programming,0.03800188946622579
+Dynamic programming:Language,0.025598135325975182
+Dynamic programming:Data,-0.003520114942528735
+Dynamic programming:Data structure,-0.003672189879086435
+Dynamic programming:Software,0.016286771868303136
+Dynamic programming:Engineering,0.034482758620689655
+Dynamic programming:Paradigm,0.006896551724137931
+Dynamic programming:Computer programming,0.019206094627105052
+Dynamic programming:Formal methods,0.0
+Dynamic programming:Risk,0.013793103448275862
+Dynamic programming:Understanding,-0.013513513513513514
+Dynamic programming:Experience,0.0
+Dynamic programming:Concept,0.0
+Dynamic programming:Programming language,0.06184807951895938
+Dynamic programming:Definition,-0.00290736984448952
+Dynamic programming:Implementation,-0.044444444444444446
+Dynamic programming:Syntax,0.013793103448275862
+Dynamic programming:Parsing,0.03679956896551724
+Dynamic programming:Semantics (computer science),0.006896551724137931
+Dynamic programming:Evaluation,0.0
+Dynamic programming:Map,0.0
+Dynamic programming:Memory,0.006896551724137931
+Dynamic programming:Memory management,0.0037405026300409115
+Dynamic programming:Reachability,-0.10714285714285714
+Dynamic programming:Integrated development environment,0.004943545926151968
+Dynamic programming:Analysis,-0.00510204081632653
+Dynamic programming:Defensive programming,0.0
+Dynamic programming:Design,-0.007287845438982636
+Dynamic programming:Software system,0.0
+Dynamic programming:System,0.02059319990354473
+Dynamic programming:Algorithm,0.16307007786429367
+Dynamic programming:Debugging,-0.015575358388221619
+Dynamic programming:Recursion,0.033756805807622504
+Dynamic programming:Divide-and-conquer algorithm,-0.042633228840125395
+Dynamic programming:Decomposition,0.0
+Dynamic programming:Abstract data type,-0.046866889136077124
+Dynamic programming:Data type,0.011713191023535852
+Dynamic programming:Brute-force search,-0.05421010425020048
+Dynamic programming:Backtracking,-0.08057190916736753
+Dynamic programming:Heuristic,0.014482758620689654
+Dynamic programming:Event-driven programming,0.0
+Dynamic programming:Graphical user interface,0.041379310344827586
+Dynamic programming:Tool,0.0
+Dynamic programming:Software engineering,0.017877469032474055
+Dynamic programming:Programming paradigm,-0.011252268602540832
+Dynamic programming:Productivity,0.006896551724137931
+Dynamic programming:Version control,0.006896551724137931
+Dynamic programming:Construction,-0.0048543689320388345
+Dynamic programming:Imperative programming,0.03740629685157421
+Dynamic programming:Test-driven development,0.0
+Dynamic programming:Inheritance (object-oriented programming),-0.00560344827586207
+Dynamic programming:Polymorphism (computer science),-0.00680207841284837
+Dynamic programming:Parametric polymorphism,0.0
+Dynamic programming:Boxing,0.0
+Dynamic programming:Library (computing),0.012815639424382297
+Dynamic programming:Hash table,-0.02247581245348549
+Dynamic programming:Theory,0.0038101319710515114
+Intellectual property:Focus (linguistics),0.0
+Intellectual property:Time,0.016194127736858036
+Intellectual property:Spacetime,0.0
+Intellectual property:Space,-0.004405878989674771
+Intellectual property:Space complexity,0.0
+Intellectual property:Complexity,-0.002044025157232704
+Intellectual property:Object (computer science),-0.015151515151515152
+Intellectual property:Object-oriented programming,0.0
+Intellectual property:Language,0.018867924528301886
+Intellectual property:Data,-0.014544025157232703
+Intellectual property:Data structure,-0.012987012987012988
+Intellectual property:Software,0.04786270120456241
+Intellectual property:Engineering,0.016704526138488402
+Intellectual property:Paradigm,0.0
+Intellectual property:Computer programming,-0.005338598800643557
+Intellectual property:Formal methods,-0.015384615384615385
+Intellectual property:Risk,-0.010309278350515464
+Intellectual property:Understanding,0.012578616352201259
+Intellectual property:Experience,-0.031914893617021274
+Intellectual property:Concept,0.0038066865276398555
+Intellectual property:Programming language,-0.0008281295463192992
+Intellectual property:Definition,0.0
+Intellectual property:Implementation,0.006289308176100629
+Intellectual property:Syntax,0.006289308176100629
+Intellectual property:Parsing,0.0
+Intellectual property:Semantics (computer science),0.0
+Intellectual property:Evaluation,-0.008636064958227729
+Intellectual property:Map,0.006289308176100629
+Intellectual property:Memory,-0.005
+Intellectual property:Memory management,-0.01694915254237288
+Intellectual property:Reachability,0.0
+Intellectual property:Integrated development environment,-0.017699115044247787
+Intellectual property:Analysis,0.001187267359774099
+Intellectual property:Defensive programming,-0.02127659574468085
+Intellectual property:Design,0.0014719657433426986
+Intellectual property:Software system,-0.018710691823899374
+Intellectual property:System,0.011874917535294894
+Intellectual property:Algorithm,0.009352809900588356
+Intellectual property:Debugging,-0.033707865168539325
+Intellectual property:Recursion,-0.010526315789473684
+Intellectual property:Divide-and-conquer algorithm,0.0
+Intellectual property:Decomposition,-0.005847953216374269
+Intellectual property:Abstract data type,0.0
+Intellectual property:Data type,0.0
+Intellectual property:Brute-force search,0.0
+Intellectual property:Backtracking,0.0
+Intellectual property:Heuristic,-0.03
+Intellectual property:Event-driven programming,0.0
+Intellectual property:Graphical user interface,-0.015
+Intellectual property:Tool,0.006289308176100629
+Intellectual property:Software engineering,-0.038834951456310676
+Intellectual property:Programming paradigm,0.0
+Intellectual property:Productivity,0.006289308176100629
+Intellectual property:Version control,-0.012195121951219513
+Intellectual property:Construction,0.009159186664224217
+Intellectual property:Imperative programming,-0.010869565217391304
+Intellectual property:Test-driven development,0.0
+Intellectual property:Inheritance (object-oriented programming),0.0
+Intellectual property:Polymorphism (computer science),0.0
+Intellectual property:Parametric polymorphism,0.0
+Intellectual property:Boxing,0.0
+Intellectual property:Library (computing),0.01099390878027039
+Intellectual property:Hash table,0.0
+Intellectual property:Theory,-0.006056370836245049
+Property:Focus (linguistics),0.0
+Property:Time,-0.009507980096215389
+Property:Spacetime,-0.004608294930875576
+Property:Space,-0.0213903743315508
+Property:Space complexity,0.0
+Property:Complexity,-0.025
+Property:Object (computer science),0.0
+Property:Object-oriented programming,0.0
+Property:Language,0.00550365759113274
+Property:Data,-0.002694658944658944
+Property:Data structure,0.0
+Property:Software,0.011583011583011582
+Property:Engineering,0.00035100035100035093
+Property:Paradigm,-0.0023790023790023797
+Property:Computer programming,0.0
+Property:Formal methods,0.0
+Property:Risk,0.011583011583011582
+Property:Understanding,-0.009652509652509654
+Property:Experience,0.007722007722007722
+Property:Concept,-0.0020998442051073617
+Property:Programming language,0.0
+Property:Definition,-0.029411764705882353
+Property:Implementation,0.003861003861003861
+Property:Syntax,0.007722007722007722
+Property:Parsing,0.0
+Property:Semantics (computer science),0.0
+Property:Evaluation,-0.021014618029543405
+Property:Map,-0.0064516129032258064
+Property:Memory,0.015444015444015444
+Property:Memory management,0.0
+Property:Reachability,0.0
+Property:Integrated development environment,0.0
+Property:Analysis,-0.006343077771649199
+Property:Defensive programming,-0.0425531914893617
+Property:Design,0.004490813001451299
+Property:Software system,-0.05
+Property:System,-0.0033480033480033505
+Property:Algorithm,0.0006351974093909579
+Property:Debugging,0.0
+Property:Recursion,0.0
+Property:Divide-and-conquer algorithm,0.0
+Property:Decomposition,-0.0019869493553704076
+Property:Abstract data type,0.0
+Property:Data type,0.003861003861003861
+Property:Brute-force search,0.0
+Property:Backtracking,0.0
+Property:Heuristic,-0.01613899613899614
+Property:Event-driven programming,0.0
+Property:Graphical user interface,0.0
+Property:Tool,0.023166023166023165
+Property:Software engineering,-0.009708737864077669
+Property:Programming paradigm,0.0
+Property:Productivity,0.023166023166023165
+Property:Version control,0.0
+Property:Construction,-0.020410840799190314
+Property:Imperative programming,0.0
+Property:Test-driven development,0.0
+Property:Inheritance (object-oriented programming),0.0
+Property:Polymorphism (computer science),-0.0136986301369863
+Property:Parametric polymorphism,-0.0196078431372549
+Property:Boxing,0.0
+Property:Library (computing),0.0
+Property:Hash table,0.0
+Property:Theory,0.012369512369512371

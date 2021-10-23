@@ -72,7 +72,7 @@ class SemRefD:
         self.wfunc = weightfunc
         config = configparser.ConfigParser()
         config.read('config.cfg')
-        self.virtuoso = config.get('Virtuoso', 'endpoint')
+        self.virtuoso = config.get('Virtuoso2', 'endpoint')
         self.indiConcepta = [] #Save the resources that point to the concept a
         self.indiConceptb = [] #Save the resources that point to the concept b
 
@@ -83,7 +83,7 @@ class SemRefD:
 
     def capturarIndicadores(self):
         consultainidi = self.fun_indi % (self.limpiaRecursos(self.concepta))
-        print(consultainidi)
+        # print(consultainidi)
         resultoCC=self.consulta(consultainidi)
         for resul in resultoCC['results']['bindings']:
             recurso = resul['s1']['value']
@@ -91,29 +91,29 @@ class SemRefD:
 
 
         consultaneight = self.fun_neigh % (self.limpiaRecursos(self.concepta))
-        print(consultaneight)
+        # print(consultaneight)
         resultoCC=self.consulta(consultaneight)
         for resul in resultoCC['results']['bindings']:
             recurso = resul['o1']['value']
             self.neighConcepta.append(recurso)
 
         consultainidi = self.fun_indi % (self.limpiaRecursos(self.conceptb))
-        print(consultainidi)
+        # print(consultainidi)
         resultoCC=self.consulta(consultainidi)
         for resul in resultoCC['results']['bindings']:
             recurso = resul['s1']['value']
             self.indiConceptb.append(recurso)
 
         consultaneight = self.fun_neigh % (self.limpiaRecursos(self.conceptb))
-        print(consultaneight)
+        # print(consultaneight)
         resultoCC=self.consulta(consultaneight)
         for resul in resultoCC['results']['bindings']:
             recurso = resul['o1']['value']
-            print(recurso)
             self.neighConceptb.append(recurso)
 
         #After recovering the redirects there may be duplicates in INDIS
         self.indiConcepta = list(set(self.indiConcepta))
+        # print(self.indiConcepta)
         self.indiConceptb = list(set(self.indiConceptb))
 
         if not self.indiConcepta:
@@ -224,6 +224,7 @@ class SemRefD:
         sparql.setQuery(sqlQuery)
         results = sparql.query()
         results = results.convert()
+        # print(results)
         return results
 
     def limpiaRecursos(self, recursoDirty):
@@ -233,13 +234,13 @@ class SemRefD:
             recursoDirty = "http://dbpedia.org/resource/" + recursoDirty
         recursoClean = "<" + recursoDirty + ">"
         return recursoClean
-concept = "Artificial Intelligence"
-conceptb = "Machine Learning"
-# try:
-print(concept + " " + conceptb)
-mmss = SemRefD(concept, conceptb, "equals")
-refdE = mmss.calculaRefD()
-
-print(conceptb + " - " + concept + " : " + str(refdE))
+# concept = "Binary tree"
+# conceptb = "Data structure"
+# # try:
+# print(concept + " " + conceptb)
+# mmss = SemRefD(concept, conceptb, "equals")
+# refdE = mmss.calculaRefD()
+#
+# print(conceptb + " - " + concept + " : " + str(refdE))
 # except Exception as e:
 #     print(e)
