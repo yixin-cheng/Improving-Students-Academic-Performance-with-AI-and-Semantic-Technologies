@@ -1,0 +1,106 @@
+0,1
+Computer security:System,0.01803663167299531
+Computer security:Vulnerability (computing),-0.1652256834075016
+Computer security:Knowledge,0.004132231404958678
+Computer security:Information,4.260032376246156e-05
+Computer security:Computer security,0.0
+Computer security:Cyberattack,-0.1779709318894272
+Computer security:Understanding,-0.013513513513513514
+Computer security:Abstraction,0.0
+Computer security:Computer hardware,0.03715796685650666
+Computer security:Cloud,0.0
+Computer security:Architecture,0.003573675191427518
+Computer security:Security,-0.09306827488645669
+Computer security:Exercise,0.0
+Computer security:Reverse engineering,-0.00565463244889082
+Computer security:Engineering,0.0055228862047043865
+Design:System,0.028424976700838767
+Design:Vulnerability (computing),-0.007692307692307693
+Design:Knowledge,0.040757065076484314
+Design:Information,0.037966583718450055
+Design:Computer security,-0.0034340267882587636
+Design:Cyberattack,0.0
+Design:Understanding,0.006896551724137931
+Design:Abstraction,0.0010542499450911479
+Design:Computer hardware,0.010326960871895658
+Design:Cloud,0.0
+Design:Architecture,0.12449995474703594
+Design:Security,0.006896551724137931
+Design:Exercise,0.0
+Design:Reverse engineering,-0.001996370235934665
+Design:Engineering,0.04815981432360743
+Principle of least privilege:System,0.015384615384615385
+Principle of least privilege:Vulnerability (computing),0.03076923076923077
+Principle of least privilege:Knowledge,0.015384615384615385
+Principle of least privilege:Information,0.03076923076923077
+Principle of least privilege:Computer security,0.17727272727272728
+Principle of least privilege:Cyberattack,-0.020689655172413793
+Principle of least privilege:Understanding,0.0
+Principle of least privilege:Abstraction,0.0
+Principle of least privilege:Computer hardware,0.13846153846153847
+Principle of least privilege:Cloud,0.0
+Principle of least privilege:Architecture,0.0
+Principle of least privilege:Security,-0.02702702702702703
+Principle of least privilege:Exercise,0.0
+Principle of least privilege:Reverse engineering,0.04089068825910931
+Principle of least privilege:Engineering,0.03076923076923077
+Encapsulation (computer programming):System,-0.013513513513513514
+Encapsulation (computer programming):Vulnerability (computing),0.0
+Encapsulation (computer programming):Knowledge,0.0
+Encapsulation (computer programming):Information,0.0
+Encapsulation (computer programming):Computer security,0.05405405405405406
+Encapsulation (computer programming):Cyberattack,0.0
+Encapsulation (computer programming):Understanding,0.0
+Encapsulation (computer programming):Abstraction,0.0
+Encapsulation (computer programming):Computer hardware,0.0
+Encapsulation (computer programming):Cloud,0.0
+Encapsulation (computer programming):Architecture,-0.0026246719160104987
+Encapsulation (computer programming):Security,0.0
+Encapsulation (computer programming):Exercise,0.0
+Encapsulation (computer programming):Reverse engineering,0.0
+Encapsulation (computer programming):Engineering,0.0
+Knowledge:System,0.004572241414346673
+Knowledge:Vulnerability (computing),-0.023076923076923078
+Knowledge:Knowledge,0.0
+Knowledge:Information,-0.01201457251375862
+Knowledge:Computer security,-0.004132231404958678
+Knowledge:Cyberattack,-0.013793103448275862
+Knowledge:Understanding,-0.04348709611867507
+Knowledge:Abstraction,-0.02839902303529525
+Knowledge:Computer hardware,0.0
+Knowledge:Cloud,0.0
+Knowledge:Architecture,-0.008584453259132083
+Knowledge:Security,-0.018018018018018018
+Knowledge:Exercise,0.0
+Knowledge:Reverse engineering,-0.005263157894736842
+Knowledge:Engineering,0.0060367264314632706
+Understanding:System,0.033783783783783786
+Understanding:Vulnerability (computing),0.0
+Understanding:Knowledge,0.04348709611867507
+Understanding:Information,0.03023126219002508
+Understanding:Computer security,0.013513513513513514
+Understanding:Cyberattack,0.0
+Understanding:Understanding,0.0
+Understanding:Abstraction,0.0015493200206576005
+Understanding:Computer hardware,0.02702702702702703
+Understanding:Cloud,0.0
+Understanding:Architecture,-0.0026246719160104987
+Understanding:Security,0.0
+Understanding:Exercise,0.0
+Understanding:Reverse engineering,0.013513513513513514
+Understanding:Engineering,0.024623180873180876
+Thread (computing):System,0.019736842105263157
+Thread (computing):Vulnerability (computing),0.013157894736842105
+Thread (computing):Knowledge,0.0
+Thread (computing):Information,0.0014243081931633204
+Thread (computing):Computer security,0.05714441061331013
+Thread (computing):Cyberattack,0.0
+Thread (computing):Understanding,0.0
+Thread (computing):Abstraction,-0.006369426751592357
+Thread (computing):Computer hardware,0.023929642759749112
+Thread (computing):Cloud,0.0
+Thread (computing):Architecture,0.0
+Thread (computing):Security,0.0
+Thread (computing):Exercise,0.0
+Thread (computing):Reverse engineering,0.013157894736842105
+Thread (computing):Engineering,0.006578947368421052
