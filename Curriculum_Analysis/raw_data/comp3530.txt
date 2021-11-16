@@ -1,0 +1,19 @@
+Society relies on many complex systems of interacting technology, people, processes, laws and other elements. Examples of such systems include air transport, telecommunications and energy supply. 
+Systems Engineering is a holistic, multi-disciplinary and well established approach to the engineering of these complex systems. 
+Because software is a critical component of such systems, Software Engineers will often work in Systems Engineering teams. 
+Systems concepts.
+The Systems Engineering life-cycle and processes.
+Conceptual system design: including problem definition, technical performance measures, quality function deployment (QFD), trade-off analyses, and system specification.
+Preliminary system design: subsystem design requirements, design review.
+Detailed design and development: Detailed design requirements and design engineering activities; review and feedback, and incorporation of design changes.
+Design testing, evaluation and validation.
+Design for sustainability: approaches that integrate sustainability principles into the design process.
+Integration of Systems Engineering and Software Engineering activities.
+describe the holistic and multi-disciplinary nature of complex engineering projects.
+describe the Systems Engineering life-cycle.
+identify and explain the activities involved in each phase of the Systems Engineering life-cycle.
+explain the role of Software Engineering within the broader context of Systems Engineering.
+Students will also improve their ability to understand and solve complex and ill-defined problems.
+Students will also improve their ability to communicate with the multi-disciplinary engineering team and the community at large.
+Students will also improve their understanding of and commitment to ethical and professional responsibilities.
+Students will also improve their ability to function as an individual and as a team leader and member in multi-disciplinary and multi-cultural teams.

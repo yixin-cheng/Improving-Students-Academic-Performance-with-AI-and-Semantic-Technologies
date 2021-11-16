@@ -1,0 +1,128 @@
+course,description
+comp1100,"This course is the first of three core computer science courses on programming.
+It introduces students to the field of computer science as a discipline for solving problems through computation and provides the foundation for more advanced courses on programming and software development.
+Data structures and algorithms, the key concepts at the core of computer science, receive their first treatment in this course. The course addresses both functional and imperative programming paradigms.
+The course covers functional programming in depth, developing the core idea of functions operating on data structures.
+Students learn the organization of programming languages using types, how programs are evaluated (reduction), functional composition, recursive functions, algebraic data types, pattern matching, parametric polymorphism, higher-order functions.
+Students also gain exposure to structural induction and proof, introduction to asymptotic analysis of basic data structures, abstract data types, modules, laziness, and streams.
+The functional paradigm demonstrates elegant solutions to many programming problems.
+The course also introduces imperative programming as an alternative paradigm to functional programming, highlighting similarities and contrasting differences.
+Students learn the basic ingredients of imperative programs: mutable variables, sequencing, conditionals, iteration, functions, eager evaluation, and side effects.
+The course also introduces students to standard productivity tools for software development that will be used throughout the course and remainder of the computer science degree.
+These include distributed software revision control systems.
+The Advanced version of this course covers these topics in more depth, allowing students to deepen their understanding and experience.
+Apply fundamental programming concepts, using a functional programming language, to solve simple problems.
+Understand basic types and the benefits of static typing.
+Distinguish language definition from implementation, syntax and parsing from semantics and evaluation.
+Describe, understand and evolve programs, via documentation, testing, and debugging.
+Discuss, use, and apply the fundamentals of data structures, algorithms, and design; create, implement, and debug algorithms for solving simple problems, including recursively, using divide-and-conquer, and via decomposition.
+Discuss basic algorithmic analysis for simple algorithms; determine appropriate algorithmic approaches to a problem (brute-force, greedy, divide-and-conquer, recursive backtracking, heuristic, dynamic programming).
+Describe and apply alternative computational paradigms to simple problems.
+Understand the legal context for protection of software as intellectual property."
+comp1110,"This course introduces students to the fundamentals of software development with a substantial group software project at its center.
+Major foci are data structures, object oriented programming, and an introduction to software engineering. 
+Students will extend their understanding of software productivity tools, using revision control for group work, and be introduced to test-driven development as an integral part of software construction.
+Students will be introduced to an industrial strength object oriented programming language, extending their understanding of the imperative programming paradigm with a solid grounding in object oriented programming. 
+Inheritance, polymorphism, and parametric types are taught, as well as concepts such as boxing and auto boxing.
+The important role of standard libraries and their collection types will be emphasized.  GUI programming will be introduced.
+The course includes a deeper treatment of data structures, using hash tables, trees and lists, which are used to provide concrete implementations of abstract library collection types. 
+The theory of data structures and their time and space complexity will thus be tied to the practice of using standard collections such as those offered by object oriented languages.
+The foundations of software engineering including: major development paradigms (such as big plan up front, agile, and formal methods), risk are introduced.
+The Advanced version of this course covers these topics in more depth, allowing students to deepen their understanding and experience.
+Apply fundamental programming concepts, using an object oriented programming language, to solve substantial problems.
+Distinguish language definition from implementation, syntax and parsing from semantics and evaluation, understand how program state maps to memory (globals, local, heap), and understand the implications of heap reachability for memory management.
+Develop, understand, test, and evolve substantial programs using a modern IDE, and associated configuration tools; understand common coding errors and how to avoid them; practice fundamental defensive programming; perform individual and team program reviews; use established design principles to organize a software system.
+Use, implement, and evaluate fundamental data structures and associated algorithms; create, implement, debug, and evaluate algorithms for solving substantial problems, including recursively, using divide-and-conquer, and via decomposition; implement an abstract data type.
+Apply basic algorithmic analysis to simple algorithms; use appropriate algorithmic approaches to solve problems (brute-force, divide-and-conquer, recursive backtracking, heuristic).
+Understand the basics of event-driven programming, and its use in constructing GUIs
+Deliver and evaluate basic technical documents, presentations, and group interactions, using appropriate tools."
+comp1600,"This course presents some formal notations that are commonly used for the description of computation and of computing systems, for the specification of software and for mathematically rigorous arguments about program properties.
+The following areas of study constitute the backbone of the course. Predicate calculus and natural deduction, inductive definitions of data types as a basis for recursive functions and structural induction, formal language theory (particularly regular expressions, finite state machines and context free grammars), and specification languages.
+Apply the concepts of standard mathematical logic to produce proofs or refutations of well-formed propositions or arguments phrased in English or in a variety of formal notations (first order logic, discrete mathematics or Hoare Logic).
+Given a description of a regular language, either in English, as a regular expression or as a grammar, generate a finite state automaton that recognizes that language. Similarly, given a deterministic or nondeterministic automaton, give a description of the language which it accepts.
+Given an inductive definition of a simple data structure, write a recursive definition of a given simple operation on data of that type. Given some such recursively defined operations, prove simple properties of these functions using the appropriate structural induction principle.
+Prove simple programs correct using Hoare Logic.
+Design a Turing Machine which will accomplish simple tasks."
+comp2100,"This course continues to build on topics taught in the previous two courses. It focuses on construction of medium scale programs, using design patterns and tools that are used in the software development process.
+Students will gain further experience with industry standard revision control and integrated development environment (IDE) tools.
+Students will learn appropriate application of programming abstractions they have learned in previous courses to the structuring of medium scale software: inheritance, generic types, polymorphism, procedural abstraction, and abstract recursive data structures (including abstract syntax trees as a program representation, and tools that manipulate them).
+The course also covers more advanced data structures, such as priority queues, B-trees, red-black trees, and AVL trees, and deepens understanding of appropriate algorithmic strategies.
+The course also treats intellectual property considerations in software development and deployment.
+Apply fundamental programming concepts for medium scale programs.
+Understand basic types and the benefits of static typing, with understanding of generics, subtyping, and overloading, and their roles in structuring programs
+Map programming language abstractions through to execution environment; use non-source (text) internal representations of programs (e.g., abstract syntax trees); sketch low-level run-time representations of core language constructs (objects and closures).
+Describe contractual specifications, analyse documentation and specifications against other’s code, develop, understand, test, and evolve substantial programs using a modern IDE, and associated configuration tools; explain the importance of correctness for quality software; understand common coding errors and how to avoid them; practice fundamental defensive programming; understand principles of secure design.
+Use, implement, and evaluate more advanced data structures and associated algorithms; discuss factors other than computational efficiency for evaluating software; create, implement, debug, and evaluate algorithms for solving problems, including recursively, using divide-and-conquer, and via decomposition; implement an abstract data type; analyse design and implementation alternatives.
+Apply basic algorithmic analysis to simple algorithms; use big-O notation formally, upper lower, and expected case bounds; use and solve recurrence relations; use appropriate algorithmic approaches to solve problems (brute-force, greedy, divide-and-conquer, recursive backtracking, heuristic, dynamic programming, branch-and-bound).
+Explain how system components contribute to performance; understand Amdahl’s law and its limitations; design and conduct performance experiments; use software tools to profile and measure program performance
+Understand, apply, and analyse state and state machines in expressing computations.
+Understand fundamental concepts of GUIs and user interfaces; understand the basics of modeling and simulation.
+Contrast the concepts of copyright, patenting, and trademarks as mechanisms for protecting intellectual property, within the legal context for these mechanisms;  understand, analyse, and evaluate ethical/social tradeoffs in technical decisions, evaluating stakeholder positions.""
+"
+comp2120,"Real-world software development is a complex and dynamic activity involving people, technology and processes interacting within a complex environment of clients, users and other stakeholders while being observant of technological, physical, social, legal, and ethical constraints.
+This course will empower students with the ability and confidence necessary to exercise critical thinking and professional judgment to select and apply appropriate knowledge, practices and tools to the development of non-trivial software systems.
+This will be achieved by introducing students to important design methodologies.
+We will build on previous programming courses to deepen and broaden students' knowledge and understanding of the practices and tools used to build large software systems within complex environments.
+We will use real-world examples such as distributed, high-integrity, web-based systems where rigorous software engineering can demonstrably enhance business value.
+Students will learn how practices and tools can be adapted to suit specific project needs and contexts.
+Knowledge, practices and tools considered in this course will include process models, requirements engineering, design, modelling and user experience.
+Demonstrate an understanding of the following key software engineering activities within the context of a realistic software engineering process (Requirements, Design, Construction, Architectures, Testing, verification and validation)
+Demonstrate an ability to use professional judgement to select and apply appropriate knowledge, practices and tools to analyse, design and solve problems relating to the software engineering activities listed above.
+Demonstrate how practices and tools can be adapted to suit specific project needs and contexts."
+comp2300,"This course lays the foundations for the understanding of CPU architectures, networking and operating systems. Additionally, it introduces topics which cut across many computer systems, such as cross-layer communication and basic concurrency (as well as basic ideas of virtualization and efficiency through proximity).
+CPU architectures are discussed from first principles (digital logic) and are expanded into current day designs. This also involves assembler level programming to connect hardware circuits to the world of software. Representations of data types and high-level code at the machine level will be made clear by keeping the relations between high-level and machine-level code throughout the course. It will also look at how concurrent software constructs can or cannot be translated into parallel hardware operations.
+This course will cover a wide range of topics such as digital logic: transistors, gates, and combinatorial circuits; clocks; registers and register banks; arithmetic-logic units; data representation: big-endian and littleendian integers; ones and twos complement arithmetic; signed and unsigned values; Von-Neumann architecture and bottleneck; instruction sets; RISC and CISC designs; instruction pipelines and stalls; rearranging code; memory and address spaces; physical and virtual memory; interleaving; page tables; memory caches; bus architecture; polling and interrupts; DMA; device programming; assembly language; optimizations; concurrency and parallelism; and data pipelining.
+Knowledge of the principles of networking and operating systems (as well as their relation to computer hardware) are essential for every computer scientist and this course will provide those foundations.
+The relation of assembler level building blocks (macros) to constructs in direct compiled language is demonstrated throughout the course.
+Describe the layers of architectures in computer systems from digital logic to networks.
+Explain how the major components of a CPU are composed (in terms of digital logic) and work together (including how data is represented on a computer).
+Design, implement and analyse programs in assembly language, including basic synchronization, I/O and interrupt techniques.
+Describe the relationship between high-level languages and assembly languages, including function calls and basic control structures.
+Demonstrate foundational knowledge about operating systems and networks.
+Express simple conditional and functional decomposition in a basic, direct compiled language (such as C).
+Connect conceptually hardware and software aspects of computer systems.
+Demonstrate the ability to migrate between all essential abstraction levels when discussing computer systems design, ranging from a software oriented view all the way through to individual digital circuits.
+Demonstrate a well founded understanding of the implications of machine level choices on efficiency and predictability in the context of the hardware architectures covered in the course."
+comp2310,"This course is based on the foundations set by the previous course on computer organisation.
+It expands particularly into all forms of concurrent programming including aspects of massively parallel programming.
+This course introduces all basic mechanisms to analyse, design, and manage concurrent, single computer-node (multicore) as well as distributed applications (e.g. as performance or dependability enhancements).
+Following on from the previous course, the fields of operating systems and networking will also be expanded on.
+On the operating system side aspects of security, scheduling algorithms and memory management are discussed.
+More specific networking aspects follow on from message passing as a core concurrency construct.
+These include the basics of routing and dependable protocols.
+Model, design and program concurrent systems.
+Select appropriate modeling techniques, tools and mechanisms to solve a range of problems in concurrent and distributed systems.
+This includes the appropriate programming language and runtime environment for the task at hand.
+Analyse and debug concurrent programs.
+Understand the aspects of an operating system concerning scheduling, protection and memory management.
+Employ message passing locally and over networks to construct distributed systems.
+Distinguish as well as connect conceptual concurrency with physical parallelism at all levels of a distributed system.
+Identify core aspects of operating systems and networks irrespective of the specific system at hand."
+comp2420,"Commerce and research are being transformed by data-driven discovery and prediction.
+Skills required for data analytics at massive levels – scalable data management on and off the cloud, parallel algorithms, statistical modeling, and proficiency with a complex ecosystem of tools and platforms – span a variety of disciplines and are not easy to obtain through conventional curricula.
+Tour the basic techniques of data science, including both SQL and NoSQL solutions for massive data management, basic statistical modeling (e.g., descriptive statistics, linear and non-linear regression), algorithms for machine learning and optimization, and fundamentals of knowledge representation and search.
+Learn key concepts in security and the use of cryptographic techniques in securing data.
+Demonstrate a conceptual understanding of database systems and architecture, data models and declarative query languages
+Define, query and manipulate a relational database
+Demonstrate basic knowledge and understanding of descriptive and predictive data analysis methods, optimization and search, and knowledge representation.
+Formulate and extract descriptive and predictive statistics from data.
+Analyse and interpret results from descriptive and predictive data analysis.
+Apply their knowledge to a given problem domain and articulate potential data analysis problems.
+Identify potential pitfalls, and social and ethical implications of data science.
+Explain key security concepts and the use of cryptographic techniques, digital signatures and PKI in security."
+comp3600,"This course provides basic approaches for designing and analysing algorithms and data structures.
+It will focus on two fundamental problems in computing: Sorting and searching.
+It will cover various data structures and algorithm design techniques for solving these two classes of problems, as well as basic performance measures and analysis techniques for solving such problems.
+Display an advanced understanding of a variety of algorithms, including linear selection, minimum spanning trees, single source shortest path, Huffman coding, etc, with real-life applications and the resource requirements.
+Expertly apply the most effective algorithmic techniques including dynamic programming, greedy policy, and divide-and-conquer, to solve some practical problems.
+Define and analyse time and space complexities of algorithms.
+Demonstrate experience in the design and implementation of algorithms for practical problems, using languages like C, C++."
+math1005,"Introduction to discrete mathematics and its use in mathematical modelling.
+Emphasis will be placed on developing facility, technique and use in applications.
+Modelling of processes and phenomena which occur in the physical, environmental and life sciences, especially computer science, will be used as a vehicle throughout.
+Topics to be covered include: logic and set theory, mathematical reasoning, combinatorics and counting, mathematical induction and recurrence relations, graph theory and networks, matrix arithmetic and Markov chains.
+Recall, invent, interpret examples of motivation for mathematical constructs used in discrete mathematics as models of processes in the world.
+Recognise, define, explain and use terminology and notation from discrete mathematics.
+Identify the logical structure of a statement, and then identify the logical structure of an argument that may be used to prove or disprove the statement.
+Perform mathematical calculations in discrete mathematics using methods presented in the course.
+Write simple proofs/construct explicit counterexamples for statements relating to discrete mathematics topics covered in the course."

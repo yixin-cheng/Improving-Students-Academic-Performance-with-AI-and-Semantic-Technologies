@@ -1,8 +1,0 @@
-score,s1,s2
-0.8968,Artificial intelligence is the science that studies and develops methods of making computers more /intelligent/.,"Considers definitions of program efficiency on parallel computers, addresses the modelling, analysis and measurement of program performance."
-0.9340,"The focus of this course is on core AI techniques for search, knowledge representation and reasoning, planning, and designing intelligent agents.",Demonstrate advanced knowledge of the elements of parallel programming language and system implementation.
-0.9263,"The course also aims to give an overview of the historical, philosophical, and logical foundations of AI.",Recall the history of parallel systems and describe the developments in the field.
-0.9101,"Identify problems that are amenable to solution by AI methods, and which AI methods may be suited to solving a given problem.",Be able to descriptively compare the performance of different programs and methods on one machine
-0.8903,"Formalise a given problem in the language/framework of different AI methods (e.g., as a search problem, as a constraint satisfaction problem, as a planning problem, etc).",Be able to descriptively compare the performance of different programs and methods on one machine
-0.9116,"Implement basic AI algorithms (e.g., standard search or constraint propagation algorithms).",Demonstrate advanced knowledge of the elements of parallel programming language and system implementation.
-0.9292,"Design and perform an empirical evaluation of different algorithms on a problem formalisation, and state the conclusions that the evaluation supports.",Demonstrate advanced knowledge of the elements of parallel programming language and system implementation.

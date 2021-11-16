@@ -1,0 +1,2977 @@
+COMP1110:COMP1600,Score
+Science:Recursion,-0.03577464788732394
+Science:Function (mathematics),-0.02593398227201044
+Science:Predicate (mathematical logic),-0.02659486329743165
+Science:First-order logic,-0.014234342223554089
+Science:Calculus,-0.041036046789209836
+Science:Natural deduction,-0.006798483206933912
+Science:Deductive reasoning,-0.057998738700861883
+Science:Recursive definition,-0.07317073170731707
+Science:Concept,-0.06849331281808499
+Science:Mathematics,-0.01371922306908785
+Science:Mathematical logic,-0.012502776913849024
+Science:Mathematical proof,-0.056402784523231345
+Science:Well-formed formula,0.0028169014084507044
+Science:Proposition,-0.05820376806292299
+Science:Argument,-0.06059399877526026
+Science:Data,-0.06851698425849213
+Science:Definition,-0.01791862284820031
+Science:Data type,-0.020174283108724288
+Science:Computation,-0.013288426209430496
+Science:Discrete mathematics,-0.02083799870351818
+Science:Hoare logic,-0.020833333333333332
+Science:Description,-0.022824124232574936
+Science:Regular language,0.0
+Science:Language,0.0034142698972629212
+Science:English language,-0.011230171728042675
+Science:Regular expression,-0.005
+Science:Structural induction,-0.03125
+Science:Mathematical induction,-0.05336287387244817
+Science:Formal language,-0.01818631084754139
+Science:Theory,-0.07618399217054593
+Science:Formal grammar,-0.007679409792085848
+Science:Finite set,-0.02666666666666667
+Science:Finite-state machine,-0.05042016806722689
+Science:Determinism,-0.06433897502663036
+Science:Nondeterministic finite automaton,-0.02
+Science:Data structure,-0.021279484133717972
+Science:Structure,-0.054496208017334784
+Science:Principle,-0.048911651728553135
+Science:Turing machine,-0.01190368014538846
+Science:Machine,-0.022704790616609356
+Science:Computing,-0.02898245085486179
+Science:System,-0.09486105824133995
+Science:Specification (technical standard),-0.040268456375838924
+Science:Software,-0.0009004848764719471
+Science:Rigour,-0.12434607645875251
+Science:Logic,0.03234019501625135
+Science:Context-free grammar,-0.014720581553839164
+Science:Grammar,-0.024193760695011186
+Discipline:Recursion,0.0
+Discipline:Function (mathematics),0.0
+Discipline:Predicate (mathematical logic),0.0
+Discipline:First-order logic,0.0
+Discipline:Calculus,0.01703930760908763
+Discipline:Natural deduction,0.0
+Discipline:Deductive reasoning,0.0
+Discipline:Recursive definition,0.0
+Discipline:Concept,0.0425531914893617
+Discipline:Mathematics,-0.004987531172069825
+Discipline:Mathematical logic,0.0
+Discipline:Mathematical proof,0.02127659574468085
+Discipline:Well-formed formula,0.0
+Discipline:Proposition,0.0
+Discipline:Argument,-0.010869565217391304
+Discipline:Data,0.0
+Discipline:Definition,0.0
+Discipline:Data type,0.0
+Discipline:Computation,0.0
+Discipline:Discrete mathematics,-0.008368200836820083
+Discipline:Hoare logic,0.0
+Discipline:Description,0.0
+Discipline:Regular language,0.0
+Discipline:Language,0.0425531914893617
+Discipline:English language,0.0
+Discipline:Regular expression,0.0
+Discipline:Structural induction,0.0
+Discipline:Mathematical induction,0.0
+Discipline:Formal language,0.02127659574468085
+Discipline:Theory,0.015234299672173298
+Discipline:Formal grammar,0.0
+Discipline:Finite set,0.0
+Discipline:Finite-state machine,0.0
+Discipline:Determinism,0.0
+Discipline:Nondeterministic finite automaton,0.0
+Discipline:Data structure,0.0
+Discipline:Structure,0.0
+Discipline:Principle,0.0
+Discipline:Turing machine,0.0
+Discipline:Machine,0.0
+Discipline:Computing,-0.0106951871657754
+Discipline:System,0.014519838987924093
+Discipline:Specification (technical standard),-0.013422818791946308
+Discipline:Software,-0.01092896174863388
+Discipline:Rigour,0.02127659574468085
+Discipline:Logic,-0.0038461538461538464
+Discipline:Context-free grammar,0.0
+Discipline:Grammar,0.0
+Computer:Recursion,0.00478494623655914
+Computer:Function (mathematics),-0.01593183044795948
+Computer:Predicate (mathematical logic),0.0
+Computer:First-order logic,-0.010523907572637839
+Computer:Calculus,-0.01198286859850556
+Computer:Natural deduction,-0.027502067824648473
+Computer:Deductive reasoning,0.005376344086021506
+Computer:Recursive definition,-0.07048255966430632
+Computer:Concept,-0.007059275323032438
+Computer:Mathematics,-0.00935832461856112
+Computer:Mathematical logic,-0.014483904887893896
+Computer:Mathematical proof,-0.056127178346310716
+Computer:Well-formed formula,0.0
+Computer:Proposition,-0.008954754922496859
+Computer:Argument,0.0
+Computer:Data,-0.0498102466793169
+Computer:Definition,-0.009259259259259259
+Computer:Data type,-0.054943142260385235
+Computer:Computation,-0.15509583917718558
+Computer:Discrete mathematics,-0.06709744904845459
+Computer:Hoare logic,-0.04032258064516129
+Computer:Description,0.0
+Computer:Regular language,-0.047436401783372675
+Computer:Language,0.015536848105993591
+Computer:English language,0.0010270424749044406
+Computer:Regular expression,-0.023870967741935485
+Computer:Structural induction,0.0
+Computer:Mathematical induction,-0.028331521082517817
+Computer:Formal language,-0.022990945104697225
+Computer:Theory,-0.031888542377286166
+Computer:Formal grammar,-0.03168202764976959
+Computer:Finite set,0.0013440860215053765
+Computer:Finite-state machine,-0.09277582000542153
+Computer:Determinism,-0.02100840336134454
+Computer:Nondeterministic finite automaton,-0.018655913978494625
+Computer:Data structure,-0.0226551366757352
+Computer:Structure,-0.038461538461538464
+Computer:Principle,-0.01818181818181818
+Computer:Turing machine,-0.08736559139784947
+Computer:Machine,-0.04272755061675118
+Computer:Computing,-0.1734661606578115
+Computer:System,-0.019071490845684397
+Computer:Specification (technical standard),-0.03892437035433355
+Computer:Software,-0.10228274281685175
+Computer:Rigour,-0.014285714285714285
+Computer:Logic,-0.0038875103391232436
+Computer:Context-free grammar,-0.013440860215053762
+Computer:Grammar,-0.001984725153250929
+Organization:Recursion,-0.01
+Organization:Function (mathematics),0.0
+Organization:Predicate (mathematical logic),0.0
+Organization:First-order logic,0.0
+Organization:Calculus,0.0031701192718141874
+Organization:Natural deduction,0.0
+Organization:Deductive reasoning,0.014814814814814815
+Organization:Recursive definition,0.0
+Organization:Concept,0.022222222222222223
+Organization:Mathematics,0.007407407407407408
+Organization:Mathematical logic,0.0
+Organization:Mathematical proof,0.0
+Organization:Well-formed formula,0.0
+Organization:Proposition,0.0
+Organization:Argument,0.0
+Organization:Data,-0.029411764705882353
+Organization:Definition,0.0
+Organization:Data type,0.007407407407407408
+Organization:Computation,0.0
+Organization:Discrete mathematics,-0.0041841004184100415
+Organization:Hoare logic,0.0
+Organization:Description,0.0
+Organization:Regular language,0.0
+Organization:Language,0.02597332249983073
+Organization:English language,-0.009966777408637873
+Organization:Regular expression,0.0
+Organization:Structural induction,0.0
+Organization:Mathematical induction,0.0
+Organization:Formal language,0.0
+Organization:Theory,0.004095334004699563
+Organization:Formal grammar,0.0
+Organization:Finite set,0.0
+Organization:Finite-state machine,0.0
+Organization:Determinism,0.0032057267351385003
+Organization:Nondeterministic finite automaton,0.0
+Organization:Data structure,0.007407407407407408
+Organization:Structure,0.013960113960113957
+Organization:Principle,0.0
+Organization:Turing machine,0.0
+Organization:Machine,0.014814814814814815
+Organization:Computing,-0.0106951871657754
+Organization:System,-0.016366366366366368
+Organization:Specification (technical standard),-0.040268456375838924
+Organization:Software,-0.00546448087431694
+Organization:Rigour,0.007407407407407408
+Organization:Logic,0.025783475783475784
+Organization:Context-free grammar,0.0
+Organization:Grammar,0.002734510211145726
+Computer programming:Recursion,-0.015714285714285715
+Computer programming:Function (mathematics),0.005250965250965252
+Computer programming:Predicate (mathematical logic),-0.14705882352941177
+Computer programming:First-order logic,-0.02407294832826748
+Computer programming:Calculus,-0.015472154963680387
+Computer programming:Natural deduction,-0.023131868131868134
+Computer programming:Deductive reasoning,0.002217484008528786
+Computer programming:Recursive definition,-0.12195121951219512
+Computer programming:Concept,-0.011092436974789916
+Computer programming:Mathematics,0.028257926612041327
+Computer programming:Mathematical logic,-0.0037494366831906266
+Computer programming:Mathematical proof,0.011395730706075535
+Computer programming:Well-formed formula,-0.045454545454545456
+Computer programming:Proposition,-0.0535064935064935
+Computer programming:Argument,0.005714285714285714
+Computer programming:Data,-0.018823529411764704
+Computer programming:Definition,-0.018518518518518517
+Computer programming:Data type,-0.009085303186022603
+Computer programming:Computation,-0.08012422360248447
+Computer programming:Discrete mathematics,-0.04184100418410042
+Computer programming:Hoare logic,-0.11928571428571429
+Computer programming:Description,0.005714285714285714
+Computer programming:Regular language,-0.0007665505226480841
+Computer programming:Language,0.053486550013058236
+Computer programming:English language,0.008106312292358805
+Computer programming:Regular expression,-0.02571428571428571
+Computer programming:Structural induction,-0.0625
+Computer programming:Mathematical induction,-0.027800963081861956
+Computer programming:Formal language,-0.04426065162907268
+Computer programming:Theory,-0.0003280103582218386
+Computer programming:Formal grammar,-0.01857142857142857
+Computer programming:Finite set,-0.013333333333333334
+Computer programming:Finite-state machine,-0.02184873949579832
+Computer programming:Determinism,-0.004201680672268907
+Computer programming:Nondeterministic finite automaton,-0.04
+Computer programming:Data structure,-0.005576592082616183
+Computer programming:Structure,-0.027032967032967037
+Computer programming:Principle,0.0
+Computer programming:Turing machine,-0.015453149001536099
+Computer programming:Machine,0.011849020544672718
+Computer programming:Computing,0.0001527883880825115
+Computer programming:System,0.0051737451737451715
+Computer programming:Specification (technical standard),-0.009702780441035473
+Computer programming:Software,0.0054957064793130506
+Computer programming:Rigour,-0.014285714285714285
+Computer programming:Logic,0.016923076923076923
+Computer programming:Context-free grammar,-0.023179723502304145
+Computer programming:Grammar,0.005714285714285714
+Programming language:Recursion,-0.04317725752508361
+Programming language:Function (mathematics),-0.05046422437726786
+Programming language:Predicate (mathematical logic),-0.05213456620106236
+Programming language:First-order logic,-0.06595033089020139
+Programming language:Calculus,-0.022079247208208152
+Programming language:Natural deduction,-0.047658862876254184
+Programming language:Deductive reasoning,-0.04966804772125992
+Programming language:Recursive definition,-0.0975609756097561
+Programming language:Concept,-0.030268963772800087
+Programming language:Mathematics,-0.0048123837563282396
+Programming language:Mathematical logic,-0.010719221801377889
+Programming language:Mathematical proof,-0.03354092184676892
+Programming language:Well-formed formula,-0.09268267963920138
+Programming language:Proposition,-0.02558311253963428
+Programming language:Argument,-0.04013377926421405
+Programming language:Data,-0.03875663977965768
+Programming language:Definition,-0.024433296172426604
+Programming language:Data type,-0.12855802314670003
+Programming language:Computation,-0.14381270903010032
+Programming language:Discrete mathematics,-0.04184100418410042
+Programming language:Hoare logic,-0.19829988851727984
+Programming language:Description,0.0033444816053511705
+Programming language:Regular language,-0.08300024471816625
+Programming language:Language,0.14622171406210832
+Programming language:English language,0.010055667285192058
+Programming language:Regular expression,-0.12638795986622073
+Programming language:Structural induction,-0.09040551839464883
+Programming language:Mathematical induction,-0.027018901957836985
+Programming language:Formal language,-0.09769406794578418
+Programming language:Theory,-0.02082470268467904
+Programming language:Formal grammar,-0.2083930562191432
+Programming language:Finite set,-0.023322185061315497
+Programming language:Finite-state machine,-0.11610129001433349
+Programming language:Determinism,-0.004201680672268907
+Programming language:Nondeterministic finite automaton,-0.11331103678929766
+Programming language:Data structure,-0.2075593343272757
+Programming language:Structure,-0.06588628762541807
+Programming language:Principle,0.0
+Programming language:Turing machine,-0.06273600172618404
+Programming language:Machine,-0.0033444816053511705
+Programming language:Computing,-0.05610502029939371
+Programming language:System,0.003141100967187921
+Programming language:Specification (technical standard),-0.020156674373190277
+Programming language:Software,-0.12168064769632839
+Programming language:Rigour,-0.02857142857142857
+Programming language:Logic,-0.023745819397993313
+Programming language:Context-free grammar,-0.1258765778401122
+Programming language:Grammar,-0.019973119119807457
+Language:Recursion,-0.05537477148080439
+Language:Function (mathematics),-0.000204696731204958
+Language:Predicate (mathematical logic),0.0
+Language:First-order logic,-0.007880508771247423
+Language:Calculus,-0.004818269141387537
+Language:Natural deduction,-0.019230769230769232
+Language:Deductive reasoning,-0.020709978444159456
+Language:Recursive definition,0.0
+Language:Concept,-0.047117201542408546
+Language:Mathematics,0.010631556392382847
+Language:Mathematical logic,0.0038350855541266094
+Language:Mathematical proof,-0.015413225745445376
+Language:Well-formed formula,-0.009667054456816798
+Language:Proposition,-0.005864336760132007
+Language:Argument,-0.07608695652173914
+Language:Data,-0.04536330071333835
+Language:Definition,-0.025949624212878324
+Language:Data type,-0.05755395683453238
+Language:Computation,0.0018281535648994515
+Language:Discrete mathematics,-0.012552301255230125
+Language:Hoare logic,-0.041666666666666664
+Language:Description,-0.07509492335817748
+Language:Regular language,-0.03292905872385963
+Language:Language,0.0
+Language:English language,-0.07472349936530881
+Language:Regular expression,-0.05451553930530165
+Language:Structural induction,0.0018281535648994515
+Language:Mathematical induction,0.0018281535648994515
+Language:Formal language,-0.05189390294749671
+Language:Theory,-0.03983275984910829
+Language:Formal grammar,-0.07053625837903717
+Language:Finite set,0.0
+Language:Finite-state machine,-0.04676386093742799
+Language:Determinism,-0.017352096231545638
+Language:Nondeterministic finite automaton,-0.02
+Language:Data structure,-0.10660558137485959
+Language:Structure,-0.025284770074532417
+Language:Principle,0.005484460694698354
+Language:Turing machine,-0.0016119203475457537
+Language:Machine,-0.009721619291605779
+Language:Computing,-0.0427807486631016
+Language:System,-0.0019887346212757555
+Language:Specification (technical standard),-0.013422818791946308
+Language:Software,-0.04369586717415411
+Language:Rigour,-0.08571428571428572
+Language:Logic,-0.00026016031500492726
+Language:Context-free grammar,-0.042902636079495196
+Language:Grammar,-0.03984349638640673
+Recursion (computer science):Recursion,0.03666666666666665
+Recursion (computer science):Function (mathematics),0.06525096525096526
+Recursion (computer science):Predicate (mathematical logic),0.0
+Recursion (computer science):First-order logic,0.018156028368794326
+Recursion (computer science):Calculus,0.04
+Recursion (computer science):Natural deduction,-0.002948717948717949
+Recursion (computer science):Deductive reasoning,-0.0015920398009950237
+Recursion (computer science):Recursive definition,-0.06422764227642278
+Recursion (computer science):Concept,0.006666666666666667
+Recursion (computer science):Mathematics,0.08417290108063176
+Recursion (computer science):Mathematical logic,0.014405888538380651
+Recursion (computer science):Mathematical proof,0.001839080459770116
+Recursion (computer science):Well-formed formula,-0.030303030303030304
+Recursion (computer science):Proposition,0.006666666666666667
+Recursion (computer science):Argument,-0.004202898550724637
+Recursion (computer science):Data,0.0035294117647058833
+Recursion (computer science):Definition,-0.0025925925925925917
+Recursion (computer science):Data type,-0.0036930455635491577
+Recursion (computer science):Computation,-0.008405797101449274
+Recursion (computer science):Discrete mathematics,-0.0017015341701534159
+Recursion (computer science):Hoare logic,-0.049166666666666664
+Recursion (computer science):Description,0.006666666666666667
+Recursion (computer science):Regular language,-0.011056910569105691
+Recursion (computer science):Language,0.024838513101767216
+Recursion (computer science):English language,0.006666666666666667
+Recursion (computer science):Regular expression,0.011666666666666665
+Recursion (computer science):Structural induction,-0.049166666666666664
+Recursion (computer science):Mathematical induction,0.022097378277153558
+Recursion (computer science):Formal language,0.03368421052631579
+Recursion (computer science):Theory,-0.006042296072507553
+Recursion (computer science):Formal grammar,-0.0023809523809523794
+Recursion (computer science):Finite set,-0.006666666666666668
+Recursion (computer science):Finite-state machine,0.02492997198879552
+Recursion (computer science):Determinism,0.006666666666666667
+Recursion (computer science):Nondeterministic finite automaton,-0.02
+Recursion (computer science):Data structure,0.051807228915662654
+Recursion (computer science):Structure,0.0056410256410256415
+Recursion (computer science):Principle,0.0
+Recursion (computer science):Turing machine,0.01161290322580645
+Recursion (computer science):Machine,0.0
+Recursion (computer science):Computing,0.030623885918003566
+Recursion (computer science):System,-9.009009009009004e-05
+Recursion (computer science):Specification (technical standard),0.013333333333333334
+Recursion (computer science):Software,0.00721311475409836
+Recursion (computer science):Rigour,0.0
+Recursion (computer science):Logic,0.03230769230769231
+Recursion (computer science):Context-free grammar,0.0077419354838709695
+Recursion (computer science):Grammar,-0.009345794392523364
+Subroutine:Recursion,0.02202312138728324
+Subroutine:Function (mathematics),0.02693775526145468
+Subroutine:Predicate (mathematical logic),-0.029411764705882353
+Subroutine:First-order logic,0.007305374492682326
+Subroutine:Calculus,0.020427157832859803
+Subroutine:Natural deduction,-0.009615384615384616
+Subroutine:Deductive reasoning,0.005780346820809248
+Subroutine:Recursive definition,-0.018609897081629776
+Subroutine:Concept,-0.008403361344537815
+Subroutine:Mathematics,0.04703559021521341
+Subroutine:Mathematical logic,0.028372932659871262
+Subroutine:Mathematical proof,0.011593914025646135
+Subroutine:Well-formed formula,0.0
+Subroutine:Proposition,0.005780346820809248
+Subroutine:Argument,0.0
+Subroutine:Data,0.02085458460840984
+Subroutine:Definition,0.005780346820809248
+Subroutine:Data type,-0.015428119931800224
+Subroutine:Computation,-0.03191756722794672
+Subroutine:Discrete mathematics,-0.012552301255230125
+Subroutine:Hoare logic,-0.09838631984585743
+Subroutine:Description,0.005780346820809248
+Subroutine:Regular language,0.005145918511208231
+Subroutine:Language,0.07909670192643004
+Subroutine:English language,0.005780346820809248
+Subroutine:Regular expression,-0.020317919075144512
+Subroutine:Structural induction,-0.013908959537572256
+Subroutine:Mathematical induction,0.005780346820809248
+Subroutine:Formal language,0.008366291451171279
+Subroutine:Theory,0.0
+Subroutine:Formal grammar,0.016996972199284338
+Subroutine:Finite set,0.005780346820809248
+Subroutine:Finite-state machine,-0.008403361344537815
+Subroutine:Determinism,0.0
+Subroutine:Nondeterministic finite automaton,-0.02
+Subroutine:Data structure,-0.05836061007033916
+Subroutine:Structure,-0.048065807025344603
+Subroutine:Principle,0.011560693641618497
+Subroutine:Turing machine,-0.01370501584933806
+Subroutine:Machine,-0.0033444816053511705
+Subroutine:Computing,0.014589966307069338
+Subroutine:System,-0.0009764099359475089
+Subroutine:Specification (technical standard),0.004849284245645342
+Subroutine:Software,-0.052433747117723244
+Subroutine:Rigour,0.0
+Subroutine:Logic,0.03277012005335705
+Subroutine:Context-free grammar,0.015056871154204735
+Subroutine:Grammar,0.005780346820809248
+Data:Recursion,0.0
+Data:Function (mathematics),0.021689756983874632
+Data:Predicate (mathematical logic),0.0
+Data:First-order logic,0.011097204839382561
+Data:Calculus,0.00689597873047524
+Data:Natural deduction,0.0
+Data:Deductive reasoning,0.0196078431372549
+Data:Recursive definition,0.0
+Data:Concept,0.001400560224089636
+Data:Mathematics,0.021759327172265416
+Data:Mathematical logic,0.0196078431372549
+Data:Mathematical proof,-0.024678837052062204
+Data:Well-formed formula,-0.005347593582887701
+Data:Proposition,0.029411764705882353
+Data:Argument,0.0
+Data:Data,0.0
+Data:Definition,0.00980392156862745
+Data:Data type,-0.0039497813513894794
+Data:Computation,0.027280477408354646
+Data:Discrete mathematics,-0.016736401673640166
+Data:Hoare logic,0.0
+Data:Description,0.00980392156862745
+Data:Regular language,-0.012195121951219513
+Data:Language,0.04536330071333835
+Data:English language,0.0
+Data:Regular expression,-0.03
+Data:Structural induction,0.0
+Data:Mathematical induction,-0.012667988543732099
+Data:Formal language,0.0196078431372549
+Data:Theory,-0.005301818612641432
+Data:Formal grammar,-0.014005602240896357
+Data:Finite set,0.0
+Data:Finite-state machine,0.00980392156862745
+Data:Determinism,0.0
+Data:Nondeterministic finite automaton,-0.02
+Data:Data structure,-0.02551381998582565
+Data:Structure,-0.005580693815987935
+Data:Principle,-0.01818181818181818
+Data:Turing machine,0.0025300442757748252
+Data:Machine,0.01626336153190373
+Data:Computing,0.040998217468805706
+Data:System,0.021992580816110226
+Data:Specification (technical standard),-0.013422818791946308
+Data:Software,0.05978784956605593
+Data:Rigour,-0.02857142857142857
+Data:Logic,0.058823529411764705
+Data:Context-free grammar,0.0
+Data:Grammar,-0.004672897196261682
+Algebraic data type:Recursion,0.04054054054054054
+Algebraic data type:Function (mathematics),0.07722007722007722
+Algebraic data type:Predicate (mathematical logic),0.013513513513513514
+Algebraic data type:First-order logic,0.02277170787809086
+Algebraic data type:Calculus,0.013513513513513514
+Algebraic data type:Natural deduction,0.0038981288981288983
+Algebraic data type:Deductive reasoning,0.0
+Algebraic data type:Recursive definition,0.0026367831245880033
+Algebraic data type:Concept,0.0
+Algebraic data type:Mathematics,0.04054054054054054
+Algebraic data type:Mathematical logic,0.010358939381021401
+Algebraic data type:Mathematical proof,0.013513513513513514
+Algebraic data type:Well-formed formula,-0.0016380016380016377
+Algebraic data type:Proposition,0.013513513513513514
+Algebraic data type:Argument,0.0
+Algebraic data type:Data,0.04054054054054054
+Algebraic data type:Definition,0.0
+Algebraic data type:Data type,0.16673147968111998
+Algebraic data type:Computation,0.013513513513513514
+Algebraic data type:Discrete mathematics,0.02702702702702703
+Algebraic data type:Hoare logic,0.013513513513513514
+Algebraic data type:Description,0.0
+Algebraic data type:Regular language,0.013513513513513514
+Algebraic data type:Language,0.25675675675675674
+Algebraic data type:English language,0.0
+Algebraic data type:Regular expression,0.03905405405405406
+Algebraic data type:Structural induction,-0.017736486486486486
+Algebraic data type:Mathematical induction,0.05405405405405406
+Algebraic data type:Formal language,0.02702702702702703
+Algebraic data type:Theory,0.0
+Algebraic data type:Formal grammar,0.0032175032175032203
+Algebraic data type:Finite set,0.02702702702702703
+Algebraic data type:Finite-state machine,-0.008403361344537815
+Algebraic data type:Determinism,0.0
+Algebraic data type:Nondeterministic finite automaton,0.013513513513513514
+Algebraic data type:Data structure,0.08401172256593945
+Algebraic data type:Structure,0.019334719334719336
+Algebraic data type:Principle,0.0
+Algebraic data type:Turing machine,-0.005376344086021506
+Algebraic data type:Machine,0.0
+Algebraic data type:Computing,0.013513513513513514
+Algebraic data type:System,0.0
+Algebraic data type:Specification (technical standard),0.02702702702702703
+Algebraic data type:Software,0.013513513513513514
+Algebraic data type:Rigour,0.0
+Algebraic data type:Logic,0.04054054054054054
+Algebraic data type:Context-free grammar,0.010897994768962513
+Algebraic data type:Grammar,-0.004672897196261682
+Data type:Recursion,0.020359712230215828
+Data type:Function (mathematics),0.05597066748145885
+Data type:Predicate (mathematical logic),-0.007829030892932711
+Data type:First-order logic,-0.006888106536047756
+Data type:Calculus,-0.012711864406779662
+Data type:Natural deduction,-0.014457664637520753
+Data type:Deductive reasoning,0.014388489208633094
+Data type:Recursive definition,-0.02719775399192841
+Data type:Concept,0.013179372468411827
+Data type:Mathematics,0.10983333034320673
+Data type:Mathematical logic,0.05301500124821278
+Data type:Mathematical proof,0.004341354502604814
+Data type:Well-formed formula,0.013625463265751037
+Data type:Proposition,0.02158273381294964
+Data type:Argument,0.0
+Data type:Data,0.0039497813513894794
+Data type:Definition,0.0
+Data type:Data type,0.0
+Data type:Computation,0.02877697841726619
+Data type:Discrete mathematics,-0.0041841004184100415
+Data type:Hoare logic,-0.020083932853717023
+Data type:Description,0.0
+Data type:Regular language,-0.0050008773469029655
+Data type:Language,0.05755395683453238
+Data type:English language,0.007194244604316547
+Data type:Regular expression,-0.01402877697841727
+Data type:Structural induction,-0.055305755395683456
+Data type:Mathematical induction,-0.004041710451863228
+Data type:Formal language,0.03843241196516471
+Data type:Theory,-0.012084592145015106
+Data type:Formal grammar,-0.002226789996574167
+Data type:Finite set,0.016498800959232614
+Data type:Finite-state machine,-0.010821594824980352
+Data type:Determinism,0.0
+Data type:Nondeterministic finite automaton,-0.02
+Data type:Data structure,-0.07532287423073589
+Data type:Structure,-0.008688433868289984
+Data type:Principle,0.0
+Data type:Turing machine,0.037789123539877775
+Data type:Machine,0.007194244604316547
+Data type:Computing,0.0721348055245643
+Data type:System,0.00043748784755979
+Data type:Specification (technical standard),0.0004828352083433929
+Data type:Software,-0.0402563195345363
+Data type:Rigour,0.0
+Data type:Logic,0.06759822910902047
+Data type:Context-free grammar,-0.018739846832211648
+Data type:Grammar,0.007194244604316547
+Pattern matching:Recursion,0.056818181818181816
+Pattern matching:Function (mathematics),0.041593541593541596
+Pattern matching:Predicate (mathematical logic),0.011363636363636364
+Pattern matching:First-order logic,0.02558027079303675
+Pattern matching:Calculus,0.022727272727272728
+Pattern matching:Natural deduction,0.011363636363636364
+Pattern matching:Deductive reasoning,0.011363636363636364
+Pattern matching:Recursive definition,0.011363636363636364
+Pattern matching:Concept,0.011363636363636364
+Pattern matching:Mathematics,0.03159714350487418
+Pattern matching:Mathematical logic,0.045454545454545456
+Pattern matching:Mathematical proof,0.03409090909090909
+Pattern matching:Well-formed formula,0.0
+Pattern matching:Proposition,-0.012987012987012988
+Pattern matching:Argument,0.0
+Pattern matching:Data,0.022727272727272728
+Pattern matching:Definition,0.0
+Pattern matching:Data type,0.1261445389143231
+Pattern matching:Computation,0.03409090909090909
+Pattern matching:Discrete mathematics,0.0
+Pattern matching:Hoare logic,0.011363636363636364
+Pattern matching:Description,0.0
+Pattern matching:Regular language,0.019401330376940126
+Pattern matching:Language,0.17045454545454544
+Pattern matching:English language,0.022727272727272728
+Pattern matching:Regular expression,0.12954545454545457
+Pattern matching:Structural induction,0.011363636363636364
+Pattern matching:Mathematical induction,0.04558222676200204
+Pattern matching:Formal language,0.0645933014354067
+Pattern matching:Theory,0.0
+Pattern matching:Formal grammar,0.04383116883116883
+Pattern matching:Finite set,0.022727272727272728
+Pattern matching:Finite-state machine,-0.002482811306340718
+Pattern matching:Determinism,0.0
+Pattern matching:Nondeterministic finite automaton,-0.03727272727272727
+Pattern matching:Data structure,0.1356790799561884
+Pattern matching:Structure,0.03409090909090909
+Pattern matching:Principle,0.0
+Pattern matching:Turing machine,0.023338220918866077
+Pattern matching:Machine,0.0
+Pattern matching:Computing,0.011363636363636364
+Pattern matching:System,0.0
+Pattern matching:Specification (technical standard),0.0
+Pattern matching:Software,-0.00546448087431694
+Pattern matching:Rigour,0.0
+Pattern matching:Logic,0.05297202797202797
+Pattern matching:Context-free grammar,0.0439882697947214
+Pattern matching:Grammar,0.045454545454545456
+Parametric polymorphism:Recursion,0.0
+Parametric polymorphism:Function (mathematics),0.01818181818181818
+Parametric polymorphism:Predicate (mathematical logic),0.01818181818181818
+Parametric polymorphism:First-order logic,0.06847195357833655
+Parametric polymorphism:Calculus,0.03636363636363636
+Parametric polymorphism:Natural deduction,-0.020279720279720283
+Parametric polymorphism:Deductive reasoning,-0.014925373134328358
+Parametric polymorphism:Recursive definition,0.0
+Parametric polymorphism:Concept,0.0
+Parametric polymorphism:Mathematics,0.01818181818181818
+Parametric polymorphism:Mathematical logic,0.05139088041296243
+Parametric polymorphism:Mathematical proof,0.0
+Parametric polymorphism:Well-formed formula,0.01818181818181818
+Parametric polymorphism:Proposition,0.01818181818181818
+Parametric polymorphism:Argument,0.0
+Parametric polymorphism:Data,0.01818181818181818
+Parametric polymorphism:Definition,0.01818181818181818
+Parametric polymorphism:Data type,0.23296272073250487
+Parametric polymorphism:Computation,0.0
+Parametric polymorphism:Discrete mathematics,0.0
+Parametric polymorphism:Hoare logic,-0.020833333333333332
+Parametric polymorphism:Description,0.0
+Parametric polymorphism:Regular language,0.0
+Parametric polymorphism:Language,0.2
+Parametric polymorphism:English language,0.01818181818181818
+Parametric polymorphism:Regular expression,0.08090909090909092
+Parametric polymorphism:Structural induction,0.03636363636363636
+Parametric polymorphism:Mathematical induction,0.0
+Parametric polymorphism:Formal language,0.05454545454545454
+Parametric polymorphism:Theory,0.01818181818181818
+Parametric polymorphism:Formal grammar,0.0
+Parametric polymorphism:Finite set,0.01818181818181818
+Parametric polymorphism:Finite-state machine,0.01818181818181818
+Parametric polymorphism:Determinism,0.0
+Parametric polymorphism:Nondeterministic finite automaton,0.0
+Parametric polymorphism:Data structure,0.012267250821467686
+Parametric polymorphism:Structure,0.0
+Parametric polymorphism:Principle,0.0
+Parametric polymorphism:Turing machine,0.0
+Parametric polymorphism:Machine,0.0
+Parametric polymorphism:Computing,0.0074866310160427805
+Parametric polymorphism:System,0.01818181818181818
+Parametric polymorphism:Specification (technical standard),0.0
+Parametric polymorphism:Software,0.0
+Parametric polymorphism:Rigour,0.0
+Parametric polymorphism:Logic,0.04685314685314685
+Parametric polymorphism:Context-free grammar,0.01818181818181818
+Parametric polymorphism:Grammar,0.0
+Polymorphism (computer science):Recursion,0.012658227848101266
+Polymorphism (computer science):Function (mathematics),0.030252675822296078
+Polymorphism (computer science):Predicate (mathematical logic),0.012658227848101266
+Polymorphism (computer science):First-order logic,0.012658227848101266
+Polymorphism (computer science):Calculus,0.0
+Polymorphism (computer science):Natural deduction,0.006085686465433299
+Polymorphism (computer science):Deductive reasoning,0.0
+Polymorphism (computer science):Recursive definition,0.012658227848101266
+Polymorphism (computer science):Concept,0.0
+Polymorphism (computer science):Mathematics,0.012658227848101266
+Polymorphism (computer science):Mathematical logic,0.012658227848101266
+Polymorphism (computer science):Mathematical proof,0.012658227848101266
+Polymorphism (computer science):Well-formed formula,0.012658227848101266
+Polymorphism (computer science):Proposition,0.012658227848101266
+Polymorphism (computer science):Argument,0.0
+Polymorphism (computer science):Data,0.012658227848101266
+Polymorphism (computer science):Definition,0.0
+Polymorphism (computer science):Data type,0.1087332665513159
+Polymorphism (computer science):Computation,0.0
+Polymorphism (computer science):Discrete mathematics,0.0
+Polymorphism (computer science):Hoare logic,-0.008175105485232067
+Polymorphism (computer science):Description,0.0
+Polymorphism (computer science):Regular language,0.0
+Polymorphism (computer science):Language,0.05063291139240506
+Polymorphism (computer science):English language,0.012658227848101266
+Polymorphism (computer science):Regular expression,0.02031645569620253
+Polymorphism (computer science):Structural induction,0.012658227848101266
+Polymorphism (computer science):Mathematical induction,0.0
+Polymorphism (computer science):Formal language,0.02531645569620253
+Polymorphism (computer science):Theory,0.012658227848101266
+Polymorphism (computer science):Formal grammar,-0.011904761904761904
+Polymorphism (computer science):Finite set,0.0
+Polymorphism (computer science):Finite-state machine,0.0
+Polymorphism (computer science):Determinism,0.0
+Polymorphism (computer science):Nondeterministic finite automaton,0.0
+Polymorphism (computer science):Data structure,0.01570840323318591
+Polymorphism (computer science):Structure,-0.007692307692307693
+Polymorphism (computer science):Principle,0.0
+Polymorphism (computer science):Turing machine,0.00728188376207976
+Polymorphism (computer science):Machine,0.0
+Polymorphism (computer science):Computing,-0.0053475935828877
+Polymorphism (computer science):System,0.02531645569620253
+Polymorphism (computer science):Specification (technical standard),0.0
+Polymorphism (computer science):Software,0.012658227848101266
+Polymorphism (computer science):Rigour,0.0
+Polymorphism (computer science):Logic,0.0379746835443038
+Polymorphism (computer science):Context-free grammar,0.012658227848101266
+Polymorphism (computer science):Grammar,0.0
+Higher-order function:Recursion,0.06375
+Higher-order function:Function (mathematics),0.2150699806949807
+Higher-order function:Predicate (mathematical logic),-0.058823529411764705
+Higher-order function:First-order logic,0.01136968085106383
+Higher-order function:Calculus,0.06965042372881355
+Higher-order function:Natural deduction,-0.003605769230769232
+Higher-order function:Deductive reasoning,0.03125
+Higher-order function:Recursive definition,-0.008765243902439025
+Higher-order function:Concept,0.0
+Higher-order function:Mathematics,0.15126246882793018
+Higher-order function:Mathematical logic,0.13116127760252366
+Higher-order function:Mathematical proof,0.0625
+Higher-order function:Well-formed formula,-0.015151515151515152
+Higher-order function:Proposition,-0.012987012987012988
+Higher-order function:Argument,0.0
+Higher-order function:Data,0.02144607843137255
+Higher-order function:Definition,0.03125
+Higher-order function:Data type,0.07216726618705036
+Higher-order function:Computation,0.025135869565217392
+Higher-order function:Discrete mathematics,0.027065899581589958
+Higher-order function:Hoare logic,0.015625
+Higher-order function:Description,0.0
+Higher-order function:Regular language,0.0
+Higher-order function:Language,0.03125
+Higher-order function:English language,0.0
+Higher-order function:Regular expression,0.0525
+Higher-order function:Structural induction,0.0
+Higher-order function:Mathematical induction,0.0
+Higher-order function:Formal language,0.03125
+Higher-order function:Theory,0.0
+Higher-order function:Formal grammar,0.015625
+Higher-order function:Finite set,0.0
+Higher-order function:Finite-state machine,0.0
+Higher-order function:Determinism,0.0
+Higher-order function:Nondeterministic finite automaton,-0.02
+Higher-order function:Data structure,0.08527861445783133
+Higher-order function:Structure,0.015625
+Higher-order function:Principle,0.015625
+Higher-order function:Turing machine,0.0727486559139785
+Higher-order function:Machine,0.0
+Higher-order function:Computing,0.0361798128342246
+Higher-order function:System,0.03125
+Higher-order function:Specification (technical standard),0.015625
+Higher-order function:Software,0.0
+Higher-order function:Rigour,0.0
+Higher-order function:Logic,0.023557692307692307
+Higher-order function:Context-free grammar,0.0
+Higher-order function:Grammar,-0.009345794392523364
+Asymptotic analysis:Recursion,-0.01
+Asymptotic analysis:Function (mathematics),0.22977799227799225
+Asymptotic analysis:Predicate (mathematical logic),0.0
+Asymptotic analysis:First-order logic,0.008244680851063831
+Asymptotic analysis:Calculus,0.09152542372881356
+Asymptotic analysis:Natural deduction,0.0
+Asymptotic analysis:Deductive reasoning,0.025
+Asymptotic analysis:Recursive definition,-0.04878048780487805
+Asymptotic analysis:Concept,-0.008403361344537815
+Asymptotic analysis:Mathematics,0.2775561097256858
+Asymptotic analysis:Mathematical logic,0.021845425867507887
+Asymptotic analysis:Mathematical proof,-0.011494252873563218
+Asymptotic analysis:Well-formed formula,0.0
+Asymptotic analysis:Proposition,0.0125
+Asymptotic analysis:Argument,0.0125
+Asymptotic analysis:Data,0.025
+Asymptotic analysis:Definition,0.0
+Asymptotic analysis:Data type,0.0125
+Asymptotic analysis:Computation,0.0032608695652173933
+Asymptotic analysis:Discrete mathematics,0.008211297071129706
+Asymptotic analysis:Hoare logic,0.0
+Asymptotic analysis:Description,0.0125
+Asymptotic analysis:Regular language,-0.024085365853658534
+Asymptotic analysis:Language,0.0
+Asymptotic analysis:English language,0.0
+Asymptotic analysis:Regular expression,0.02
+Asymptotic analysis:Structural induction,0.0
+Asymptotic analysis:Mathematical induction,0.0025280898876404514
+Asymptotic analysis:Formal language,0.0125
+Asymptotic analysis:Theory,0.006457703927492448
+Asymptotic analysis:Formal grammar,-0.023809523809523808
+Asymptotic analysis:Finite set,0.011666666666666667
+Asymptotic analysis:Finite-state machine,-0.008403361344537815
+Asymptotic analysis:Determinism,0.004096638655462186
+Asymptotic analysis:Nondeterministic finite automaton,-0.04
+Asymptotic analysis:Data structure,-0.012048192771084338
+Asymptotic analysis:Structure,0.0
+Asymptotic analysis:Principle,0.0
+Asymptotic analysis:Turing machine,0.008870967741935486
+Asymptotic analysis:Machine,0.0
+Asymptotic analysis:Computing,0.0125
+Asymptotic analysis:System,0.018243243243243244
+Asymptotic analysis:Specification (technical standard),0.0
+Asymptotic analysis:Software,-0.00546448087431694
+Asymptotic analysis:Rigour,0.0125
+Asymptotic analysis:Logic,0.021153846153846155
+Asymptotic analysis:Context-free grammar,-0.008064516129032258
+Asymptotic analysis:Grammar,0.0
+Analysis:Recursion,0.020456852791878172
+Analysis:Function (mathematics),0.03288712933382984
+Analysis:Predicate (mathematical logic),-0.029411764705882353
+Analysis:First-order logic,0.00589696511502322
+Analysis:Calculus,0.008431558117525596
+Analysis:Natural deduction,0.0005368996485747742
+Analysis:Deductive reasoning,0.005682248655201155
+Analysis:Recursive definition,0.0
+Analysis:Concept,-0.0015782962931365427
+Analysis:Mathematics,0.04603972302745674
+Analysis:Mathematical logic,0.030456852791878174
+Analysis:Mathematical proof,0.008810315654355562
+Analysis:Well-formed formula,-0.015151515151515152
+Analysis:Proposition,0.02030456852791878
+Analysis:Argument,0.02030456852791878
+Analysis:Data,0.02030456852791878
+Analysis:Definition,0.005076142131979695
+Analysis:Data type,0.002958039659642843
+Analysis:Computation,0.005076142131979695
+Analysis:Discrete mathematics,-0.0024000169912707352
+Analysis:Hoare logic,-0.020833333333333332
+Analysis:Description,0.0
+Analysis:Regular language,0.005076142131979695
+Analysis:Language,0.036952829926038655
+Analysis:English language,0.02030456852791878
+Analysis:Regular expression,7.614213197969493e-05
+Analysis:Structural induction,-0.03125
+Analysis:Mathematical induction,-0.001083670792220385
+Analysis:Formal language,0.001380354439397987
+Analysis:Theory,0.006164982287177757
+Analysis:Formal grammar,0.0033236644911771827
+Analysis:Finite set,-0.013333333333333334
+Analysis:Finite-state machine,0.005076142131979695
+Analysis:Determinism,0.0017489229194215753
+Analysis:Nondeterministic finite automaton,0.0
+Analysis:Data structure,0.0
+Analysis:Structure,0.017688402967590784
+Analysis:Principle,0.005076142131979695
+Analysis:Turing machine,0.009852082309917581
+Analysis:Machine,0.015228426395939087
+Analysis:Computing,0.0
+Analysis:System,0.028776238167101113
+Analysis:Specification (technical standard),-0.006711409395973154
+Analysis:Software,0.03514465618152062
+Analysis:Rigour,-0.02857142857142857
+Analysis:Logic,0.04814525575946896
+Analysis:Context-free grammar,0.01015228426395939
+Analysis:Grammar,0.04608852412353527
+Abstract data type:Recursion,0.12371134020618557
+Abstract data type:Function (mathematics),0.10568005413366238
+Abstract data type:Predicate (mathematical logic),0.020618556701030927
+Abstract data type:First-order logic,0.016363237552094758
+Abstract data type:Calculus,0.010309278350515464
+Abstract data type:Natural deduction,0.0006938937351308478
+Abstract data type:Deductive reasoning,0.020618556701030927
+Abstract data type:Recursive definition,0.010309278350515464
+Abstract data type:Concept,0.010309278350515464
+Abstract data type:Mathematics,0.1134020618556701
+Abstract data type:Mathematical logic,0.05154639175257732
+Abstract data type:Mathematical proof,0.025180708614764784
+Abstract data type:Well-formed formula,0.010309278350515464
+Abstract data type:Proposition,0.010309278350515464
+Abstract data type:Argument,0.0
+Abstract data type:Data,0.021123913482918942
+Abstract data type:Definition,0.0
+Abstract data type:Data type,0.057998961655417916
+Abstract data type:Computation,0.061855670103092786
+Abstract data type:Discrete mathematics,0.0
+Abstract data type:Hoare logic,0.030713058419243985
+Abstract data type:Description,0.020618556701030927
+Abstract data type:Regular language,0.010309278350515464
+Abstract data type:Language,0.05154639175257732
+Abstract data type:English language,0.0
+Abstract data type:Regular expression,0.03623711340206186
+Abstract data type:Structural induction,0.010309278350515464
+Abstract data type:Mathematical induction,0.05154639175257732
+Abstract data type:Formal language,0.042774461928015914
+Abstract data type:Theory,0.020618556701030927
+Abstract data type:Formal grammar,0.020618556701030927
+Abstract data type:Finite set,0.010309278350515464
+Abstract data type:Finite-state machine,0.012215195356493113
+Abstract data type:Determinism,0.0
+Abstract data type:Nondeterministic finite automaton,0.0
+Abstract data type:Data structure,0.14755930940255868
+Abstract data type:Structure,-0.0049167327517843015
+Abstract data type:Principle,0.010309278350515464
+Abstract data type:Turing machine,0.04617004766655581
+Abstract data type:Machine,0.0
+Abstract data type:Computing,0.061855670103092786
+Abstract data type:System,0.01386179994427417
+Abstract data type:Specification (technical standard),0.013907147305057772
+Abstract data type:Software,0.024843670779111034
+Abstract data type:Rigour,0.0
+Abstract data type:Logic,0.061855670103092786
+Abstract data type:Context-free grammar,0.010309278350515464
+Abstract data type:Grammar,-0.004672897196261682
+Modular programming:Recursion,0.023478260869565216
+Modular programming:Function (mathematics),0.0009736444519053214
+Modular programming:Predicate (mathematical logic),0.0
+Modular programming:First-order logic,0.004440333024976873
+Modular programming:Calculus,0.008695652173913044
+Modular programming:Natural deduction,0.0
+Modular programming:Deductive reasoning,0.0
+Modular programming:Recursive definition,0.0
+Modular programming:Concept,0.0
+Modular programming:Mathematics,0.008695652173913044
+Modular programming:Mathematical logic,0.0
+Modular programming:Mathematical proof,-0.005747126436781609
+Modular programming:Well-formed formula,0.0
+Modular programming:Proposition,0.0
+Modular programming:Argument,0.0
+Modular programming:Data,0.016283034953111678
+Modular programming:Definition,0.0
+Modular programming:Data type,0.08877072255239288
+Modular programming:Computation,0.0
+Modular programming:Discrete mathematics,0.0
+Modular programming:Hoare logic,-0.041666666666666664
+Modular programming:Description,0.0
+Modular programming:Regular language,0.008695652173913044
+Modular programming:Language,0.2608695652173913
+Modular programming:English language,0.017391304347826087
+Modular programming:Regular expression,0.04456521739130435
+Modular programming:Structural induction,0.0
+Modular programming:Mathematical induction,0.0
+Modular programming:Formal language,-7.627765064835944e-05
+Modular programming:Theory,0.0
+Modular programming:Formal grammar,0.043478260869565216
+Modular programming:Finite set,0.0
+Modular programming:Finite-state machine,0.008695652173913044
+Modular programming:Determinism,0.0
+Modular programming:Nondeterministic finite automaton,0.0
+Modular programming:Data structure,0.02535358826610791
+Modular programming:Structure,-0.015384615384615385
+Modular programming:Principle,0.017391304347826087
+Modular programming:Turing machine,-0.002057035998129968
+Modular programming:Machine,0.0
+Modular programming:Computing,0.027435480120902113
+Modular programming:System,0.034782608695652174
+Modular programming:Specification (technical standard),0.010679894951852932
+Modular programming:Software,0.03131385127108577
+Modular programming:Rigour,0.0
+Modular programming:Logic,-0.0038461538461538464
+Modular programming:Context-free grammar,0.02608695652173913
+Modular programming:Grammar,0.0
+Functional programming:Recursion,-0.004865900383141775
+Functional programming:Function (mathematics),0.0341277237828962
+Functional programming:Predicate (mathematical logic),-0.054992111787243635
+Functional programming:First-order logic,-0.015309366593299095
+Functional programming:Calculus,0.0018020650691603357
+Functional programming:Natural deduction,-0.023135867963454175
+Functional programming:Deductive reasoning,0.01532567049808429
+Functional programming:Recursive definition,-0.06167647883375385
+Functional programming:Concept,-0.008403361344537815
+Functional programming:Mathematics,0.07182235980928904
+Functional programming:Mathematical logic,0.03606608893240025
+Functional programming:Mathematical proof,0.02681992337164751
+Functional programming:Well-formed formula,-0.03779171020550331
+Functional programming:Proposition,-0.01831119072498383
+Functional programming:Argument,0.0038314176245210726
+Functional programming:Data,-0.0009015100292990783
+Functional programming:Definition,-0.010855683269476373
+Functional programming:Data type,0.021417348879517073
+Functional programming:Computation,-0.04481092786939863
+Functional programming:Discrete mathematics,-0.013257666843008064
+Functional programming:Hoare logic,-0.013170498084291188
+Functional programming:Description,0.0
+Functional programming:Regular language,0.007662835249042145
+Functional programming:Language,0.12278047447939651
+Functional programming:English language,0.0
+Functional programming:Regular expression,-0.03019157088122606
+Functional programming:Structural induction,-0.08225574712643678
+Functional programming:Mathematical induction,-0.03344956735115588
+Functional programming:Formal language,0.015829804396047593
+Functional programming:Theory,0.004641687212788369
+Functional programming:Formal grammar,-0.016967706622879036
+Functional programming:Finite set,0.007662835249042145
+Functional programming:Finite-state machine,-0.021378666409092372
+Functional programming:Determinism,-0.004201680672268907
+Functional programming:Nondeterministic finite automaton,-0.04
+Functional programming:Data structure,-0.03785255966394313
+Functional programming:Structure,-0.0077807250221043345
+Functional programming:Principle,0.007662835249042145
+Functional programming:Turing machine,-0.002410085279940674
+Functional programming:Machine,0.0
+Functional programming:Computing,-0.013645583625299648
+Functional programming:System,0.01623174899036968
+Functional programming:Specification (technical standard),0.001902851706137982
+Functional programming:Software,-0.018528986872683877
+Functional programming:Rigour,0.0038314176245210726
+Functional programming:Logic,0.02670203359858532
+Functional programming:Context-free grammar,-0.024996910147077
+Functional programming:Grammar,-0.0008414795717406093
+Paradigm:Recursion,0.0
+Paradigm:Function (mathematics),0.00594291770762359
+Paradigm:Predicate (mathematical logic),0.0
+Paradigm:First-order logic,-0.00425531914893617
+Paradigm:Calculus,0.02650382186773014
+Paradigm:Natural deduction,0.0
+Paradigm:Deductive reasoning,0.034094234708808895
+Paradigm:Recursive definition,0.0
+Paradigm:Concept,0.04341736694677872
+Paradigm:Mathematics,0.03904454549899761
+Paradigm:Mathematical logic,0.006989546607286448
+Paradigm:Mathematical proof,0.013860716700473293
+Paradigm:Well-formed formula,0.0
+Paradigm:Proposition,0.00980392156862745
+Paradigm:Argument,0.006606990622335891
+Paradigm:Data,0.0
+Paradigm:Definition,0.0005446623093681921
+Paradigm:Data type,-0.007194244604316547
+Paradigm:Computation,-0.021739130434782608
+Paradigm:Discrete mathematics,-0.0041841004184100415
+Paradigm:Hoare logic,-0.020833333333333332
+Paradigm:Description,0.029411764705882353
+Paradigm:Regular language,0.0
+Paradigm:Language,0.026418611320213642
+Paradigm:English language,-0.0033222591362126247
+Paradigm:Regular expression,0.0
+Paradigm:Structural induction,0.0
+Paradigm:Mathematical induction,-0.011235955056179775
+Paradigm:Formal language,0.00980392156862745
+Paradigm:Theory,0.06782773532373675
+Paradigm:Formal grammar,0.0196078431372549
+Paradigm:Finite set,0.0
+Paradigm:Finite-state machine,-0.015406162464985995
+Paradigm:Determinism,0.022408963585434174
+Paradigm:Nondeterministic finite automaton,0.0
+Paradigm:Data structure,-0.002244271202456887
+Paradigm:Structure,0.0196078431372549
+Paradigm:Principle,0.030837789661319073
+Paradigm:Turing machine,-0.010752688172043012
+Paradigm:Machine,0.006459439963276281
+Paradigm:Computing,0.0142602495543672
+Paradigm:System,0.01589825119236884
+Paradigm:Specification (technical standard),-0.006711409395973154
+Paradigm:Software,0.0
+Paradigm:Rigour,-0.05714285714285714
+Paradigm:Logic,0.08650075414781297
+Paradigm:Context-free grammar,0.0
+Paradigm:Grammar,0.0392156862745098
+Solution:Recursion,0.0
+Solution:Function (mathematics),0.0
+Solution:Predicate (mathematical logic),0.0
+Solution:First-order logic,0.0
+Solution:Calculus,0.0
+Solution:Natural deduction,0.0
+Solution:Deductive reasoning,0.0
+Solution:Recursive definition,0.0
+Solution:Concept,0.0
+Solution:Mathematics,0.06893480584253651
+Solution:Mathematical logic,-0.0031545741324921135
+Solution:Mathematical proof,0.0
+Solution:Well-formed formula,0.0
+Solution:Proposition,0.0
+Solution:Argument,0.0
+Solution:Data,0.0
+Solution:Definition,0.0
+Solution:Data type,0.0
+Solution:Computation,0.0
+Solution:Discrete mathematics,0.0
+Solution:Hoare logic,0.0
+Solution:Description,0.0
+Solution:Regular language,0.0
+Solution:Language,0.0
+Solution:English language,0.0
+Solution:Regular expression,0.0
+Solution:Structural induction,0.0
+Solution:Mathematical induction,0.0
+Solution:Formal language,0.0
+Solution:Theory,0.0
+Solution:Formal grammar,0.0
+Solution:Finite set,0.0
+Solution:Finite-state machine,0.0
+Solution:Determinism,0.0
+Solution:Nondeterministic finite automaton,0.0
+Solution:Data structure,0.0
+Solution:Structure,0.0
+Solution:Principle,0.0
+Solution:Turing machine,0.0
+Solution:Machine,0.0
+Solution:Computing,0.0
+Solution:System,0.0
+Solution:Specification (technical standard),0.0
+Solution:Software,0.0
+Solution:Rigour,0.0
+Solution:Logic,0.06758241758241758
+Solution:Context-free grammar,0.0
+Solution:Grammar,0.0
+Imperative programming:Recursion,0.013191489361702127
+Imperative programming:Function (mathematics),0.010720446890659659
+Imperative programming:Predicate (mathematical logic),0.0
+Imperative programming:First-order logic,-0.01276595744680851
+Imperative programming:Calculus,0.01280201947349441
+Imperative programming:Natural deduction,-0.019230769230769232
+Imperative programming:Deductive reasoning,0.010638297872340425
+Imperative programming:Recursive definition,-0.024390243902439025
+Imperative programming:Concept,0.012873234400143036
+Imperative programming:Mathematics,0.04571019260359739
+Imperative programming:Mathematical logic,0.022451171219544933
+Imperative programming:Mathematical proof,0.010638297872340425
+Imperative programming:Well-formed formula,-0.015151515151515152
+Imperative programming:Proposition,0.0
+Imperative programming:Argument,0.0
+Imperative programming:Data,0.0229453483521068
+Imperative programming:Definition,0.0
+Imperative programming:Data type,0.03038420327567734
+Imperative programming:Computation,-0.012488436632747457
+Imperative programming:Discrete mathematics,-0.008368200836820083
+Imperative programming:Hoare logic,-0.05186170212765957
+Imperative programming:Description,0.0
+Imperative programming:Regular language,-0.012195121951219513
+Imperative programming:Language,0.16838461239254734
+Imperative programming:English language,0.0
+Imperative programming:Regular expression,0.0044680851063829685
+Imperative programming:Structural induction,-0.03125
+Imperative programming:Mathematical induction,-0.011833612240019125
+Imperative programming:Formal language,0.007465472191116089
+Imperative programming:Theory,0.010638297872340425
+Imperative programming:Formal grammar,0.005572441742654512
+Imperative programming:Finite set,0.010638297872340425
+Imperative programming:Finite-state machine,-0.012336849633470408
+Imperative programming:Determinism,0.0
+Imperative programming:Nondeterministic finite automaton,-0.04
+Imperative programming:Data structure,0.0362727505767752
+Imperative programming:Structure,-0.03076923076923077
+Imperative programming:Principle,0.0
+Imperative programming:Turing machine,0.03157172271791352
+Imperative programming:Machine,0.007293816266989255
+Imperative programming:Computing,0.010467629992035495
+Imperative programming:System,-0.002875215641173089
+Imperative programming:Specification (technical standard),0.014565186348707695
+Imperative programming:Software,0.01464945936519009
+Imperative programming:Rigour,0.0
+Imperative programming:Logic,0.005891980360065465
+Imperative programming:Context-free grammar,-0.002916952642415923
+Imperative programming:Grammar,0.005965400676078743
+Variable (computer science):Recursion,0.02061224489795918
+Variable (computer science):Function (mathematics),0.06756756756756756
+Variable (computer science):Predicate (mathematical logic),-0.029411764705882353
+Variable (computer science):First-order logic,0.0016934433347807198
+Variable (computer science):Calculus,0.02040816326530612
+Variable (computer science):Natural deduction,-0.009615384615384616
+Variable (computer science):Deductive reasoning,0.0
+Variable (computer science):Recursive definition,0.0
+Variable (computer science):Concept,0.02040816326530612
+Variable (computer science):Mathematics,0.04081632653061224
+Variable (computer science):Mathematical logic,0.027457670765467068
+Variable (computer science):Mathematical proof,0.01020408163265306
+Variable (computer science):Well-formed formula,-0.0049474335188620915
+Variable (computer science):Proposition,0.007421150278293133
+Variable (computer science):Argument,0.0
+Variable (computer science):Data,0.03101240496198479
+Variable (computer science):Definition,0.0
+Variable (computer science):Data type,0.11173102334458965
+Variable (computer science):Computation,0.01020408163265306
+Variable (computer science):Discrete mathematics,-0.0041841004184100415
+Variable (computer science):Hoare logic,-0.010629251700680272
+Variable (computer science):Description,0.0
+Variable (computer science):Regular language,0.0
+Variable (computer science):Language,0.06960041786367198
+Variable (computer science):English language,0.01020408163265306
+Variable (computer science):Regular expression,0.01581632653061224
+Variable (computer science):Structural induction,0.0
+Variable (computer science):Mathematical induction,-0.0010318734235267146
+Variable (computer science):Formal language,0.03204439670605084
+Variable (computer science):Theory,0.0
+Variable (computer science):Formal grammar,0.01020408163265306
+Variable (computer science):Finite set,0.01020408163265306
+Variable (computer science):Finite-state machine,0.0018007202881152456
+Variable (computer science):Determinism,0.0
+Variable (computer science):Nondeterministic finite automaton,-0.02
+Variable (computer science):Data structure,-0.01475288910745022
+Variable (computer science):Structure,-0.007692307692307693
+Variable (computer science):Principle,0.0
+Variable (computer science):Turing machine,-0.005376344086021506
+Variable (computer science):Machine,0.0
+Variable (computer science):Computing,0.08163265306122448
+Variable (computer science):System,0.0
+Variable (computer science):Specification (technical standard),0.01020408163265306
+Variable (computer science):Software,0.0040147206423553
+Variable (computer science):Rigour,0.0
+Variable (computer science):Logic,0.016562009419152274
+Variable (computer science):Context-free grammar,0.01020408163265306
+Variable (computer science):Grammar,0.0
+Data structure:Recursion,0.09253012048192771
+Data structure:Function (mathematics),0.029352932967390798
+Data structure:Predicate (mathematical logic),0.0
+Data structure:First-order logic,-0.009228402973596513
+Data structure:Calculus,-0.00423728813559322
+Data structure:Natural deduction,-0.009615384615384616
+Data structure:Deductive reasoning,0.024096385542168676
+Data structure:Recursive definition,0.012048192771084338
+Data structure:Concept,0.024096385542168676
+Data structure:Mathematics,0.07186852146741579
+Data structure:Mathematical logic,0.012048192771084338
+Data structure:Mathematical proof,-0.005747126436781609
+Data structure:Well-formed formula,-0.030303030303030304
+Data structure:Proposition,0.0
+Data structure:Argument,0.0
+Data structure:Data,0.02551381998582565
+Data structure:Definition,0.0
+Data structure:Data type,0.07532287423073589
+Data structure:Computation,0.014405447878470402
+Data structure:Discrete mathematics,-0.04184100418410042
+Data structure:Hoare logic,-0.020833333333333332
+Data structure:Description,0.0
+Data structure:Regular language,-0.024537173082574196
+Data structure:Language,0.10660558137485959
+Data structure:English language,0.012048192771084338
+Data structure:Regular expression,-0.021807228915662655
+Data structure:Structural induction,-0.03125
+Data structure:Mathematical induction,0.03695681602815758
+Data structure:Formal language,-0.01321073768759247
+Data structure:Theory,-0.0030211480362537764
+Data structure:Formal grammar,-0.02352266207687894
+Data structure:Finite set,0.0
+Data structure:Finite-state machine,-0.0047585299179912915
+Data structure:Determinism,0.0
+Data structure:Nondeterministic finite automaton,0.0
+Data structure:Data structure,0.0
+Data structure:Structure,0.02715477293790547
+Data structure:Principle,0.0
+Data structure:Turing machine,0.009262857883145483
+Data structure:Machine,0.012048192771084338
+Data structure:Computing,0.03756201275691
+Data structure:System,-0.013513513513513514
+Data structure:Specification (technical standard),0.003962157354249214
+Data structure:Software,0.019882809928237544
+Data structure:Rigour,-0.014285714285714285
+Data structure:Logic,0.02460611677479147
+Data structure:Context-free grammar,-0.008161678973960355
+Data structure:Grammar,-0.004672897196261682
+Algorithm:Recursion,-0.03202898550724637
+Algorithm:Function (mathematics),-0.03082088299479603
+Algorithm:Predicate (mathematical logic),-0.08823529411764706
+Algorithm:First-order logic,-0.054579093432007404
+Algorithm:Calculus,-0.021861950380741835
+Algorithm:Natural deduction,-0.020150501672240806
+Algorithm:Deductive reasoning,-0.006662340471555266
+Algorithm:Recursive definition,-0.11905266878755744
+Algorithm:Concept,-0.04201680672268908
+Algorithm:Mathematics,0.024887057718023783
+Algorithm:Mathematical logic,0.004681570886481051
+Algorithm:Mathematical proof,-0.03698150924537731
+Algorithm:Well-formed formula,-0.04255599472990777
+Algorithm:Proposition,-0.014379823075475251
+Algorithm:Argument,0.0007246376811594207
+Algorithm:Data,-0.09045183290707588
+Algorithm:Definition,-0.012721417069243155
+Algorithm:Data type,-0.09771660932123867
+Algorithm:Computation,-0.13043478260869565
+Algorithm:Discrete mathematics,-0.11907100842883998
+Algorithm:Hoare logic,-0.14003623188405798
+Algorithm:Description,0.002898550724637681
+Algorithm:Regular language,-0.10166136443973135
+Algorithm:Language,0.014047637972604192
+Algorithm:English language,0.005373393037700419
+Algorithm:Regular expression,-0.06971014492753623
+Algorithm:Structural induction,-0.11340579710144927
+Algorithm:Mathematical induction,-0.04966617814688161
+Algorithm:Formal language,-0.06483600305110601
+Algorithm:Theory,-0.033477823022023734
+Algorithm:Formal grammar,-0.09265010351966874
+Algorithm:Finite set,-0.015072463768115944
+Algorithm:Finite-state machine,-0.09706491292169041
+Algorithm:Determinism,-0.005212519790524905
+Algorithm:Nondeterministic finite automaton,-0.10840579710144926
+Algorithm:Data structure,-0.15219137419242187
+Algorithm:Structure,-0.07402452619843924
+Algorithm:Principle,0.002898550724637681
+Algorithm:Turing machine,-0.08508648901355775
+Algorithm:Machine,-0.008026755852842809
+Algorithm:Computing,-0.09980624660931567
+Algorithm:System,-0.04341950646298473
+Algorithm:Specification (technical standard),-0.03355704697986577
+Algorithm:Software,-0.08643383226419578
+Algorithm:Rigour,-0.03706004140786749
+Algorithm:Logic,0.0350613154960981
+Algorithm:Context-free grammar,-0.0839177185600748
+Algorithm:Grammar,0.009819856426926725
+Conditional (computer programming):Recursion,0.07272727272727272
+Conditional (computer programming):Function (mathematics),0.045454545454545456
+Conditional (computer programming):Predicate (mathematical logic),0.00909090909090909
+Conditional (computer programming):First-order logic,0.00909090909090909
+Conditional (computer programming):Calculus,0.00909090909090909
+Conditional (computer programming):Natural deduction,0.00909090909090909
+Conditional (computer programming):Deductive reasoning,0.00909090909090909
+Conditional (computer programming):Recursive definition,0.00909090909090909
+Conditional (computer programming):Concept,0.0
+Conditional (computer programming):Mathematics,0.02727272727272727
+Conditional (computer programming):Mathematical logic,0.01818181818181818
+Conditional (computer programming):Mathematical proof,0.01818181818181818
+Conditional (computer programming):Well-formed formula,0.0
+Conditional (computer programming):Proposition,0.0
+Conditional (computer programming):Argument,0.0
+Conditional (computer programming):Data,0.00837789661319073
+Conditional (computer programming):Definition,0.00909090909090909
+Conditional (computer programming):Data type,0.14015696533682145
+Conditional (computer programming):Computation,-0.003557312252964427
+Conditional (computer programming):Discrete mathematics,0.0
+Conditional (computer programming):Hoare logic,-0.011742424242424242
+Conditional (computer programming):Description,0.00909090909090909
+Conditional (computer programming):Regular language,0.00909090909090909
+Conditional (computer programming):Language,0.23636363636363636
+Conditional (computer programming):English language,0.00909090909090909
+Conditional (computer programming):Regular expression,0.095
+Conditional (computer programming):Structural induction,0.0
+Conditional (computer programming):Mathematical induction,0.00909090909090909
+Conditional (computer programming):Formal language,0.02727272727272727
+Conditional (computer programming):Theory,0.0
+Conditional (computer programming):Formal grammar,0.04264069264069264
+Conditional (computer programming):Finite set,0.0
+Conditional (computer programming):Finite-state machine,0.0
+Conditional (computer programming):Determinism,0.0
+Conditional (computer programming):Nondeterministic finite automaton,0.00909090909090909
+Conditional (computer programming):Data structure,0.10613362541073385
+Conditional (computer programming):Structure,0.0
+Conditional (computer programming):Principle,0.0
+Conditional (computer programming):Turing machine,0.02727272727272727
+Conditional (computer programming):Machine,0.0
+Conditional (computer programming):Computing,0.03101604278074866
+Conditional (computer programming):System,0.00909090909090909
+Conditional (computer programming):Specification (technical standard),0.00909090909090909
+Conditional (computer programming):Software,0.0
+Conditional (computer programming):Rigour,0.0
+Conditional (computer programming):Logic,0.01818181818181818
+Conditional (computer programming):Context-free grammar,0.028299120234604104
+Conditional (computer programming):Grammar,-0.004672897196261682
+Iteration:Recursion,0.04407407407407407
+Iteration:Function (mathematics),0.21063921063921062
+Iteration:Predicate (mathematical logic),0.0
+Iteration:First-order logic,-0.00425531914893617
+Iteration:Calculus,0.06559949780288762
+Iteration:Natural deduction,0.0
+Iteration:Deductive reasoning,0.1111111111111111
+Iteration:Recursive definition,-0.024390243902439025
+Iteration:Concept,0.0
+Iteration:Mathematics,0.13069178904590376
+Iteration:Mathematical logic,0.1111111111111111
+Iteration:Mathematical proof,0.031289910600255426
+Iteration:Well-formed formula,0.0
+Iteration:Proposition,0.0
+Iteration:Argument,0.0
+Iteration:Data,0.017429193899782133
+Iteration:Definition,0.037037037037037035
+Iteration:Data type,0.0010658140154543028
+Iteration:Computation,0.05233494363929146
+Iteration:Discrete mathematics,0.032852936618626996
+Iteration:Hoare logic,0.0
+Iteration:Description,0.037037037037037035
+Iteration:Regular language,0.0
+Iteration:Language,0.037037037037037035
+Iteration:English language,0.0
+Iteration:Regular expression,-0.015
+Iteration:Structural induction,0.037037037037037035
+Iteration:Mathematical induction,0.0628381190178943
+Iteration:Formal language,0.028265107212475632
+Iteration:Theory,-0.006042296072507553
+Iteration:Formal grammar,-0.011904761904761904
+Iteration:Finite set,0.0
+Iteration:Finite-state machine,0.06567071272953626
+Iteration:Determinism,0.020230314347961405
+Iteration:Nondeterministic finite automaton,-0.02
+Iteration:Data structure,0.08701472556894244
+Iteration:Structure,-0.015384615384615385
+Iteration:Principle,0.0
+Iteration:Turing machine,0.1057347670250896
+Iteration:Machine,-0.006688963210702341
+Iteration:Computing,0.026341849871261633
+Iteration:System,-0.006756756756756757
+Iteration:Specification (technical standard),0.0
+Iteration:Software,0.031572556162720096
+Iteration:Rigour,0.0
+Iteration:Logic,0.18518518518518517
+Iteration:Context-free grammar,0.0
+Iteration:Grammar,0.0
+Eager evaluation:Recursion,-0.01
+Eager evaluation:Function (mathematics),-0.003861003861003861
+Eager evaluation:Predicate (mathematical logic),0.0
+Eager evaluation:First-order logic,0.0
+Eager evaluation:Calculus,0.0
+Eager evaluation:Natural deduction,0.0
+Eager evaluation:Deductive reasoning,0.0
+Eager evaluation:Recursive definition,0.0
+Eager evaluation:Concept,0.0
+Eager evaluation:Mathematics,0.0
+Eager evaluation:Mathematical logic,0.0
+Eager evaluation:Mathematical proof,0.0
+Eager evaluation:Well-formed formula,0.0
+Eager evaluation:Proposition,0.0
+Eager evaluation:Argument,0.0
+Eager evaluation:Data,-0.00980392156862745
+Eager evaluation:Definition,0.0
+Eager evaluation:Data type,-0.007194244604316547
+Eager evaluation:Computation,0.0
+Eager evaluation:Discrete mathematics,0.0
+Eager evaluation:Hoare logic,0.0
+Eager evaluation:Description,0.0
+Eager evaluation:Regular language,0.0
+Eager evaluation:Language,0.0
+Eager evaluation:English language,0.0
+Eager evaluation:Regular expression,-0.005
+Eager evaluation:Structural induction,0.0
+Eager evaluation:Mathematical induction,0.0
+Eager evaluation:Formal language,-0.008771929824561403
+Eager evaluation:Theory,0.0
+Eager evaluation:Formal grammar,0.0
+Eager evaluation:Finite set,0.0
+Eager evaluation:Finite-state machine,0.0
+Eager evaluation:Determinism,0.0
+Eager evaluation:Nondeterministic finite automaton,0.0
+Eager evaluation:Data structure,0.5
+Eager evaluation:Structure,0.0
+Eager evaluation:Principle,0.0
+Eager evaluation:Turing machine,0.0
+Eager evaluation:Machine,0.0
+Eager evaluation:Computing,-0.0053475935828877
+Eager evaluation:System,0.0
+Eager evaluation:Specification (technical standard),0.0
+Eager evaluation:Software,0.0
+Eager evaluation:Rigour,0.0
+Eager evaluation:Logic,0.0
+Eager evaluation:Context-free grammar,0.0
+Eager evaluation:Grammar,0.0
+Evaluation:Recursion,0.0048543689320388345
+Evaluation:Function (mathematics),0.0
+Evaluation:Predicate (mathematical logic),0.0
+Evaluation:First-order logic,0.0005990497831026642
+Evaluation:Calculus,0.0048543689320388345
+Evaluation:Natural deduction,0.0
+Evaluation:Deductive reasoning,0.043689320388349516
+Evaluation:Recursive definition,0.0
+Evaluation:Concept,0.040140327975850536
+Evaluation:Mathematics,0.019417475728155338
+Evaluation:Mathematical logic,0.009708737864077669
+Evaluation:Mathematical proof,0.009708737864077669
+Evaluation:Well-formed formula,0.0
+Evaluation:Proposition,0.019417475728155338
+Evaluation:Argument,-0.001160827353313635
+Evaluation:Data,0.02912621359223301
+Evaluation:Definition,0.0
+Evaluation:Data type,-0.0023398756722777126
+Evaluation:Computation,0.0048543689320388345
+Evaluation:Discrete mathematics,0.0
+Evaluation:Hoare logic,0.0
+Evaluation:Description,0.0
+Evaluation:Regular language,0.0
+Evaluation:Language,0.019417475728155338
+Evaluation:English language,0.0
+Evaluation:Regular expression,0.0
+Evaluation:Structural induction,0.0
+Evaluation:Mathematical induction,0.0
+Evaluation:Formal language,0.009708737864077669
+Evaluation:Theory,0.02912621359223301
+Evaluation:Formal grammar,0.0
+Evaluation:Finite set,0.0
+Evaluation:Finite-state machine,-0.008403361344537815
+Evaluation:Determinism,0.0006526882597699271
+Evaluation:Nondeterministic finite automaton,0.0
+Evaluation:Data structure,0.0048543689320388345
+Evaluation:Structure,0.0048543689320388345
+Evaluation:Principle,0.0048543689320388345
+Evaluation:Turing machine,0.0
+Evaluation:Machine,0.0
+Evaluation:Computing,-0.0004932246508488657
+Evaluation:System,0.04178693256363159
+Evaluation:Specification (technical standard),0.0048543689320388345
+Evaluation:Software,0.014563106796116505
+Evaluation:Rigour,-0.014285714285714285
+Evaluation:Logic,0.038834951456310676
+Evaluation:Context-free grammar,0.0
+Evaluation:Grammar,-0.004672897196261682
+Productivity:Recursion,0.0
+Productivity:Function (mathematics),0.013888888888888888
+Productivity:Predicate (mathematical logic),0.0
+Productivity:First-order logic,0.0
+Productivity:Calculus,0.0
+Productivity:Natural deduction,0.0
+Productivity:Deductive reasoning,0.0
+Productivity:Recursive definition,0.0
+Productivity:Concept,-0.008403361344537815
+Productivity:Mathematics,0.0
+Productivity:Mathematical logic,0.0
+Productivity:Mathematical proof,0.0
+Productivity:Well-formed formula,0.0
+Productivity:Proposition,0.0
+Productivity:Argument,0.0
+Productivity:Data,0.0
+Productivity:Definition,0.0
+Productivity:Data type,0.0
+Productivity:Computation,0.0
+Productivity:Discrete mathematics,0.0
+Productivity:Hoare logic,0.0
+Productivity:Description,0.0
+Productivity:Regular language,0.0
+Productivity:Language,0.012060735323989437
+Productivity:English language,-0.0033222591362126247
+Productivity:Regular expression,0.0
+Productivity:Structural induction,0.0
+Productivity:Mathematical induction,0.0
+Productivity:Formal language,0.0
+Productivity:Theory,0.018714333669016446
+Productivity:Formal grammar,0.0
+Productivity:Finite set,0.0
+Productivity:Finite-state machine,-0.008403361344537815
+Productivity:Determinism,0.009687208216619982
+Productivity:Nondeterministic finite automaton,0.0
+Productivity:Data structure,0.0
+Productivity:Structure,0.006196581196581195
+Productivity:Principle,0.0
+Productivity:Turing machine,-0.005376344086021506
+Productivity:Machine,0.011055369751021924
+Productivity:Computing,-0.016042780748663103
+Productivity:System,0.0
+Productivity:Specification (technical standard),0.0
+Productivity:Software,0.0029599271402550083
+Productivity:Rigour,0.0
+Productivity:Logic,0.03397435897435897
+Productivity:Context-free grammar,0.0
+Productivity:Grammar,0.0
+Software:Recursion,0.02185792349726776
+Software:Function (mathematics),0.004810431039939238
+Software:Predicate (mathematical logic),0.0
+Software:First-order logic,-0.01276595744680851
+Software:Calculus,0.0012271927387237196
+Software:Natural deduction,0.0
+Software:Deductive reasoning,0.0014680694886224626
+Software:Recursive definition,0.00546448087431694
+Software:Concept,0.00546448087431694
+Software:Mathematics,0.023288772604009106
+Software:Mathematical logic,0.001465239351157539
+Software:Mathematical proof,-0.005747126436781609
+Software:Well-formed formula,0.00546448087431694
+Software:Proposition,0.01092896174863388
+Software:Argument,-0.005405084343074364
+Software:Data,-0.05978784956605593
+Software:Definition,0.0
+Software:Data type,0.0402563195345363
+Software:Computation,-0.026966025184129244
+Software:Discrete mathematics,-0.029288702928870293
+Software:Hoare logic,-0.020833333333333332
+Software:Description,0.0
+Software:Regular language,-0.018925763028122086
+Software:Language,0.04369586717415411
+Software:English language,-0.006644518272425249
+Software:Regular expression,-0.0026775956284153003
+Software:Structural induction,0.0
+Software:Mathematical induction,0.01092896174863388
+Software:Formal language,0.013085993672706357
+Software:Theory,-0.0030211480362537764
+Software:Formal grammar,-0.006440281030444964
+Software:Finite set,0.0
+Software:Finite-state machine,-0.02015888322542132
+Software:Determinism,-0.012605042016806723
+Software:Nondeterministic finite automaton,0.0
+Software:Data structure,-0.019882809928237544
+Software:Structure,-0.012147961328289198
+Software:Principle,0.0
+Software:Turing machine,0.016569716199541687
+Software:Machine,-0.0024489646727708023
+Software:Computing,-0.05636889629175067
+Software:System,0.0015876532269974881
+Software:Specification (technical standard),-0.06711409395973154
+Software:Software,0.0
+Software:Rigour,0.00546448087431694
+Software:Logic,0.03278688524590164
+Software:Context-free grammar,0.00546448087431694
+Software:Grammar,-0.004672897196261682
+Distributed computing:Recursion,0.007142857142857143
+Distributed computing:Function (mathematics),0.01756756756756757
+Distributed computing:Predicate (mathematical logic),0.0
+Distributed computing:First-order logic,0.014285714285714285
+Distributed computing:Calculus,-0.00847457627118644
+Distributed computing:Natural deduction,-0.009615384615384616
+Distributed computing:Deductive reasoning,0.014285714285714285
+Distributed computing:Recursive definition,-0.024390243902439025
+Distributed computing:Concept,0.0
+Distributed computing:Mathematics,0.01859636622728892
+Distributed computing:Mathematical logic,0.011131140153222172
+Distributed computing:Mathematical proof,-0.010098522167487686
+Distributed computing:Well-formed formula,0.0
+Distributed computing:Proposition,0.014285714285714285
+Distributed computing:Argument,0.0
+Distributed computing:Data,0.023249299719887956
+Distributed computing:Definition,0.0
+Distributed computing:Data type,-0.007297019527235356
+Distributed computing:Computation,-0.015217391304347822
+Distributed computing:Discrete mathematics,0.013060370591751346
+Distributed computing:Hoare logic,-0.0625
+Distributed computing:Description,0.0
+Distributed computing:Regular language,-0.00505226480836237
+Distributed computing:Language,0.0
+Distributed computing:English language,0.0
+Distributed computing:Regular expression,-0.0007142857142857142
+Distributed computing:Structural induction,0.0
+Distributed computing:Mathematical induction,0.0030497592295345103
+Distributed computing:Formal language,0.03571428571428571
+Distributed computing:Theory,0.0
+Distributed computing:Formal grammar,-0.011904761904761904
+Distributed computing:Finite set,0.007142857142857143
+Distributed computing:Finite-state machine,0.02857142857142857
+Distributed computing:Determinism,0.0
+Distributed computing:Nondeterministic finite automaton,0.007142857142857143
+Distributed computing:Data structure,-0.01247848537005164
+Distributed computing:Structure,-0.015934065934065936
+Distributed computing:Principle,0.0
+Distributed computing:Turing machine,0.03924731182795699
+Distributed computing:Machine,0.02857142857142857
+Distributed computing:Computing,0.03579067990832697
+Distributed computing:System,0.04362934362934363
+Distributed computing:Specification (technical standard),0.0
+Distributed computing:Software,0.07056986729117876
+Distributed computing:Rigour,0.0
+Distributed computing:Logic,0.031868131868131866
+Distributed computing:Context-free grammar,0.0
+Distributed computing:Grammar,-0.004672897196261682
+Version control:Recursion,0.011764705882352941
+Version control:Function (mathematics),0.011764705882352941
+Version control:Predicate (mathematical logic),0.0
+Version control:First-order logic,0.011764705882352941
+Version control:Calculus,0.0
+Version control:Natural deduction,0.011764705882352941
+Version control:Deductive reasoning,0.023529411764705882
+Version control:Recursive definition,0.0
+Version control:Concept,0.0
+Version control:Mathematics,0.023529411764705882
+Version control:Mathematical logic,0.011764705882352941
+Version control:Mathematical proof,0.0
+Version control:Well-formed formula,0.0
+Version control:Proposition,0.023529411764705882
+Version control:Argument,0.011764705882352941
+Version control:Data,0.03529411764705882
+Version control:Definition,0.0
+Version control:Data type,0.0
+Version control:Computation,0.023529411764705882
+Version control:Discrete mathematics,0.011764705882352941
+Version control:Hoare logic,0.0
+Version control:Description,0.011764705882352941
+Version control:Regular language,0.0
+Version control:Language,0.023529411764705882
+Version control:English language,0.0
+Version control:Regular expression,0.006764705882352941
+Version control:Structural induction,0.0
+Version control:Mathematical induction,0.0
+Version control:Formal language,0.011764705882352941
+Version control:Theory,0.0
+Version control:Formal grammar,0.0
+Version control:Finite set,0.0
+Version control:Finite-state machine,0.011764705882352941
+Version control:Determinism,0.0
+Version control:Nondeterministic finite automaton,0.0
+Version control:Data structure,0.07058823529411765
+Version control:Structure,0.047058823529411764
+Version control:Principle,0.0
+Version control:Turing machine,0.0
+Version control:Machine,0.0
+Version control:Computing,0.07058823529411765
+Version control:System,0.07058823529411765
+Version control:Specification (technical standard),-0.00836952230556652
+Version control:Software,0.04410157505625201
+Version control:Rigour,0.0
+Version control:Logic,0.011764705882352941
+Version control:Context-free grammar,0.0
+Version control:Grammar,0.0
+System:Recursion,0.006756756756756757
+System:Function (mathematics),-0.008687258687258687
+System:Predicate (mathematical logic),0.0
+System:First-order logic,0.01851638872915469
+System:Calculus,0.03458543289051764
+System:Natural deduction,-0.019230769230769232
+System:Deductive reasoning,0.04054054054054054
+System:Recursive definition,0.0
+System:Concept,0.03724733136497843
+System:Mathematics,0.08888252342117679
+System:Mathematical logic,0.02747463551879956
+System:Mathematical proof,-0.002718235476856165
+System:Well-formed formula,0.013513513513513514
+System:Proposition,0.0005265005265005264
+System:Argument,0.006756756756756757
+System:Data,-0.021992580816110226
+System:Definition,0.013513513513513514
+System:Data type,-0.00043748784755979
+System:Computation,-0.05170387779083431
+System:Discrete mathematics,-0.011591088996946736
+System:Hoare logic,0.0
+System:Description,0.0
+System:Regular language,-0.012195121951219513
+System:Language,0.0019887346212757555
+System:English language,-0.008305647840531562
+System:Regular expression,-0.015
+System:Structural induction,0.0
+System:Mathematical induction,0.0
+System:Formal language,0.022996680891417737
+System:Theory,0.020106964971013313
+System:Formal grammar,-0.022200772200772198
+System:Finite set,0.0
+System:Finite-state machine,-0.010049965932318872
+System:Determinism,0.0018169429934135825
+System:Nondeterministic finite automaton,-0.02
+System:Data structure,0.013513513513513514
+System:Structure,0.010706860706860707
+System:Principle,-0.011425061425061424
+System:Turing machine,0.014893926184248766
+System:Machine,-0.01324233932929585
+System:Computing,-0.03461482873247579
+System:System,0.0
+System:Specification (technical standard),-0.053645927807001635
+System:Software,-0.0015876532269974881
+System:Rigour,-0.014285714285714285
+System:Logic,0.04542619542619543
+System:Context-free grammar,0.0
+System:Grammar,-0.005178075271533213
+Concept:Recursion,0.006806722689075629
+Concept:Function (mathematics),0.07631160572337044
+Concept:Predicate (mathematical logic),0.025210084033613446
+Concept:First-order logic,0.03776148757375291
+Concept:Calculus,0.020901580971371597
+Concept:Natural deduction,0.008403361344537815
+Concept:Deductive reasoning,0.0373761444876458
+Concept:Recursive definition,0.0
+Concept:Concept,0.0
+Concept:Mathematics,0.08679980720467738
+Concept:Mathematical logic,0.059857381438379764
+Concept:Mathematical proof,-0.006181783058050807
+Concept:Well-formed formula,-0.02189966895849249
+Concept:Proposition,0.019862490450725745
+Concept:Argument,-0.007398611618560466
+Concept:Data,-0.001400560224089636
+Concept:Definition,-0.012682850918145035
+Concept:Data type,-0.013179372468411827
+Concept:Computation,-0.026671538180489587
+Concept:Discrete mathematics,-0.0041489399106923106
+Concept:Hoare logic,-0.041666666666666664
+Concept:Description,-0.0601163542340013
+Concept:Regular language,0.0
+Concept:Language,0.047117201542408546
+Concept:English language,-0.0033222591362126247
+Concept:Regular expression,-0.005
+Concept:Structural induction,0.0
+Concept:Mathematical induction,0.0
+Concept:Formal language,0.033244876898127676
+Concept:Theory,-0.012363857929878895
+Concept:Formal grammar,0.008403361344537815
+Concept:Finite set,0.0
+Concept:Finite-state machine,0.0
+Concept:Determinism,-0.012605042016806726
+Concept:Nondeterministic finite automaton,0.0
+Concept:Data structure,-0.024096385542168676
+Concept:Structure,-0.022365869424692958
+Concept:Principle,-0.02796027501909855
+Concept:Turing machine,0.011430378603054124
+Concept:Machine,0.008403361344537815
+Concept:Computing,-0.018334606569900685
+Concept:System,-0.03724733136497843
+Concept:Specification (technical standard),-0.020134228187919462
+Concept:Software,-0.00546448087431694
+Concept:Rigour,-0.02857142857142857
+Concept:Logic,0.17546864899806075
+Concept:Context-free grammar,0.0
+Concept:Grammar,0.037343909526427396
+Understanding:Recursion,0.02702702702702703
+Understanding:Function (mathematics),0.06756756756756757
+Understanding:Predicate (mathematical logic),0.0
+Understanding:First-order logic,0.0
+Understanding:Calculus,0.013513513513513514
+Understanding:Natural deduction,0.0
+Understanding:Deductive reasoning,0.06615570794675273
+Understanding:Recursive definition,0.0
+Understanding:Concept,-0.023393141040199864
+Understanding:Mathematics,0.07609354990901127
+Understanding:Mathematical logic,0.05405405405405406
+Understanding:Mathematical proof,0.007766387076731905
+Understanding:Well-formed formula,0.0
+Understanding:Proposition,0.0010530010530010528
+Understanding:Argument,0.016157461809635724
+Understanding:Data,-0.002384737678855324
+Understanding:Definition,0.022022022022022025
+Understanding:Data type,0.013513513513513514
+Understanding:Computation,0.04054054054054054
+Understanding:Discrete mathematics,0.022842926608616986
+Understanding:Hoare logic,0.0
+Understanding:Description,0.013513513513513514
+Understanding:Regular language,0.0
+Understanding:Language,0.017886259202529772
+Understanding:English language,0.013513513513513514
+Understanding:Regular expression,0.0
+Understanding:Structural induction,0.0
+Understanding:Mathematical induction,0.02702702702702703
+Understanding:Formal language,0.02702702702702703
+Understanding:Theory,0.01637135625051033
+Understanding:Formal grammar,0.013513513513513514
+Understanding:Finite set,0.013513513513513514
+Understanding:Finite-state machine,0.03724733136497843
+Understanding:Determinism,-0.012605042016806723
+Understanding:Nondeterministic finite automaton,0.0
+Understanding:Data structure,0.02702702702702703
+Understanding:Structure,0.013513513513513514
+Understanding:Principle,0.0
+Understanding:Turing machine,0.06756756756756757
+Understanding:Machine,0.02702702702702703
+Understanding:Computing,0.021679433444139327
+Understanding:System,0.033783783783783786
+Understanding:Specification (technical standard),0.0
+Understanding:Software,0.02156254615271009
+Understanding:Rigour,-0.014285714285714285
+Understanding:Logic,0.1390852390852391
+Understanding:Context-free grammar,0.0
+Understanding:Grammar,0.049381156857792374
+Experience:Recursion,0.0
+Experience:Function (mathematics),0.010526315789473684
+Experience:Predicate (mathematical logic),0.0
+Experience:First-order logic,0.010526315789473684
+Experience:Calculus,-0.00423728813559322
+Experience:Natural deduction,-0.009615384615384616
+Experience:Deductive reasoning,0.031578947368421054
+Experience:Recursive definition,0.0
+Experience:Concept,-0.02724458204334365
+Experience:Mathematics,0.05318283239270245
+Experience:Mathematical logic,0.017898057446455253
+Experience:Mathematical proof,-0.011494252873563218
+Experience:Well-formed formula,0.010526315789473684
+Experience:Proposition,-0.004921394395078608
+Experience:Argument,-0.011212814645308924
+Experience:Data,0.002167182662538701
+Experience:Definition,-0.027777777777777776
+Experience:Data type,0.0
+Experience:Computation,0.010526315789473684
+Experience:Discrete mathematics,0.010526315789473684
+Experience:Hoare logic,0.0
+Experience:Description,0.0
+Experience:Regular language,0.0
+Experience:Language,0.04349081112287116
+Experience:English language,0.010526315789473684
+Experience:Regular expression,0.0
+Experience:Structural induction,0.0
+Experience:Mathematical induction,0.0
+Experience:Formal language,0.010526315789473684
+Experience:Theory,0.004388615042137067
+Experience:Formal grammar,0.010526315789473684
+Experience:Finite set,0.0
+Experience:Finite-state machine,0.010526315789473684
+Experience:Determinism,0.004245908889871738
+Experience:Nondeterministic finite automaton,0.0
+Experience:Data structure,0.0
+Experience:Structure,0.0
+Experience:Principle,0.0
+Experience:Turing machine,0.0
+Experience:Machine,0.010526315789473684
+Experience:Computing,-0.0106951871657754
+Experience:System,-0.013513513513513514
+Experience:Specification (technical standard),0.0
+Experience:Software,0.010526315789473684
+Experience:Rigour,0.0
+Experience:Logic,0.05161943319838057
+Experience:Context-free grammar,0.0
+Experience:Grammar,0.010526315789473684
+Type system:Recursion,0.0022222222222222227
+Type system:Function (mathematics),0.008472758472758472
+Type system:Predicate (mathematical logic),0.011111111111111112
+Type system:First-order logic,0.007801418439716313
+Type system:Calculus,-0.002919020715630885
+Type system:Natural deduction,-0.04102564102564103
+Type system:Deductive reasoning,0.0
+Type system:Recursive definition,0.005555555555555556
+Type system:Concept,0.011111111111111112
+Type system:Mathematics,0.0172346910501524
+Type system:Mathematical logic,0.015159481247809322
+Type system:Mathematical proof,0.005555555555555556
+Type system:Well-formed formula,-0.009595959595959595
+Type system:Proposition,-0.02041847041847042
+Type system:Argument,-0.010869565217391304
+Type system:Data,0.012418300653594772
+Type system:Definition,-0.009259259259259259
+Type system:Data type,0.04828137490007994
+Type system:Computation,-0.010628019323671497
+Type system:Discrete mathematics,-0.008368200836820083
+Type system:Hoare logic,-0.00972222222222222
+Type system:Description,-0.020085470085470084
+Type system:Regular language,0.016666666666666666
+Type system:Language,0.06856591509242331
+Type system:English language,0.005555555555555556
+Type system:Regular expression,0.016666666666666663
+Type system:Structural induction,0.005555555555555556
+Type system:Mathematical induction,-0.00012484394506866343
+Type system:Formal language,0.0412280701754386
+Type system:Theory,0.0020476670023497814
+Type system:Formal grammar,-0.0015873015873015851
+Type system:Finite set,-0.021111111111111112
+Type system:Finite-state machine,0.008123249299719887
+Type system:Determinism,0.0
+Type system:Nondeterministic finite automaton,0.0
+Type system:Data structure,-0.0038152610441767043
+Type system:Structure,-0.004273504273504274
+Type system:Principle,0.0
+Type system:Turing machine,-0.01021505376344086
+Type system:Machine,0.0
+Type system:Computing,0.017914438502673796
+Type system:System,0.022222222222222223
+Type system:Specification (technical standard),-0.0011558538404175984
+Type system:Software,-0.010564663023679418
+Type system:Rigour,0.0
+Type system:Logic,0.008119658119658119
+Type system:Context-free grammar,0.014157706093189965
+Type system:Grammar,-0.009345794392523364
+Definition:Recursion,0.017037037037037035
+Definition:Function (mathematics),0.04783354783354783
+Definition:Predicate (mathematical logic),0.009259259259259259
+Definition:First-order logic,0.030023640661938533
+Definition:Calculus,0.010043942247332077
+Definition:Natural deduction,0.0
+Definition:Deductive reasoning,0.027777777777777776
+Definition:Recursive definition,-0.03952122854561879
+Definition:Concept,0.012682850918145035
+Definition:Mathematics,0.07585203657522858
+Definition:Mathematical logic,0.07681972193013202
+Definition:Mathematical proof,0.0012771392081736901
+Definition:Well-formed formula,0.018518518518518517
+Definition:Proposition,0.020322270322270318
+Definition:Argument,0.0
+Definition:Data,-0.00980392156862745
+Definition:Definition,0.0
+Definition:Data type,0.0
+Definition:Computation,-0.021739130434782608
+Definition:Discrete mathematics,0.014334418100108475
+Definition:Hoare logic,0.0
+Definition:Description,0.009259259259259259
+Definition:Regular language,0.0
+Definition:Language,0.025949624212878324
+Definition:English language,0.018518518518518517
+Definition:Regular expression,-0.005
+Definition:Structural induction,-0.012731481481481483
+Definition:Mathematical induction,-0.005930087390761549
+Definition:Formal language,0.009746588693957114
+Definition:Theory,0.0034127783372496345
+Definition:Formal grammar,-0.011904761904761904
+Definition:Finite set,-0.0040740740740740754
+Definition:Finite-state machine,-0.008403361344537815
+Definition:Determinism,0.009259259259259259
+Definition:Nondeterministic finite automaton,-0.02
+Definition:Data structure,0.0
+Definition:Structure,0.0
+Definition:Principle,0.009259259259259259
+Definition:Turing machine,0.013142174432497012
+Definition:Machine,0.0
+Definition:Computing,0.0
+Definition:System,-0.013513513513513514
+Definition:Specification (technical standard),-0.026845637583892617
+Definition:Software,0.0
+Definition:Rigour,0.0
+Definition:Logic,0.1458689458689459
+Definition:Context-free grammar,0.0
+Definition:Grammar,0.037037037037037035
+Implementation:Recursion,0.012222222222222223
+Implementation:Function (mathematics),0.022222222222222223
+Implementation:Predicate (mathematical logic),-0.029411764705882353
+Implementation:First-order logic,-0.00425531914893617
+Implementation:Calculus,-0.00423728813559322
+Implementation:Natural deduction,0.0
+Implementation:Deductive reasoning,0.044444444444444446
+Implementation:Recursive definition,-0.024390243902439025
+Implementation:Concept,0.0
+Implementation:Mathematics,0.06417290108063176
+Implementation:Mathematical logic,0.01906764808973011
+Implementation:Mathematical proof,0.0
+Implementation:Well-formed formula,0.0
+Implementation:Proposition,0.0
+Implementation:Argument,0.0
+Implementation:Data,0.0026143790849673214
+Implementation:Definition,0.022222222222222223
+Implementation:Data type,0.0006394884092725817
+Implementation:Computation,0.022705314009661838
+Implementation:Discrete mathematics,-0.008368200836820083
+Implementation:Hoare logic,-0.020833333333333332
+Implementation:Description,0.0
+Implementation:Regular language,0.0
+Implementation:Language,0.02039406865732277
+Implementation:English language,0.0
+Implementation:Regular expression,-0.01
+Implementation:Structural induction,0.0
+Implementation:Mathematical induction,0.022222222222222223
+Implementation:Formal language,0.06666666666666667
+Implementation:Theory,0.044444444444444446
+Implementation:Formal grammar,0.0
+Implementation:Finite set,0.0
+Implementation:Finite-state machine,0.03604108309990663
+Implementation:Determinism,0.0
+Implementation:Nondeterministic finite automaton,-0.02
+Implementation:Data structure,0.030522088353413655
+Implementation:Structure,0.006837606837606838
+Implementation:Principle,0.0
+Implementation:Turing machine,0.044444444444444446
+Implementation:Machine,0.0
+Implementation:Computing,0.05062388591800356
+Implementation:System,0.05990990990990991
+Implementation:Specification (technical standard),0.01759880686055183
+Implementation:Software,0.05573770491803279
+Implementation:Rigour,0.0
+Implementation:Logic,0.13333333333333333
+Implementation:Context-free grammar,0.0
+Implementation:Grammar,0.0
+Syntax:Recursion,-0.017973568281938326
+Syntax:Function (mathematics),0.026976000544282484
+Syntax:Predicate (mathematical logic),-0.20588235294117646
+Syntax:First-order logic,-0.042103289905333206
+Syntax:Calculus,-0.00847457627118644
+Syntax:Natural deduction,-0.06290240596407996
+Syntax:Deductive reasoning,-0.012229600894207375
+Syntax:Recursive definition,-0.024390243902439025
+Syntax:Concept,-0.024395661348239738
+Syntax:Mathematics,0.0045700726158172875
+Syntax:Mathematical logic,-0.004460873552995456
+Syntax:Mathematical proof,-0.025672185933464986
+Syntax:Well-formed formula,-0.11680683486850887
+Syntax:Proposition,-0.09926197150866754
+Syntax:Argument,-0.03907297452595288
+Syntax:Data,-0.0392156862745098
+Syntax:Definition,-0.037037037037037035
+Syntax:Data type,-0.02158273381294964
+Syntax:Computation,-0.03466768818234055
+Syntax:Discrete mathematics,-0.02510460251046025
+Syntax:Hoare logic,-0.08333333333333333
+Syntax:Description,-0.06370721789223992
+Syntax:Regular language,-0.02336950682282153
+Syntax:Language,-0.03944623859417408
+Syntax:English language,-0.0301198647679541
+Syntax:Regular expression,-0.02118942731277533
+Syntax:Structural induction,-0.09375
+Syntax:Mathematical induction,-0.033707865168539325
+Syntax:Formal language,-0.07450343921477702
+Syntax:Theory,-0.010074929794907962
+Syntax:Formal grammar,-0.12701908957415564
+Syntax:Finite set,-0.031189427312775332
+Syntax:Finite-state machine,-0.03361344537815126
+Syntax:Determinism,0.00040721134268685566
+Syntax:Nondeterministic finite automaton,-0.04
+Syntax:Data structure,-0.01969109919855634
+Syntax:Structure,-0.006574042697390715
+Syntax:Principle,0.004405286343612335
+Syntax:Turing machine,0.007839514944815499
+Syntax:Machine,0.0010608047382611647
+Syntax:Computing,-0.01257980164432613
+Syntax:System,-0.033783783783783786
+Syntax:Specification (technical standard),0.0
+Syntax:Software,-0.033846079776606246
+Syntax:Rigour,-0.05714285714285714
+Syntax:Logic,-0.03454761097932904
+Syntax:Context-free grammar,-0.0454028705414239
+Syntax:Grammar,-0.07865700522870434
+Parsing:Recursion,0.004965034965034969
+Parsing:Function (mathematics),0.023382023382023387
+Parsing:Predicate (mathematical logic),0.006993006993006993
+Parsing:First-order logic,-0.00607052521946139
+Parsing:Calculus,0.009748725850420765
+Parsing:Natural deduction,0.0
+Parsing:Deductive reasoning,-0.0009393591483143719
+Parsing:Recursive definition,0.0
+Parsing:Concept,0.006993006993006993
+Parsing:Mathematics,0.00899848281394416
+Parsing:Mathematical logic,0.02865588670005074
+Parsing:Mathematical proof,-0.005747126436781609
+Parsing:Well-formed formula,-0.046620046620046623
+Parsing:Proposition,-0.01198801198801199
+Parsing:Argument,-0.003876558224384311
+Parsing:Data,-0.01261483614424791
+Parsing:Definition,0.0
+Parsing:Data type,0.013181063540775771
+Parsing:Computation,-0.007753116448768622
+Parsing:Discrete mathematics,-0.009743394680633174
+Parsing:Hoare logic,-0.041666666666666664
+Parsing:Description,0.0
+Parsing:Regular language,0.0333447040764114
+Parsing:Language,0.07111900896178776
+Parsing:English language,0.022988639267709034
+Parsing:Regular expression,0.013881118881118884
+Parsing:Structural induction,-0.03125
+Parsing:Mathematical induction,0.006993006993006993
+Parsing:Formal language,0.03471966629861367
+Parsing:Theory,-0.006042296072507553
+Parsing:Formal grammar,-0.02056277056277056
+Parsing:Finite set,0.006993006993006993
+Parsing:Finite-state machine,-0.014044778750661107
+Parsing:Determinism,0.0
+Parsing:Nondeterministic finite automaton,-0.03202797202797203
+Parsing:Data structure,-0.01516555733423203
+Parsing:Structure,0.006293706293706293
+Parsing:Principle,0.0
+Parsing:Turing machine,0.02958869087901346
+Parsing:Machine,0.0
+Parsing:Computing,-0.0041135335252982345
+Parsing:System,0.021215271215271215
+Parsing:Specification (technical standard),-0.006711409395973154
+Parsing:Software,-0.0273224043715847
+Parsing:Rigour,-0.014285714285714285
+Parsing:Logic,0.04755244755244756
+Parsing:Context-free grammar,0.07697947214076246
+Parsing:Grammar,0.0931638455002941
+Semantics (computer science):Recursion,0.02076923076923077
+Semantics (computer science):Function (mathematics),0.10763290763290764
+Semantics (computer science):Predicate (mathematical logic),0.03076923076923077
+Semantics (computer science):First-order logic,0.1607201309328969
+Semantics (computer science):Calculus,-0.012711864406779662
+Semantics (computer science):Natural deduction,0.04230769230769231
+Semantics (computer science):Deductive reasoning,0.03076923076923077
+Semantics (computer science):Recursive definition,-0.00900562851782364
+Semantics (computer science):Concept,0.022365869424692958
+Semantics (computer science):Mathematics,0.08732016113562249
+Semantics (computer science):Mathematical logic,0.1412278573161854
+Semantics (computer science):Mathematical proof,0.06153846153846154
+Semantics (computer science):Well-formed formula,0.03076923076923077
+Semantics (computer science):Proposition,0.015384615384615385
+Semantics (computer science):Argument,0.004515050167224081
+Semantics (computer science):Data,0.005580693815987935
+Semantics (computer science):Definition,0.046153846153846156
+Semantics (computer science):Data type,0.011178749308245715
+Semantics (computer science):Computation,0.0026755852842809402
+Semantics (computer science):Discrete mathematics,0.0070164145477953025
+Semantics (computer science):Hoare logic,0.07147435897435898
+Semantics (computer science):Description,0.015384615384615385
+Semantics (computer science):Regular language,0.046153846153846156
+Semantics (computer science):Language,0.02894107720433132
+Semantics (computer science):English language,0.015384615384615385
+Semantics (computer science):Regular expression,0.05692307692307692
+Semantics (computer science):Structural induction,-0.015865384615384615
+Semantics (computer science):Mathematical induction,0.0041486603284356105
+Semantics (computer science):Formal language,0.13630229419703105
+Semantics (computer science):Theory,0.027748082732976995
+Semantics (computer science):Formal grammar,-0.004945054945054941
+Semantics (computer science):Finite set,0.046153846153846156
+Semantics (computer science):Finite-state machine,0.044731738849385916
+Semantics (computer science):Determinism,0.015384615384615385
+Semantics (computer science):Nondeterministic finite automaton,-0.004615384615384615
+Semantics (computer science):Data structure,-0.053568118628359584
+Semantics (computer science):Structure,-0.007692307692307693
+Semantics (computer science):Principle,0.015384615384615385
+Semantics (computer science):Turing machine,0.06079404466501241
+Semantics (computer science):Machine,0.0
+Semantics (computer science):Computing,0.024763471822295356
+Semantics (computer science):System,0.03264033264033264
+Semantics (computer science):Specification (technical standard),0.015384615384615385
+Semantics (computer science):Software,0.08137873055905843
+Semantics (computer science):Rigour,0.0
+Semantics (computer science):Logic,0.16923076923076924
+Semantics (computer science):Context-free grammar,0.045409429280397026
+Semantics (computer science):Grammar,-0.004672897196261682
+Documentation:Recursion,-0.02
+Documentation:Function (mathematics),-0.003861003861003861
+Documentation:Predicate (mathematical logic),0.0
+Documentation:First-order logic,0.0
+Documentation:Calculus,0.0
+Documentation:Natural deduction,0.0
+Documentation:Deductive reasoning,0.0
+Documentation:Recursive definition,0.0
+Documentation:Concept,0.031746031746031744
+Documentation:Mathematics,-0.0024937655860349127
+Documentation:Mathematical logic,0.0
+Documentation:Mathematical proof,0.0
+Documentation:Well-formed formula,0.0
+Documentation:Proposition,0.0
+Documentation:Argument,0.0
+Documentation:Data,-0.00980392156862745
+Documentation:Definition,0.015873015873015872
+Documentation:Data type,-0.014388489208633094
+Documentation:Computation,0.0
+Documentation:Discrete mathematics,0.0
+Documentation:Hoare logic,0.0
+Documentation:Description,0.0
+Documentation:Regular language,0.0
+Documentation:Language,0.0
+Documentation:English language,0.0
+Documentation:Regular expression,-0.01
+Documentation:Structural induction,0.0
+Documentation:Mathematical induction,0.0
+Documentation:Formal language,0.0
+Documentation:Theory,-0.0030211480362537764
+Documentation:Formal grammar,0.0
+Documentation:Finite set,0.0
+Documentation:Finite-state machine,0.0
+Documentation:Determinism,0.0
+Documentation:Nondeterministic finite automaton,0.0
+Documentation:Data structure,0.0
+Documentation:Structure,0.0
+Documentation:Principle,0.015873015873015872
+Documentation:Turing machine,0.0
+Documentation:Machine,0.0
+Documentation:Computing,-0.0213903743315508
+Documentation:System,0.015873015873015872
+Documentation:Specification (technical standard),0.004900394162139127
+Documentation:Software,0.05802758261774655
+Documentation:Rigour,0.0
+Documentation:Logic,-0.0038461538461538464
+Documentation:Context-free grammar,0.0
+Documentation:Grammar,0.0
+Debugging:Recursion,-0.00802197802197802
+Debugging:Function (mathematics),-0.011583011583011582
+Debugging:Predicate (mathematical logic),0.01098901098901099
+Debugging:First-order logic,0.0
+Debugging:Calculus,-0.00423728813559322
+Debugging:Natural deduction,-0.009615384615384616
+Debugging:Deductive reasoning,0.01098901098901099
+Debugging:Recursive definition,0.0
+Debugging:Concept,0.0
+Debugging:Mathematics,0.0
+Debugging:Mathematical logic,-0.0031545741324921135
+Debugging:Mathematical proof,0.02197802197802198
+Debugging:Well-formed formula,0.0
+Debugging:Proposition,0.0
+Debugging:Argument,0.0
+Debugging:Data,0.001185089420383539
+Debugging:Definition,0.0
+Debugging:Data type,-0.010198434658866315
+Debugging:Computation,0.02197802197802198
+Debugging:Discrete mathematics,-0.0041841004184100415
+Debugging:Hoare logic,-0.009844322344322342
+Debugging:Description,0.0
+Debugging:Regular language,0.0
+Debugging:Language,0.05311690138015549
+Debugging:English language,0.01098901098901099
+Debugging:Regular expression,-0.00901098901098901
+Debugging:Structural induction,0.0
+Debugging:Mathematical induction,0.01098901098901099
+Debugging:Formal language,-0.006554848660111816
+Debugging:Theory,0.0
+Debugging:Formal grammar,-0.012820512820512818
+Debugging:Finite set,0.0
+Debugging:Finite-state machine,0.0103425985778927
+Debugging:Determinism,0.0
+Debugging:Nondeterministic finite automaton,0.0
+Debugging:Data structure,0.05176750959883491
+Debugging:Structure,0.003296703296703297
+Debugging:Principle,0.0
+Debugging:Turing machine,-0.016129032258064516
+Debugging:Machine,-0.0033444816053511705
+Debugging:Computing,0.07245695480989599
+Debugging:System,0.02621027621027621
+Debugging:Specification (technical standard),-0.0024338078029353186
+Debugging:Software,0.049840869513000666
+Debugging:Rigour,0.0
+Debugging:Logic,0.014285714285714287
+Debugging:Context-free grammar,0.002924494859978732
+Debugging:Grammar,0.0
+Design:Recursion,0.0
+Design:Function (mathematics),-0.0008254559978697912
+Design:Predicate (mathematical logic),0.0
+Design:First-order logic,-0.00851063829787234
+Design:Calculus,0.0026592635885447106
+Design:Natural deduction,0.0
+Design:Deductive reasoning,0.027586206896551724
+Design:Recursive definition,0.0
+Design:Concept,0.01918284555201391
+Design:Mathematics,0.05708143434517155
+Design:Mathematical logic,0.006896551724137931
+Design:Mathematical proof,0.0
+Design:Well-formed formula,0.0
+Design:Proposition,0.0
+Design:Argument,0.013793103448275862
+Design:Data,0.013793103448275862
+Design:Definition,0.006896551724137931
+Design:Data type,0.0
+Design:Computation,0.0
+Design:Discrete mathematics,-0.0041841004184100415
+Design:Hoare logic,0.0
+Design:Description,0.0
+Design:Regular language,0.0
+Design:Language,0.020689655172413793
+Design:English language,0.0
+Design:Regular expression,0.0
+Design:Structural induction,0.0
+Design:Mathematical induction,0.0
+Design:Formal language,0.013793103448275862
+Design:Theory,0.032315866236066255
+Design:Formal grammar,0.0
+Design:Finite set,0.0
+Design:Finite-state machine,-0.009910170964937699
+Design:Determinism,0.0
+Design:Nondeterministic finite automaton,0.0
+Design:Data structure,-0.005151641046946407
+Design:Structure,0.03289124668435013
+Design:Principle,0.006896551724137931
+Design:Turing machine,-0.010752688172043012
+Design:Machine,0.020897243685849384
+Design:Computing,-0.007597270883274939
+Design:System,0.028424976700838767
+Design:Specification (technical standard),-0.01286739180745198
+Design:Software,0.04281138119464858
+Design:Rigour,0.006896551724137931
+Design:Logic,0.04827586206896552
+Design:Context-free grammar,0.0
+Design:Grammar,-0.004672897196261682
+Divide-and-conquer algorithm:Recursion,0.14666666666666667
+Divide-and-conquer algorithm:Function (mathematics),0.07306207306207306
+Divide-and-conquer algorithm:Predicate (mathematical logic),0.0
+Divide-and-conquer algorithm:First-order logic,0.01282051282051282
+Divide-and-conquer algorithm:Calculus,0.01282051282051282
+Divide-and-conquer algorithm:Natural deduction,0.0
+Divide-and-conquer algorithm:Deductive reasoning,0.038461538461538464
+Divide-and-conquer algorithm:Recursive definition,-0.024390243902439025
+Divide-and-conquer algorithm:Concept,0.0
+Divide-and-conquer algorithm:Mathematics,0.11289084979858048
+Divide-and-conquer algorithm:Mathematical logic,0.05128205128205128
+Divide-and-conquer algorithm:Mathematical proof,0.01282051282051282
+Divide-and-conquer algorithm:Well-formed formula,0.0
+Divide-and-conquer algorithm:Proposition,0.0
+Divide-and-conquer algorithm:Argument,0.0
+Divide-and-conquer algorithm:Data,0.01282051282051282
+Divide-and-conquer algorithm:Definition,0.01282051282051282
+Divide-and-conquer algorithm:Data type,0.0
+Divide-and-conquer algorithm:Computation,0.038461538461538464
+Divide-and-conquer algorithm:Discrete mathematics,0.0
+Divide-and-conquer algorithm:Hoare logic,0.0
+Divide-and-conquer algorithm:Description,0.0
+Divide-and-conquer algorithm:Regular language,0.0
+Divide-and-conquer algorithm:Language,0.0
+Divide-and-conquer algorithm:English language,0.0
+Divide-and-conquer algorithm:Regular expression,-0.005
+Divide-and-conquer algorithm:Structural induction,0.02564102564102564
+Divide-and-conquer algorithm:Mathematical induction,0.040046096225871505
+Divide-and-conquer algorithm:Formal language,0.02564102564102564
+Divide-and-conquer algorithm:Theory,0.0
+Divide-and-conquer algorithm:Formal grammar,0.000915750915750916
+Divide-and-conquer algorithm:Finite set,0.0
+Divide-and-conquer algorithm:Finite-state machine,0.01282051282051282
+Divide-and-conquer algorithm:Determinism,0.0
+Divide-and-conquer algorithm:Nondeterministic finite automaton,-0.02
+Divide-and-conquer algorithm:Data structure,0.0641025641025641
+Divide-and-conquer algorithm:Structure,0.0
+Divide-and-conquer algorithm:Principle,0.0
+Divide-and-conquer algorithm:Turing machine,0.05128205128205128
+Divide-and-conquer algorithm:Machine,0.0
+Divide-and-conquer algorithm:Computing,0.07157548334018923
+Divide-and-conquer algorithm:System,0.0
+Divide-and-conquer algorithm:Specification (technical standard),0.0
+Divide-and-conquer algorithm:Software,0.0018915510718789403
+Divide-and-conquer algorithm:Rigour,0.0
+Divide-and-conquer algorithm:Logic,0.05128205128205128
+Divide-and-conquer algorithm:Context-free grammar,0.02564102564102564
+Divide-and-conquer algorithm:Grammar,0.0
+Decomposition:Recursion,0.0
+Decomposition:Function (mathematics),-0.003861003861003861
+Decomposition:Predicate (mathematical logic),0.0
+Decomposition:First-order logic,0.0
+Decomposition:Calculus,0.0
+Decomposition:Natural deduction,0.0
+Decomposition:Deductive reasoning,0.0
+Decomposition:Recursive definition,0.0
+Decomposition:Concept,0.0
+Decomposition:Mathematics,0.005649717514124294
+Decomposition:Mathematical logic,0.0
+Decomposition:Mathematical proof,0.0
+Decomposition:Well-formed formula,0.0
+Decomposition:Proposition,0.0
+Decomposition:Argument,0.0
+Decomposition:Data,-0.00980392156862745
+Decomposition:Definition,0.0
+Decomposition:Data type,0.0
+Decomposition:Computation,0.0
+Decomposition:Discrete mathematics,0.0
+Decomposition:Hoare logic,0.0
+Decomposition:Description,0.0
+Decomposition:Regular language,0.0
+Decomposition:Language,0.0
+Decomposition:English language,0.005649717514124294
+Decomposition:Regular expression,0.0
+Decomposition:Structural induction,0.0
+Decomposition:Mathematical induction,0.0
+Decomposition:Formal language,0.0
+Decomposition:Theory,-0.0030211480362537764
+Decomposition:Formal grammar,0.0
+Decomposition:Finite set,0.0
+Decomposition:Finite-state machine,0.0
+Decomposition:Determinism,0.0
+Decomposition:Nondeterministic finite automaton,0.0
+Decomposition:Data structure,0.0
+Decomposition:Structure,0.005649717514124294
+Decomposition:Principle,0.0
+Decomposition:Turing machine,0.0
+Decomposition:Machine,0.0
+Decomposition:Computing,0.0
+Decomposition:System,0.010192395785616124
+Decomposition:Specification (technical standard),0.0
+Decomposition:Software,0.0
+Decomposition:Rigour,-0.014285714285714285
+Decomposition:Logic,0.005649717514124294
+Decomposition:Context-free grammar,0.0
+Decomposition:Grammar,0.0
+Brute-force search:Recursion,0.05976744186046511
+Brute-force search:Function (mathematics),0.11241806590643799
+Brute-force search:Predicate (mathematical logic),0.0
+Brute-force search:First-order logic,0.014745175655616031
+Brute-force search:Calculus,0.0
+Brute-force search:Natural deduction,0.0
+Brute-force search:Deductive reasoning,0.046511627906976744
+Brute-force search:Recursive definition,0.0
+Brute-force search:Concept,0.0
+Brute-force search:Mathematics,0.1578031665023488
+Brute-force search:Mathematical logic,0.04335705377448463
+Brute-force search:Mathematical proof,0.046511627906976744
+Brute-force search:Well-formed formula,0.023255813953488372
+Brute-force search:Proposition,0.0
+Brute-force search:Argument,0.0
+Brute-force search:Data,0.023255813953488372
+Brute-force search:Definition,0.0
+Brute-force search:Data type,-0.007194244604316547
+Brute-force search:Computation,0.0262891809908999
+Brute-force search:Discrete mathematics,0.03814342707015666
+Brute-force search:Hoare logic,0.0
+Brute-force search:Description,0.0
+Brute-force search:Regular language,-0.012195121951219513
+Brute-force search:Language,0.023255813953488372
+Brute-force search:English language,0.0
+Brute-force search:Regular expression,-0.02
+Brute-force search:Structural induction,0.0
+Brute-force search:Mathematical induction,0.06976744186046512
+Brute-force search:Formal language,0.014483884128926969
+Brute-force search:Theory,-0.0030211480362537764
+Brute-force search:Formal grammar,-0.011904761904761904
+Brute-force search:Finite set,0.046511627906976744
+Brute-force search:Finite-state machine,0.023255813953488372
+Brute-force search:Determinism,-0.004201680672268907
+Brute-force search:Nondeterministic finite automaton,-0.02
+Brute-force search:Data structure,0.05771924908938078
+Brute-force search:Structure,-0.007692307692307693
+Brute-force search:Principle,0.0
+Brute-force search:Turing machine,0.03575893973493373
+Brute-force search:Machine,0.0
+Brute-force search:Computing,0.03581644074120134
+Brute-force search:System,0.0
+Brute-force search:Specification (technical standard),0.0
+Brute-force search:Software,0.041047147032659805
+Brute-force search:Rigour,0.0
+Brute-force search:Logic,0.06976744186046512
+Brute-force search:Context-free grammar,-0.016129032258064516
+Brute-force search:Grammar,0.0
+Backtracking:Recursion,0.10904761904761905
+Backtracking:Function (mathematics),0.11132561132561132
+Backtracking:Predicate (mathematical logic),0.023809523809523808
+Backtracking:First-order logic,0.03485309017223911
+Backtracking:Calculus,0.0
+Backtracking:Natural deduction,0.0
+Backtracking:Deductive reasoning,0.07142857142857142
+Backtracking:Recursive definition,0.0
+Backtracking:Concept,0.0
+Backtracking:Mathematics,0.045125282033012706
+Backtracking:Mathematical logic,0.023809523809523808
+Backtracking:Mathematical proof,0.0
+Backtracking:Well-formed formula,0.0
+Backtracking:Proposition,0.047619047619047616
+Backtracking:Argument,0.0
+Backtracking:Data,0.037815126050420166
+Backtracking:Definition,0.023809523809523808
+Backtracking:Data type,0.04042480301473107
+Backtracking:Computation,0.02587991718426501
+Backtracking:Discrete mathematics,0.04343494720063758
+Backtracking:Hoare logic,0.0
+Backtracking:Description,0.0
+Backtracking:Regular language,0.03542392566782811
+Backtracking:Language,0.047619047619047616
+Backtracking:English language,0.0
+Backtracking:Regular expression,0.026428571428571426
+Backtracking:Structural induction,0.023809523809523808
+Backtracking:Mathematical induction,0.047619047619047616
+Backtracking:Formal language,-0.002506265664160401
+Backtracking:Theory,0.0
+Backtracking:Formal grammar,-0.011904761904761904
+Backtracking:Finite set,0.047619047619047616
+Backtracking:Finite-state machine,0.015406162464985993
+Backtracking:Determinism,0.0
+Backtracking:Nondeterministic finite automaton,-0.02
+Backtracking:Data structure,0.04733218588640275
+Backtracking:Structure,0.008424908424908423
+Backtracking:Principle,0.0
+Backtracking:Turing machine,0.0184331797235023
+Backtracking:Machine,-0.0033444816053511705
+Backtracking:Computing,0.013114336643748408
+Backtracking:System,0.023809523809523808
+Backtracking:Specification (technical standard),-0.006711409395973154
+Backtracking:Software,0.03669008587041374
+Backtracking:Rigour,0.0
+Backtracking:Logic,0.09139194139194139
+Backtracking:Context-free grammar,-0.008832565284178188
+Backtracking:Grammar,0.023809523809523808
+Heuristic:Recursion,0.01040816326530612
+Heuristic:Function (mathematics),0.026751241036955323
+Heuristic:Predicate (mathematical logic),0.0
+Heuristic:First-order logic,-0.01276595744680851
+Heuristic:Calculus,0.007696298858526459
+Heuristic:Natural deduction,-0.009615384615384616
+Heuristic:Deductive reasoning,-0.03929332927200731
+Heuristic:Recursive definition,-0.024390243902439025
+Heuristic:Concept,0.0
+Heuristic:Mathematics,0.0795969260522164
+Heuristic:Mathematical logic,0.0
+Heuristic:Mathematical proof,-0.0012901712409101578
+Heuristic:Well-formed formula,0.0
+Heuristic:Proposition,0.0
+Heuristic:Argument,-0.03327417923691216
+Heuristic:Data,-0.00980392156862745
+Heuristic:Definition,0.01020408163265306
+Heuristic:Data type,-0.007194244604316547
+Heuristic:Computation,-0.03327417923691216
+Heuristic:Discrete mathematics,-0.0065323200409871055
+Heuristic:Hoare logic,0.0
+Heuristic:Description,-0.01543694400837258
+Heuristic:Regular language,0.0
+Heuristic:Language,0.014923702570607766
+Heuristic:English language,-0.0033222591362126247
+Heuristic:Regular expression,-0.01
+Heuristic:Structural induction,0.0
+Heuristic:Mathematical induction,-0.0010318734235267146
+Heuristic:Formal language,-0.017543859649122806
+Heuristic:Theory,0.021548800789197853
+Heuristic:Formal grammar,0.0
+Heuristic:Finite set,0.0
+Heuristic:Finite-state machine,0.0018007202881152456
+Heuristic:Determinism,-0.019207683073229294
+Heuristic:Nondeterministic finite automaton,0.0
+Heuristic:Data structure,-0.0018441111384312776
+Heuristic:Structure,-0.007692307692307693
+Heuristic:Principle,-0.026159554730983303
+Heuristic:Turing machine,0.004827737546631555
+Heuristic:Machine,0.02040816326530612
+Heuristic:Computing,-0.0053475935828877
+Heuristic:System,0.0034473248758963033
+Heuristic:Specification (technical standard),0.0
+Heuristic:Software,0.0047396007583361205
+Heuristic:Rigour,-0.04285714285714286
+Heuristic:Logic,0.07009419152276294
+Heuristic:Context-free grammar,-0.008064516129032258
+Heuristic:Grammar,0.015735266069044438
+Dynamic programming:Recursion,0.03697986577181208
+Dynamic programming:Function (mathematics),0.04311886191080822
+Dynamic programming:Predicate (mathematical logic),0.006711409395973154
+Dynamic programming:First-order logic,0.009167499643010137
+Dynamic programming:Calculus,0.004948242520759868
+Dynamic programming:Natural deduction,0.0
+Dynamic programming:Deductive reasoning,0.006711409395973154
+Dynamic programming:Recursive definition,-0.024390243902439025
+Dynamic programming:Concept,0.0
+Dynamic programming:Mathematics,0.04122244723761067
+Dynamic programming:Mathematical logic,0.010268244659454195
+Dynamic programming:Mathematical proof,0.0
+Dynamic programming:Well-formed formula,0.0
+Dynamic programming:Proposition,-0.012987012987012988
+Dynamic programming:Argument,0.0
+Dynamic programming:Data,-0.0030925121726542966
+Dynamic programming:Definition,-0.0025478498632861045
+Dynamic programming:Data type,0.012939983583602915
+Dynamic programming:Computation,-0.015027721038809453
+Dynamic programming:Discrete mathematics,-0.0033135828816938575
+Dynamic programming:Hoare logic,0.0
+Dynamic programming:Description,0.0
+Dynamic programming:Regular language,-0.010967425110492717
+Dynamic programming:Language,0.03172889341496632
+Dynamic programming:English language,0.006711409395973154
+Dynamic programming:Regular expression,0.013557046979865772
+Dynamic programming:Structural induction,-0.01782718120805369
+Dynamic programming:Mathematical induction,0.004373727471533067
+Dynamic programming:Formal language,0.02478511715530437
+Dynamic programming:Theory,0.003690261359719378
+Dynamic programming:Formal grammar,-0.008868648130393095
+Dynamic programming:Finite set,0.006711409395973154
+Dynamic programming:Finite-state machine,-0.01849867463764029
+Dynamic programming:Determinism,0.0
+Dynamic programming:Nondeterministic finite automaton,-0.053288590604026846
+Dynamic programming:Data structure,0.004123878062585913
+Dynamic programming:Structure,-0.007692307692307693
+Dynamic programming:Principle,0.0
+Dynamic programming:Turing machine,0.0013350653099516484
+Dynamic programming:Machine,0.0
+Dynamic programming:Computing,0.008075225209058609
+Dynamic programming:System,0.02008888082713586
+Dynamic programming:Specification (technical standard),0.0
+Dynamic programming:Software,0.014669747313602523
+Dynamic programming:Rigour,0.0
+Dynamic programming:Logic,0.029710893133711926
+Dynamic programming:Context-free grammar,-0.01212383632820957
+Dynamic programming:Grammar,0.006711409395973154
+Intellectual property:Recursion,-0.01
+Intellectual property:Function (mathematics),0.0
+Intellectual property:Predicate (mathematical logic),0.0
+Intellectual property:First-order logic,0.0
+Intellectual property:Calculus,-0.00423728813559322
+Intellectual property:Natural deduction,0.0
+Intellectual property:Deductive reasoning,0.005847953216374269
+Intellectual property:Recursive definition,0.0
+Intellectual property:Concept,-0.002555408128163546
+Intellectual property:Mathematics,0.015050094063087893
+Intellectual property:Mathematical logic,0.0
+Intellectual property:Mathematical proof,0.0
+Intellectual property:Well-formed formula,0.005847953216374269
+Intellectual property:Proposition,0.005847953216374269
+Intellectual property:Argument,0.0
+Intellectual property:Data,-0.013759889920880633
+Intellectual property:Definition,0.0
+Intellectual property:Data type,0.0
+Intellectual property:Computation,0.005847953216374269
+Intellectual property:Discrete mathematics,-0.0041841004184100415
+Intellectual property:Hoare logic,0.0
+Intellectual property:Description,0.0
+Intellectual property:Regular language,0.0
+Intellectual property:Language,0.011695906432748537
+Intellectual property:English language,0.017543859649122806
+Intellectual property:Regular expression,0.0
+Intellectual property:Structural induction,0.0
+Intellectual property:Mathematical induction,0.0
+Intellectual property:Formal language,0.005847953216374269
+Intellectual property:Theory,-0.00019434285613328418
+Intellectual property:Formal grammar,0.0
+Intellectual property:Finite set,0.0
+Intellectual property:Finite-state machine,0.0
+Intellectual property:Determinism,0.005847953216374269
+Intellectual property:Nondeterministic finite automaton,0.0
+Intellectual property:Data structure,-0.012048192771084338
+Intellectual property:Structure,0.0
+Intellectual property:Principle,-0.01818181818181818
+Intellectual property:Turing machine,0.0
+Intellectual property:Machine,0.005006943222046196
+Intellectual property:Computing,-0.010194827532288835
+Intellectual property:System,0.010787102892366049
+Intellectual property:Specification (technical standard),-0.04113191255543781
+Intellectual property:Software,-0.009395072380404566
+Intellectual property:Rigour,0.0
+Intellectual property:Logic,0.0020017993702204223
+Intellectual property:Context-free grammar,0.0
+Intellectual property:Grammar,0.0
+Property:Recursion,0.0
+Property:Function (mathematics),0.0
+Property:Predicate (mathematical logic),0.0
+Property:First-order logic,-0.00425531914893617
+Property:Calculus,0.011029411764705883
+Property:Natural deduction,0.0
+Property:Deductive reasoning,-0.00021949078138718166
+Property:Recursive definition,0.0
+Property:Concept,-0.0021008403361344533
+Property:Mathematics,-0.005115886753703976
+Property:Mathematical logic,0.007352941176470588
+Property:Mathematical proof,-0.005747126436781609
+Property:Well-formed formula,0.0
+Property:Proposition,0.007352941176470588
+Property:Argument,0.003676470588235294
+Property:Data,-0.006127450980392157
+Property:Definition,-0.027777777777777776
+Property:Data type,0.003676470588235294
+Property:Computation,0.0
+Property:Discrete mathematics,0.0
+Property:Hoare logic,-0.041666666666666664
+Property:Description,0.0
+Property:Regular language,0.0
+Property:Language,0.005565114528443918
+Property:English language,0.0003542114520226694
+Property:Regular expression,0.0
+Property:Structural induction,0.0
+Property:Mathematical induction,-0.011235955056179775
+Property:Formal language,0.0
+Property:Theory,0.010629553936378175
+Property:Formal grammar,0.0
+Property:Finite set,0.0
+Property:Finite-state machine,0.0
+Property:Determinism,0.0021008403361344533
+Property:Nondeterministic finite automaton,0.0
+Property:Data structure,0.0
+Property:Structure,-0.004355203619909502
+Property:Principle,-0.029010695187165772
+Property:Turing machine,-0.005376344086021506
+Property:Machine,-0.003012492622467047
+Property:Computing,0.0
+Property:System,-0.004372019077901433
+Property:Specification (technical standard),-0.023169166995657322
+Property:Software,0.007352941176470588
+Property:Rigour,-0.014285714285714285
+Property:Logic,0.014366515837104073
+Property:Context-free grammar,0.0
+Property:Grammar,0.0026800439802089062
+Software development:Recursion,-0.008700564971751413
+Software development:Function (mathematics),-0.008005584276770717
+Software development:Predicate (mathematical logic),0.0
+Software development:First-order logic,-0.002860920783748047
+Software development:Calculus,-0.002824858757062147
+Software development:Natural deduction,0.0
+Software development:Deductive reasoning,0.005649717514124294
+Software development:Recursive definition,-0.024390243902439025
+Software development:Concept,0.01144186488154584
+Software development:Mathematics,0.006311903856178762
+Software development:Mathematical logic,-0.006309148264984227
+Software development:Mathematical proof,0.005552308591466978
+Software development:Well-formed formula,-0.015151515151515152
+Software development:Proposition,0.005649717514124294
+Software development:Argument,0.005649717514124294
+Software development:Data,0.036889332003988036
+Software development:Definition,0.0
+Software development:Data type,0.02361500630004471
+Software development:Computation,0.006509457135838861
+Software development:Discrete mathematics,-0.008368200836820083
+Software development:Hoare logic,-0.015183615819209038
+Software development:Description,0.0
+Software development:Regular language,0.005649717514124294
+Software development:Language,0.0847457627118644
+Software development:English language,0.003988587946017981
+Software development:Regular expression,0.02889830508474576
+Software development:Structural induction,-0.03125
+Software development:Mathematical induction,-0.011235955056179775
+Software development:Formal language,0.005055010407374369
+Software development:Theory,0.0
+Software development:Formal grammar,0.005649717514124294
+Software development:Finite set,0.0
+Software development:Finite-state machine,-0.008260931491240565
+Software development:Determinism,0.0
+Software development:Nondeterministic finite automaton,0.0
+Software development:Data structure,0.030903274113402768
+Software development:Structure,0.014906562364189482
+Software development:Principle,0.0
+Software development:Turing machine,0.0005467468562055759
+Software development:Machine,0.01694915254237288
+Software development:Computing,-0.03501616363032116
+Software development:System,0.0655825316842266
+Software development:Specification (technical standard),0.00034125810487999064
+Software development:Software,-0.0019449847179772162
+Software development:Rigour,0.0
+Software development:Logic,0.024402433724467622
+Software development:Context-free grammar,0.0032349188992163297
+Software development:Grammar,0.005649717514124294
+Computer science:Recursion,-0.14118155619596542
+Computer science:Function (mathematics),-0.06683876136325705
+Computer science:Predicate (mathematical logic),-0.2560603492117308
+Computer science:First-order logic,-0.11298056287939173
+Computer science:Calculus,-0.036096321985053484
+Computer science:Natural deduction,-0.14905231655952117
+Computer science:Deductive reasoning,-0.10499376317260957
+Computer science:Recursive definition,-0.17073170731707318
+Computer science:Concept,-0.10059816433778122
+Computer science:Mathematics,0.0005605582585323371
+Computer science:Mathematical logic,-0.04619132901208192
+Computer science:Mathematical proof,-0.08041008314286661
+Computer science:Well-formed formula,-0.15513928914505282
+Computer science:Proposition,-0.09959205060069613
+Computer science:Argument,-0.05945370254354091
+Computer science:Data,-0.1113183025371532
+Computer science:Definition,-0.07468780019212296
+Computer science:Data type,-0.2575207845251176
+Computer science:Computation,-0.21476005513093596
+Computer science:Discrete mathematics,-0.17647980900244778
+Computer science:Hoare logic,-0.33399375600384246
+Computer science:Description,-0.02564102564102564
+Computer science:Regular language,-0.1893582624587053
+Computer science:Language,-0.014282779004156813
+Computer science:English language,0.0007803000564879795
+Computer science:Regular expression,-0.15347262247838617
+Computer science:Structural induction,-0.3067363112391931
+Computer science:Mathematical induction,-0.07836026292782437
+Computer science:Formal language,-0.22870215885535164
+Computer science:Theory,-0.07032222676893878
+Computer science:Formal grammar,-0.37230684781117057
+Computer science:Finite set,-0.08180595581171951
+Computer science:Finite-state machine,-0.1308454217421839
+Computer science:Determinism,-0.03889279054561306
+Computer science:Nondeterministic finite automaton,-0.2542363112391931
+Computer science:Data structure,-0.35148085135932783
+Computer science:Structure,-0.12693416093992463
+Computer science:Principle,-0.01818181818181818
+Computer science:Turing machine,-0.16778221933004864
+Computer science:Machine,0.005407072566576389
+Computer science:Computing,-0.07150672687204304
+Computer science:System,-0.07064413116286317
+Computer science:Specification (technical standard),-0.04121617701100517
+Computer science:Software,-0.06258169162690351
+Computer science:Rigour,-0.06854672704816797
+Computer science:Logic,-0.05873420527599202
+Computer science:Context-free grammar,-0.2304081063493539
+Computer science:Grammar,-0.02943790568019607
+Structural induction:Recursion,0.115
+Structural induction:Function (mathematics),0.125
+Structural induction:Predicate (mathematical logic),0.03125
+Structural induction:First-order logic,0.08949468085106382
+Structural induction:Calculus,0.0
+Structural induction:Natural deduction,0.04326923076923077
+Structural induction:Deductive reasoning,0.04757462686567164
+Structural induction:Recursive definition,-0.01753048780487805
+Structural induction:Concept,0.0
+Structural induction:Mathematics,0.1875
+Structural induction:Mathematical logic,0.11553627760252366
+Structural induction:Mathematical proof,0.05675287356321839
+Structural induction:Well-formed formula,0.09375
+Structural induction:Proposition,0.018262987012987012
+Structural induction:Argument,0.020380434782608696
+Structural induction:Data,0.0
+Structural induction:Definition,0.012731481481481483
+Structural induction:Data type,0.055305755395683456
+Structural induction:Computation,0.03125
+Structural induction:Discrete mathematics,0.03125
+Structural induction:Hoare logic,-0.010416666666666664
+Structural induction:Description,0.0
+Structural induction:Regular language,0.0
+Structural induction:Language,-0.0018281535648994515
+Structural induction:English language,0.0
+Structural induction:Regular expression,-0.005
+Structural induction:Structural induction,0.0
+Structural induction:Mathematical induction,0.13377808988764045
+Structural induction:Formal language,0.0625
+Structural induction:Theory,-0.0030211480362537764
+Structural induction:Formal grammar,0.019345238095238096
+Structural induction:Finite set,-0.013333333333333334
+Structural induction:Finite-state machine,0.0
+Structural induction:Determinism,0.0
+Structural induction:Nondeterministic finite automaton,-0.02
+Structural induction:Data structure,0.03125
+Structural induction:Structure,0.03125
+Structural induction:Principle,0.0
+Structural induction:Turing machine,0.0625
+Structural induction:Machine,0.0
+Structural induction:Computing,0.03125
+Structural induction:System,0.0
+Structural induction:Specification (technical standard),0.0
+Structural induction:Software,0.0
+Structural induction:Rigour,0.0
+Structural induction:Logic,0.08990384615384615
+Structural induction:Context-free grammar,0.023185483870967742
+Structural induction:Grammar,0.0
+Mathematical proof:Recursion,0.005977011494252872
+Mathematical proof:Function (mathematics),0.04957173922691164
+Mathematical proof:Predicate (mathematical logic),-0.017917511832319134
+Mathematical proof:First-order logic,0.052384446074834924
+Mathematical proof:Calculus,0.006331579972725501
+Mathematical proof:Natural deduction,-0.0020999115826702067
+Mathematical proof:Deductive reasoning,0.047177903585520674
+Mathematical proof:Recursive definition,-0.07317073170731707
+Mathematical proof:Concept,0.006181783058050807
+Mathematical proof:Mathematics,0.14932496345343538
+Mathematical proof:Mathematical logic,0.03979477138402408
+Mathematical proof:Mathematical proof,0.0
+Mathematical proof:Well-formed formula,0.004179728317659351
+Mathematical proof:Proposition,0.0587401104642484
+Mathematical proof:Argument,-0.01474262868565717
+Mathematical proof:Data,0.024678837052062204
+Mathematical proof:Definition,-0.0012771392081736901
+Mathematical proof:Data type,-0.004341354502604814
+Mathematical proof:Computation,-0.01024487756121939
+Mathematical proof:Discrete mathematics,-0.03402587409224258
+Mathematical proof:Hoare logic,-0.020833333333333332
+Mathematical proof:Description,0.0
+Mathematical proof:Regular language,-0.0064479955144379035
+Mathematical proof:Language,0.015413225745445376
+Mathematical proof:English language,0.011494252873563218
+Mathematical proof:Regular expression,0.005747126436781609
+Mathematical proof:Structural induction,-0.05675287356321839
+Mathematical proof:Mathematical induction,-0.003939041715097499
+Mathematical proof:Formal language,0.025105868118572294
+Mathematical proof:Theory,-0.013560440323644826
+Mathematical proof:Formal grammar,-0.006157635467980295
+Mathematical proof:Finite set,0.005977011494252872
+Mathematical proof:Finite-state machine,0.005747126436781609
+Mathematical proof:Determinism,0.004636337293538104
+Mathematical proof:Nondeterministic finite automaton,0.0
+Mathematical proof:Data structure,0.005747126436781609
+Mathematical proof:Structure,0.0
+Mathematical proof:Principle,0.017241379310344827
+Mathematical proof:Turing machine,0.007971820541342232
+Mathematical proof:Machine,0.0
+Mathematical proof:Computing,-0.0106951871657754
+Mathematical proof:System,0.002718235476856165
+Mathematical proof:Specification (technical standard),-0.020134228187919462
+Mathematical proof:Software,0.005747126436781609
+Mathematical proof:Rigour,-0.13136288998357964
+Mathematical proof:Logic,0.13585322723253757
+Mathematical proof:Context-free grammar,-0.0046347793845012975
+Mathematical proof:Grammar,0.006821355677301536
+Programming paradigm:Recursion,0.05547008547008547
+Programming paradigm:Function (mathematics),0.03583803583803584
+Programming paradigm:Predicate (mathematical logic),-0.020864756158873805
+Programming paradigm:First-order logic,0.017094017094017096
+Programming paradigm:Calculus,0.012856728958423876
+Programming paradigm:Natural deduction,-0.009615384615384616
+Programming paradigm:Deductive reasoning,0.008547008547008548
+Programming paradigm:Recursive definition,-0.024390243902439025
+Programming paradigm:Concept,0.02564102564102564
+Programming paradigm:Mathematics,0.04878828569601637
+Programming paradigm:Mathematical logic,0.019331877376041414
+Programming paradigm:Mathematical proof,0.017094017094017096
+Programming paradigm:Well-formed formula,0.0019425019425019438
+Programming paradigm:Proposition,0.0
+Programming paradigm:Argument,0.0
+Programming paradigm:Data,0.023127199597787834
+Programming paradigm:Definition,0.008547008547008548
+Programming paradigm:Data type,0.11922769476726311
+Programming paradigm:Computation,0.029542920847268672
+Programming paradigm:Discrete mathematics,-0.012552301255230125
+Programming paradigm:Hoare logic,-0.02457264957264957
+Programming paradigm:Description,0.0
+Programming paradigm:Regular language,0.008547008547008548
+Programming paradigm:Language,0.20330005156330566
+Programming paradigm:English language,0.008547008547008548
+Programming paradigm:Regular expression,0.05047008547008547
+Programming paradigm:Structural induction,0.008547008547008548
+Programming paradigm:Mathematical induction,0.02564102564102564
+Programming paradigm:Formal language,0.016869095816464237
+Programming paradigm:Theory,0.008547008547008548
+Programming paradigm:Formal grammar,0.022283272283272287
+Programming paradigm:Finite set,0.0
+Programming paradigm:Finite-state machine,0.008977950154420745
+Programming paradigm:Determinism,-0.004201680672268907
+Programming paradigm:Nondeterministic finite automaton,-0.04
+Programming paradigm:Data structure,0.12274739985583359
+Programming paradigm:Structure,0.0008547008547008551
+Programming paradigm:Principle,0.0
+Programming paradigm:Turing machine,0.02660601047697822
+Programming paradigm:Machine,0.008547008547008548
+Programming paradigm:Computing,0.027743498331733625
+Programming paradigm:System,0.02564102564102564
+Programming paradigm:Specification (technical standard),0.0036711983020707873
+Programming paradigm:Software,0.015412638363458037
+Programming paradigm:Rigour,0.0
+Programming paradigm:Logic,0.03504273504273504
+Programming paradigm:Context-free grammar,0.017576509511993382
+Programming paradigm:Grammar,0.0
+Computation:Recursion,0.023478260869565216
+Computation:Function (mathematics),0.11112976330367634
+Computation:Predicate (mathematical logic),0.0
+Computation:First-order logic,-0.02553191489361702
+Computation:Calculus,-0.00423728813559322
+Computation:Natural deduction,0.012123745819397992
+Computation:Deductive reasoning,0.043478260869565216
+Computation:Recursive definition,-0.002651113467656417
+Computation:Concept,0.026671538180489587
+Computation:Mathematics,0.10549712674834652
+Computation:Mathematical logic,0.06171992867919353
+Computation:Mathematical proof,0.01024487756121939
+Computation:Well-formed formula,0.0
+Computation:Proposition,0.043478260869565216
+Computation:Argument,0.0
+Computation:Data,-0.027280477408354646
+Computation:Definition,0.021739130434782608
+Computation:Data type,-0.02877697841726619
+Computation:Computation,0.0
+Computation:Discrete mathematics,-0.0033654720756776425
+Computation:Hoare logic,0.0
+Computation:Description,0.0
+Computation:Regular language,-0.036585365853658534
+Computation:Language,-0.0018281535648994515
+Computation:English language,0.0
+Computation:Regular expression,0.033478260869565214
+Computation:Structural induction,-0.03125
+Computation:Mathematical induction,0.010503175378602833
+Computation:Formal language,0.017162471395881007
+Computation:Theory,-0.006042296072507553
+Computation:Formal grammar,-0.023809523809523808
+Computation:Finite set,0.0
+Computation:Finite-state machine,0.07508220679576177
+Computation:Determinism,0.0175374497625137
+Computation:Nondeterministic finite automaton,0.043478260869565216
+Computation:Data structure,-0.014405447878470402
+Computation:Structure,-0.023076923076923078
+Computation:Principle,0.0
+Computation:Turing machine,0.17975689574567555
+Computation:Machine,0.11705685618729096
+Computation:Computing,0.04417577307602883
+Computation:System,0.05170387779083431
+Computation:Specification (technical standard),-0.006711409395973154
+Computation:Software,0.026966025184129244
+Computation:Rigour,0.0
+Computation:Logic,0.04598662207357859
+Computation:Context-free grammar,0.019284712482468443
+Computation:Grammar,0.021739130434782608

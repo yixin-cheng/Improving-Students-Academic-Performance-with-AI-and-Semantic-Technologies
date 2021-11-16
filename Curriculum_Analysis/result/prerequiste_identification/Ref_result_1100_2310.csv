@@ -1,0 +1,1737 @@
+COMP1110:COMP2310,Score
+Computer:Tool,-0.04061059907834101
+Computer:Distributed computing,-0.07269585253456222
+Computer:Computer programming,-0.08841781874039938
+Computer:Programming language,-0.021001905994893363
+Computer:Language,0.015536848105993591
+Computer:Runtime system,-0.06922893698108072
+Computer:Concurrent computing,-0.06840607210626187
+Computer:Massively parallel,-0.0883736559139785
+Computer:Parallel computing,-0.044863764484810525
+Computer:Design,-0.012625139043381535
+Computer:Concurrency (computer science),-0.08739721695129665
+Computer:Multi-core processor,-0.04303573569972419
+Computer:Debugging,-0.09423372326598134
+Computer:System,-0.019071490845684397
+Computer:Scheduling (computing),-0.06307281518366169
+Computer:Memory,-0.0038104186240734937
+Computer:Message,-0.10344827586206896
+Computer:Computer network,0.010170142414538258
+Computer:Computer,0.0
+Computer:Operating system,0.07500135424284282
+Computer:Security,-0.05405405405405406
+Computer:Algorithm,-0.020885928003740062
+Computer:Memory management,-0.0456989247311828
+Computer:Message passing,-0.07950360877890705
+Computer:Routing,-0.019623655913978494
+Computer:Application software,-0.04281874039938555
+Computer:Communication protocol,-0.06511002750687672
+Computer:Conceptual model,-0.019230769230769232
+Computer science:Tool,0.002881844380403458
+Computer science:Distributed computing,-0.14248662000823384
+Computer science:Computer programming,-0.10802799505969535
+Computer science:Programming language,-0.13335518009117808
+Computer science:Language,-0.014282779004156813
+Computer science:Runtime system,-0.16455696202531644
+Computer science:Concurrent computing,-0.14753348025089
+Computer science:Massively parallel,0.002881844380403458
+Computer science:Parallel computing,-0.09557650877143896
+Computer science:Design,-0.05918712113683792
+Computer science:Concurrency (computer science),-0.24153246312934398
+Computer science:Multi-core processor,-0.01988365490717033
+Computer science:Debugging,-0.10593153244450075
+Computer science:System,-0.07064413116286317
+Computer science:Scheduling (computing),-0.0987370171943601
+Computer science:Memory,0.0027279594863042454
+Computer science:Message,-0.08332505217132069
+Computer science:Computer network,0.009671274361353975
+Computer science:Computer,0.0845767097393945
+Computer science:Operating system,-0.0027947357341444046
+Computer science:Security,-0.024145182646623572
+Computer science:Algorithm,-0.07917971849809965
+Computer science:Memory management,-0.20679557497443526
+Computer science:Message passing,-0.19395207453318067
+Computer science:Routing,-0.07211815561959654
+Computer science:Application software,-0.024375600384245914
+Computer science:Communication protocol,-0.17054263565891473
+Computer science:Conceptual model,-0.15193416093992462
+Science:Tool,-0.040417505030181086
+Science:Distributed computing,-0.00010060362173038191
+Science:Computer programming,-0.008692152917505032
+Science:Programming language,-0.011616185406754912
+Science:Language,0.0034142698972629212
+Science:Runtime system,0.0
+Science:Concurrent computing,-0.0058823529411764705
+Science:Massively parallel,-0.03125
+Science:Parallel computing,-0.0004193445462418524
+Science:Design,-0.07712481787275376
+Science:Concurrency (computer science),-0.011764705882352941
+Science:Multi-core processor,0.0014084507042253522
+Science:Debugging,0.0028169014084507044
+Science:System,-0.09486105824133995
+Science:Scheduling (computing),-0.006711409395973154
+Science:Memory,0.003746752358813072
+Science:Message,-0.034482758620689655
+Science:Computer network,0.005016539917470928
+Science:Computer,0.02177040739058004
+Science:Operating system,0.008450704225352112
+Science:Security,-0.024210125618576325
+Science:Algorithm,-0.004878546642171872
+Science:Memory management,0.0
+Science:Message passing,-0.010881728728535597
+Science:Routing,0.0
+Science:Application software,-0.015358819584171696
+Science:Communication protocol,-0.006343487280270772
+Science:Conceptual model,-0.060265438786565546
+Computer programming:Tool,-0.003214285714285714
+Computer programming:Distributed computing,0.018571428571428572
+Computer programming:Computer programming,0.0
+Computer programming:Programming language,0.1544386048733875
+Computer programming:Language,0.053486550013058236
+Computer programming:Runtime system,-0.053092224231464744
+Computer programming:Concurrent computing,-0.030084033613445377
+Computer programming:Massively parallel,-0.025535714285714287
+Computer programming:Parallel computing,0.03125288950531668
+Computer programming:Design,-0.02541871921182266
+Computer programming:Concurrency (computer science),-0.03563025210084034
+Computer programming:Multi-core processor,-0.003441317047265002
+Computer programming:Debugging,-0.012747252747252746
+Computer programming:System,0.0051737451737451715
+Computer programming:Scheduling (computing),-0.015417066155321188
+Computer programming:Memory,0.011428571428571429
+Computer programming:Message,-0.05172413793103448
+Computer programming:Computer network,0.031186440677966103
+Computer programming:Computer,0.08841781874039938
+Computer programming:Operating system,0.15011155091759626
+Computer programming:Security,-0.018018018018018018
+Computer programming:Algorithm,0.08513457556935819
+Computer programming:Memory management,-0.04064516129032258
+Computer programming:Message passing,-0.06504892367906066
+Computer programming:Routing,-0.006785714285714286
+Computer programming:Application software,0.01428571428571429
+Computer programming:Communication protocol,-0.033045404208194906
+Computer programming:Conceptual model,0.005714285714285714
+Productivity:Tool,-0.003968253968253968
+Productivity:Distributed computing,-0.007142857142857143
+Productivity:Computer programming,-0.011428571428571429
+Productivity:Programming language,0.0
+Productivity:Language,0.012060735323989437
+Productivity:Runtime system,0.0
+Productivity:Concurrent computing,0.0
+Productivity:Massively parallel,0.0
+Productivity:Parallel computing,-0.006472491909385114
+Productivity:Design,0.006992337164750957
+Productivity:Concurrency (computer science),0.0
+Productivity:Multi-core processor,0.0
+Productivity:Debugging,0.0
+Productivity:System,0.0
+Productivity:Scheduling (computing),0.0
+Productivity:Memory,-0.0048543689320388345
+Productivity:Message,-0.017241379310344827
+Productivity:Computer network,-0.004842615012106538
+Productivity:Computer,0.007168458781362006
+Productivity:Operating system,-0.0025188916876574307
+Productivity:Security,-0.009009009009009009
+Productivity:Algorithm,-0.008695652173913044
+Productivity:Memory management,0.0
+Productivity:Message passing,0.0
+Productivity:Routing,0.0
+Productivity:Application software,-0.03571428571428571
+Productivity:Communication protocol,0.0
+Productivity:Conceptual model,0.0
+Software:Tool,0.00546448087431694
+Software:Distributed computing,-0.07056986729117876
+Software:Computer programming,-0.0054957064793130506
+Software:Programming language,0.12168064769632839
+Software:Language,0.04369586717415411
+Software:Runtime system,-0.04689769661755551
+Software:Concurrent computing,-0.049566055930568946
+Software:Massively parallel,-0.05703551912568306
+Software:Parallel computing,-0.006631651546501138
+Software:Design,-0.04281138119464858
+Software:Concurrency (computer science),-0.06595949855351976
+Software:Multi-core processor,-0.0509679647348
+Software:Debugging,-0.049840869513000666
+Software:System,0.0015876532269974881
+Software:Scheduling (computing),-0.012946052004254225
+Software:Memory,0.0012202238845562107
+Software:Message,-0.0807424156774072
+Software:Computer network,0.03658423636195239
+Software:Computer,0.10228274281685175
+Software:Operating system,0.17080287951989648
+Software:Security,-0.05405405405405406
+Software:Algorithm,0.08643383226419578
+Software:Memory management,-0.04265820553499031
+Software:Message passing,-0.05209970806198068
+Software:Routing,-0.007035519125683061
+Software:Application software,-0.10743559718969553
+Software:Communication protocol,-0.0223662472995298
+Software:Conceptual model,-0.028846153846153848
+Data:Tool,-0.008928571428571428
+Data:Distributed computing,-0.023249299719887956
+Data:Computer programming,0.018823529411764704
+Data:Programming language,0.03875663977965768
+Data:Language,0.04536330071333835
+Data:Runtime system,0.0
+Data:Concurrent computing,-0.03137254901960784
+Data:Massively parallel,-0.03125
+Data:Parallel computing,0.01323053493241957
+Data:Design,-0.013793103448275862
+Data:Concurrency (computer science),-0.00196078431372549
+Data:Multi-core processor,-0.001348494788249872
+Data:Debugging,-0.001185089420383539
+Data:System,0.021992580816110226
+Data:Scheduling (computing),-0.013422818791946308
+Data:Memory,0.009899105273177233
+Data:Message,-0.04192021636240703
+Data:Computer network,0.005317381189764041
+Data:Computer,0.0498102466793169
+Data:Operating system,0.0532424556724453
+Data:Security,-0.04504504504504504
+Data:Algorithm,0.09045183290707588
+Data:Memory management,-0.03225806451612903
+Data:Message passing,-0.0410958904109589
+Data:Routing,-0.0375
+Data:Application software,0.04096638655462185
+Data:Communication protocol,-0.07751937984496124
+Data:Conceptual model,-0.047888386123680245
+Structural induction:Tool,0.0
+Structural induction:Distributed computing,0.0
+Structural induction:Computer programming,0.0625
+Structural induction:Programming language,0.09040551839464883
+Structural induction:Language,-0.0018281535648994515
+Structural induction:Runtime system,0.0
+Structural induction:Concurrent computing,0.0
+Structural induction:Massively parallel,0.0
+Structural induction:Parallel computing,0.0
+Structural induction:Design,0.0
+Structural induction:Concurrency (computer science),0.0
+Structural induction:Multi-core processor,0.0
+Structural induction:Debugging,0.0
+Structural induction:System,0.0
+Structural induction:Scheduling (computing),0.0
+Structural induction:Memory,0.0
+Structural induction:Message,0.0
+Structural induction:Computer network,0.0
+Structural induction:Computer,0.0
+Structural induction:Operating system,0.03125
+Structural induction:Security,0.0
+Structural induction:Algorithm,0.11340579710144927
+Structural induction:Memory management,-0.016129032258064516
+Structural induction:Message passing,0.0
+Structural induction:Routing,0.0
+Structural induction:Application software,0.0
+Structural induction:Communication protocol,0.0
+Structural induction:Conceptual model,0.03125
+Distributed computing:Tool,0.0
+Distributed computing:Distributed computing,0.0
+Distributed computing:Computer programming,-0.018571428571428572
+Distributed computing:Programming language,0.023698041089345437
+Distributed computing:Language,0.0
+Distributed computing:Runtime system,-0.012658227848101266
+Distributed computing:Concurrent computing,-0.10756302521008404
+Distributed computing:Massively parallel,-0.2741071428571429
+Distributed computing:Parallel computing,0.06719833564493759
+Distributed computing:Design,-0.006896551724137931
+Distributed computing:Concurrency (computer science),-0.10756302521008404
+Distributed computing:Multi-core processor,0.005390334572490711
+Distributed computing:Debugging,-0.02197802197802198
+Distributed computing:System,0.04362934362934363
+Distributed computing:Scheduling (computing),-0.011697027804410353
+Distributed computing:Memory,0.007142857142857143
+Distributed computing:Message,-0.054679802955665026
+Distributed computing:Computer network,0.16404358353510895
+Distributed computing:Computer,0.07269585253456222
+Distributed computing:Operating system,0.09289312702410937
+Distributed computing:Security,-0.0018661518661518663
+Distributed computing:Algorithm,0.10983436853002071
+Distributed computing:Memory management,-0.05737327188940092
+Distributed computing:Message passing,-0.059001956947162426
+Distributed computing:Routing,0.01607142857142857
+Distributed computing:Application software,0.01904761904761905
+Distributed computing:Communication protocol,0.020210409745293464
+Distributed computing:Conceptual model,-0.009615384615384616
+Version control:Tool,-0.008928571428571428
+Version control:Distributed computing,0.023529411764705882
+Version control:Computer programming,0.018487394957983194
+Version control:Programming language,0.1411764705882353
+Version control:Language,0.023529411764705882
+Version control:Runtime system,-0.02531645569620253
+Version control:Concurrent computing,-0.0058823529411764705
+Version control:Massively parallel,0.0
+Version control:Parallel computing,0.03529411764705882
+Version control:Design,0.011764705882352941
+Version control:Concurrency (computer science),0.023529411764705882
+Version control:Multi-core processor,0.0
+Version control:Debugging,0.002327084680025855
+Version control:System,0.07058823529411765
+Version control:Scheduling (computing),0.011764705882352941
+Version control:Memory,0.011764705882352941
+Version control:Message,0.0
+Version control:Computer network,0.021108104258652612
+Version control:Computer,0.04033839342188488
+Version control:Operating system,0.12689287301822494
+Version control:Security,0.0
+Version control:Algorithm,0.08235294117647059
+Version control:Memory management,0.0
+Version control:Message passing,0.011764705882352941
+Version control:Routing,0.011764705882352941
+Version control:Application software,0.046638655462184875
+Version control:Communication protocol,0.004012767897856817
+Version control:Conceptual model,0.0
+System:Tool,0.006756756756756757
+System:Distributed computing,-0.04362934362934363
+System:Computer programming,-0.0051737451737451715
+System:Programming language,-0.003141100967187921
+System:Language,0.0019887346212757555
+System:Runtime system,0.0
+System:Concurrent computing,-0.023529411764705882
+System:Massively parallel,0.0
+System:Parallel computing,-0.038834951456310676
+System:Design,-0.028424976700838767
+System:Concurrency (computer science),-0.023529411764705882
+System:Multi-core processor,-0.022304832713754646
+System:Debugging,-0.02621027621027621
+System:System,0.0
+System:Scheduling (computing),-0.040223109015055325
+System:Memory,-0.001049593282602991
+System:Message,-0.11393289841565704
+System:Computer network,-0.04116222760290557
+System:Computer,0.019071490845684397
+System:Operating system,-0.09056096398665668
+System:Security,-0.02027027027027027
+System:Algorithm,0.04341950646298473
+System:Memory management,-0.06451612903225806
+System:Message passing,-0.061736393928174746
+System:Routing,-0.043243243243243246
+System:Application software,-0.02815315315315315
+System:Communication protocol,-0.06201550387596899
+System:Conceptual model,-0.036382536382536385
+Understanding:Tool,0.0
+Understanding:Distributed computing,0.006370656370656372
+Understanding:Computer programming,0.048339768339768344
+Understanding:Programming language,0.06756756756756757
+Understanding:Language,0.017886259202529772
+Understanding:Runtime system,0.0
+Understanding:Concurrent computing,0.013513513513513514
+Understanding:Massively parallel,0.0
+Understanding:Parallel computing,0.013513513513513514
+Understanding:Design,-0.006896551724137931
+Understanding:Concurrency (computer science),0.013513513513513514
+Understanding:Multi-core processor,0.0
+Understanding:Debugging,0.0
+Understanding:System,0.033783783783783786
+Understanding:Scheduling (computing),0.0
+Understanding:Memory,0.057858829703489906
+Understanding:Message,0.009785647716682201
+Understanding:Computer network,0.02702702702702703
+Understanding:Computer,0.06756756756756757
+Understanding:Operating system,0.02702702702702703
+Understanding:Security,0.0
+Understanding:Algorithm,0.11872307089698395
+Understanding:Memory management,0.0
+Understanding:Message passing,0.013513513513513514
+Understanding:Routing,0.0
+Understanding:Application software,0.013513513513513514
+Understanding:Communication protocol,-0.015503875968992248
+Understanding:Conceptual model,0.030925155925155927
+Experience:Tool,-0.008928571428571428
+Experience:Distributed computing,0.0
+Experience:Computer programming,0.0
+Experience:Programming language,0.0
+Experience:Language,0.04349081112287116
+Experience:Runtime system,0.0
+Experience:Concurrent computing,0.0
+Experience:Massively parallel,0.0
+Experience:Parallel computing,0.0
+Experience:Design,-0.006896551724137931
+Experience:Concurrency (computer science),0.0
+Experience:Multi-core processor,0.0
+Experience:Debugging,0.0
+Experience:System,-0.013513513513513514
+Experience:Scheduling (computing),0.0
+Experience:Memory,0.049412365866121605
+Experience:Message,0.0
+Experience:Computer network,0.0
+Experience:Computer,0.010526315789473684
+Experience:Operating system,0.0
+Experience:Security,0.0
+Experience:Algorithm,0.015255530129672006
+Experience:Memory management,0.0
+Experience:Message passing,0.0
+Experience:Routing,0.0
+Experience:Application software,0.0
+Experience:Communication protocol,0.0
+Experience:Conceptual model,0.002732793522267206
+Concept:Tool,-0.0005252100840336133
+Concept:Distributed computing,0.0
+Concept:Computer programming,0.011092436974789916
+Concept:Programming language,0.030268963772800087
+Concept:Language,0.047117201542408546
+Concept:Runtime system,0.0
+Concept:Concurrent computing,-0.011764705882352941
+Concept:Massively parallel,0.0
+Concept:Parallel computing,-0.003236245954692557
+Concept:Design,-0.01918284555201391
+Concept:Concurrency (computer science),0.008403361344537815
+Concept:Multi-core processor,-0.0037174721189591076
+Concept:Debugging,0.0
+Concept:System,-0.03724733136497843
+Concept:Scheduling (computing),-0.006711409395973154
+Concept:Memory,0.07301949906176064
+Concept:Message,0.008403361344537815
+Concept:Computer network,-0.009685230024213076
+Concept:Computer,0.007059275323032438
+Concept:Operating system,0.0142878310014182
+Concept:Security,-0.02702702702702703
+Concept:Algorithm,0.04201680672268908
+Concept:Memory management,-0.016129032258064516
+Concept:Message passing,0.0
+Concept:Routing,-0.0125
+Concept:Application software,-0.011904761904761904
+Concept:Communication protocol,0.0
+Concept:Conceptual model,-0.06375242404654169
+Functional programming:Tool,-0.008928571428571428
+Functional programming:Distributed computing,-0.0012315270935960576
+Functional programming:Computer programming,0.0024083196496989534
+Functional programming:Programming language,0.1330232319737567
+Functional programming:Language,0.12278047447939651
+Functional programming:Runtime system,-0.08710412726126388
+Functional programming:Concurrent computing,-0.17345052963714222
+Functional programming:Massively parallel,0.0
+Functional programming:Parallel computing,0.046906967228359936
+Functional programming:Design,0.007662835249042145
+Functional programming:Concurrency (computer science),-0.08343475321162949
+Functional programming:Multi-core processor,-0.007093107721232322
+Functional programming:Debugging,-0.04244031830238727
+Functional programming:System,0.01623174899036968
+Functional programming:Scheduling (computing),-0.03355704697986577
+Functional programming:Memory,0.0038314176245210726
+Functional programming:Message,-0.034482758620689655
+Functional programming:Computer network,0.03206145111463639
+Functional programming:Computer,-0.0027499691014707707
+Functional programming:Operating system,0.09337270911143924
+Functional programming:Security,0.0
+Functional programming:Algorithm,0.04081292686989839
+Functional programming:Memory management,0.0022246941045606233
+Functional programming:Message passing,-0.10413058311027135
+Functional programming:Routing,0.0038314176245210726
+Functional programming:Application software,0.012794198139025725
+Functional programming:Communication protocol,-0.011761561079925154
+Functional programming:Conceptual model,-0.009615384615384616
+Programming language:Tool,-0.008928571428571428
+Programming language:Distributed computing,-0.023698041089345437
+Programming language:Computer programming,-0.1544386048733875
+Programming language:Programming language,0.0
+Programming language:Language,0.14622171406210832
+Programming language:Runtime system,-0.21375047627111468
+Programming language:Concurrent computing,-0.2077316545347236
+Programming language:Massively parallel,0.0033444816053511705
+Programming language:Parallel computing,-0.024049961576344016
+Programming language:Design,-0.00020758851343558992
+Programming language:Concurrency (computer science),-0.0842022427700177
+Programming language:Multi-core processor,-0.03754771170319902
+Programming language:Debugging,-0.08838987099856666
+Programming language:System,0.003141100967187921
+Programming language:Scheduling (computing),-0.0302125653745146
+Programming language:Memory,0.006688963210702341
+Programming language:Message,-0.08620689655172414
+Programming language:Computer network,0.024682760128596534
+Programming language:Computer,0.021001905994893363
+Programming language:Operating system,0.10503525605924027
+Programming language:Security,0.0
+Programming language:Algorithm,0.018060200668896312
+Programming language:Memory management,-0.11171647426906894
+Programming language:Message passing,-0.2128098226966601
+Programming language:Routing,0.0033444816053511705
+Programming language:Application software,-0.06366459627329192
+Programming language:Communication protocol,-0.05304503383370926
+Programming language:Conceptual model,-0.035117056856187295
+Language:Tool,-0.028401671454687905
+Language:Distributed computing,0.0
+Language:Computer programming,-0.053486550013058236
+Language:Programming language,-0.14622171406210832
+Language:Language,0.0
+Language:Runtime system,-0.10126582278481013
+Language:Concurrent computing,-0.21764705882352942
+Language:Massively parallel,0.0
+Language:Parallel computing,-0.027298060027333558
+Language:Design,-0.020689655172413793
+Language:Concurrency (computer science),-0.09411764705882353
+Language:Multi-core processor,-0.022304832713754646
+Language:Debugging,-0.05311690138015549
+Language:System,-0.0019887346212757555
+Language:Scheduling (computing),0.0
+Language:Memory,-0.013302923270797466
+Language:Message,-0.04075521654163777
+Language:Computer network,0.0
+Language:Computer,-0.015536848105993591
+Language:Operating system,-0.006419259620830819
+Language:Security,0.0
+Language:Algorithm,-0.014047637972604192
+Language:Memory management,-0.016129032258064516
+Language:Message passing,-0.1232876712328767
+Language:Routing,0.0
+Language:Application software,-0.010076608339862453
+Language:Communication protocol,-0.031007751937984496
+Language:Conceptual model,-0.04624876951202363
+Discipline:Tool,0.0
+Discipline:Distributed computing,0.0
+Discipline:Computer programming,-0.005714285714285714
+Discipline:Programming language,0.0
+Discipline:Language,0.0425531914893617
+Discipline:Runtime system,0.0
+Discipline:Concurrent computing,0.0
+Discipline:Massively parallel,0.0
+Discipline:Parallel computing,0.0
+Discipline:Design,-0.013793103448275862
+Discipline:Concurrency (computer science),0.0
+Discipline:Multi-core processor,0.0
+Discipline:Debugging,0.0
+Discipline:System,0.014519838987924093
+Discipline:Scheduling (computing),0.0
+Discipline:Memory,0.02127659574468085
+Discipline:Message,-0.017241379310344827
+Discipline:Computer network,-0.004842615012106538
+Discipline:Computer,-0.004032258064516129
+Discipline:Operating system,0.0
+Discipline:Security,0.024535173471343683
+Discipline:Algorithm,0.0
+Discipline:Memory management,0.0
+Discipline:Message passing,0.0
+Discipline:Routing,0.0
+Discipline:Application software,0.0
+Discipline:Communication protocol,0.0
+Discipline:Conceptual model,0.0
+Computation:Tool,0.0
+Computation:Distributed computing,0.015217391304347822
+Computation:Computer programming,0.08012422360248447
+Computation:Programming language,0.14381270903010032
+Computation:Language,-0.0018281535648994515
+Computation:Runtime system,0.0
+Computation:Concurrent computing,-0.029411764705882353
+Computation:Massively parallel,-0.03125
+Computation:Parallel computing,0.024060785141409878
+Computation:Design,0.0
+Computation:Concurrency (computer science),-0.0370843989769821
+Computation:Multi-core processor,-0.01486988847583643
+Computation:Debugging,-0.02197802197802198
+Computation:System,0.05170387779083431
+Computation:Scheduling (computing),0.0016049022468631463
+Computation:Memory,0.05065428450823132
+Computation:Message,-0.05172413793103448
+Computation:Computer network,0.03621433835140541
+Computation:Computer,0.15509583917718558
+Computation:Operating system,0.05262293286606067
+Computation:Security,-0.009009009009009009
+Computation:Algorithm,0.13043478260869565
+Computation:Memory management,0.0
+Computation:Message passing,-0.019356759976176294
+Computation:Routing,-0.0125
+Computation:Application software,0.009834368530020704
+Computation:Communication protocol,-0.023255813953488372
+Computation:Conceptual model,0.0
+Type system:Tool,0.0
+Type system:Distributed computing,0.016666666666666666
+Type system:Computer programming,0.026190476190476188
+Type system:Programming language,0.1262541806020067
+Type system:Language,0.06856591509242331
+Type system:Runtime system,-0.06947960618846694
+Type system:Concurrent computing,-0.16013071895424835
+Type system:Massively parallel,0.0
+Type system:Parallel computing,0.004207119741100322
+Type system:Design,0.011111111111111112
+Type system:Concurrency (computer science),-0.04281045751633987
+Type system:Multi-core processor,-0.024184221396117304
+Type system:Debugging,-0.0547008547008547
+Type system:System,0.022222222222222223
+Type system:Scheduling (computing),0.0
+Type system:Memory,0.0
+Type system:Message,-0.017241379310344827
+Type system:Computer network,0.027777777777777776
+Type system:Computer,0.01603942652329749
+Type system:Operating system,0.07881332213825917
+Type system:Security,0.0
+Type system:Algorithm,0.07971014492753624
+Type system:Memory management,0.02831541218637993
+Type system:Message passing,-0.049238964992389646
+Type system:Routing,0.0
+Type system:Application software,0.02658730158730159
+Type system:Communication protocol,-0.007751937984496124
+Type system:Conceptual model,-0.00405982905982906
+Definition:Tool,0.0
+Definition:Distributed computing,0.0
+Definition:Computer programming,0.018518518518518517
+Definition:Programming language,0.024433296172426604
+Definition:Language,0.025949624212878324
+Definition:Runtime system,0.0
+Definition:Concurrent computing,0.0
+Definition:Massively parallel,0.0
+Definition:Parallel computing,0.0
+Definition:Design,-0.006896551724137931
+Definition:Concurrency (computer science),0.0
+Definition:Multi-core processor,0.0
+Definition:Debugging,0.0
+Definition:System,-0.013513513513513514
+Definition:Scheduling (computing),0.0
+Definition:Memory,0.0
+Definition:Message,0.0
+Definition:Computer network,0.0
+Definition:Computer,0.009259259259259259
+Definition:Operating system,0.0
+Definition:Security,0.0
+Definition:Algorithm,0.012721417069243155
+Definition:Memory management,-0.016129032258064516
+Definition:Message passing,0.0
+Definition:Routing,0.0
+Definition:Application software,0.0
+Definition:Communication protocol,-0.007751937984496124
+Definition:Conceptual model,0.0
+Implementation:Tool,0.0
+Implementation:Distributed computing,-0.007142857142857143
+Implementation:Computer programming,0.05523809523809524
+Implementation:Programming language,0.1010776662950576
+Implementation:Language,0.02039406865732277
+Implementation:Runtime system,-0.012658227848101266
+Implementation:Concurrent computing,-0.01764705882352941
+Implementation:Massively parallel,0.0
+Implementation:Parallel computing,0.041208198489751886
+Implementation:Design,0.0015325670498084303
+Implementation:Concurrency (computer science),-0.011764705882352941
+Implementation:Multi-core processor,0.0
+Implementation:Debugging,0.011233211233211233
+Implementation:System,0.05990990990990991
+Implementation:Scheduling (computing),0.0
+Implementation:Memory,0.044444444444444446
+Implementation:Message,0.0
+Implementation:Computer network,0.034759214420231374
+Implementation:Computer,0.08485663082437277
+Implementation:Operating system,0.09851665267282395
+Implementation:Security,0.0
+Implementation:Algorithm,0.12463768115942028
+Implementation:Memory management,0.0
+Implementation:Message passing,0.022222222222222223
+Implementation:Routing,0.0
+Implementation:Application software,0.0992063492063492
+Implementation:Communication protocol,-0.007751937984496124
+Implementation:Conceptual model,0.03482905982905983
+Syntax:Tool,0.004405286343612335
+Syntax:Distributed computing,-0.007142857142857143
+Syntax:Computer programming,-0.017142857142857144
+Syntax:Programming language,-0.030424469229295887
+Syntax:Language,-0.03944623859417408
+Syntax:Runtime system,0.0
+Syntax:Concurrent computing,-0.01764705882352941
+Syntax:Massively parallel,0.0
+Syntax:Parallel computing,-0.006472491909385114
+Syntax:Design,-0.020689655172413793
+Syntax:Concurrency (computer science),-0.019124125421093548
+Syntax:Multi-core processor,0.0
+Syntax:Debugging,-0.01098901098901099
+Syntax:System,-0.033783783783783786
+Syntax:Scheduling (computing),0.0
+Syntax:Memory,-0.010606903040930668
+Syntax:Message,-0.05172413793103448
+Syntax:Computer network,-0.004842615012106538
+Syntax:Computer,-0.0023151437639145466
+Syntax:Operating system,-0.0031513887193599568
+Syntax:Security,-0.009009009009009009
+Syntax:Algorithm,-0.018783119453489115
+Syntax:Memory management,0.0
+Syntax:Message passing,-0.0273972602739726
+Syntax:Routing,0.0
+Syntax:Application software,-0.011904761904761904
+Syntax:Communication protocol,-0.015503875968992248
+Syntax:Conceptual model,-0.04807692307692308
+Parsing:Tool,0.006993006993006993
+Parsing:Distributed computing,-0.02857142857142857
+Parsing:Computer programming,0.0006793206793206802
+Parsing:Programming language,0.1669200364852539
+Parsing:Language,0.07111900896178776
+Parsing:Runtime system,-0.0379746835443038
+Parsing:Concurrent computing,-0.023529411764705882
+Parsing:Massively parallel,0.0
+Parsing:Parallel computing,-0.012944983818770227
+Parsing:Design,0.0
+Parsing:Concurrency (computer science),-0.023529411764705882
+Parsing:Multi-core processor,0.0
+Parsing:Debugging,-0.0009990009990009999
+Parsing:System,0.021215271215271215
+Parsing:Scheduling (computing),0.0
+Parsing:Memory,0.013986013986013986
+Parsing:Message,0.0
+Parsing:Computer network,-0.009685230024213076
+Parsing:Computer,0.013187081735468831
+Parsing:Operating system,0.015377569533740818
+Parsing:Security,0.0
+Parsing:Algorithm,0.09739535826492349
+Parsing:Memory management,0.013986013986013986
+Parsing:Message passing,-0.0136986301369863
+Parsing:Routing,-0.005506993006993008
+Parsing:Application software,0.0031218781218781237
+Parsing:Communication protocol,-0.01626280696048138
+Parsing:Conceptual model,-0.009615384615384616
+Semantics (computer science):Tool,0.0
+Semantics (computer science):Distributed computing,0.03901098901098901
+Semantics (computer science):Computer programming,0.09450549450549452
+Semantics (computer science):Programming language,0.19732441471571907
+Semantics (computer science):Language,0.02894107720433132
+Semantics (computer science):Runtime system,-0.0379746835443038
+Semantics (computer science):Concurrent computing,0.01900452488687783
+Semantics (computer science):Massively parallel,0.0
+Semantics (computer science):Parallel computing,0.008912123475230273
+Semantics (computer science):Design,0.015384615384615385
+Semantics (computer science):Concurrency (computer science),0.03348416289592761
+Semantics (computer science):Multi-core processor,0.0
+Semantics (computer science):Debugging,0.035164835164835165
+Semantics (computer science):System,0.03264033264033264
+Semantics (computer science):Scheduling (computing),-0.006711409395973154
+Semantics (computer science):Memory,0.0
+Semantics (computer science):Message,0.0
+Semantics (computer science):Computer network,0.012963307878562116
+Semantics (computer science):Computer,0.04212158808933003
+Semantics (computer science):Operating system,0.0411160627785313
+Semantics (computer science):Security,0.015384615384615385
+Semantics (computer science):Algorithm,0.14225195094760312
+Semantics (computer science):Memory management,0.015384615384615385
+Semantics (computer science):Message passing,-0.03940990516332982
+Semantics (computer science):Routing,0.0
+Semantics (computer science):Application software,-0.005952380952380952
+Semantics (computer science):Communication protocol,-0.007751937984496124
+Semantics (computer science):Conceptual model,0.03653846153846154
+Evaluation:Tool,0.0
+Evaluation:Distributed computing,0.0
+Evaluation:Computer programming,0.0
+Evaluation:Programming language,0.0048543689320388345
+Evaluation:Language,0.019417475728155338
+Evaluation:Runtime system,0.0
+Evaluation:Concurrent computing,0.0
+Evaluation:Massively parallel,0.0
+Evaluation:Parallel computing,0.0
+Evaluation:Design,0.0007700033478406434
+Evaluation:Concurrency (computer science),0.0
+Evaluation:Multi-core processor,0.0
+Evaluation:Debugging,0.0
+Evaluation:System,0.04178693256363159
+Evaluation:Scheduling (computing),0.0
+Evaluation:Memory,0.014563106796116504
+Evaluation:Message,0.0048543689320388345
+Evaluation:Computer network,0.0048543689320388345
+Evaluation:Computer,0.038834951456310676
+Evaluation:Operating system,0.014563106796116505
+Evaluation:Security,0.014563106796116505
+Evaluation:Algorithm,0.014563106796116505
+Evaluation:Memory management,0.0
+Evaluation:Message passing,0.0
+Evaluation:Routing,0.0
+Evaluation:Application software,0.0
+Evaluation:Communication protocol,0.0
+Evaluation:Conceptual model,0.009708737864077669
+Documentation:Tool,0.0
+Documentation:Distributed computing,0.0
+Documentation:Computer programming,-0.011428571428571429
+Documentation:Programming language,-0.013377926421404682
+Documentation:Language,0.0
+Documentation:Runtime system,-0.012658227848101266
+Documentation:Concurrent computing,-0.0058823529411764705
+Documentation:Massively parallel,0.0
+Documentation:Parallel computing,0.0
+Documentation:Design,-0.020689655172413793
+Documentation:Concurrency (computer science),0.0
+Documentation:Multi-core processor,0.0
+Documentation:Debugging,-0.04395604395604396
+Documentation:System,0.015873015873015872
+Documentation:Scheduling (computing),-0.006711409395973154
+Documentation:Memory,0.0
+Documentation:Message,0.0
+Documentation:Computer network,0.031746031746031744
+Documentation:Computer,0.027713773681515615
+Documentation:Operating system,0.04510015593139018
+Documentation:Security,0.0
+Documentation:Algorithm,0.0
+Documentation:Memory management,0.0
+Documentation:Message passing,0.0
+Documentation:Routing,0.015873015873015872
+Documentation:Application software,-0.017857142857142856
+Documentation:Communication protocol,-0.007751937984496124
+Documentation:Conceptual model,0.0
+Debugging:Tool,0.0
+Debugging:Distributed computing,0.02197802197802198
+Debugging:Computer programming,0.012747252747252746
+Debugging:Programming language,0.08838987099856666
+Debugging:Language,0.05311690138015549
+Debugging:Runtime system,-0.053971345110585614
+Debugging:Concurrent computing,0.026308985132514548
+Debugging:Massively parallel,0.01098901098901099
+Debugging:Parallel computing,0.005796792204559198
+Debugging:Design,0.001288366805608187
+Debugging:Concurrency (computer science),-0.012540400775694892
+Debugging:Multi-core processor,-0.00032681073573266606
+Debugging:Debugging,0.0
+Debugging:System,0.02621027621027621
+Debugging:Scheduling (computing),0.012832804779113506
+Debugging:Memory,0.0
+Debugging:Message,-0.017241379310344827
+Debugging:Computer network,0.03427081393183089
+Debugging:Computer,0.09423372326598134
+Debugging:Operating system,0.26395770476375013
+Debugging:Security,0.0
+Debugging:Algorithm,0.07052078356426184
+Debugging:Memory management,0.0007089684509039365
+Debugging:Message passing,-0.04380550955893421
+Debugging:Routing,0.01098901098901099
+Debugging:Application software,0.05128205128205128
+Debugging:Communication protocol,-0.015503875968992248
+Debugging:Conceptual model,0.0
+Design:Tool,-0.002032019704433497
+Design:Distributed computing,0.006896551724137931
+Design:Computer programming,0.02541871921182266
+Design:Programming language,0.00020758851343558992
+Design:Language,0.020689655172413793
+Design:Runtime system,0.0
+Design:Concurrent computing,0.0
+Design:Massively parallel,0.0
+Design:Parallel computing,-0.012944983818770227
+Design:Design,0.0
+Design:Concurrency (computer science),0.002028397565922921
+Design:Multi-core processor,-0.0037174721189591076
+Design:Debugging,-0.001288366805608187
+Design:System,0.028424976700838767
+Design:Scheduling (computing),-0.006711409395973154
+Design:Memory,0.0
+Design:Message,0.013793103448275862
+Design:Computer network,0.0
+Design:Computer,0.012625139043381535
+Design:Operating system,0.0043776600364805
+Design:Security,0.006896551724137931
+Design:Algorithm,0.02468765617191404
+Design:Memory management,0.0
+Design:Message passing,0.0
+Design:Routing,-0.0125
+Design:Application software,-0.008128078817733989
+Design:Communication protocol,-0.007751937984496124
+Design:Conceptual model,0.013793103448275862
+Recursion (computer science):Tool,0.0
+Recursion (computer science):Distributed computing,-0.0009523809523809511
+Recursion (computer science):Computer programming,0.02285714285714286
+Recursion (computer science):Programming language,0.15647714604236346
+Recursion (computer science):Language,0.024838513101767216
+Recursion (computer science):Runtime system,-0.04329113924050633
+Recursion (computer science):Concurrent computing,-0.055686274509803915
+Recursion (computer science):Massively parallel,0.0
+Recursion (computer science):Parallel computing,0.014304207119741105
+Recursion (computer science):Design,0.0
+Recursion (computer science):Concurrency (computer science),-0.015294117647058823
+Recursion (computer science):Multi-core processor,-0.0015365551425030963
+Recursion (computer science):Debugging,-0.014945054945054943
+Recursion (computer science):System,-9.009009009009004e-05
+Recursion (computer science):Scheduling (computing),0.02
+Recursion (computer science):Memory,0.0
+Recursion (computer science):Message,0.0
+Recursion (computer science):Computer network,0.02666666666666667
+Recursion (computer science):Computer,0.034516129032258064
+Recursion (computer science):Operating system,0.10236775818639798
+Recursion (computer science):Security,0.0
+Recursion (computer science):Algorithm,0.1289855072463768
+Recursion (computer science):Memory management,0.030537634408602153
+Recursion (computer science):Message passing,-0.061826484018264835
+Recursion (computer science):Routing,0.0
+Recursion (computer science):Application software,0.020714285714285716
+Recursion (computer science):Communication protocol,-0.0010852713178294568
+Recursion (computer science):Conceptual model,0.0
+Divide-and-conquer algorithm:Tool,0.0
+Divide-and-conquer algorithm:Distributed computing,0.01282051282051282
+Divide-and-conquer algorithm:Computer programming,0.03274725274725275
+Divide-and-conquer algorithm:Programming language,0.09921962095875139
+Divide-and-conquer algorithm:Language,0.0
+Divide-and-conquer algorithm:Runtime system,-0.012658227848101266
+Divide-and-conquer algorithm:Concurrent computing,0.0
+Divide-and-conquer algorithm:Massively parallel,0.0
+Divide-and-conquer algorithm:Parallel computing,0.05128205128205128
+Divide-and-conquer algorithm:Design,0.01282051282051282
+Divide-and-conquer algorithm:Concurrency (computer science),0.0
+Divide-and-conquer algorithm:Multi-core processor,0.0
+Divide-and-conquer algorithm:Debugging,0.01282051282051282
+Divide-and-conquer algorithm:System,0.0
+Divide-and-conquer algorithm:Scheduling (computing),0.02564102564102564
+Divide-and-conquer algorithm:Memory,0.01282051282051282
+Divide-and-conquer algorithm:Message,0.0
+Divide-and-conquer algorithm:Computer network,0.02564102564102564
+Divide-and-conquer algorithm:Computer,0.0641025641025641
+Divide-and-conquer algorithm:Operating system,0.0641025641025641
+Divide-and-conquer algorithm:Security,0.0
+Divide-and-conquer algorithm:Algorithm,0.2261984392419175
+Divide-and-conquer algorithm:Memory management,-0.0033085194375516956
+Divide-and-conquer algorithm:Message passing,0.0
+Divide-and-conquer algorithm:Routing,0.0
+Divide-and-conquer algorithm:Application software,0.0
+Divide-and-conquer algorithm:Communication protocol,-0.007751937984496124
+Divide-and-conquer algorithm:Conceptual model,0.0
+Decomposition:Tool,-0.008928571428571428
+Decomposition:Distributed computing,0.005649717514124294
+Decomposition:Computer programming,0.0
+Decomposition:Programming language,0.0
+Decomposition:Language,0.0
+Decomposition:Runtime system,0.0
+Decomposition:Concurrent computing,0.0
+Decomposition:Massively parallel,0.0
+Decomposition:Parallel computing,0.0
+Decomposition:Design,0.0
+Decomposition:Concurrency (computer science),0.0
+Decomposition:Multi-core processor,0.0
+Decomposition:Debugging,0.0
+Decomposition:System,0.010192395785616124
+Decomposition:Scheduling (computing),0.0
+Decomposition:Memory,0.005649717514124294
+Decomposition:Message,0.0
+Decomposition:Computer network,0.0
+Decomposition:Computer,0.0
+Decomposition:Operating system,0.0
+Decomposition:Security,-0.018018018018018018
+Decomposition:Algorithm,0.0
+Decomposition:Memory management,0.0
+Decomposition:Message passing,0.0
+Decomposition:Routing,0.0
+Decomposition:Application software,0.0
+Decomposition:Communication protocol,0.0
+Decomposition:Conceptual model,0.0
+Analysis:Tool,-0.008928571428571428
+Analysis:Distributed computing,0.0
+Analysis:Computer programming,-0.0006381435823060192
+Analysis:Programming language,0.011883944790587917
+Analysis:Language,0.036952829926038655
+Analysis:Runtime system,0.0
+Analysis:Concurrent computing,0.0
+Analysis:Massively parallel,0.0
+Analysis:Parallel computing,0.0
+Analysis:Design,-0.015613513040434098
+Analysis:Concurrency (computer science),0.0
+Analysis:Multi-core processor,0.0
+Analysis:Debugging,-0.01098901098901099
+Analysis:System,0.028776238167101113
+Analysis:Scheduling (computing),-0.006711409395973154
+Analysis:Memory,0.0002217731999408605
+Analysis:Message,0.005076142131979695
+Analysis:Computer network,0.01015228426395939
+Analysis:Computer,0.030456852791878174
+Analysis:Operating system,0.0
+Analysis:Security,-0.003932866877029314
+Analysis:Algorithm,0.04786287059515927
+Analysis:Memory management,0.0
+Analysis:Message passing,0.005076142131979695
+Analysis:Routing,0.0
+Analysis:Application software,-0.000876238820401257
+Analysis:Communication protocol,0.0
+Analysis:Conceptual model,-0.02377001171417415
+Brute-force search:Tool,0.0
+Brute-force search:Distributed computing,0.0393687707641196
+Brute-force search:Computer programming,0.04119601328903655
+Brute-force search:Programming language,0.06642296025511395
+Brute-force search:Language,0.023255813953488372
+Brute-force search:Runtime system,0.0
+Brute-force search:Concurrent computing,0.023255813953488372
+Brute-force search:Massively parallel,-0.03125
+Brute-force search:Parallel computing,0.010310830134718145
+Brute-force search:Design,0.0
+Brute-force search:Concurrency (computer science),-0.011764705882352941
+Brute-force search:Multi-core processor,0.04279415578801764
+Brute-force search:Debugging,0.023255813953488372
+Brute-force search:System,0.0
+Brute-force search:Scheduling (computing),0.0
+Brute-force search:Memory,0.023255813953488372
+Brute-force search:Message,0.0
+Brute-force search:Computer network,0.046511627906976744
+Brute-force search:Computer,0.09033508377094274
+Brute-force search:Operating system,0.06976744186046512
+Brute-force search:Security,0.0
+Brute-force search:Algorithm,0.273407482305359
+Brute-force search:Memory management,-0.016129032258064516
+Brute-force search:Message passing,0.0
+Brute-force search:Routing,0.0
+Brute-force search:Application software,0.046511627906976744
+Brute-force search:Communication protocol,-0.007751937984496124
+Brute-force search:Conceptual model,0.0
+Backtracking:Tool,0.0
+Backtracking:Distributed computing,0.0023809523809523794
+Backtracking:Computer programming,0.04285714285714286
+Backtracking:Programming language,0.17040930084408346
+Backtracking:Language,0.047619047619047616
+Backtracking:Runtime system,-0.012658227848101266
+Backtracking:Concurrent computing,-0.011764705882352941
+Backtracking:Massively parallel,0.0
+Backtracking:Parallel computing,0.0076282940360610264
+Backtracking:Design,0.0
+Backtracking:Concurrency (computer science),-0.023529411764705882
+Backtracking:Multi-core processor,0.023809523809523808
+Backtracking:Debugging,-0.01098901098901099
+Backtracking:System,0.023809523809523808
+Backtracking:Scheduling (computing),0.0
+Backtracking:Memory,0.023809523809523808
+Backtracking:Message,0.0
+Backtracking:Computer network,0.023809523809523808
+Backtracking:Computer,0.01977726574500768
+Backtracking:Operating system,0.04510015593139018
+Backtracking:Security,0.0
+Backtracking:Algorithm,0.20331262939958591
+Backtracking:Memory management,0.047619047619047616
+Backtracking:Message passing,-0.0136986301369863
+Backtracking:Routing,0.0
+Backtracking:Application software,-0.005952380952380952
+Backtracking:Communication protocol,-0.015503875968992248
+Backtracking:Conceptual model,0.0
+Heuristic:Tool,0.0
+Heuristic:Distributed computing,-0.007142857142857143
+Heuristic:Computer programming,-0.0012244897959183682
+Heuristic:Programming language,0.00685960002730189
+Heuristic:Language,0.014923702570607766
+Heuristic:Runtime system,0.0
+Heuristic:Concurrent computing,0.0
+Heuristic:Massively parallel,0.0
+Heuristic:Parallel computing,-0.012944983818770227
+Heuristic:Design,-0.006896551724137931
+Heuristic:Concurrency (computer science),-0.023529411764705882
+Heuristic:Multi-core processor,-0.0037174721189591076
+Heuristic:Debugging,0.02040816326530612
+Heuristic:System,0.0034473248758963033
+Heuristic:Scheduling (computing),-0.006711409395973154
+Heuristic:Memory,0.03596195759857341
+Heuristic:Message,0.0
+Heuristic:Computer network,0.0077827741265997915
+Heuristic:Computer,-0.004032258064516129
+Heuristic:Operating system,0.0
+Heuristic:Security,-0.018018018018018018
+Heuristic:Algorithm,0.06435965690624076
+Heuristic:Memory management,-0.016129032258064516
+Heuristic:Message passing,0.0
+Heuristic:Routing,-0.025
+Heuristic:Application software,-0.005952380952380952
+Heuristic:Communication protocol,-0.007751937984496124
+Heuristic:Conceptual model,0.0005886970172684445
+Dynamic programming:Tool,0.0
+Dynamic programming:Distributed computing,-0.007574304889741131
+Dynamic programming:Computer programming,0.01840843720038351
+Dynamic programming:Programming language,0.04700231195708289
+Dynamic programming:Language,0.03172889341496632
+Dynamic programming:Runtime system,0.0
+Dynamic programming:Concurrent computing,-0.0058823529411764705
+Dynamic programming:Massively parallel,-0.03125
+Dynamic programming:Parallel computing,-0.009469820377489627
+Dynamic programming:Design,0.006711409395973154
+Dynamic programming:Concurrency (computer science),-0.016818002368732727
+Dynamic programming:Multi-core processor,-0.0037174721189591076
+Dynamic programming:Debugging,-0.015266612582048825
+Dynamic programming:System,0.02008888082713586
+Dynamic programming:Scheduling (computing),-0.013422818791946308
+Dynamic programming:Memory,0.006711409395973154
+Dynamic programming:Message,-0.017241379310344827
+Dynamic programming:Computer network,0.017712920681866192
+Dynamic programming:Computer,0.024157465540881863
+Dynamic programming:Operating system,0.017615336500262032
+Dynamic programming:Security,0.0
+Dynamic programming:Algorithm,0.10508705378854197
+Dynamic programming:Memory management,0.004005195929854946
+Dynamic programming:Message passing,-0.0136986301369863
+Dynamic programming:Routing,-0.02407718120805369
+Dynamic programming:Application software,0.006711409395973154
+Dynamic programming:Communication protocol,-0.007751937984496124
+Dynamic programming:Conceptual model,0.0
+Intellectual property:Tool,0.005847953216374269
+Intellectual property:Distributed computing,0.0
+Intellectual property:Computer programming,-0.005714285714285714
+Intellectual property:Programming language,0.002503471611023098
+Intellectual property:Language,0.011695906432748537
+Intellectual property:Runtime system,0.0
+Intellectual property:Concurrent computing,0.0
+Intellectual property:Massively parallel,-0.03125
+Intellectual property:Parallel computing,-0.006472491909385114
+Intellectual property:Design,-0.01798749747933051
+Intellectual property:Concurrency (computer science),-0.011764705882352941
+Intellectual property:Multi-core processor,-0.01858736059479554
+Intellectual property:Debugging,-0.02197802197802198
+Intellectual property:System,0.010787102892366049
+Intellectual property:Scheduling (computing),0.0
+Intellectual property:Memory,-0.0048543689320388345
+Intellectual property:Message,0.005847953216374269
+Intellectual property:Computer network,0.001005338204267731
+Intellectual property:Computer,-0.004904734955668743
+Intellectual property:Operating system,-0.0008985520055386168
+Intellectual property:Security,-0.0031610557926347402
+Intellectual property:Algorithm,0.0029494024917365875
+Intellectual property:Memory management,-0.016129032258064516
+Intellectual property:Message passing,0.0
+Intellectual property:Routing,0.0
+Intellectual property:Application software,-0.041666666666666664
+Intellectual property:Communication protocol,-0.00965592275261798
+Intellectual property:Conceptual model,0.005847953216374269
+Algorithm:Tool,-0.014958592132505175
+Algorithm:Distributed computing,-0.10983436853002071
+Algorithm:Computer programming,-0.08513457556935819
+Algorithm:Programming language,-0.018060200668896312
+Algorithm:Language,0.014047637972604192
+Algorithm:Runtime system,-0.0759493670886076
+Algorithm:Concurrent computing,-0.07067348678601876
+Algorithm:Massively parallel,-0.09375
+Algorithm:Parallel computing,-0.05090755593077248
+Algorithm:Design,-0.02468765617191404
+Algorithm:Concurrency (computer science),-0.11474850809889173
+Algorithm:Multi-core processor,-0.03137761974031572
+Algorithm:Debugging,-0.07052078356426184
+Algorithm:System,-0.04341950646298473
+Algorithm:Scheduling (computing),-0.07092695263106702
+Algorithm:Memory,0.00673983396651189
+Algorithm:Message,-0.06896551724137931
+Algorithm:Computer network,-0.022781345404779454
+Algorithm:Computer,0.020885928003740062
+Algorithm:Operating system,-0.01711386120541744
+Algorithm:Security,-0.02702702702702703
+Algorithm:Algorithm,0.0
+Algorithm:Memory management,-0.010331930808789153
+Algorithm:Message passing,-0.12038912050823902
+Algorithm:Routing,-0.07880434782608695
+Algorithm:Application software,-0.0625776397515528
+Algorithm:Communication protocol,-0.051365015166835185
+Algorithm:Conceptual model,-0.0451783723522854
+Property:Tool,0.011029411764705883
+Property:Distributed computing,-0.007142857142857143
+Property:Computer programming,0.0
+Property:Programming language,0.0
+Property:Language,0.005565114528443918
+Property:Runtime system,0.0
+Property:Concurrent computing,-0.0058823529411764705
+Property:Massively parallel,0.0
+Property:Parallel computing,-0.003236245954692557
+Property:Design,0.0004563894523326572
+Property:Concurrency (computer science),-0.011764705882352941
+Property:Multi-core processor,0.0
+Property:Debugging,0.0
+Property:System,-0.004372019077901433
+Property:Scheduling (computing),0.0
+Property:Memory,0.011029411764705883
+Property:Message,0.0
+Property:Computer network,0.003676470588235294
+Property:Computer,0.011029411764705883
+Property:Operating system,0.0
+Property:Security,-0.014341547429782723
+Property:Algorithm,0.0007779198635976129
+Property:Memory management,0.0
+Property:Message passing,-0.0136986301369863
+Property:Routing,0.003676470588235294
+Property:Application software,-0.017857142857142856
+Property:Communication protocol,-0.007751937984496124
+Property:Conceptual model,-0.011877828054298644
+Data structure:Tool,0.0
+Data structure:Distributed computing,0.01247848537005164
+Data structure:Computer programming,0.005576592082616183
+Data structure:Programming language,0.2075593343272757
+Data structure:Language,0.10660558137485959
+Data structure:Runtime system,-0.10187585786182705
+Data structure:Concurrent computing,-0.06442239546420979
+Data structure:Massively parallel,0.0
+Data structure:Parallel computing,0.034350996217881236
+Data structure:Design,0.005151641046946407
+Data structure:Concurrency (computer science),-0.03501063075832743
+Data structure:Multi-core processor,-0.011152416356877323
+Data structure:Debugging,-0.05176750959883491
+Data structure:System,-0.013513513513513514
+Data structure:Scheduling (computing),-0.006711409395973154
+Data structure:Memory,0.002339454907006669
+Data structure:Message,-0.034482758620689655
+Data structure:Computer network,0.04813442632515534
+Data structure:Computer,0.0226551366757352
+Data structure:Operating system,0.14096689023094897
+Data structure:Security,0.0
+Data structure:Algorithm,0.15219137419242187
+Data structure:Memory management,-0.020404197434900892
+Data structure:Message passing,-0.059745832645651094
+Data structure:Routing,0.0
+Data structure:Application software,0.054432013769363165
+Data structure:Communication protocol,-0.046511627906976744
+Data structure:Conceptual model,0.0
+Software development:Tool,-0.0032788539144471343
+Software development:Distributed computing,0.00682001614205004
+Software development:Computer programming,0.027409200968523006
+Software development:Programming language,0.10445364019424447
+Software development:Language,0.0847457627118644
+Software development:Runtime system,-0.05063291139240506
+Software development:Concurrent computing,0.016018610834164178
+Software development:Massively parallel,-0.025600282485875706
+Software development:Parallel computing,0.01771707531128298
+Software development:Design,-0.0005844535359438921
+Software development:Concurrency (computer science),-0.007045530076437354
+Software development:Multi-core processor,0.009514208304454666
+Software development:Debugging,0.029490283727571863
+Software development:System,0.0655825316842266
+Software development:Scheduling (computing),-0.013422818791946308
+Software development:Memory,0.006445066096209753
+Software development:Message,-0.011591661796220534
+Software development:Computer network,0.029862792574656984
+Software development:Computer,0.03364771277565154
+Software development:Operating system,0.08154378175297786
+Software development:Security,0.0
+Software development:Algorithm,0.08749692950135102
+Software development:Memory management,0.01694915254237288
+Software development:Message passing,-0.001547867812088842
+Software development:Routing,-0.0012005649717514132
+Software development:Application software,0.019874899112187254
+Software development:Communication protocol,-0.00420444094074366
+Software development:Conceptual model,0.0016840504128639716
+Paradigm:Tool,0.00980392156862745
+Paradigm:Distributed computing,0.0
+Paradigm:Computer programming,-0.02857142857142857
+Paradigm:Programming language,-0.013607449668830741
+Paradigm:Language,0.026418611320213642
+Paradigm:Runtime system,0.0
+Paradigm:Concurrent computing,-0.0058823529411764705
+Paradigm:Massively parallel,-0.03125
+Paradigm:Parallel computing,0.0033314296592423373
+Paradigm:Design,-0.006896551724137931
+Paradigm:Concurrency (computer science),-0.013725490196078431
+Paradigm:Multi-core processor,-0.007434944237918215
+Paradigm:Debugging,-0.01098901098901099
+Paradigm:System,0.01589825119236884
+Paradigm:Scheduling (computing),0.0
+Paradigm:Memory,0.009899105273177233
+Paradigm:Message,0.0
+Paradigm:Computer network,-0.004842615012106538
+Paradigm:Computer,0.015575585072738773
+Paradigm:Operating system,0.0
+Paradigm:Security,-0.02702702702702703
+Paradigm:Algorithm,0.021824381926683716
+Paradigm:Memory management,0.0
+Paradigm:Message passing,-0.0077894171367176995
+Paradigm:Routing,0.0
+Paradigm:Application software,-0.0021008403361344533
+Paradigm:Communication protocol,0.0
+Paradigm:Conceptual model,0.01998491704374057
+Imperative programming:Tool,0.0
+Imperative programming:Distributed computing,0.010486322188449845
+Imperative programming:Computer programming,0.04686930091185411
+Imperative programming:Programming language,0.20785597381342064
+Imperative programming:Language,0.16838461239254734
+Imperative programming:Runtime system,-0.05669270131968759
+Imperative programming:Concurrent computing,-0.13617021276595748
+Imperative programming:Massively parallel,0.0
+Imperative programming:Parallel computing,0.06892515320526062
+Imperative programming:Design,0.010638297872340425
+Imperative programming:Concurrency (computer science),-0.06107634543178973
+Imperative programming:Multi-core processor,-0.01486988847583643
+Imperative programming:Debugging,-0.01309328968903438
+Imperative programming:System,-0.002875215641173089
+Imperative programming:Scheduling (computing),-0.002784520919605883
+Imperative programming:Memory,0.0
+Imperative programming:Message,-0.017241379310344827
+Imperative programming:Computer network,0.04834887434959559
+Imperative programming:Computer,0.03291580873941889
+Imperative programming:Operating system,0.19261482394554907
+Imperative programming:Security,0.0
+Imperative programming:Algorithm,0.11510946654332409
+Imperative programming:Memory management,0.05284831846259437
+Imperative programming:Message passing,-0.032060623724861556
+Imperative programming:Routing,0.0
+Imperative programming:Application software,0.06256332320162107
+Imperative programming:Communication protocol,-0.0019792182088075212
+Imperative programming:Conceptual model,0.02127659574468085
+Programming paradigm:Tool,-0.0003815628815628802
+Programming paradigm:Distributed computing,0.04554334554334555
+Programming paradigm:Computer programming,0.031159951159951155
+Programming paradigm:Programming language,0.28576737272389446
+Programming paradigm:Language,0.20330005156330566
+Programming paradigm:Runtime system,-0.01644487720437087
+Programming paradigm:Concurrent computing,-0.03051784816490699
+Programming paradigm:Massively parallel,-0.022702991452991452
+Programming paradigm:Parallel computing,0.05866733051199072
+Programming paradigm:Design,0.008547008547008548
+Programming paradigm:Concurrency (computer science),0.02131724484665662
+Programming paradigm:Multi-core processor,0.030470562069075086
+Programming paradigm:Debugging,0.013431013431013439
+Programming paradigm:System,0.02564102564102564
+Programming paradigm:Scheduling (computing),-0.0048758102449377606
+Programming paradigm:Memory,0.02564102564102564
+Programming paradigm:Message,-0.034482758620689655
+Programming paradigm:Computer network,0.042735042735042736
+Programming paradigm:Computer,0.07471739729804246
+Programming paradigm:Operating system,0.19154341320588172
+Programming paradigm:Security,-0.009009009009009009
+Programming paradigm:Algorithm,0.11081382385730211
+Programming paradigm:Memory management,0.06837606837606838
+Programming paradigm:Message passing,0.008429926238145424
+Programming paradigm:Routing,0.008547008547008548
+Programming paradigm:Application software,0.027472527472527472
+Programming paradigm:Communication protocol,-0.014708805406479824
+Programming paradigm:Conceptual model,-0.009615384615384616
+Mathematical proof:Tool,0.005747126436781609
+Mathematical proof:Distributed computing,0.010098522167487686
+Mathematical proof:Computer programming,-0.011395730706075535
+Mathematical proof:Programming language,0.03354092184676892
+Mathematical proof:Language,0.015413225745445376
+Mathematical proof:Runtime system,0.0
+Mathematical proof:Concurrent computing,-0.0058823529411764705
+Mathematical proof:Massively parallel,0.0
+Mathematical proof:Parallel computing,0.0
+Mathematical proof:Design,0.0
+Mathematical proof:Concurrency (computer science),-0.011764705882352941
+Mathematical proof:Multi-core processor,-0.0037174721189591076
+Mathematical proof:Debugging,-0.02197802197802198
+Mathematical proof:System,0.002718235476856165
+Mathematical proof:Scheduling (computing),0.0
+Mathematical proof:Memory,0.011494252873563218
+Mathematical proof:Message,0.005747126436781609
+Mathematical proof:Computer network,0.005747126436781609
+Mathematical proof:Computer,0.056127178346310716
+Mathematical proof:Operating system,-0.0025188916876574307
+Mathematical proof:Security,0.0
+Mathematical proof:Algorithm,0.03698150924537731
+Mathematical proof:Memory management,0.0
+Mathematical proof:Message passing,-0.0136986301369863
+Mathematical proof:Routing,0.0
+Mathematical proof:Application software,0.0
+Mathematical proof:Communication protocol,-0.007751937984496124
+Mathematical proof:Conceptual model,-0.028846153846153848
+Asymptotic analysis:Tool,0.0
+Asymptotic analysis:Distributed computing,0.025
+Asymptotic analysis:Computer programming,0.0010714285714285721
+Asymptotic analysis:Programming language,0.03081103678929766
+Asymptotic analysis:Language,0.0
+Asymptotic analysis:Runtime system,0.0
+Asymptotic analysis:Concurrent computing,-0.0058823529411764705
+Asymptotic analysis:Massively parallel,0.0
+Asymptotic analysis:Parallel computing,-0.003236245954692557
+Asymptotic analysis:Design,0.0
+Asymptotic analysis:Concurrency (computer science),0.0
+Asymptotic analysis:Multi-core processor,-0.0037174721189591076
+Asymptotic analysis:Debugging,0.0
+Asymptotic analysis:System,0.018243243243243244
+Asymptotic analysis:Scheduling (computing),0.0
+Asymptotic analysis:Memory,0.0
+Asymptotic analysis:Message,0.0
+Asymptotic analysis:Computer network,0.0
+Asymptotic analysis:Computer,0.07365591397849462
+Asymptotic analysis:Operating system,0.0375
+Asymptotic analysis:Security,0.0
+Asymptotic analysis:Algorithm,0.0855072463768116
+Asymptotic analysis:Memory management,0.0
+Asymptotic analysis:Message passing,0.0
+Asymptotic analysis:Routing,0.0
+Asymptotic analysis:Application software,0.0
+Asymptotic analysis:Communication protocol,0.0
+Asymptotic analysis:Conceptual model,0.0125
+Abstract data type:Tool,0.0
+Abstract data type:Distributed computing,0.041237113402061855
+Abstract data type:Computer programming,0.09054491899852725
+Abstract data type:Programming language,0.248250181015757
+Abstract data type:Language,0.05154639175257732
+Abstract data type:Runtime system,-0.015007177345687068
+Abstract data type:Concurrent computing,-0.041176470588235294
+Abstract data type:Massively parallel,0.0
+Abstract data type:Parallel computing,0.014146064791645815
+Abstract data type:Design,0.041237113402061855
+Abstract data type:Concurrency (computer science),-0.013220133414190418
+Abstract data type:Multi-core processor,-0.0037174721189591076
+Abstract data type:Debugging,0.041237113402061855
+Abstract data type:System,0.01386179994427417
+Abstract data type:Scheduling (computing),0.010309278350515464
+Abstract data type:Memory,0.010309278350515464
+Abstract data type:Message,0.0
+Abstract data type:Computer network,0.028506527545493123
+Abstract data type:Computer,0.09009533311162843
+Abstract data type:Operating system,0.09805500012983977
+Abstract data type:Security,0.010309278350515464
+Abstract data type:Algorithm,0.15625280143433437
+Abstract data type:Memory management,0.008979048885932824
+Abstract data type:Message passing,-0.003389351786470837
+Abstract data type:Routing,0.0
+Abstract data type:Application software,0.061855670103092786
+Abstract data type:Communication protocol,0.00255734036601934
+Abstract data type:Conceptual model,0.030927835051546393
+Data type:Tool,0.0
+Data type:Distributed computing,0.007297019527235356
+Data type:Computer programming,0.009085303186022603
+Data type:Programming language,0.12855802314670003
+Data type:Language,0.05755395683453238
+Data type:Runtime system,-0.08687733357617702
+Data type:Concurrent computing,-0.03986457892509522
+Data type:Massively parallel,0.0
+Data type:Parallel computing,-0.008265232474214804
+Data type:Design,0.0
+Data type:Concurrency (computer science),-0.009140922556072788
+Data type:Multi-core processor,-0.01858736059479554
+Data type:Debugging,0.010198434658866315
+Data type:System,0.00043748784755979
+Data type:Scheduling (computing),0.0
+Data type:Memory,0.007194244604316547
+Data type:Message,-0.017241379310344827
+Data type:Computer network,0.050359712230215826
+Data type:Computer,0.054943142260385235
+Data type:Operating system,0.05179131254190602
+Data type:Security,0.0
+Data type:Algorithm,0.09771660932123867
+Data type:Memory management,-0.012415873752610815
+Data type:Message passing,-0.04040603133931211
+Data type:Routing,0.0
+Data type:Application software,0.009677971908187737
+Data type:Communication protocol,-0.0083096313646757
+Data type:Conceptual model,-0.0216519092418373
+Modular programming:Tool,0.0
+Modular programming:Distributed computing,0.010869565217391304
+Modular programming:Computer programming,-0.010683229813664603
+Modular programming:Programming language,0.2555183946488294
+Modular programming:Language,0.2608695652173913
+Modular programming:Runtime system,-0.015850302696752888
+Modular programming:Concurrent computing,0.0020460358056266018
+Modular programming:Massively parallel,0.0
+Modular programming:Parallel computing,0.05884339383706206
+Modular programming:Design,0.010494752623688156
+Modular programming:Concurrency (computer science),0.04603580562659847
+Modular programming:Multi-core processor,-0.009891708420882496
+Modular programming:Debugging,-0.0004777830864787433
+Modular programming:System,0.034782608695652174
+Modular programming:Scheduling (computing),-0.004727166618033265
+Modular programming:Memory,0.0
+Modular programming:Message,0.0
+Modular programming:Computer network,0.02608695652173913
+Modular programming:Computer,0.026005142589995325
+Modular programming:Operating system,0.2457562150914467
+Modular programming:Security,0.0
+Modular programming:Algorithm,0.06956521739130435
+Modular programming:Memory management,0.04474053295932679
+Modular programming:Message passing,0.0023823704586063144
+Modular programming:Routing,0.0
+Modular programming:Application software,0.05445134575569359
+Modular programming:Communication protocol,-0.015503875968992248
+Modular programming:Conceptual model,0.008695652173913044
+Solution:Tool,0.0
+Solution:Distributed computing,0.0
+Solution:Computer programming,0.0
+Solution:Programming language,0.0
+Solution:Language,0.0
+Solution:Runtime system,0.0
+Solution:Concurrent computing,0.0
+Solution:Massively parallel,0.0
+Solution:Parallel computing,0.0
+Solution:Design,0.0
+Solution:Concurrency (computer science),0.0
+Solution:Multi-core processor,0.0
+Solution:Debugging,0.07142857142857142
+Solution:System,0.0
+Solution:Scheduling (computing),0.0
+Solution:Memory,0.0
+Solution:Message,0.0
+Solution:Computer network,0.0
+Solution:Computer,0.0
+Solution:Operating system,0.0
+Solution:Security,0.0
+Solution:Algorithm,0.06853002070393374
+Solution:Memory management,0.0
+Solution:Message passing,0.0
+Solution:Routing,0.0
+Solution:Application software,0.0
+Solution:Communication protocol,-0.007751937984496124
+Solution:Conceptual model,0.0
+Variable (computer science):Tool,0.0
+Variable (computer science):Distributed computing,0.030612244897959183
+Variable (computer science):Computer programming,0.20285714285714285
+Variable (computer science):Programming language,0.29308579619138625
+Variable (computer science):Language,0.06960041786367198
+Variable (computer science):Runtime system,0.01549987083440971
+Variable (computer science):Concurrent computing,0.018847539015606242
+Variable (computer science):Massively parallel,0.0
+Variable (computer science):Parallel computing,0.02413975298857407
+Variable (computer science):Design,0.01020408163265306
+Variable (computer science):Concurrency (computer science),0.02040816326530612
+Variable (computer science):Multi-core processor,0.01020408163265306
+Variable (computer science):Debugging,0.07142857142857142
+Variable (computer science):System,0.0
+Variable (computer science):Scheduling (computing),-0.006711409395973154
+Variable (computer science):Memory,0.0
+Variable (computer science):Message,-0.017241379310344827
+Variable (computer science):Computer network,0.04081632653061224
+Variable (computer science):Computer,0.06067588325652841
+Variable (computer science):Operating system,0.1199300879041793
+Variable (computer science):Security,0.0
+Variable (computer science):Algorithm,0.09914226560189293
+Variable (computer science):Memory management,0.059578670177748524
+Variable (computer science):Message passing,-0.00698909700866648
+Variable (computer science):Routing,0.0
+Variable (computer science):Application software,0.03486394557823129
+Variable (computer science):Communication protocol,-0.007751937984496124
+Variable (computer science):Conceptual model,0.0
+Conditional (computer programming):Tool,0.0
+Conditional (computer programming):Distributed computing,0.02727272727272727
+Conditional (computer programming):Computer programming,0.07714285714285715
+Conditional (computer programming):Programming language,0.3469139556096078
+Conditional (computer programming):Language,0.23636363636363636
+Conditional (computer programming):Runtime system,0.023705408515535098
+Conditional (computer programming):Concurrent computing,0.0213903743315508
+Conditional (computer programming):Massively parallel,0.0
+Conditional (computer programming):Parallel computing,0.08181818181818182
+Conditional (computer programming):Design,0.0
+Conditional (computer programming):Concurrency (computer science),0.05454545454545454
+Conditional (computer programming):Multi-core processor,0.00909090909090909
+Conditional (computer programming):Debugging,0.06173826173826173
+Conditional (computer programming):System,0.00909090909090909
+Conditional (computer programming):Scheduling (computing),0.00909090909090909
+Conditional (computer programming):Memory,0.0
+Conditional (computer programming):Message,0.0
+Conditional (computer programming):Computer network,0.02727272727272727
+Conditional (computer programming):Computer,0.05826001955034212
+Conditional (computer programming):Operating system,0.17272727272727273
+Conditional (computer programming):Security,0.0
+Conditional (computer programming):Algorithm,0.05454545454545454
+Conditional (computer programming):Memory management,0.06363636363636363
+Conditional (computer programming):Message passing,0.031755915317559155
+Conditional (computer programming):Routing,0.0
+Conditional (computer programming):Application software,0.05454545454545454
+Conditional (computer programming):Communication protocol,0.0
+Conditional (computer programming):Conceptual model,0.0
+Iteration:Tool,0.0
+Iteration:Distributed computing,0.029894179894179893
+Iteration:Computer programming,0.13100529100529099
+Iteration:Programming language,0.16511829555307816
+Iteration:Language,0.037037037037037035
+Iteration:Runtime system,-0.012658227848101266
+Iteration:Concurrent computing,-0.029411764705882353
+Iteration:Massively parallel,-0.03125
+Iteration:Parallel computing,0.030564545127651922
+Iteration:Design,-0.013793103448275862
+Iteration:Concurrency (computer science),-0.023529411764705882
+Iteration:Multi-core processor,-0.0037174721189591076
+Iteration:Debugging,0.0
+Iteration:System,-0.006756756756756757
+Iteration:Scheduling (computing),0.0
+Iteration:Memory,0.037037037037037035
+Iteration:Message,0.0
+Iteration:Computer network,0.037037037037037035
+Iteration:Computer,0.03166069295101553
+Iteration:Operating system,0.1111111111111111
+Iteration:Security,0.0
+Iteration:Algorithm,0.35297906602254425
+Iteration:Memory management,-0.04838709677419355
+Iteration:Message passing,0.037037037037037035
+Iteration:Routing,0.0
+Iteration:Application software,0.037037037037037035
+Iteration:Communication protocol,-0.007751937984496124
+Iteration:Conceptual model,-0.009615384615384616
+Eager evaluation:Tool,0.0
+Eager evaluation:Distributed computing,0.0
+Eager evaluation:Computer programming,-0.011428571428571429
+Eager evaluation:Programming language,0.4866220735785953
+Eager evaluation:Language,0.0
+Eager evaluation:Runtime system,-0.012658227848101266
+Eager evaluation:Concurrent computing,-0.041176470588235294
+Eager evaluation:Massively parallel,0.0
+Eager evaluation:Parallel computing,-0.003236245954692557
+Eager evaluation:Design,0.0
+Eager evaluation:Concurrency (computer science),0.48823529411764705
+Eager evaluation:Multi-core processor,-0.0037174721189591076
+Eager evaluation:Debugging,0.0
+Eager evaluation:System,0.0
+Eager evaluation:Scheduling (computing),0.0
+Eager evaluation:Memory,0.0
+Eager evaluation:Message,0.0
+Eager evaluation:Computer network,0.0
+Eager evaluation:Computer,-0.0013440860215053765
+Eager evaluation:Operating system,0.0
+Eager evaluation:Security,0.0
+Eager evaluation:Algorithm,-0.002898550724637681
+Eager evaluation:Memory management,0.0
+Eager evaluation:Message passing,-0.0136986301369863
+Eager evaluation:Routing,0.0
+Eager evaluation:Application software,0.0
+Eager evaluation:Communication protocol,0.0
+Eager evaluation:Conceptual model,0.0
+Organization:Tool,0.0
+Organization:Distributed computing,0.00026455026455026506
+Organization:Computer programming,0.0
+Organization:Programming language,0.014814814814814815
+Organization:Language,0.02597332249983073
+Organization:Runtime system,0.0
+Organization:Concurrent computing,0.0
+Organization:Massively parallel,0.0
+Organization:Parallel computing,0.0
+Organization:Design,-0.05517241379310345
+Organization:Concurrency (computer science),0.0
+Organization:Multi-core processor,0.0
+Organization:Debugging,0.0
+Organization:System,-0.016366366366366368
+Organization:Scheduling (computing),0.0
+Organization:Memory,0.002553038475368573
+Organization:Message,-0.002426564495530012
+Organization:Computer network,0.009972199802708278
+Organization:Computer,0.00943847072879331
+Organization:Operating system,-0.005037783375314861
+Organization:Security,-0.018018018018018018
+Organization:Algorithm,0.019323671497584544
+Organization:Memory management,0.0
+Organization:Message passing,0.0
+Organization:Routing,0.0
+Organization:Application software,-0.011904761904761904
+Organization:Communication protocol,-0.015503875968992248
+Organization:Conceptual model,-0.028846153846153848
+Subroutine:Tool,-0.008928571428571428
+Subroutine:Distributed computing,0.0074731626754748134
+Subroutine:Computer programming,0.05886044591246904
+Subroutine:Programming language,0.15309219556517872
+Subroutine:Language,0.07909670192643004
+Subroutine:Runtime system,-0.09658301017048365
+Subroutine:Concurrent computing,-0.08833730023801428
+Subroutine:Massively parallel,0.0
+Subroutine:Parallel computing,-0.0009166245767626355
+Subroutine:Design,0.004664141917480566
+Subroutine:Concurrency (computer science),-0.018361101666099965
+Subroutine:Multi-core processor,-0.03345724907063197
+Subroutine:Debugging,-0.05786698850282665
+Subroutine:System,-0.0009764099359475089
+Subroutine:Scheduling (computing),-0.041199518951002836
+Subroutine:Memory,0.005780346820809248
+Subroutine:Message,-0.06896551724137931
+Subroutine:Computer network,0.010077117944267938
+Subroutine:Computer,0.05310305177450432
+Subroutine:Operating system,0.135627029309416
+Subroutine:Security,-0.009009009009009009
+Subroutine:Algorithm,0.06056798190500126
+Subroutine:Memory management,-0.07122878985642364
+Subroutine:Message passing,-0.09438593712883046
+Subroutine:Routing,-0.025
+Subroutine:Application software,-0.012248830167905312
+Subroutine:Communication protocol,-0.015503875968992248
+Subroutine:Conceptual model,-0.009615384615384616
+Algebraic data type:Tool,0.0
+Algebraic data type:Distributed computing,0.05405405405405406
+Algebraic data type:Computer programming,0.05405405405405406
+Algebraic data type:Programming language,0.43591250112989244
+Algebraic data type:Language,0.25675675675675674
+Algebraic data type:Runtime system,0.04054054054054054
+Algebraic data type:Concurrent computing,0.036406995230524646
+Algebraic data type:Massively parallel,0.0
+Algebraic data type:Parallel computing,0.06756756756756757
+Algebraic data type:Design,0.013513513513513514
+Algebraic data type:Concurrency (computer science),0.04054054054054054
+Algebraic data type:Multi-core processor,0.0
+Algebraic data type:Debugging,0.04054054054054054
+Algebraic data type:System,0.0
+Algebraic data type:Scheduling (computing),0.0
+Algebraic data type:Memory,0.0
+Algebraic data type:Message,0.0
+Algebraic data type:Computer network,0.02702702702702703
+Algebraic data type:Computer,0.02702702702702703
+Algebraic data type:Operating system,0.05405405405405406
+Algebraic data type:Security,0.0
+Algebraic data type:Algorithm,0.08108108108108109
+Algebraic data type:Memory management,0.05405405405405406
+Algebraic data type:Message passing,0.013328396890040728
+Algebraic data type:Routing,0.0
+Algebraic data type:Application software,0.04054054054054054
+Algebraic data type:Communication protocol,0.0
+Algebraic data type:Conceptual model,0.0
+Pattern matching:Tool,0.011363636363636364
+Pattern matching:Distributed computing,0.0
+Pattern matching:Computer programming,0.062402597402597404
+Pattern matching:Programming language,0.2827227120705381
+Pattern matching:Language,0.17045454545454544
+Pattern matching:Runtime system,-0.0012945914844649017
+Pattern matching:Concurrent computing,-0.04745989304812834
+Pattern matching:Massively parallel,0.0
+Pattern matching:Parallel computing,0.027618417181523976
+Pattern matching:Design,0.011363636363636364
+Pattern matching:Concurrency (computer science),0.010561497326203206
+Pattern matching:Multi-core processor,-0.007434944237918215
+Pattern matching:Debugging,0.011738261738261738
+Pattern matching:System,0.0
+Pattern matching:Scheduling (computing),0.0
+Pattern matching:Memory,0.0
+Pattern matching:Message,0.0
+Pattern matching:Computer network,0.0
+Pattern matching:Computer,0.016006842619745845
+Pattern matching:Operating system,0.09090909090909091
+Pattern matching:Security,0.0
+Pattern matching:Algorithm,0.09647562582345191
+Pattern matching:Memory management,0.056818181818181816
+Pattern matching:Message passing,-0.0410958904109589
+Pattern matching:Routing,0.0
+Pattern matching:Application software,0.0
+Pattern matching:Communication protocol,0.00361169837914024
+Pattern matching:Conceptual model,0.0
+Parametric polymorphism:Tool,0.0
+Parametric polymorphism:Distributed computing,0.07272727272727272
+Parametric polymorphism:Computer programming,0.0612987012987013
+Parametric polymorphism:Programming language,0.27899057464274857
+Parametric polymorphism:Language,0.2
+Parametric polymorphism:Runtime system,0.005523590333716915
+Parametric polymorphism:Concurrent computing,0.02513368983957219
+Parametric polymorphism:Massively parallel,0.0
+Parametric polymorphism:Parallel computing,0.07272727272727272
+Parametric polymorphism:Design,0.0
+Parametric polymorphism:Concurrency (computer science),-0.005347593582887701
+Parametric polymorphism:Multi-core processor,0.0
+Parametric polymorphism:Debugging,0.01818181818181818
+Parametric polymorphism:System,0.01818181818181818
+Parametric polymorphism:Scheduling (computing),0.0
+Parametric polymorphism:Memory,0.0
+Parametric polymorphism:Message,0.0
+Parametric polymorphism:Computer network,0.01576051067576491
+Parametric polymorphism:Computer,0.015493646138807427
+Parametric polymorphism:Operating system,0.05202656285779711
+Parametric polymorphism:Security,0.0
+Parametric polymorphism:Algorithm,0.07272727272727272
+Parametric polymorphism:Memory management,0.09090909090909091
+Parametric polymorphism:Message passing,-0.02291407222914072
+Parametric polymorphism:Routing,0.0
+Parametric polymorphism:Application software,0.05454545454545454
+Parametric polymorphism:Communication protocol,0.0
+Parametric polymorphism:Conceptual model,0.0
+Polymorphism (computer science):Tool,0.0
+Polymorphism (computer science):Distributed computing,0.02531645569620253
+Polymorphism (computer science):Computer programming,0.010632911392405062
+Polymorphism (computer science):Programming language,0.22234452394056134
+Polymorphism (computer science):Language,0.05063291139240506
+Polymorphism (computer science):Runtime system,0.012658227848101266
+Polymorphism (computer science):Concurrent computing,-0.052941176470588235
+Polymorphism (computer science):Massively parallel,0.0
+Polymorphism (computer science):Parallel computing,0.01884396378681742
+Polymorphism (computer science):Design,0.012658227848101266
+Polymorphism (computer science):Concurrency (computer science),-0.009977661950856292
+Polymorphism (computer science):Multi-core processor,0.0
+Polymorphism (computer science):Debugging,0.012658227848101266
+Polymorphism (computer science):System,0.02531645569620253
+Polymorphism (computer science):Scheduling (computing),0.0
+Polymorphism (computer science):Memory,0.0
+Polymorphism (computer science):Message,-0.034482758620689655
+Polymorphism (computer science):Computer network,0.012658227848101266
+Polymorphism (computer science):Computer,0.009970055805090514
+Polymorphism (computer science):Operating system,0.035455791856646365
+Polymorphism (computer science):Security,0.0
+Polymorphism (computer science):Algorithm,0.06039258851586865
+Polymorphism (computer science):Memory management,-0.016129032258064516
+Polymorphism (computer science):Message passing,-0.06953355297381654
+Polymorphism (computer science):Routing,0.0
+Polymorphism (computer science):Application software,0.012658227848101266
+Polymorphism (computer science):Communication protocol,0.012658227848101266
+Polymorphism (computer science):Conceptual model,-0.009615384615384616
+Higher-order function:Tool,0.0
+Higher-order function:Distributed computing,0.046875
+Higher-order function:Computer programming,0.12196428571428572
+Higher-order function:Programming language,0.3002717391304348
+Higher-order function:Language,0.03125
+Higher-order function:Runtime system,-0.0223496835443038
+Higher-order function:Concurrent computing,-0.031433823529411764
+Higher-order function:Massively parallel,0.0
+Higher-order function:Parallel computing,0.028013754045307444
+Higher-order function:Design,0.0
+Higher-order function:Concurrency (computer science),-0.023529411764705882
+Higher-order function:Multi-core processor,-0.0037174721189591076
+Higher-order function:Debugging,0.00463598901098901
+Higher-order function:System,0.03125
+Higher-order function:Scheduling (computing),0.0
+Higher-order function:Memory,0.0
+Higher-order function:Message,-0.017241379310344827
+Higher-order function:Computer network,0.0
+Higher-order function:Computer,0.010248655913978494
+Higher-order function:Operating system,0.10685610831234257
+Higher-order function:Security,0.0
+Higher-order function:Algorithm,0.08215579710144927
+Higher-order function:Memory management,0.046370967741935484
+Higher-order function:Message passing,-0.011772260273972601
+Higher-order function:Routing,0.0
+Higher-order function:Application software,0.03125
+Higher-order function:Communication protocol,0.0
+Higher-order function:Conceptual model,0.0

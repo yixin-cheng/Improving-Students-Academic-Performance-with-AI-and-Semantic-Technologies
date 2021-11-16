@@ -1,0 +1,9 @@
+Introduction to discrete mathematics and its use in mathematical modelling.
+Emphasis will be placed on developing facility, technique and use in applications.
+Modelling of processes and phenomena which occur in the physical, environmental and life sciences, especially computer science, will be used as a vehicle throughout.
+Topics to be covered include: logic and set theory, mathematical reasoning, combinatorics and counting, mathematical induction and recurrence relations, graph theory and networks, matrix arithmetic and Markov chains.
+Recall, invent, interpret examples of motivation for mathematical constructs used in discrete mathematics as models of processes in the world.
+Recognise, define, explain and use terminology and notation from discrete mathematics.
+Identify the logical structure of a statement, and then identify the logical structure of an argument that may be used to prove or disprove the statement.
+Perform mathematical calculations in discrete mathematics using methods presented in the course.
+Write simple proofs/construct explicit counterexamples for statements relating to discrete mathematics topics covered in the course.

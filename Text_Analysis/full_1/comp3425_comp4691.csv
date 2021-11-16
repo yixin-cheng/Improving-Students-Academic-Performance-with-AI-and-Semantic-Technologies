@@ -1,8 +1,0 @@
-score,s1,s2
-0.9204,"This course provides foundations and plenty of exercises in practical optimisation problems, while covering all basic elements of optimisation including forms of constraint programming as well as variations on linear programming and convex optimisation.",It focuses on the algorithms and techniques and less on the mathematical and statistical foundations.
-0.9144,Be able to apply Linear Programming and Mixed-Integer Programming model to solve real-world problems.,Test and apply the principal algorithms and techniques used in data mining.
-0.9219,Be able to recognize and formulate convex optimization problems arising in practice.,Justify suitable techniques to use for a given data mining problem.
-0.9274,Demonstrate an understanding of theoretical foundations of convex optimization and be able to use it to characterize optimal solutions to general problems.,Justify suitable techniques to use for a given data mining problem.
-0.9453,Be able to define an appropriate local search neighbourhood for a given problem.,Justify suitable techniques to use for a given data mining problem.
-0.9247,Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.,Justify suitable techniques to use for a given data mining problem.
-0.9097,Demonstrate an understanding of the propagation of a global constraint in a Constraint programming system.,Justify suitable techniques to use for a given data mining problem.

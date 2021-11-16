@@ -1,0 +1,7 @@
+This course provides foundations and plenty of exercises in practical optimisation problems, while covering all basic elements of optimisation including forms of constraint programming as well as variations on linear programming and convex optimisation.
+Be able to apply Linear Programming and Mixed-Integer Programming model to solve real-world problems.
+Be able to recognize and formulate convex optimization problems arising in practice.
+Demonstrate an understanding of theoretical foundations of convex optimization and be able to use it to characterize optimal solutions to general problems.
+Be able to define an appropriate local search neighbourhood for a given problem.
+Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.
+Demonstrate an understanding of the propagation of a global constraint in a Constraint programming system.

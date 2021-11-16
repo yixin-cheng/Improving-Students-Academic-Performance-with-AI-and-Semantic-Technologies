@@ -1,0 +1,1861 @@
+COMP1110:COMP2120,Score
+Science:Software,-0.0009004848764719471
+Science:Technology,-0.02515429656591233
+Science:Stakeholder (corporate),-0.016666666666666666
+Science:Ethics,-0.008580316253348305
+Science:Exercise,-0.0023917087430241823
+Science:Critical thinking,-0.047903991999333276
+Science:Thought,-0.06847237269772481
+Science:Knowledge,-0.07711532352006777
+Science:Software system,-0.045454545454545456
+Science:System,-0.09486105824133995
+Science:Design,-0.07712481787275376
+Science:Methodology,-0.30234741784037555
+Science:Computer programming,-0.008692152917505032
+Science:Understanding,-0.07122192615150362
+Science:Tool,-0.040417505030181086
+Science:Web application,0.0014084507042253522
+Science:Software engineering,-0.07523622749153146
+Science:Engineering,-0.01876354279523293
+Science:Business value,0.0
+Science:Process modeling,0.0
+Science:Requirement,-0.028169014084507043
+Science:Requirements engineering,-0.05
+Science:User experience,-0.019230769230769232
+Science:Experience,-0.0553743513713862
+Science:Software development process,-0.025864276568501918
+Science:Construction,-0.04316801281623389
+Science:Architecture,-0.0289342353332594
+Science:Software testing,-0.007765861222380153
+Science:Software verification and validation,-0.016129032258064516
+Science:Verification and validation,-0.03206681952178185
+Discipline:Software,-0.01092896174863388
+Discipline:Technology,0.015658618216590963
+Discipline:Stakeholder (corporate),0.02127659574468085
+Discipline:Ethics,0.10024800939825088
+Discipline:Exercise,0.0
+Discipline:Critical thinking,0.0035251164547400217
+Discipline:Thought,0.0
+Discipline:Knowledge,-0.007518796992481203
+Discipline:Software system,0.0
+Discipline:System,0.014519838987924093
+Discipline:Design,-0.013793103448275862
+Discipline:Methodology,0.0
+Discipline:Computer programming,-0.005714285714285714
+Discipline:Understanding,-0.013513513513513514
+Discipline:Tool,0.0
+Discipline:Web application,0.0
+Discipline:Software engineering,-0.0189873417721519
+Discipline:Engineering,-0.040865384615384616
+Discipline:Business value,0.0
+Discipline:Process modeling,-0.034482758620689655
+Discipline:Requirement,-0.014084507042253521
+Discipline:Requirements engineering,0.0
+Discipline:User experience,0.0
+Discipline:Experience,-0.010526315789473684
+Discipline:Software development process,-0.02727272727272727
+Discipline:Construction,-0.018957345971563982
+Discipline:Architecture,-0.007874015748031496
+Discipline:Software testing,-0.009174311926605505
+Discipline:Software verification and validation,-0.016129032258064516
+Discipline:Verification and validation,-0.011627906976744186
+Computer:Software,-0.10228274281685175
+Computer:Technology,-0.039929926301800166
+Computer:Stakeholder (corporate),0.0
+Computer:Ethics,-0.0021027112606372455
+Computer:Exercise,0.0
+Computer:Critical thinking,-0.009146147483616467
+Computer:Thought,-0.019230769230769232
+Computer:Knowledge,-0.00483062494947045
+Computer:Software system,-0.13233137829912023
+Computer:System,-0.019071490845684397
+Computer:Design,-0.012625139043381535
+Computer:Methodology,-0.02895894428152493
+Computer:Computer programming,-0.08841781874039938
+Computer:Understanding,-0.06756756756756757
+Computer:Tool,-0.04061059907834101
+Computer:Web application,-0.04723502304147465
+Computer:Software engineering,-0.06172587450660133
+Computer:Engineering,-0.029466501240694793
+Computer:Business value,0.0
+Computer:Process modeling,0.0
+Computer:Requirement,-0.06907844918976223
+Computer:Requirements engineering,-0.023655913978494626
+Computer:User experience,-0.05366004962779157
+Computer:Experience,-0.010526315789473684
+Computer:Software development process,-0.032331378299120236
+Computer:Construction,-0.03657060592162259
+Computer:Architecture,-0.005058843451020235
+Computer:Software testing,-0.033774785439479135
+Computer:Software verification and validation,-0.04838709677419355
+Computer:Verification and validation,-0.021911727931982997
+Organization:Software,-0.00546448087431694
+Organization:Technology,-0.00024968789013732687
+Organization:Stakeholder (corporate),-0.04444444444444444
+Organization:Ethics,0.0025448761645080666
+Organization:Exercise,-0.0047169811320754715
+Organization:Critical thinking,-0.004426912119219811
+Organization:Thought,-0.0044159544159544165
+Organization:Knowledge,-0.0151489835700362
+Organization:Software system,-0.022727272727272728
+Organization:System,-0.016366366366366368
+Organization:Design,-0.05517241379310345
+Organization:Methodology,0.014814814814814815
+Organization:Computer programming,0.0
+Organization:Understanding,-0.01961961961961962
+Organization:Tool,0.0
+Organization:Web application,-0.008928571428571428
+Organization:Software engineering,0.0010782934833567749
+Organization:Engineering,0.010202991452991453
+Organization:Business value,-0.09090909090909091
+Organization:Process modeling,-0.10344827586206896
+Organization:Requirement,-0.014084507042253521
+Organization:Requirements engineering,-0.0425925925925926
+Organization:User experience,-0.019230769230769232
+Organization:Experience,-0.01364522417153996
+Organization:Software development process,-0.00909090909090909
+Organization:Construction,-0.011549938564156575
+Organization:Architecture,-0.0057159521726450856
+Organization:Software testing,-0.0045871559633027525
+Organization:Software verification and validation,0.0
+Organization:Verification and validation,-0.011627906976744186
+Computer programming:Software,0.0054957064793130506
+Computer programming:Technology,0.003194221508828251
+Computer programming:Stakeholder (corporate),0.017142857142857144
+Computer programming:Ethics,0.005714285714285714
+Computer programming:Exercise,0.0
+Computer programming:Critical thinking,0.005714285714285714
+Computer programming:Thought,0.0
+Computer programming:Knowledge,0.005714285714285714
+Computer programming:Software system,-0.06805194805194806
+Computer programming:System,0.0051737451737451715
+Computer programming:Design,-0.02541871921182266
+Computer programming:Methodology,0.0
+Computer programming:Computer programming,0.0
+Computer programming:Understanding,-0.048339768339768344
+Computer programming:Tool,-0.003214285714285714
+Computer programming:Web application,0.022142857142857145
+Computer programming:Software engineering,0.02383363471971066
+Computer programming:Engineering,0.013557692307692309
+Computer programming:Business value,-0.022727272727272728
+Computer programming:Process modeling,0.011428571428571429
+Computer programming:Requirement,-0.033480885311871225
+Computer programming:Requirements engineering,-0.06357142857142857
+Computer programming:User experience,-0.007802197802197803
+Computer programming:Experience,0.0
+Computer programming:Software development process,-0.04753246753246753
+Computer programming:Construction,-0.004739336492890996
+Computer programming:Architecture,0.00880389951256093
+Computer programming:Software testing,-0.04828309305373526
+Computer programming:Software verification and validation,-0.04838709677419355
+Computer programming:Verification and validation,0.0
+Programming language:Software,-0.12168064769632839
+Programming language:Technology,-0.005082484686783661
+Programming language:Stakeholder (corporate),0.0
+Programming language:Ethics,0.0
+Programming language:Exercise,0.0
+Programming language:Critical thinking,-0.008489837921276049
+Programming language:Thought,-0.00641025641025641
+Programming language:Knowledge,0.0033444816053511705
+Programming language:Software system,-0.0808756460930374
+Programming language:System,0.003141100967187921
+Programming language:Design,-0.00020758851343558992
+Programming language:Methodology,-0.030303030303030304
+Programming language:Computer programming,-0.1544386048733875
+Programming language:Understanding,-0.06756756756756757
+Programming language:Tool,-0.008928571428571428
+Programming language:Web application,-0.04801720019111323
+Programming language:Software engineering,-0.0477541170991914
+Programming language:Engineering,0.004703177257525082
+Programming language:Business value,0.0
+Programming language:Process modeling,0.0033444816053511705
+Programming language:Requirement,-0.028169014084507043
+Programming language:Requirements engineering,-0.02165551839464883
+Programming language:User experience,-0.019230769230769232
+Programming language:Experience,0.0
+Programming language:Software development process,-0.08327759197324415
+Programming language:Construction,-0.009478672985781991
+Programming language:Architecture,-0.005249343832020997
+Programming language:Software testing,-0.03077536743272683
+Programming language:Software verification and validation,-0.06451612903225806
+Programming language:Verification and validation,-0.001594462160690674
+Language:Software,-0.04369586717415411
+Language:Technology,-0.015292812686153276
+Language:Stakeholder (corporate),0.0
+Language:Ethics,-0.007435986586063415
+Language:Exercise,0.0
+Language:Critical thinking,-0.07692307692307693
+Language:Thought,-0.05771574555852435
+Language:Knowledge,-0.015656142183612595
+Language:Software system,0.0
+Language:System,-0.0019887346212757555
+Language:Design,-0.020689655172413793
+Language:Methodology,-0.02481856960833195
+Language:Computer programming,-0.053486550013058236
+Language:Understanding,-0.017886259202529772
+Language:Tool,-0.028401671454687905
+Language:Web application,-0.07142857142857142
+Language:Software engineering,-0.029817416055353714
+Language:Engineering,-0.0017270777668401075
+Language:Business value,0.0
+Language:Process modeling,-0.0326546050557902
+Language:Requirement,0.0
+Language:Requirements engineering,-0.025
+Language:User experience,0.0
+Language:Experience,-0.04349081112287116
+Language:Software development process,-0.00909090909090909
+Language:Construction,-0.026607865392446518
+Language:Architecture,-0.010263570801364637
+Language:Software testing,-0.0045871559633027525
+Language:Software verification and validation,0.0
+Language:Verification and validation,0.0
+Recursion (computer science):Software,0.00721311475409836
+Recursion (computer science):Technology,0.006666666666666667
+Recursion (computer science):Stakeholder (corporate),0.0
+Recursion (computer science):Ethics,0.0
+Recursion (computer science):Exercise,0.0
+Recursion (computer science):Critical thinking,0.006666666666666667
+Recursion (computer science):Thought,-0.00641025641025641
+Recursion (computer science):Knowledge,0.006666666666666667
+Recursion (computer science):Software system,-0.045454545454545456
+Recursion (computer science):System,-9.009009009009004e-05
+Recursion (computer science):Design,0.0
+Recursion (computer science):Methodology,-0.023636363636363636
+Recursion (computer science):Computer programming,0.02285714285714286
+Recursion (computer science):Understanding,-0.013513513513513514
+Recursion (computer science):Tool,0.0
+Recursion (computer science):Web application,0.024404761904761905
+Recursion (computer science):Software engineering,0.021350210970464138
+Recursion (computer science):Engineering,0.04
+Recursion (computer science):Business value,0.0
+Recursion (computer science):Process modeling,0.0
+Recursion (computer science):Requirement,0.0
+Recursion (computer science):Requirements engineering,0.0
+Recursion (computer science):User experience,0.0
+Recursion (computer science):Experience,0.0
+Recursion (computer science):Software development process,0.017575757575757578
+Recursion (computer science):Construction,0.0
+Recursion (computer science):Architecture,0.0
+Recursion (computer science):Software testing,0.01290519877675841
+Recursion (computer science):Software verification and validation,0.0
+Recursion (computer science):Verification and validation,0.0
+Subroutine:Software,-0.052433747117723244
+Subroutine:Technology,0.008751704877573553
+Subroutine:Stakeholder (corporate),0.0
+Subroutine:Ethics,0.0
+Subroutine:Exercise,0.0
+Subroutine:Critical thinking,0.0
+Subroutine:Thought,0.0
+Subroutine:Knowledge,0.0
+Subroutine:Software system,-0.01694692590646348
+Subroutine:System,-0.0009764099359475089
+Subroutine:Design,0.004664141917480566
+Subroutine:Methodology,0.0
+Subroutine:Computer programming,0.05886044591246904
+Subroutine:Understanding,-0.013513513513513514
+Subroutine:Tool,-0.008928571428571428
+Subroutine:Web application,-0.021005367464905035
+Subroutine:Software engineering,-0.0338406380332187
+Subroutine:Engineering,0.004349155180080035
+Subroutine:Business value,0.0
+Subroutine:Process modeling,-0.034482758620689655
+Subroutine:Requirement,-0.014084507042253521
+Subroutine:Requirements engineering,0.0
+Subroutine:User experience,0.0
+Subroutine:Experience,0.0
+Subroutine:Software development process,-0.024802942722017864
+Subroutine:Construction,0.0
+Subroutine:Architecture,0.0
+Subroutine:Software testing,-0.03770483109720529
+Subroutine:Software verification and validation,0.0
+Subroutine:Verification and validation,0.0
+Data:Software,0.05978784956605593
+Data:Technology,0.02098479841374752
+Data:Stakeholder (corporate),0.0
+Data:Ethics,0.006736436906050764
+Data:Exercise,0.0
+Data:Critical thinking,-0.005917159763313609
+Data:Thought,0.023001508295625944
+Data:Knowledge,0.07024915229249595
+Data:Software system,-0.022727272727272728
+Data:System,0.021992580816110226
+Data:Design,-0.013793103448275862
+Data:Methodology,0.0
+Data:Computer programming,0.018823529411764704
+Data:Understanding,0.002384737678855324
+Data:Tool,-0.008928571428571428
+Data:Web application,-0.008053221288515405
+Data:Software engineering,0.036981881360138996
+Data:Engineering,0.014988687782805429
+Data:Business value,0.0
+Data:Process modeling,0.00980392156862745
+Data:Requirement,0.00552333609500138
+Data:Requirements engineering,0.0
+Data:User experience,0.00980392156862745
+Data:Experience,-0.002167182662538701
+Data:Software development process,0.002139037433155081
+Data:Construction,-0.004739336492890996
+Data:Architecture,0.007179249652616952
+Data:Software testing,0.00647598488936859
+Data:Software verification and validation,-0.03225806451612903
+Data:Verification and validation,-0.011627906976744186
+Algebraic data type:Software,0.013513513513513514
+Algebraic data type:Technology,0.0
+Algebraic data type:Stakeholder (corporate),0.0
+Algebraic data type:Ethics,0.0
+Algebraic data type:Exercise,0.0
+Algebraic data type:Critical thinking,0.0
+Algebraic data type:Thought,0.0
+Algebraic data type:Knowledge,0.0
+Algebraic data type:Software system,0.0
+Algebraic data type:System,0.0
+Algebraic data type:Design,0.013513513513513514
+Algebraic data type:Methodology,0.0
+Algebraic data type:Computer programming,0.05405405405405406
+Algebraic data type:Understanding,0.0
+Algebraic data type:Tool,0.0
+Algebraic data type:Web application,0.004584942084942086
+Algebraic data type:Software engineering,0.04054054054054054
+Algebraic data type:Engineering,0.013513513513513514
+Algebraic data type:Business value,0.0
+Algebraic data type:Process modeling,0.0
+Algebraic data type:Requirement,0.0
+Algebraic data type:Requirements engineering,0.0
+Algebraic data type:User experience,0.0
+Algebraic data type:Experience,0.0
+Algebraic data type:Software development process,0.0
+Algebraic data type:Construction,0.013513513513513514
+Algebraic data type:Architecture,0.0
+Algebraic data type:Software testing,0.04054054054054054
+Algebraic data type:Software verification and validation,0.0
+Algebraic data type:Verification and validation,0.0
+Data type:Software,-0.0402563195345363
+Data type:Technology,0.0
+Data type:Stakeholder (corporate),0.0
+Data type:Ethics,0.0
+Data type:Exercise,0.0
+Data type:Critical thinking,0.0
+Data type:Thought,0.0
+Data type:Knowledge,0.014388489208633094
+Data type:Software system,-0.01553302812295618
+Data type:System,0.00043748784755979
+Data type:Design,0.0
+Data type:Methodology,0.0
+Data type:Computer programming,0.009085303186022603
+Data type:Understanding,-0.013513513513513514
+Data type:Tool,0.0
+Data type:Web application,-0.03744861253854059
+Data type:Software engineering,0.0034605227210636573
+Data type:Engineering,0.02877697841726619
+Data type:Business value,0.0
+Data type:Process modeling,0.007194244604316547
+Data type:Requirement,-0.014084507042253521
+Data type:Requirements engineering,0.0
+Data type:User experience,0.0
+Data type:Experience,0.0
+Data type:Software development process,-0.0018966644865925433
+Data type:Construction,0.007194244604316547
+Data type:Architecture,0.0045695726883060485
+Data type:Software testing,0.005841198600752426
+Data type:Software verification and validation,0.0
+Data type:Verification and validation,0.007194244604316547
+Pattern matching:Software,-0.00546448087431694
+Pattern matching:Technology,0.011363636363636364
+Pattern matching:Stakeholder (corporate),0.0
+Pattern matching:Ethics,0.011363636363636364
+Pattern matching:Exercise,0.0
+Pattern matching:Critical thinking,0.005446476600322755
+Pattern matching:Thought,-0.00641025641025641
+Pattern matching:Knowledge,0.0
+Pattern matching:Software system,0.0
+Pattern matching:System,0.0
+Pattern matching:Design,0.011363636363636364
+Pattern matching:Methodology,0.0
+Pattern matching:Computer programming,0.062402597402597404
+Pattern matching:Understanding,0.0
+Pattern matching:Tool,0.011363636363636364
+Pattern matching:Web application,-0.006493506493506492
+Pattern matching:Software engineering,0.03409090909090909
+Pattern matching:Engineering,0.011363636363636364
+Pattern matching:Business value,0.0
+Pattern matching:Process modeling,0.0
+Pattern matching:Requirement,0.0
+Pattern matching:Requirements engineering,0.0
+Pattern matching:User experience,0.0
+Pattern matching:Experience,0.0
+Pattern matching:Software development process,0.011363636363636364
+Pattern matching:Construction,0.011363636363636364
+Pattern matching:Architecture,0.011363636363636364
+Pattern matching:Software testing,0.018140116763969975
+Pattern matching:Software verification and validation,0.0
+Pattern matching:Verification and validation,0.0
+Parametric polymorphism:Software,0.0
+Parametric polymorphism:Technology,0.0
+Parametric polymorphism:Stakeholder (corporate),0.0
+Parametric polymorphism:Ethics,0.0
+Parametric polymorphism:Exercise,0.0
+Parametric polymorphism:Critical thinking,0.0
+Parametric polymorphism:Thought,0.0
+Parametric polymorphism:Knowledge,0.0
+Parametric polymorphism:Software system,0.0
+Parametric polymorphism:System,0.01818181818181818
+Parametric polymorphism:Design,0.0
+Parametric polymorphism:Methodology,0.0
+Parametric polymorphism:Computer programming,0.0612987012987013
+Parametric polymorphism:Understanding,0.0
+Parametric polymorphism:Tool,0.0
+Parametric polymorphism:Web application,0.03636363636363636
+Parametric polymorphism:Software engineering,0.03003452243958573
+Parametric polymorphism:Engineering,0.0
+Parametric polymorphism:Business value,0.0
+Parametric polymorphism:Process modeling,0.0
+Parametric polymorphism:Requirement,-0.014084507042253521
+Parametric polymorphism:Requirements engineering,0.0
+Parametric polymorphism:User experience,0.0
+Parametric polymorphism:Experience,0.0
+Parametric polymorphism:Software development process,-0.00909090909090909
+Parametric polymorphism:Construction,0.0
+Parametric polymorphism:Architecture,0.0
+Parametric polymorphism:Software testing,0.01818181818181818
+Parametric polymorphism:Software verification and validation,0.0
+Parametric polymorphism:Verification and validation,0.0
+Polymorphism (computer science):Software,0.012658227848101266
+Polymorphism (computer science):Technology,0.0
+Polymorphism (computer science):Stakeholder (corporate),0.0
+Polymorphism (computer science):Ethics,0.0
+Polymorphism (computer science):Exercise,0.0
+Polymorphism (computer science):Critical thinking,0.0
+Polymorphism (computer science):Thought,0.0
+Polymorphism (computer science):Knowledge,0.0
+Polymorphism (computer science):Software system,0.0
+Polymorphism (computer science):System,0.02531645569620253
+Polymorphism (computer science):Design,0.012658227848101266
+Polymorphism (computer science):Methodology,0.0
+Polymorphism (computer science):Computer programming,0.010632911392405062
+Polymorphism (computer science):Understanding,0.0
+Polymorphism (computer science):Tool,0.0
+Polymorphism (computer science):Web application,-0.008928571428571428
+Polymorphism (computer science):Software engineering,0.0
+Polymorphism (computer science):Engineering,0.0
+Polymorphism (computer science):Business value,0.0
+Polymorphism (computer science):Process modeling,0.012658227848101266
+Polymorphism (computer science):Requirement,-0.014084507042253521
+Polymorphism (computer science):Requirements engineering,0.0
+Polymorphism (computer science):User experience,0.0
+Polymorphism (computer science):Experience,0.0
+Polymorphism (computer science):Software development process,-0.01818181818181818
+Polymorphism (computer science):Construction,0.0
+Polymorphism (computer science):Architecture,0.0
+Polymorphism (computer science):Software testing,0.008071071884798513
+Polymorphism (computer science):Software verification and validation,0.0
+Polymorphism (computer science):Verification and validation,0.0
+Higher-order function:Software,0.0
+Higher-order function:Technology,0.0
+Higher-order function:Stakeholder (corporate),0.0
+Higher-order function:Ethics,0.0
+Higher-order function:Exercise,0.0
+Higher-order function:Critical thinking,0.0
+Higher-order function:Thought,0.0
+Higher-order function:Knowledge,0.015625
+Higher-order function:Software system,0.0
+Higher-order function:System,0.03125
+Higher-order function:Design,0.0
+Higher-order function:Methodology,0.0
+Higher-order function:Computer programming,0.12196428571428572
+Higher-order function:Understanding,0.0
+Higher-order function:Tool,0.0
+Higher-order function:Web application,0.015625
+Higher-order function:Software engineering,0.009295886075949368
+Higher-order function:Engineering,0.03125
+Higher-order function:Business value,0.0
+Higher-order function:Process modeling,0.0
+Higher-order function:Requirement,0.0
+Higher-order function:Requirements engineering,0.0
+Higher-order function:User experience,0.0
+Higher-order function:Experience,0.0
+Higher-order function:Software development process,0.03125
+Higher-order function:Construction,0.0
+Higher-order function:Architecture,0.0
+Higher-order function:Software testing,0.04228784403669725
+Higher-order function:Software verification and validation,0.0
+Higher-order function:Verification and validation,0.0
+Asymptotic analysis:Software,-0.00546448087431694
+Asymptotic analysis:Technology,0.0125
+Asymptotic analysis:Stakeholder (corporate),0.0
+Asymptotic analysis:Ethics,0.0
+Asymptotic analysis:Exercise,0.0
+Asymptotic analysis:Critical thinking,0.0
+Asymptotic analysis:Thought,0.0
+Asymptotic analysis:Knowledge,0.0
+Asymptotic analysis:Software system,0.0
+Asymptotic analysis:System,0.018243243243243244
+Asymptotic analysis:Design,0.0
+Asymptotic analysis:Methodology,0.0125
+Asymptotic analysis:Computer programming,0.0010714285714285721
+Asymptotic analysis:Understanding,-0.013513513513513514
+Asymptotic analysis:Tool,0.0
+Asymptotic analysis:Web application,0.0
+Asymptotic analysis:Software engineering,0.0125
+Asymptotic analysis:Engineering,0.09759615384615385
+Asymptotic analysis:Business value,0.0
+Asymptotic analysis:Process modeling,0.0
+Asymptotic analysis:Requirement,0.0
+Asymptotic analysis:Requirements engineering,0.0
+Asymptotic analysis:User experience,0.0
+Asymptotic analysis:Experience,0.0125
+Asymptotic analysis:Software development process,0.0125
+Asymptotic analysis:Construction,0.0125
+Asymptotic analysis:Architecture,0.025
+Asymptotic analysis:Software testing,0.0125
+Asymptotic analysis:Software verification and validation,0.0
+Asymptotic analysis:Verification and validation,0.0
+Analysis:Software,0.03514465618152062
+Analysis:Technology,0.016953744367763646
+Analysis:Stakeholder (corporate),0.01015228426395939
+Analysis:Ethics,0.02030456852791878
+Analysis:Exercise,0.0
+Analysis:Critical thinking,-0.006758177394647524
+Analysis:Thought,0.005076142131979695
+Analysis:Knowledge,-0.004885309721003015
+Analysis:Software system,0.0
+Analysis:System,0.028776238167101113
+Analysis:Design,-0.015613513040434098
+Analysis:Methodology,-0.04030149207814183
+Analysis:Computer programming,-0.0006381435823060192
+Analysis:Understanding,0.01015228426395939
+Analysis:Tool,-0.008928571428571428
+Analysis:Web application,0.0
+Analysis:Software engineering,0.006393368887746578
+Analysis:Engineering,0.013629929714955098
+Analysis:Business value,0.0
+Analysis:Process modeling,0.005076142131979695
+Analysis:Requirement,-0.009008364910273826
+Analysis:Requirements engineering,-0.019923857868020305
+Analysis:User experience,0.0
+Analysis:Experience,0.0
+Analysis:Software development process,-0.013105676049838486
+Analysis:Construction,-0.018957345971563982
+Analysis:Architecture,-0.00017320170004130227
+Analysis:Software testing,-0.01834862385321101
+Analysis:Software verification and validation,0.0
+Analysis:Verification and validation,-0.023255813953488372
+Abstract data type:Software,0.024843670779111034
+Abstract data type:Technology,0.010309278350515464
+Abstract data type:Stakeholder (corporate),0.010309278350515464
+Abstract data type:Ethics,0.0
+Abstract data type:Exercise,0.0
+Abstract data type:Critical thinking,0.0
+Abstract data type:Thought,0.0
+Abstract data type:Knowledge,0.0
+Abstract data type:Software system,0.010309278350515464
+Abstract data type:System,0.01386179994427417
+Abstract data type:Design,0.041237113402061855
+Abstract data type:Methodology,0.0
+Abstract data type:Computer programming,0.09054491899852725
+Abstract data type:Understanding,0.0
+Abstract data type:Tool,0.0
+Abstract data type:Web application,0.010309278350515464
+Abstract data type:Software engineering,0.005611379355343862
+Abstract data type:Engineering,0.030927835051546393
+Abstract data type:Business value,0.0
+Abstract data type:Process modeling,0.0
+Abstract data type:Requirement,-0.028169014084507043
+Abstract data type:Requirements engineering,0.010309278350515464
+Abstract data type:User experience,0.0
+Abstract data type:Experience,0.010309278350515464
+Abstract data type:Software development process,0.023055295220243674
+Abstract data type:Construction,-0.004739336492890996
+Abstract data type:Architecture,-0.0026246719160104987
+Abstract data type:Software testing,0.046959235789274564
+Abstract data type:Software verification and validation,0.0
+Abstract data type:Verification and validation,0.0
+Modular programming:Software,0.03131385127108577
+Modular programming:Technology,0.008695652173913044
+Modular programming:Stakeholder (corporate),0.0
+Modular programming:Ethics,0.0
+Modular programming:Exercise,0.0
+Modular programming:Critical thinking,0.0
+Modular programming:Thought,0.0
+Modular programming:Knowledge,0.0
+Modular programming:Software system,-0.02806324110671937
+Modular programming:System,0.034782608695652174
+Modular programming:Design,0.010494752623688156
+Modular programming:Methodology,0.0
+Modular programming:Computer programming,-0.010683229813664603
+Modular programming:Understanding,0.0
+Modular programming:Tool,0.0
+Modular programming:Web application,0.00799689440993789
+Modular programming:Software engineering,0.006274078150798015
+Modular programming:Engineering,0.02608695652173913
+Modular programming:Business value,0.0
+Modular programming:Process modeling,-0.034482758620689655
+Modular programming:Requirement,-0.014084507042253521
+Modular programming:Requirements engineering,0.0
+Modular programming:User experience,0.008695652173913044
+Modular programming:Experience,0.0
+Modular programming:Software development process,-0.018972332015810275
+Modular programming:Construction,0.0
+Modular programming:Architecture,0.008695652173913044
+Modular programming:Software testing,-0.027522935779816515
+Modular programming:Software verification and validation,-0.016129032258064516
+Modular programming:Verification and validation,0.008695652173913044
+Functional programming:Software,-0.018528986872683877
+Functional programming:Technology,0.0010224288604761289
+Functional programming:Stakeholder (corporate),0.0
+Functional programming:Ethics,0.0
+Functional programming:Exercise,0.0
+Functional programming:Critical thinking,0.0
+Functional programming:Thought,-0.00641025641025641
+Functional programming:Knowledge,0.0038314176245210726
+Functional programming:Software system,-0.0074016022291884375
+Functional programming:System,0.01623174899036968
+Functional programming:Design,0.007662835249042145
+Functional programming:Methodology,-0.02647161267850923
+Functional programming:Computer programming,0.0024083196496989534
+Functional programming:Understanding,-0.013513513513513514
+Functional programming:Tool,-0.008928571428571428
+Functional programming:Web application,-0.021654351395730707
+Functional programming:Software engineering,-0.01748387409670692
+Functional programming:Engineering,0.020584659593280284
+Functional programming:Business value,0.0
+Functional programming:Process modeling,0.0
+Functional programming:Requirement,-0.01025308941773245
+Functional programming:Requirements engineering,0.0
+Functional programming:User experience,0.0
+Functional programming:Experience,0.0
+Functional programming:Software development process,-0.03396029258098224
+Functional programming:Construction,0.0
+Functional programming:Architecture,0.0050381633330316465
+Functional programming:Software testing,5.272593061267372e-05
+Functional programming:Software verification and validation,-0.03225806451612903
+Functional programming:Verification and validation,-0.00013365410318096765
+Paradigm:Software,0.0
+Paradigm:Technology,0.018175809649702578
+Paradigm:Stakeholder (corporate),-0.016666666666666666
+Paradigm:Ethics,0.0765668230482377
+Paradigm:Exercise,-0.0047169811320754715
+Paradigm:Critical thinking,0.023494604942568744
+Paradigm:Thought,0.026395173453996983
+Paradigm:Knowledge,0.08233819843726964
+Paradigm:Software system,-0.022727272727272728
+Paradigm:System,0.01589825119236884
+Paradigm:Design,-0.006896551724137931
+Paradigm:Methodology,-0.031194295900178255
+Paradigm:Computer programming,-0.02857142857142857
+Paradigm:Understanding,-0.0013248542660307394
+Paradigm:Tool,0.00980392156862745
+Paradigm:Web application,-0.008928571428571428
+Paradigm:Software engineering,-0.0057086125589476296
+Paradigm:Engineering,0.01998491704374057
+Paradigm:Business value,0.0
+Paradigm:Process modeling,0.0
+Paradigm:Requirement,-0.028169014084507043
+Paradigm:Requirements engineering,0.0
+Paradigm:User experience,-0.038461538461538464
+Paradigm:Experience,-0.002167182662538701
+Paradigm:Software development process,-0.02727272727272727
+Paradigm:Construction,0.0
+Paradigm:Architecture,0.0019299058205959549
+Paradigm:Software testing,-0.013761467889908258
+Paradigm:Software verification and validation,0.0
+Paradigm:Verification and validation,-0.011627906976744186
+Solution:Software,0.0
+Solution:Technology,0.0
+Solution:Stakeholder (corporate),0.0
+Solution:Ethics,0.0
+Solution:Exercise,0.0
+Solution:Critical thinking,0.07142857142857142
+Solution:Thought,0.0
+Solution:Knowledge,0.0
+Solution:Software system,0.0
+Solution:System,0.0
+Solution:Design,0.0
+Solution:Methodology,0.07142857142857142
+Solution:Computer programming,0.0
+Solution:Understanding,0.0
+Solution:Tool,0.0
+Solution:Web application,0.0
+Solution:Software engineering,0.0
+Solution:Engineering,0.06902472527472527
+Solution:Business value,0.0
+Solution:Process modeling,0.0
+Solution:Requirement,0.0
+Solution:Requirements engineering,0.0
+Solution:User experience,0.0
+Solution:Experience,0.0
+Solution:Software development process,0.0
+Solution:Construction,0.0
+Solution:Architecture,0.0
+Solution:Software testing,0.0
+Solution:Software verification and validation,0.0
+Solution:Verification and validation,0.0
+Imperative programming:Software,0.01464945936519009
+Imperative programming:Technology,-0.0028089887640449437
+Imperative programming:Stakeholder (corporate),0.0
+Imperative programming:Ethics,0.0
+Imperative programming:Exercise,0.0
+Imperative programming:Critical thinking,0.0
+Imperative programming:Thought,-0.00641025641025641
+Imperative programming:Knowledge,0.0
+Imperative programming:Software system,-0.012088974854932303
+Imperative programming:System,-0.002875215641173089
+Imperative programming:Design,0.010638297872340425
+Imperative programming:Methodology,-0.019664732430689877
+Imperative programming:Computer programming,0.04686930091185411
+Imperative programming:Understanding,-0.013513513513513514
+Imperative programming:Tool,0.0
+Imperative programming:Web application,0.017477203647416416
+Imperative programming:Software engineering,0.011176945865876642
+Imperative programming:Engineering,0.02127659574468085
+Imperative programming:Business value,0.0
+Imperative programming:Process modeling,0.010638297872340425
+Imperative programming:Requirement,-0.014084507042253521
+Imperative programming:Requirements engineering,0.0
+Imperative programming:User experience,0.0
+Imperative programming:Experience,0.0
+Imperative programming:Software development process,-0.007543520309477756
+Imperative programming:Construction,0.0
+Imperative programming:Architecture,0.0
+Imperative programming:Software testing,0.012102283818075345
+Imperative programming:Software verification and validation,-0.016129032258064516
+Imperative programming:Verification and validation,-0.0009896091044037606
+Variable (computer science):Software,0.0040147206423553
+Variable (computer science):Technology,0.0
+Variable (computer science):Stakeholder (corporate),0.0
+Variable (computer science):Ethics,-0.003067484662576687
+Variable (computer science):Exercise,0.0
+Variable (computer science):Critical thinking,0.0
+Variable (computer science):Thought,0.0
+Variable (computer science):Knowledge,0.0
+Variable (computer science):Software system,0.0
+Variable (computer science):System,0.0
+Variable (computer science):Design,0.01020408163265306
+Variable (computer science):Methodology,0.0
+Variable (computer science):Computer programming,0.20285714285714285
+Variable (computer science):Understanding,0.0
+Variable (computer science):Tool,0.0
+Variable (computer science):Web application,0.0025510204081632647
+Variable (computer science):Software engineering,0.0014208214931542215
+Variable (computer science):Engineering,0.02040816326530612
+Variable (computer science):Business value,0.0
+Variable (computer science):Process modeling,0.0
+Variable (computer science):Requirement,-0.014084507042253521
+Variable (computer science):Requirements engineering,0.0
+Variable (computer science):User experience,0.0
+Variable (computer science):Experience,0.01020408163265306
+Variable (computer science):Software development process,-0.00909090909090909
+Variable (computer science):Construction,0.0
+Variable (computer science):Architecture,0.0
+Variable (computer science):Software testing,0.02602508893465643
+Variable (computer science):Software verification and validation,0.0
+Variable (computer science):Verification and validation,0.0
+Data structure:Software,0.019882809928237544
+Data structure:Technology,-0.0028089887640449437
+Data structure:Stakeholder (corporate),0.0
+Data structure:Ethics,0.0
+Data structure:Exercise,0.0
+Data structure:Critical thinking,0.0
+Data structure:Thought,-0.00641025641025641
+Data structure:Knowledge,0.016577588549687473
+Data structure:Software system,-0.07886089813800658
+Data structure:System,-0.013513513513513514
+Data structure:Design,0.005151641046946407
+Data structure:Methodology,-0.018254837531945966
+Data structure:Computer programming,0.005576592082616183
+Data structure:Understanding,-0.02702702702702703
+Data structure:Tool,0.0
+Data structure:Web application,-0.0026893287435456083
+Data structure:Software engineering,0.009608052463016624
+Data structure:Engineering,0.00724050046339203
+Data structure:Business value,0.0
+Data structure:Process modeling,0.0
+Data structure:Requirement,-0.044289835397929744
+Data structure:Requirements engineering,-0.025
+Data structure:User experience,0.0
+Data structure:Experience,0.0
+Data structure:Software development process,-0.03340635268346112
+Data structure:Construction,-0.004739336492890996
+Data structure:Architecture,-0.005249343832020997
+Data structure:Software testing,-0.015474743008732177
+Data structure:Software verification and validation,-0.03225806451612903
+Data structure:Verification and validation,-0.011627906976744186
+Algorithm:Software,-0.08643383226419578
+Algorithm:Technology,-0.013865819899039244
+Algorithm:Stakeholder (corporate),0.0
+Algorithm:Ethics,0.005290299635458344
+Algorithm:Exercise,0.0
+Algorithm:Critical thinking,-0.020770088328616758
+Algorithm:Thought,-0.0326644370122631
+Algorithm:Knowledge,-0.0034433910864116804
+Algorithm:Software system,-0.13636363636363635
+Algorithm:System,-0.04341950646298473
+Algorithm:Design,-0.02468765617191404
+Algorithm:Methodology,-0.02450592885375494
+Algorithm:Computer programming,-0.08513457556935819
+Algorithm:Understanding,-0.11872307089698395
+Algorithm:Tool,-0.014958592132505175
+Algorithm:Web application,-0.03571428571428571
+Algorithm:Software engineering,-0.08677306916162172
+Algorithm:Engineering,-0.006152452619843925
+Algorithm:Business value,0.0
+Algorithm:Process modeling,0.0
+Algorithm:Requirement,-0.09859154929577464
+Algorithm:Requirements engineering,-0.025
+Algorithm:User experience,0.0
+Algorithm:Experience,-0.015255530129672006
+Algorithm:Software development process,-0.07891963109354413
+Algorithm:Construction,-0.009478672985781991
+Algorithm:Architecture,-0.015748031496062992
+Algorithm:Software testing,-0.05721313655099056
+Algorithm:Software verification and validation,-0.04838709677419355
+Algorithm:Verification and validation,-0.011627906976744186
+Conditional (computer programming):Software,0.0
+Conditional (computer programming):Technology,0.0
+Conditional (computer programming):Stakeholder (corporate),0.0
+Conditional (computer programming):Ethics,0.0
+Conditional (computer programming):Exercise,0.0
+Conditional (computer programming):Critical thinking,0.0
+Conditional (computer programming):Thought,0.0
+Conditional (computer programming):Knowledge,0.0
+Conditional (computer programming):Software system,0.0
+Conditional (computer programming):System,0.00909090909090909
+Conditional (computer programming):Design,0.0
+Conditional (computer programming):Methodology,0.0
+Conditional (computer programming):Computer programming,0.07714285714285715
+Conditional (computer programming):Understanding,0.0
+Conditional (computer programming):Tool,0.0
+Conditional (computer programming):Web application,0.02727272727272727
+Conditional (computer programming):Software engineering,0.01104718066743383
+Conditional (computer programming):Engineering,0.0
+Conditional (computer programming):Business value,0.0
+Conditional (computer programming):Process modeling,0.0
+Conditional (computer programming):Requirement,-0.014084507042253521
+Conditional (computer programming):Requirements engineering,0.0
+Conditional (computer programming):User experience,0.0
+Conditional (computer programming):Experience,0.0
+Conditional (computer programming):Software development process,-0.00909090909090909
+Conditional (computer programming):Construction,0.0
+Conditional (computer programming):Architecture,0.0
+Conditional (computer programming):Software testing,0.02727272727272727
+Conditional (computer programming):Software verification and validation,0.0
+Conditional (computer programming):Verification and validation,0.0
+Iteration:Software,0.031572556162720096
+Iteration:Technology,0.0
+Iteration:Stakeholder (corporate),0.0
+Iteration:Ethics,0.0
+Iteration:Exercise,0.0
+Iteration:Critical thinking,0.0
+Iteration:Thought,-0.00641025641025641
+Iteration:Knowledge,0.037037037037037035
+Iteration:Software system,0.0
+Iteration:System,-0.006756756756756757
+Iteration:Design,-0.013793103448275862
+Iteration:Methodology,-0.06060606060606061
+Iteration:Computer programming,0.13100529100529099
+Iteration:Understanding,-0.013513513513513514
+Iteration:Tool,0.0
+Iteration:Web application,-0.008928571428571428
+Iteration:Software engineering,0.061415846225972806
+Iteration:Engineering,0.07167022792022791
+Iteration:Business value,0.0
+Iteration:Process modeling,0.0
+Iteration:Requirement,-0.014084507042253521
+Iteration:Requirements engineering,0.0
+Iteration:User experience,0.0
+Iteration:Experience,0.0
+Iteration:Software development process,0.018855218855218854
+Iteration:Construction,-0.004739336492890996
+Iteration:Architecture,0.0
+Iteration:Software testing,0.03244988107373428
+Iteration:Software verification and validation,0.0
+Iteration:Verification and validation,0.0
+Eager evaluation:Software,0.0
+Eager evaluation:Technology,0.0
+Eager evaluation:Stakeholder (corporate),0.0
+Eager evaluation:Ethics,0.0
+Eager evaluation:Exercise,0.0
+Eager evaluation:Critical thinking,0.0
+Eager evaluation:Thought,0.0
+Eager evaluation:Knowledge,0.0
+Eager evaluation:Software system,0.0
+Eager evaluation:System,0.0
+Eager evaluation:Design,0.0
+Eager evaluation:Methodology,0.0
+Eager evaluation:Computer programming,-0.011428571428571429
+Eager evaluation:Understanding,0.0
+Eager evaluation:Tool,0.0
+Eager evaluation:Web application,0.0
+Eager evaluation:Software engineering,0.0
+Eager evaluation:Engineering,0.0
+Eager evaluation:Business value,0.0
+Eager evaluation:Process modeling,0.0
+Eager evaluation:Requirement,0.0
+Eager evaluation:Requirements engineering,0.0
+Eager evaluation:User experience,0.0
+Eager evaluation:Experience,0.0
+Eager evaluation:Software development process,0.0
+Eager evaluation:Construction,0.0
+Eager evaluation:Architecture,0.0
+Eager evaluation:Software testing,0.0
+Eager evaluation:Software verification and validation,0.0
+Eager evaluation:Verification and validation,0.0
+Evaluation:Software,0.014563106796116505
+Evaluation:Technology,0.0048543689320388345
+Evaluation:Stakeholder (corporate),-0.013915857605177995
+Evaluation:Ethics,0.07153493358746797
+Evaluation:Exercise,0.0
+Evaluation:Critical thinking,-0.0031883724938243235
+Evaluation:Thought,0.009708737864077669
+Evaluation:Knowledge,0.06796116504854369
+Evaluation:Software system,0.0
+Evaluation:System,0.04178693256363159
+Evaluation:Design,0.0007700033478406434
+Evaluation:Methodology,0.043689320388349516
+Evaluation:Computer programming,0.0
+Evaluation:Understanding,0.014563106796116505
+Evaluation:Tool,0.0
+Evaluation:Web application,0.0
+Evaluation:Software engineering,-0.007803858916062431
+Evaluation:Engineering,0.02921956684092606
+Evaluation:Business value,0.0
+Evaluation:Process modeling,0.009708737864077669
+Evaluation:Requirement,-0.009230138110214687
+Evaluation:Requirements engineering,0.0
+Evaluation:User experience,0.0
+Evaluation:Experience,0.008073582013285643
+Evaluation:Software development process,-0.013327449249779346
+Evaluation:Construction,0.0049694013711866734
+Evaluation:Architecture,0.00708406594806717
+Evaluation:Software testing,0.000267212968736082
+Evaluation:Software verification and validation,0.0
+Evaluation:Verification and validation,-0.0019191691126665168
+Productivity:Software,0.0029599271402550083
+Productivity:Technology,0.07755930087390761
+Productivity:Stakeholder (corporate),-0.0027777777777777783
+Productivity:Ethics,0.013888888888888888
+Productivity:Exercise,0.0
+Productivity:Critical thinking,0.0
+Productivity:Thought,-0.00641025641025641
+Productivity:Knowledge,0.013888888888888888
+Productivity:Software system,0.0
+Productivity:System,0.0
+Productivity:Design,0.006992337164750957
+Productivity:Methodology,0.0
+Productivity:Computer programming,-0.011428571428571429
+Productivity:Understanding,-0.013513513513513514
+Productivity:Tool,-0.003968253968253968
+Productivity:Web application,-0.008928571428571428
+Productivity:Software engineering,-0.006329113924050633
+Productivity:Engineering,-0.010149572649572652
+Productivity:Business value,-0.045454545454545456
+Productivity:Process modeling,-0.034482758620689655
+Productivity:Requirement,0.0
+Productivity:Requirements engineering,-0.05
+Productivity:User experience,-0.038461538461538464
+Productivity:Experience,-0.010526315789473684
+Productivity:Software development process,0.004797979797979798
+Productivity:Construction,-0.009478672985781991
+Productivity:Architecture,-0.010498687664041995
+Productivity:Software testing,-0.009174311926605505
+Productivity:Software verification and validation,0.0
+Productivity:Verification and validation,0.0
+Software:Software,0.0
+Software:Technology,0.01593295266163198
+Software:Stakeholder (corporate),0.01092896174863388
+Software:Ethics,0.0
+Software:Exercise,0.0
+Software:Critical thinking,-0.00045267888899666944
+Software:Thought,-0.00641025641025641
+Software:Knowledge,0.003410164756152677
+Software:Software system,-0.13723298559364133
+Software:System,0.0015876532269974881
+Software:Design,-0.04281138119464858
+Software:Methodology,0.0
+Software:Computer programming,-0.0054957064793130506
+Software:Understanding,-0.02156254615271009
+Software:Tool,0.00546448087431694
+Software:Web application,-0.030640124902419977
+Software:Software engineering,-0.020163242719789726
+Software:Engineering,-0.019664249684741484
+Software:Business value,-0.06818181818181818
+Software:Process modeling,0.0
+Software:Requirement,-0.08766258754714076
+Software:Requirements engineering,-0.039071038251366125
+Software:User experience,-0.027532576712904586
+Software:Experience,-0.010526315789473684
+Software:Software development process,-0.10720317933432687
+Software:Construction,-0.013492865097247043
+Software:Architecture,0.00043027408459188517
+Software:Software testing,-0.035343660700857274
+Software:Software verification and validation,-0.16129032258064516
+Software:Verification and validation,-0.046511627906976744
+Distributed computing:Software,0.07056986729117876
+Distributed computing:Technology,0.004333868378812199
+Distributed computing:Stakeholder (corporate),0.0
+Distributed computing:Ethics,-0.003067484662576687
+Distributed computing:Exercise,0.0
+Distributed computing:Critical thinking,0.0
+Distributed computing:Thought,0.0
+Distributed computing:Knowledge,0.014285714285714285
+Distributed computing:Software system,-0.008441558441558443
+Distributed computing:System,0.04362934362934363
+Distributed computing:Design,-0.006896551724137931
+Distributed computing:Methodology,0.0
+Distributed computing:Computer programming,-0.018571428571428572
+Distributed computing:Understanding,-0.006370656370656372
+Distributed computing:Tool,0.0
+Distributed computing:Web application,-0.008928571428571432
+Distributed computing:Software engineering,0.04367088607594937
+Distributed computing:Engineering,0.026167582417582415
+Distributed computing:Business value,0.0
+Distributed computing:Process modeling,-0.034482758620689655
+Distributed computing:Requirement,0.007142857142857143
+Distributed computing:Requirements engineering,0.0
+Distributed computing:User experience,-0.019230769230769232
+Distributed computing:Experience,0.0
+Distributed computing:Software development process,-0.0038961038961038957
+Distributed computing:Construction,0.0
+Distributed computing:Architecture,0.025946756655418072
+Distributed computing:Software testing,-0.02699868938401049
+Distributed computing:Software verification and validation,0.0
+Distributed computing:Verification and validation,0.0
+Version control:Software,0.04410157505625201
+Version control:Technology,0.011764705882352941
+Version control:Stakeholder (corporate),0.011764705882352941
+Version control:Ethics,0.011764705882352941
+Version control:Exercise,0.0
+Version control:Critical thinking,0.011764705882352941
+Version control:Thought,0.0
+Version control:Knowledge,0.011764705882352941
+Version control:Software system,0.011764705882352941
+Version control:System,0.07058823529411765
+Version control:Design,0.011764705882352941
+Version control:Methodology,0.0
+Version control:Computer programming,0.018487394957983194
+Version control:Understanding,0.0
+Version control:Tool,-0.008928571428571428
+Version control:Web application,0.03813025210084034
+Version control:Software engineering,0.028071481757259865
+Version control:Engineering,0.0540158371040724
+Version control:Business value,0.0
+Version control:Process modeling,0.011764705882352941
+Version control:Requirement,0.00944490472245236
+Version control:Requirements engineering,0.011764705882352941
+Version control:User experience,0.011764705882352941
+Version control:Experience,0.0
+Version control:Software development process,-0.01283422459893048
+Version control:Construction,0.0
+Version control:Architecture,0.0
+Version control:Software testing,0.005180787911494872
+Version control:Software verification and validation,-0.03225806451612903
+Version control:Verification and validation,-0.01149110807113543
+System:Software,-0.0015876532269974881
+System:Technology,0.03272092317036138
+System:Stakeholder (corporate),-0.016666666666666666
+System:Ethics,-0.014715635881280054
+System:Exercise,-0.0047169811320754715
+System:Critical thinking,-0.011834319526627219
+System:Thought,-0.02494802494802495
+System:Knowledge,-0.004572241414346673
+System:Software system,-0.1590909090909091
+System:System,0.0
+System:Design,-0.028424976700838767
+System:Methodology,-0.0773955773955774
+System:Computer programming,-0.0051737451737451715
+System:Understanding,-0.033783783783783786
+System:Tool,0.006756756756756757
+System:Web application,-0.008928571428571428
+System:Software engineering,0.010177899418405752
+System:Engineering,0.07640332640332641
+System:Business value,-0.022727272727272728
+System:Process modeling,-0.06896551724137931
+System:Requirement,-0.09916254282451466
+System:Requirements engineering,-0.09324324324324325
+System:User experience,0.0
+System:Experience,0.013513513513513514
+System:Software development process,-0.047788697788697786
+System:Construction,-0.027123094658639678
+System:Architecture,0.008654323614953538
+System:Software testing,-0.02535333498636251
+System:Software verification and validation,-0.03225806451612903
+System:Verification and validation,-0.023255813953488372
+Concept:Software,-0.00546448087431694
+Concept:Technology,-0.011259560003776791
+Concept:Stakeholder (corporate),0.0
+Concept:Ethics,0.03348455946795896
+Concept:Exercise,0.0
+Concept:Critical thinking,-0.012779076127492416
+Concept:Thought,-0.022085757379875018
+Concept:Knowledge,0.08845643520566121
+Concept:Software system,-0.045454545454545456
+Concept:System,-0.03724733136497843
+Concept:Design,-0.01918284555201391
+Concept:Methodology,-0.10440539852304559
+Concept:Computer programming,0.011092436974789916
+Concept:Understanding,0.023393141040199864
+Concept:Tool,-0.0005252100840336133
+Concept:Web application,0.0
+Concept:Software engineering,0.004148494840974364
+Concept:Engineering,0.009595184227537168
+Concept:Business value,0.0
+Concept:Process modeling,-0.034482758620689655
+Concept:Requirement,0.0
+Concept:Requirements engineering,-0.025
+Concept:User experience,-0.09615384615384616
+Concept:Experience,0.02724458204334365
+Concept:Software development process,0.008403361344537815
+Concept:Construction,-0.00581464813413517
+Concept:Architecture,-0.007344670151525177
+Concept:Software testing,0.003816205381235062
+Concept:Software verification and validation,0.0
+Concept:Verification and validation,0.0
+Understanding:Software,0.02156254615271009
+Understanding:Technology,0.018600060734892197
+Understanding:Stakeholder (corporate),0.0
+Understanding:Ethics,0.047919084728900684
+Understanding:Exercise,0.0
+Understanding:Critical thinking,-0.0025587717895410172
+Understanding:Thought,0.04833679833679834
+Understanding:Knowledge,0.04348709611867507
+Understanding:Software system,0.0
+Understanding:System,0.033783783783783786
+Understanding:Design,-0.006896551724137931
+Understanding:Methodology,-0.09090909090909091
+Understanding:Computer programming,0.048339768339768344
+Understanding:Understanding,0.0
+Understanding:Tool,0.0
+Understanding:Web application,0.0
+Understanding:Software engineering,0.013513513513513514
+Understanding:Engineering,0.024623180873180876
+Understanding:Business value,0.0
+Understanding:Process modeling,0.0
+Understanding:Requirement,0.0
+Understanding:Requirements engineering,0.0
+Understanding:User experience,0.0
+Understanding:Experience,0.016500711237553346
+Understanding:Software development process,-0.00909090909090909
+Understanding:Construction,0.0
+Understanding:Architecture,-0.0026246719160104987
+Understanding:Software testing,0.0
+Understanding:Software verification and validation,0.0
+Understanding:Verification and validation,-0.011627906976744186
+Experience:Software,0.010526315789473684
+Experience:Technology,0.0020993494973388527
+Experience:Stakeholder (corporate),0.0
+Experience:Ethics,0.011430416532127865
+Experience:Exercise,0.0
+Experience:Critical thinking,-0.030893802553721587
+Experience:Thought,0.029284750337381916
+Experience:Knowledge,0.036090225563909784
+Experience:Software system,-0.022727272727272728
+Experience:System,-0.013513513513513514
+Experience:Design,-0.006896551724137931
+Experience:Methodology,-0.050079744816586926
+Experience:Computer programming,0.0
+Experience:Understanding,-0.016500711237553346
+Experience:Tool,-0.008928571428571428
+Experience:Web application,0.0
+Experience:Software engineering,0.010526315789473684
+Experience:Engineering,-0.007211538461538462
+Experience:Business value,0.0
+Experience:Process modeling,0.0
+Experience:Requirement,0.0
+Experience:Requirements engineering,0.0
+Experience:User experience,-0.019230769230769232
+Experience:Experience,0.0
+Experience:Software development process,0.0
+Experience:Construction,0.0
+Experience:Architecture,-0.0026246719160104987
+Experience:Software testing,-0.0045871559633027525
+Experience:Software verification and validation,0.0
+Experience:Verification and validation,0.0
+Type system:Software,-0.010564663023679418
+Type system:Technology,0.0
+Type system:Stakeholder (corporate),0.0
+Type system:Ethics,0.005555555555555556
+Type system:Exercise,0.0
+Type system:Critical thinking,0.0
+Type system:Thought,0.0
+Type system:Knowledge,-0.007518796992481203
+Type system:Software system,-0.01717171717171717
+Type system:System,0.022222222222222223
+Type system:Design,0.011111111111111112
+Type system:Methodology,0.0
+Type system:Computer programming,0.026190476190476188
+Type system:Understanding,0.0
+Type system:Tool,0.0
+Type system:Web application,-0.01349206349206349
+Type system:Software engineering,0.01511954992967651
+Type system:Engineering,0.005555555555555556
+Type system:Business value,0.0
+Type system:Process modeling,-0.034482758620689655
+Type system:Requirement,0.0
+Type system:Requirements engineering,0.0
+Type system:User experience,0.0
+Type system:Experience,0.0
+Type system:Software development process,0.005555555555555556
+Type system:Construction,0.0
+Type system:Architecture,0.0
+Type system:Software testing,0.007492354740061161
+Type system:Software verification and validation,-0.016129032258064516
+Type system:Verification and validation,-0.011627906976744186
+Definition:Software,0.0
+Definition:Technology,-0.0028089887640449437
+Definition:Stakeholder (corporate),0.0
+Definition:Ethics,0.03709384230856623
+Definition:Exercise,0.0
+Definition:Critical thinking,-0.01775147928994083
+Definition:Thought,0.0
+Definition:Knowledge,0.014480646059593427
+Definition:Software system,0.0
+Definition:System,-0.013513513513513514
+Definition:Design,-0.006896551724137931
+Definition:Methodology,-0.030303030303030304
+Definition:Computer programming,0.018518518518518517
+Definition:Understanding,-0.022022022022022025
+Definition:Tool,0.0
+Definition:Web application,0.0
+Definition:Software engineering,-0.006329113924050633
+Definition:Engineering,0.004451566951566951
+Definition:Business value,0.0
+Definition:Process modeling,0.0
+Definition:Requirement,0.0
+Definition:Requirements engineering,-0.025
+Definition:User experience,0.0
+Definition:Experience,0.027777777777777776
+Definition:Software development process,-0.01818181818181818
+Definition:Construction,0.009259259259259259
+Definition:Architecture,-0.0026246719160104987
+Definition:Software testing,0.0
+Definition:Software verification and validation,-0.016129032258064516
+Definition:Verification and validation,0.0
+Implementation:Software,0.05573770491803279
+Implementation:Technology,0.01941323345817728
+Implementation:Stakeholder (corporate),0.022222222222222223
+Implementation:Ethics,0.0
+Implementation:Exercise,0.0
+Implementation:Critical thinking,0.0
+Implementation:Thought,0.0
+Implementation:Knowledge,0.022222222222222223
+Implementation:Software system,0.021717171717171718
+Implementation:System,0.05990990990990991
+Implementation:Design,0.0015325670498084303
+Implementation:Methodology,0.06666666666666667
+Implementation:Computer programming,0.05523809523809524
+Implementation:Understanding,0.022222222222222223
+Implementation:Tool,0.0
+Implementation:Web application,0.04880952380952381
+Implementation:Software engineering,0.0921237693389592
+Implementation:Engineering,0.08648504273504273
+Implementation:Business value,-0.022727272727272728
+Implementation:Process modeling,0.0
+Implementation:Requirement,-0.02003129890453834
+Implementation:Requirements engineering,-0.10277777777777777
+Implementation:User experience,-0.019230769230769232
+Implementation:Experience,0.0
+Implementation:Software development process,0.012121212121212123
+Implementation:Construction,0.012743549236440232
+Implementation:Architecture,0.03132108486439195
+Implementation:Software testing,0.05290519877675841
+Implementation:Software verification and validation,-0.03225806451612903
+Implementation:Verification and validation,-0.023255813953488372
+Syntax:Software,-0.033846079776606246
+Syntax:Technology,-0.0028089887640449437
+Syntax:Stakeholder (corporate),0.0
+Syntax:Ethics,-0.004797167644117727
+Syntax:Exercise,0.0
+Syntax:Critical thinking,-0.013346192946328495
+Syntax:Thought,-0.03405625211792613
+Syntax:Knowledge,-0.0018217349541254004
+Syntax:Software system,-0.022727272727272728
+Syntax:System,-0.033783783783783786
+Syntax:Design,-0.020689655172413793
+Syntax:Methodology,-0.04298491523161127
+Syntax:Computer programming,-0.017142857142857144
+Syntax:Understanding,-0.05405405405405406
+Syntax:Tool,0.004405286343612335
+Syntax:Web application,-0.017857142857142856
+Syntax:Software engineering,0.0
+Syntax:Engineering,0.004405286343612335
+Syntax:Business value,0.0
+Syntax:Process modeling,0.0
+Syntax:Requirement,-0.014084507042253521
+Syntax:Requirements engineering,0.0
+Syntax:User experience,0.0
+Syntax:Experience,-0.021052631578947368
+Syntax:Software development process,0.0
+Syntax:Construction,-0.0006681002985573208
+Syntax:Architecture,-0.0008440574884086621
+Syntax:Software testing,-0.009174311926605505
+Syntax:Software verification and validation,0.0
+Syntax:Verification and validation,0.0
+Parsing:Software,-0.0273224043715847
+Parsing:Technology,0.0
+Parsing:Stakeholder (corporate),0.0
+Parsing:Ethics,0.0
+Parsing:Exercise,0.0
+Parsing:Critical thinking,0.0010758472296933837
+Parsing:Thought,-0.00641025641025641
+Parsing:Knowledge,0.0
+Parsing:Software system,-0.022727272727272728
+Parsing:System,0.021215271215271215
+Parsing:Design,0.0
+Parsing:Methodology,-0.023310023310023312
+Parsing:Computer programming,0.0006793206793206802
+Parsing:Understanding,-0.006520506520506521
+Parsing:Tool,0.006993006993006993
+Parsing:Web application,-0.021728271728271728
+Parsing:Software engineering,0.0019916792068690806
+Parsing:Engineering,0.004589160839160839
+Parsing:Business value,0.0
+Parsing:Process modeling,0.0
+Parsing:Requirement,-0.014084507042253521
+Parsing:Requirements engineering,0.0
+Parsing:User experience,0.0
+Parsing:Experience,0.0
+Parsing:Software development process,-0.02937062937062937
+Parsing:Construction,0.0
+Parsing:Architecture,0.0
+Parsing:Software testing,0.006993006993006993
+Parsing:Software verification and validation,0.0
+Parsing:Verification and validation,0.0
+Semantics (computer science):Software,0.08137873055905843
+Semantics (computer science):Technology,0.012575626620570442
+Semantics (computer science):Stakeholder (corporate),0.0
+Semantics (computer science):Ethics,0.015384615384615385
+Semantics (computer science):Exercise,0.0
+Semantics (computer science):Critical thinking,-0.005917159763313609
+Semantics (computer science):Thought,0.0
+Semantics (computer science):Knowledge,0.0
+Semantics (computer science):Software system,0.015384615384615385
+Semantics (computer science):System,0.03264033264033264
+Semantics (computer science):Design,0.015384615384615385
+Semantics (computer science):Methodology,0.0
+Semantics (computer science):Computer programming,0.09450549450549452
+Semantics (computer science):Understanding,0.0
+Semantics (computer science):Tool,0.0
+Semantics (computer science):Web application,0.0
+Semantics (computer science):Software engineering,0.0887049659201558
+Semantics (computer science):Engineering,0.015384615384615385
+Semantics (computer science):Business value,0.0
+Semantics (computer science):Process modeling,0.0
+Semantics (computer science):Requirement,-0.014084507042253521
+Semantics (computer science):Requirements engineering,0.0
+Semantics (computer science):User experience,0.0
+Semantics (computer science):Experience,0.0
+Semantics (computer science):Software development process,0.02167832167832168
+Semantics (computer science):Construction,0.0
+Semantics (computer science):Architecture,0.0
+Semantics (computer science):Software testing,0.015384615384615385
+Semantics (computer science):Software verification and validation,0.0
+Semantics (computer science):Verification and validation,0.0
+Documentation:Software,0.05802758261774655
+Documentation:Technology,0.0
+Documentation:Stakeholder (corporate),0.015873015873015872
+Documentation:Ethics,0.028678547083455058
+Documentation:Exercise,0.0
+Documentation:Critical thinking,0.0
+Documentation:Thought,0.0
+Documentation:Knowledge,0.0
+Documentation:Software system,0.0
+Documentation:System,0.015873015873015872
+Documentation:Design,-0.020689655172413793
+Documentation:Methodology,0.0
+Documentation:Computer programming,-0.011428571428571429
+Documentation:Understanding,0.0
+Documentation:Tool,0.0
+Documentation:Web application,-0.008928571428571428
+Documentation:Software engineering,-0.009443439823186659
+Documentation:Engineering,-0.009615384615384616
+Documentation:Business value,0.0
+Documentation:Process modeling,0.0
+Documentation:Requirement,-0.01229599821149117
+Documentation:Requirements engineering,-0.025
+Documentation:User experience,0.0
+Documentation:Experience,0.0
+Documentation:Software development process,-0.03636363636363636
+Documentation:Construction,-0.009478672985781991
+Documentation:Architecture,0.015873015873015872
+Documentation:Software testing,0.006698703946410367
+Documentation:Software verification and validation,-0.03225806451612903
+Documentation:Verification and validation,-0.03488372093023256
+Debugging:Software,0.049840869513000666
+Debugging:Technology,0.008180022224966046
+Debugging:Stakeholder (corporate),0.0
+Debugging:Ethics,0.0
+Debugging:Exercise,0.0
+Debugging:Critical thinking,0.01098901098901099
+Debugging:Thought,0.0
+Debugging:Knowledge,0.01098901098901099
+Debugging:Software system,-0.10264735264735264
+Debugging:System,0.02621027621027621
+Debugging:Design,0.001288366805608187
+Debugging:Methodology,0.01098901098901099
+Debugging:Computer programming,0.012747252747252746
+Debugging:Understanding,0.0
+Debugging:Tool,0.0
+Debugging:Web application,0.0103021978021978
+Debugging:Software engineering,0.08589511754068715
+Debugging:Engineering,0.034340659340659344
+Debugging:Business value,0.0
+Debugging:Process modeling,0.01098901098901099
+Debugging:Requirement,-0.045349017180003094
+Debugging:Requirements engineering,-0.075
+Debugging:User experience,0.01098901098901099
+Debugging:Experience,0.0
+Debugging:Software development process,-0.010589410589410583
+Debugging:Construction,0.0
+Debugging:Architecture,0.0
+Debugging:Software testing,0.0035285815102328866
+Debugging:Software verification and validation,-0.05352711804324707
+Debugging:Verification and validation,-0.011627906976744186
+Design:Software,0.04281138119464858
+Design:Technology,0.04240604416892677
+Design:Stakeholder (corporate),0.013793103448275862
+Design:Ethics,0.03907340808123545
+Design:Exercise,0.0
+Design:Critical thinking,0.0009793919608243216
+Design:Thought,-0.00641025641025641
+Design:Knowledge,0.040757065076484314
+Design:Software system,-0.015830721003134797
+Design:System,0.028424976700838767
+Design:Design,0.0
+Design:Methodology,0.041379310344827586
+Design:Computer programming,0.02541871921182266
+Design:Understanding,0.006896551724137931
+Design:Tool,-0.002032019704433497
+Design:Web application,-0.008928571428571428
+Design:Software engineering,0.022959406372762985
+Design:Engineering,0.04815981432360743
+Design:Business value,-0.022727272727272728
+Design:Process modeling,-0.027586206896551724
+Design:Requirement,-0.014667314230208839
+Design:Requirements engineering,-0.05
+Design:User experience,-0.08633952254641909
+Design:Experience,0.006896551724137931
+Design:Software development process,-0.02695924764890282
+Design:Construction,-0.015492727569864355
+Design:Architecture,0.12449995474703594
+Design:Software testing,0.0023410313192027826
+Design:Software verification and validation,-0.03225806451612903
+Design:Verification and validation,-0.011627906976744186
+Divide-and-conquer algorithm:Software,0.0018915510718789403
+Divide-and-conquer algorithm:Technology,0.0
+Divide-and-conquer algorithm:Stakeholder (corporate),0.0
+Divide-and-conquer algorithm:Ethics,0.01282051282051282
+Divide-and-conquer algorithm:Exercise,0.0
+Divide-and-conquer algorithm:Critical thinking,0.0
+Divide-and-conquer algorithm:Thought,0.0
+Divide-and-conquer algorithm:Knowledge,0.0
+Divide-and-conquer algorithm:Software system,0.0
+Divide-and-conquer algorithm:System,0.0
+Divide-and-conquer algorithm:Design,0.01282051282051282
+Divide-and-conquer algorithm:Methodology,0.0
+Divide-and-conquer algorithm:Computer programming,0.03274725274725275
+Divide-and-conquer algorithm:Understanding,0.0
+Divide-and-conquer algorithm:Tool,0.0
+Divide-and-conquer algorithm:Web application,0.0
+Divide-and-conquer algorithm:Software engineering,0.006491398896462187
+Divide-and-conquer algorithm:Engineering,0.02564102564102564
+Divide-and-conquer algorithm:Business value,0.0
+Divide-and-conquer algorithm:Process modeling,0.0
+Divide-and-conquer algorithm:Requirement,0.0
+Divide-and-conquer algorithm:Requirements engineering,0.0
+Divide-and-conquer algorithm:User experience,0.0
+Divide-and-conquer algorithm:Experience,0.0
+Divide-and-conquer algorithm:Software development process,0.01282051282051282
+Divide-and-conquer algorithm:Construction,0.0
+Divide-and-conquer algorithm:Architecture,0.0
+Divide-and-conquer algorithm:Software testing,0.02564102564102564
+Divide-and-conquer algorithm:Software verification and validation,0.0
+Divide-and-conquer algorithm:Verification and validation,0.0
+Decomposition:Software,0.0
+Decomposition:Technology,0.0
+Decomposition:Stakeholder (corporate),0.0
+Decomposition:Ethics,0.0025822328515476066
+Decomposition:Exercise,0.01223217141029741
+Decomposition:Critical thinking,0.0
+Decomposition:Thought,0.0
+Decomposition:Knowledge,0.0
+Decomposition:Software system,0.0
+Decomposition:System,0.010192395785616124
+Decomposition:Design,0.0
+Decomposition:Methodology,0.0
+Decomposition:Computer programming,0.0
+Decomposition:Understanding,0.0
+Decomposition:Tool,-0.008928571428571428
+Decomposition:Web application,0.0
+Decomposition:Software engineering,0.0
+Decomposition:Engineering,0.00324587136027814
+Decomposition:Business value,0.0
+Decomposition:Process modeling,0.0
+Decomposition:Requirement,0.0
+Decomposition:Requirements engineering,0.0
+Decomposition:User experience,0.0
+Decomposition:Experience,0.0
+Decomposition:Software development process,0.0
+Decomposition:Construction,0.006560098535357592
+Decomposition:Architecture,0.003025045598113795
+Decomposition:Software testing,0.0
+Decomposition:Software verification and validation,0.0
+Decomposition:Verification and validation,0.0
+Brute-force search:Software,0.041047147032659805
+Brute-force search:Technology,0.0
+Brute-force search:Stakeholder (corporate),0.0
+Brute-force search:Ethics,0.0
+Brute-force search:Exercise,0.0
+Brute-force search:Critical thinking,0.023255813953488372
+Brute-force search:Thought,-0.00641025641025641
+Brute-force search:Knowledge,-0.007518796992481203
+Brute-force search:Software system,0.0
+Brute-force search:System,0.0
+Brute-force search:Design,0.0
+Brute-force search:Methodology,-0.030303030303030304
+Brute-force search:Computer programming,0.04119601328903655
+Brute-force search:Understanding,-0.013513513513513514
+Brute-force search:Tool,0.0
+Brute-force search:Web application,0.046511627906976744
+Brute-force search:Software engineering,0.04018251398292611
+Brute-force search:Engineering,0.046511627906976744
+Brute-force search:Business value,0.0
+Brute-force search:Process modeling,0.0
+Brute-force search:Requirement,0.0
+Brute-force search:Requirements engineering,0.0
+Brute-force search:User experience,0.0
+Brute-force search:Experience,0.0
+Brute-force search:Software development process,0.023255813953488372
+Brute-force search:Construction,0.0
+Brute-force search:Architecture,0.046511627906976744
+Brute-force search:Software testing,0.04192447194367399
+Brute-force search:Software verification and validation,0.0
+Brute-force search:Verification and validation,0.0
+Backtracking:Software,0.03669008587041374
+Backtracking:Technology,0.0
+Backtracking:Stakeholder (corporate),0.0
+Backtracking:Ethics,0.0
+Backtracking:Exercise,0.0
+Backtracking:Critical thinking,0.0
+Backtracking:Thought,-0.00641025641025641
+Backtracking:Knowledge,0.047619047619047616
+Backtracking:Software system,-0.022727272727272728
+Backtracking:System,0.023809523809523808
+Backtracking:Design,0.0
+Backtracking:Methodology,-0.030303030303030304
+Backtracking:Computer programming,0.04285714285714286
+Backtracking:Understanding,-0.013513513513513514
+Backtracking:Tool,0.0
+Backtracking:Web application,0.0
+Backtracking:Software engineering,0.011151295961422543
+Backtracking:Engineering,0.047619047619047616
+Backtracking:Business value,0.0
+Backtracking:Process modeling,0.0
+Backtracking:Requirement,0.0
+Backtracking:Requirements engineering,0.0
+Backtracking:User experience,0.0
+Backtracking:Experience,0.0
+Backtracking:Software development process,0.0
+Backtracking:Construction,0.0
+Backtracking:Architecture,0.0
+Backtracking:Software testing,0.023809523809523808
+Backtracking:Software verification and validation,0.0
+Backtracking:Verification and validation,0.0
+Heuristic:Software,0.0047396007583361205
+Heuristic:Technology,0.035198349002522354
+Heuristic:Stakeholder (corporate),0.0
+Heuristic:Ethics,0.011205709277576059
+Heuristic:Exercise,0.0
+Heuristic:Critical thinking,-0.0032604757879483165
+Heuristic:Thought,-0.01543694400837258
+Heuristic:Knowledge,0.010741138560687431
+Heuristic:Software system,0.0
+Heuristic:System,0.0034473248758963033
+Heuristic:Design,-0.006896551724137931
+Heuristic:Methodology,-0.08070500927643785
+Heuristic:Computer programming,-0.0012244897959183682
+Heuristic:Understanding,-0.04054054054054054
+Heuristic:Tool,0.0
+Heuristic:Web application,0.0
+Heuristic:Software engineering,-0.006329113924050633
+Heuristic:Engineering,0.03600863422291993
+Heuristic:Business value,0.0
+Heuristic:Process modeling,0.0
+Heuristic:Requirement,-0.014084507042253521
+Heuristic:Requirements engineering,-0.025
+Heuristic:User experience,0.0
+Heuristic:Experience,-0.00032223415682062356
+Heuristic:Software development process,0.0
+Heuristic:Construction,0.01020408163265306
+Heuristic:Architecture,0.01020408163265306
+Heuristic:Software testing,-0.013761467889908258
+Heuristic:Software verification and validation,0.0
+Heuristic:Verification and validation,0.0
+Dynamic programming:Software,0.014669747313602523
+Dynamic programming:Technology,0.03355704697986577
+Dynamic programming:Stakeholder (corporate),0.0
+Dynamic programming:Ethics,0.0
+Dynamic programming:Exercise,0.0
+Dynamic programming:Critical thinking,0.0
+Dynamic programming:Thought,-0.00641025641025641
+Dynamic programming:Knowledge,0.013422818791946308
+Dynamic programming:Software system,0.0
+Dynamic programming:System,0.02008888082713586
+Dynamic programming:Design,0.006711409395973154
+Dynamic programming:Methodology,-0.016880211511083994
+Dynamic programming:Computer programming,0.01840843720038351
+Dynamic programming:Understanding,-0.013513513513513514
+Dynamic programming:Tool,0.0
+Dynamic programming:Web application,0.0
+Dynamic programming:Software engineering,0.007476000339818196
+Dynamic programming:Engineering,0.026845637583892617
+Dynamic programming:Business value,0.0
+Dynamic programming:Process modeling,0.0
+Dynamic programming:Requirement,-0.014084507042253521
+Dynamic programming:Requirements engineering,0.0
+Dynamic programming:User experience,0.0
+Dynamic programming:Experience,0.0
+Dynamic programming:Software development process,-0.0023794996949359363
+Dynamic programming:Construction,-0.004739336492890996
+Dynamic programming:Architecture,0.013422818791946308
+Dynamic programming:Software testing,0.0021242534326704017
+Dynamic programming:Software verification and validation,0.0
+Dynamic programming:Verification and validation,0.0
+Intellectual property:Software,-0.009395072380404566
+Intellectual property:Technology,0.0006899270648531436
+Intellectual property:Stakeholder (corporate),-0.03333333333333333
+Intellectual property:Ethics,-0.006134969325153374
+Intellectual property:Exercise,0.0
+Intellectual property:Critical thinking,-6.920654693934065e-05
+Intellectual property:Thought,0.0
+Intellectual property:Knowledge,-0.001670843776106934
+Intellectual property:Software system,0.0
+Intellectual property:System,0.010787102892366049
+Intellectual property:Design,-0.01798749747933051
+Intellectual property:Methodology,0.0
+Intellectual property:Computer programming,-0.005714285714285714
+Intellectual property:Understanding,0.011695906432748537
+Intellectual property:Tool,0.005847953216374269
+Intellectual property:Web application,-0.012009189640768587
+Intellectual property:Software engineering,-0.00048116070767636413
+Intellectual property:Engineering,0.025472334682860996
+Intellectual property:Business value,-0.09090909090909091
+Intellectual property:Process modeling,-0.034482758620689655
+Intellectual property:Requirement,-0.008236553825879253
+Intellectual property:Requirements engineering,0.005847953216374269
+Intellectual property:User experience,-0.013382816014394963
+Intellectual property:Experience,-0.021052631578947368
+Intellectual property:Software development process,-0.01818181818181818
+Intellectual property:Construction,0.006956569939857542
+Intellectual property:Architecture,0.014919187733112307
+Intellectual property:Software testing,-0.022935779816513763
+Intellectual property:Software verification and validation,0.0
+Intellectual property:Verification and validation,-0.005779953760369917
+Property:Software,0.007352941176470588
+Property:Technology,0.018175809649702578
+Property:Stakeholder (corporate),0.007352941176470588
+Property:Ethics,0.026930710934680618
+Property:Exercise,0.0
+Property:Critical thinking,-0.011834319526627219
+Property:Thought,-0.001791101055806937
+Property:Knowledge,0.007187085360459974
+Property:Software system,-0.022727272727272728
+Property:System,-0.004372019077901433
+Property:Design,0.0004563894523326572
+Property:Methodology,-0.022950089126559714
+Property:Computer programming,0.0
+Property:Understanding,-0.00983704292527822
+Property:Tool,0.011029411764705883
+Property:Web application,0.0
+Property:Software engineering,0.0
+Property:Engineering,0.00254524886877828
+Property:Business value,0.0
+Property:Process modeling,0.0
+Property:Requirement,-0.014084507042253521
+Property:Requirements engineering,0.0
+Property:User experience,-0.019230769230769232
+Property:Experience,0.007352941176470588
+Property:Software development process,0.0
+Property:Construction,-0.015280875383328688
+Property:Architecture,0.002103597344449591
+Property:Software testing,-0.0045871559633027525
+Property:Software verification and validation,0.0
+Property:Verification and validation,-0.011627906976744186
+Software development:Software,-0.0019449847179772162
+Software development:Technology,0.011331175014282994
+Software development:Stakeholder (corporate),0.03389830508474576
+Software development:Ethics,0.0
+Software development:Exercise,0.0
+Software development:Critical thinking,0.0
+Software development:Thought,0.0
+Software development:Knowledge,0.015080073064015972
+Software development:Software system,-0.034283513097072414
+Software development:System,0.0655825316842266
+Software development:Design,-0.0005844535359438921
+Software development:Methodology,0.03389830508474576
+Software development:Computer programming,0.027409200968523006
+Software development:Understanding,0.01694915254237288
+Software development:Tool,-0.0032788539144471343
+Software development:Web application,-0.006002824858757062
+Software development:Software engineering,0.10076521490381177
+Software development:Engineering,0.05577737940026076
+Software development:Business value,-0.022727272727272728
+Software development:Process modeling,-0.023183323592441067
+Software development:Requirement,-0.09286225829553593
+Software development:Requirements engineering,-0.12175141242937852
+Software development:User experience,0.01694915254237288
+Software development:Experience,0.005649717514124294
+Software development:Software development process,-0.14720082177709293
+Software development:Construction,-0.007657910943315395
+Software development:Architecture,0.005649717514124294
+Software development:Software testing,-0.015109106929974608
+Software development:Software verification and validation,-0.1717696373245854
+Software development:Verification and validation,-0.0063066614111154905
+Computer science:Software,-0.06258169162690351
+Computer science:Technology,-0.010361687659877598
+Computer science:Stakeholder (corporate),-0.016666666666666666
+Computer science:Ethics,-0.009945015116422979
+Computer science:Exercise,0.0
+Computer science:Critical thinking,-0.02973926981907474
+Computer science:Thought,-0.07468780019212296
+Computer science:Knowledge,-0.05100647873285519
+Computer science:Software system,-0.15620906471050564
+Computer science:System,-0.07064413116286317
+Computer science:Design,-0.05918712113683792
+Computer science:Methodology,-0.10680289931010392
+Computer science:Computer programming,-0.10802799505969535
+Computer science:Understanding,-0.14000311550743827
+Computer science:Tool,0.002881844380403458
+Computer science:Web application,-0.01209345409633594
+Computer science:Software engineering,-0.12184000291832342
+Computer science:Engineering,-0.011118654400354686
+Computer science:Business value,0.0
+Computer science:Process modeling,-0.06320182848057239
+Computer science:Requirement,-0.053456183788610626
+Computer science:Requirements engineering,-0.06923631123919308
+Computer science:User experience,-0.0932720017734427
+Computer science:Experience,-0.046867890186561505
+Computer science:Software development process,-0.054990830495153256
+Computer science:Construction,-0.04265402843601896
+Computer science:Architecture,-0.012609014651266574
+Computer science:Software testing,-0.05033974036961637
+Computer science:Software verification and validation,-0.0967741935483871
+Computer science:Verification and validation,-0.04074793914616983
+Structural induction:Software,0.0
+Structural induction:Technology,0.0
+Structural induction:Stakeholder (corporate),0.0
+Structural induction:Ethics,0.0
+Structural induction:Exercise,0.0
+Structural induction:Critical thinking,0.0
+Structural induction:Thought,0.0
+Structural induction:Knowledge,0.0
+Structural induction:Software system,0.0
+Structural induction:System,0.0
+Structural induction:Design,0.0
+Structural induction:Methodology,0.03125
+Structural induction:Computer programming,0.0625
+Structural induction:Understanding,0.0
+Structural induction:Tool,0.0
+Structural induction:Web application,0.0
+Structural induction:Software engineering,0.03125
+Structural induction:Engineering,0.0
+Structural induction:Business value,0.0
+Structural induction:Process modeling,0.0
+Structural induction:Requirement,0.0
+Structural induction:Requirements engineering,0.0
+Structural induction:User experience,0.0
+Structural induction:Experience,0.0
+Structural induction:Software development process,0.03125
+Structural induction:Construction,0.03125
+Structural induction:Architecture,0.0
+Structural induction:Software testing,0.03125
+Structural induction:Software verification and validation,0.0
+Structural induction:Verification and validation,0.0
+Mathematical proof:Software,0.005747126436781609
+Mathematical proof:Technology,0.005876275345473331
+Mathematical proof:Stakeholder (corporate),0.0
+Mathematical proof:Ethics,0.05172413793103448
+Mathematical proof:Exercise,0.0
+Mathematical proof:Critical thinking,0.011324219547031219
+Mathematical proof:Thought,0.0
+Mathematical proof:Knowledge,0.011926367643246047
+Mathematical proof:Software system,-0.022727272727272728
+Mathematical proof:System,0.002718235476856165
+Mathematical proof:Design,0.0
+Mathematical proof:Methodology,-0.054858934169279
+Mathematical proof:Computer programming,-0.011395730706075535
+Mathematical proof:Understanding,-0.007766387076731905
+Mathematical proof:Tool,0.005747126436781609
+Mathematical proof:Web application,0.0
+Mathematical proof:Software engineering,-0.012658227848101266
+Mathematical proof:Engineering,0.02486737400530504
+Mathematical proof:Business value,0.0
+Mathematical proof:Process modeling,0.0
+Mathematical proof:Requirement,-0.014084507042253521
+Mathematical proof:Requirements engineering,0.0
+Mathematical proof:User experience,0.0
+Mathematical proof:Experience,0.011494252873563218
+Mathematical proof:Software development process,0.0
+Mathematical proof:Construction,0.011494252873563218
+Mathematical proof:Architecture,0.017241379310344827
+Mathematical proof:Software testing,-0.013761467889908258
+Mathematical proof:Software verification and validation,-0.06451612903225806
+Mathematical proof:Verification and validation,-0.023255813953488372
+Programming paradigm:Software,0.015412638363458037
+Programming paradigm:Technology,0.014285028329972152
+Programming paradigm:Stakeholder (corporate),0.0
+Programming paradigm:Ethics,0.008547008547008548
+Programming paradigm:Exercise,0.0
+Programming paradigm:Critical thinking,0.0
+Programming paradigm:Thought,0.0
+Programming paradigm:Knowledge,0.017094017094017096
+Programming paradigm:Software system,-0.022727272727272728
+Programming paradigm:System,0.02564102564102564
+Programming paradigm:Design,0.008547008547008548
+Programming paradigm:Methodology,-0.030303030303030304
+Programming paradigm:Computer programming,0.031159951159951155
+Programming paradigm:Understanding,0.0
+Programming paradigm:Tool,-0.0003815628815628802
+Programming paradigm:Web application,0.007783882783882784
+Programming paradigm:Software engineering,0.0006491398896462178
+Programming paradigm:Engineering,0.006143162393162394
+Programming paradigm:Business value,0.0
+Programming paradigm:Process modeling,0.008547008547008548
+Programming paradigm:Requirement,-0.014084507042253521
+Programming paradigm:Requirements engineering,0.008547008547008548
+Programming paradigm:User experience,0.0
+Programming paradigm:Experience,0.0
+Programming paradigm:Software development process,-0.04599844599844599
+Programming paradigm:Construction,0.0
+Programming paradigm:Architecture,0.0
+Programming paradigm:Software testing,0.011879557751117382
+Programming paradigm:Software verification and validation,-0.016129032258064516
+Programming paradigm:Verification and validation,0.008547008547008548
+Computation:Software,0.026966025184129244
+Computation:Technology,-0.008426966292134831
+Computation:Stakeholder (corporate),0.0
+Computation:Ethics,0.021739130434782608
+Computation:Exercise,0.0
+Computation:Critical thinking,-0.005917159763313609
+Computation:Thought,-0.01282051282051282
+Computation:Knowledge,-0.007518796992481203
+Computation:Software system,-0.022727272727272728
+Computation:System,0.05170387779083431
+Computation:Design,0.0
+Computation:Methodology,-0.06060606060606061
+Computation:Computer programming,0.08012422360248447
+Computation:Understanding,-0.04054054054054054
+Computation:Tool,0.0
+Computation:Web application,0.0
+Computation:Software engineering,-0.0008255365987892144
+Computation:Engineering,0.012123745819397992
+Computation:Business value,0.0
+Computation:Process modeling,-0.034482758620689655
+Computation:Requirement,0.0
+Computation:Requirements engineering,0.0
+Computation:User experience,0.0
+Computation:Experience,-0.010526315789473684
+Computation:Software development process,0.003557312252964427
+Computation:Construction,0.0
+Computation:Architecture,-0.0026246719160104987
+Computation:Software testing,0.003390506581571598
+Computation:Software verification and validation,-0.016129032258064516
+Computation:Verification and validation,-0.011627906976744186

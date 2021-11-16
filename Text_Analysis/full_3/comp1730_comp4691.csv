@@ -1,8 +1,0 @@
-score,s1,s2
-0.9308,"This course provides foundations and plenty of exercises in practical optimisation problems, while covering all basic elements of optimisation including forms of constraint programming as well as variations on linear programming and convex optimisation.",This course teaches introductory programming within a problem solving framework applicable to the sciences.
-0.9227,Be able to apply Linear Programming and Mixed-Integer Programming model to solve real-world problems.,This course teaches introductory programming within a problem solving framework applicable to the sciences.
-0.9208,Be able to recognize and formulate convex optimization problems arising in practice.,"Design, write and debug small programs to solve practical problems of a scientific nature."
-0.9238,Demonstrate an understanding of theoretical foundations of convex optimization and be able to use it to characterize optimal solutions to general problems.,Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.
-0.9096,Be able to define an appropriate local search neighbourhood for a given problem.,Have an understanding of some widely-used algorithms.
-0.9127,Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.,Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.
-0.9246,Demonstrate an understanding of the propagation of a global constraint in a Constraint programming system.,Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.

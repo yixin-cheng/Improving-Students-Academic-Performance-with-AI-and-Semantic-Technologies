@@ -1,9 +1,0 @@
-Cyber Security Foundations introduces all essential cyber security principles. 
-This includes principles of secure design, secrets minimization, least privilege, isolation, separation and encapsulation. 
-The interplay between failed security principles and vulnerabilities is investigated in detail.
-The course provides the essential foundations which allow students to continue in a more in-depth cyber security career, yet can also be used a standalone unit to provide a self-contained set of knowledge.
-Demonstrate a thorough understanding of the fundamental principles underlying Cyber Security.
-Define and identify cyber security principles and their violation.
-Apply cyber security principles in a practical context.
-Migrate insights from cyber security analysis into new designs.
-Communicate a cyber security thread to a heterogenous team of professionals.

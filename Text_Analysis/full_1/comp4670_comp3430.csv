@@ -1,8 +1,0 @@
-score,s1,s2
-0.8594,"Real-world data are commonly messy, distributed, and heterogeneous.","Describe a number of models for supervised, unsupervised, and reinforcement machine learning."
-0.9134,"This course introduces core concepts of data cleaning, standardisation, and data integration, that are aimed at converting and mapping raw data into other formats that allow more efficient and convenient use and analysis of data. The courses also discusses data quality, management, and storage issues as relevant to data analytics.","Interpret the mathematical equations from Linear Algebra, Statistics, and Probability Theory used in these machine learning models."
-0.8933,"Critically reflect upon different data sources, types, formats and structures.",Assess the strength and weakness of each of these models.
-0.9057,"Justify and apply data cleaning, preprocessing, and standardisation for data analytics.",Design test procedures in order to evaluate a model.
-0.8995,Apply data integration concepts and techniques to heterogeneous and distributed data.,"Interpret the mathematical equations from Linear Algebra, Statistics, and Probability Theory used in these machine learning models."
-0.9174,"Interpret, assess and discuss data quality measurements.",Design test procedures in order to evaluate a model.
-0.9156,"Understand and be able to use advanced data wrangling, data integration, and database techniques as relevant to data analytics.","Interpret the mathematical equations from Linear Algebra, Statistics, and Probability Theory used in these machine learning models."

@@ -1,8 +1,0 @@
-score,s1,s2
-0.9200,"This course provides foundations and plenty of exercises in practical optimisation problems, while covering all basic elements of optimisation including forms of constraint programming as well as variations on linear programming and convex optimisation.",This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems).
-0.9297,Be able to apply Linear Programming and Mixed-Integer Programming model to solve real-world problems.,Understand and consider constraints from physical dynamical systems.
-0.9375,Be able to recognize and formulate convex optimization problems arising in practice.,Understand and consider constraints from physical dynamical systems.
-0.9296,Demonstrate an understanding of theoretical foundations of convex optimization and be able to use it to characterize optimal solutions to general problems.,Understand and consider constraints from physical dynamical systems.
-0.9042,Be able to define an appropriate local search neighbourhood for a given problem.,Formulate real-time constraints.
-0.9225,Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.,"Techniques which are introduced include real-time calculus, real-time scheduling, elementary sensor data filtering and fusion methods, error recovery strategies, and graceful degradation methods."
-0.9286,Demonstrate an understanding of the propagation of a global constraint in a Constraint programming system.,Understand and consider constraints from physical dynamical systems.

@@ -1,9 +1,0 @@
-This course is an introduction to relational databases and the general skills for designing and using them. 
-The topics include the relational data model, SQL, entity-relationship model, functional dependencies, (de-)normalisation, relational algebra, query processing and optimisation, database transactions and security. 
-To deepen the understanding of relational databases, the current industry development of database systems such as NoSQL databases will be introduced at the end of this course.  
-Describe the basic concepts of the relational model and understand its mathematical foundation;
-Use the SQL language to define, query and manipulate a relational database.
-Apply conceptual database modelling methods such as entity-relationship model to design a relational database.
-Apply database design methods on functional dependencies and normal forms to evaluate the quality of a relational database design.
-Understand query processing and optimization, transaction and security management in a relational database management system.
-Understand the state of the art of database management systems, and big data management challenges (Amazon's Dynamo, Google's BigTable, MongoDB and MapReduce).

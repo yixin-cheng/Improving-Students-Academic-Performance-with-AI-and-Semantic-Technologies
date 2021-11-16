@@ -1,0 +1,3969 @@
+COMP1110:COMP2300,Score
+Computer:Parallel computing,-0.044863764484810525
+Computer:Computer hardware,-0.137751406763608
+Computer:Memory,-0.0038104186240734937
+Computer:Address space,-0.1377574266447968
+Computer:Space,-0.01000827129859388
+Computer:Data,-0.0498102466793169
+Computer:Data type,-0.054943142260385235
+Computer:Arithmetic logic unit,-0.19172043010752687
+Computer:System,-0.019071490845684397
+Computer:Computer network,0.010170142414538258
+Computer:Transistor,0.03804797353184451
+Computer:Data (computing),-0.11155913978494622
+Computer:Endianness,-0.07191235658076531
+Computer:Integer,-0.021464952704341497
+Computer:Compiler,0.02988006617038875
+Computer:Language,0.015536848105993591
+Computer:Virtual memory,-0.12496667555318583
+Computer:Error correction code,-0.034116906886296046
+Computer:Page table,-0.08659754224270354
+Computer:Cache (computing),-0.09274193548387097
+Computer:Combinatorics,-0.029569892473118278
+Computer:Clock signal,-0.1353046594982079
+Computer:Processor register,-0.022920672221035387
+Computer:Abstraction (computer science),-0.032886593950645936
+Computer:Design,-0.012625139043381535
+Computer:Bus (computing),-0.12137280895566356
+Computer:Architecture,-0.005058843451020235
+Computer:Interrupt,-0.1445077439084542
+Computer:Direct memory access,-0.07031692133559705
+Computer:Computer programming,-0.08841781874039938
+Computer:Assembly language,-0.0038829151732377443
+Computer:Program optimization,-0.07422861150070127
+Computer:Concurrency (computer science),-0.08739721695129665
+Computer:Instruction pipelining,-0.07612414467253177
+Computer:Knowledge,-0.00483062494947045
+Computer:Functional decomposition,-0.04090943510525519
+Computer:Decomposition,0.0
+Computer:Digital electronics,-0.1014813065190984
+Computer:Understanding,-0.06756756756756757
+Computer:Machine,-0.04272755061675118
+Computer:Hardware architecture,-0.14285714285714285
+Computer:Computer architecture,-0.11486175115207374
+Computer:Compiled language,-0.04480286738351254
+Computer:Machine code,-0.1257964954201513
+Computer:Software,-0.10228274281685175
+Computer:Logic gate,-0.07069029958024266
+Computer:Computer,0.0
+Computer:Operating system,0.07500135424284282
+Computer:Central processing unit,-0.01813788284616283
+Computer:Two's complement,-0.10344225666806312
+Computer:Arithmetic,-0.05217883418222976
+Computer:Von Neumann architecture,-0.23247740616135626
+Computer:Instruction set architecture,-0.049173878835562554
+Computer:Reduced instruction set computer,-0.06879276637341153
+Computer:Complex instruction set computer,-0.10683667538506249
+Computer:Communication,-0.04000854185508994
+Computer:Computer science,-0.0845767097393945
+Computer:Scientist,-0.021347248576850095
+Computer:Macro (computer science),-0.018817204301075266
+Computer:Virtualization,-0.1425424010641836
+Computer:Synchronization,-0.05731182795698925
+Computer:Input/output,-0.2559768931594601
+Computer:High-level programming language,-0.03245007680491551
+Computer:Subroutine,-0.05310305177450432
+Computer science:Parallel computing,-0.09557650877143896
+Computer science:Computer hardware,0.01560376879544878
+Computer science:Memory,0.0027279594863042454
+Computer science:Address space,-0.031016460704342306
+Computer science:Space,-0.02725190275622552
+Computer science:Data,-0.1113183025371532
+Computer science:Data type,-0.2575207845251176
+Computer science:Arithmetic logic unit,-0.040730067243035545
+Computer science:System,-0.07064413116286317
+Computer science:Computer network,0.009671274361353975
+Computer science:Transistor,0.02176161974432868
+Computer science:Data (computing),-0.1491819280468532
+Computer science:Endianness,-0.0670391061452514
+Computer science:Integer,-0.0417325735086997
+Computer science:Compiler,-0.12890711593881624
+Computer science:Language,-0.014282779004156813
+Computer science:Virtual memory,-0.07938171338747708
+Computer science:Error correction code,-0.08355304841907331
+Computer science:Page table,-0.17857142857142858
+Computer science:Cache (computing),-0.06623593938830528
+Computer science:Combinatorics,-0.1175048805429023
+Computer science:Clock signal,-0.01100704450848543
+Computer science:Processor register,-0.03942973834379831
+Computer science:Abstraction (computer science),-0.19277258308626874
+Computer science:Design,-0.05918712113683792
+Computer science:Bus (computing),-0.020436092798020868
+Computer science:Architecture,-0.012609014651266574
+Computer science:Interrupt,-0.0526928059646247
+Computer science:Direct memory access,-0.017670256332473835
+Computer science:Computer programming,-0.10802799505969535
+Computer science:Assembly language,-0.05759419361724837
+Computer science:Program optimization,-0.21162761558701917
+Computer science:Concurrency (computer science),-0.24153246312934398
+Computer science:Instruction pipelining,-0.0669635839664658
+Computer science:Knowledge,-0.05100647873285519
+Computer science:Functional decomposition,-0.08450704225352113
+Computer science:Decomposition,-0.005649717514124294
+Computer science:Digital electronics,-0.030036294358096294
+Computer science:Understanding,-0.14000311550743827
+Computer science:Machine,0.005407072566576389
+Computer science:Hardware architecture,-0.0962771275657237
+Computer science:Computer architecture,-0.11867709619871003
+Computer science:Compiled language,-0.03868075568363753
+Computer science:Machine code,-0.07941082292667306
+Computer science:Software,-0.06258169162690351
+Computer science:Logic gate,-0.013546209681147801
+Computer science:Computer,0.0845767097393945
+Computer science:Operating system,-0.0027947357341444046
+Computer science:Central processing unit,0.007792423974448348
+Computer science:Two's complement,-0.06493506493506493
+Computer science:Arithmetic,-0.03672076444714091
+Computer science:Von Neumann architecture,-0.0888598150669189
+Computer science:Instruction set architecture,-0.10754199761017783
+Computer science:Reduced instruction set computer,-0.05665444066020434
+Computer science:Complex instruction set computer,-0.03477685177973363
+Computer science:Communication,-0.019701580974440462
+Computer science:Computer science,0.0
+Computer science:Scientist,-0.050986477499445806
+Computer science:Macro (computer science),-0.10822926673070765
+Computer science:Virtualization,-0.04001901423096348
+Computer science:Synchronization,-0.09423631123919309
+Computer science:Input/output,-0.14715801091421915
+Computer science:High-level programming language,-0.19411280362289007
+Computer science:Subroutine,-0.18215588612550182
+Science:Parallel computing,-0.0004193445462418524
+Science:Computer hardware,0.0009049113332846824
+Science:Memory,0.003746752358813072
+Science:Address space,-0.01694915254237288
+Science:Space,-0.0958107620079451
+Science:Data,-0.06851698425849213
+Science:Data type,-0.020174283108724288
+Science:Arithmetic logic unit,-0.011924882629107982
+Science:System,-0.09486105824133995
+Science:Computer network,0.005016539917470928
+Science:Transistor,0.019962080173347777
+Science:Data (computing),-0.002430713312130849
+Science:Endianness,-0.0111731843575419
+Science:Integer,0.0009319072328709092
+Science:Compiler,-0.00539003250270856
+Science:Language,0.0034142698972629212
+Science:Virtual memory,-0.008264462809917356
+Science:Error correction code,-0.0070921985815602835
+Science:Page table,0.0
+Science:Cache (computing),-0.008064516129032258
+Science:Combinatorics,-0.07104346509162503
+Science:Clock signal,-0.012480438184663536
+Science:Processor register,-0.002397164443615335
+Science:Abstraction (computer science),-0.027368527713040835
+Science:Design,-0.07712481787275376
+Science:Bus (computing),0.0014084507042253522
+Science:Architecture,-0.0289342353332594
+Science:Interrupt,0.0
+Science:Direct memory access,0.0
+Science:Computer programming,-0.008692152917505032
+Science:Assembly language,-0.007407407407407408
+Science:Program optimization,-0.017391304347826087
+Science:Concurrency (computer science),-0.011764705882352941
+Science:Instruction pipelining,-0.01818181818181818
+Science:Knowledge,-0.07711532352006777
+Science:Functional decomposition,-0.04225352112676056
+Science:Decomposition,-0.025431686162170765
+Science:Digital electronics,8.250338853202886e-05
+Science:Understanding,-0.07122192615150362
+Science:Machine,-0.022704790616609356
+Science:Hardware architecture,-0.04081632653061224
+Science:Computer architecture,0.007042253521126761
+Science:Compiled language,0.0
+Science:Machine code,0.0
+Science:Software,-0.0009004848764719471
+Science:Logic gate,0.0005724184680274171
+Science:Computer,0.02177040739058004
+Science:Operating system,0.008450704225352112
+Science:Central processing unit,0.003432145217877663
+Science:Two's complement,-0.012987012987012988
+Science:Arithmetic,-0.02727946627131208
+Science:Von Neumann architecture,-0.01699645727123477
+Science:Instruction set architecture,-0.012195121951219513
+Science:Reduced instruction set computer,0.0
+Science:Complex instruction set computer,0.0
+Science:Communication,-0.02048176911938923
+Science:Computer science,0.008885010350286153
+Science:Scientist,-0.1287935759352495
+Science:Macro (computer science),-0.013888888888888888
+Science:Virtualization,-0.010309278350515464
+Science:Synchronization,-0.03859154929577465
+Science:Input/output,-0.03691938867246029
+Science:High-level programming language,-0.011904761904761904
+Science:Subroutine,-0.005780346820809248
+Computer programming:Parallel computing,0.03125288950531668
+Computer programming:Computer hardware,0.060340488527017025
+Computer programming:Memory,0.011428571428571429
+Computer programming:Address space,-0.02818401937046005
+Computer programming:Space,0.005714285714285714
+Computer programming:Data,-0.018823529411764704
+Computer programming:Data type,-0.009085303186022603
+Computer programming:Arithmetic logic unit,0.0
+Computer programming:System,0.0051737451737451715
+Computer programming:Computer network,0.031186440677966103
+Computer programming:Transistor,0.04111721611721612
+Computer programming:Data (computing),-0.06483870967741936
+Computer programming:Endianness,-0.004820430965682361
+Computer programming:Integer,-0.03368421052631579
+Computer programming:Compiler,0.10684065934065935
+Computer programming:Language,0.053486550013058236
+Computer programming:Virtual memory,0.006942148760330578
+Computer programming:Error correction code,-0.0013779128672745692
+Computer programming:Page table,-0.05357142857142857
+Computer programming:Cache (computing),-0.012764976958525345
+Computer programming:Combinatorics,0.000675883256528417
+Computer programming:Clock signal,0.0032539682539682556
+Computer programming:Processor register,0.03545884578997162
+Computer programming:Abstraction (computer science),-0.03934224049331962
+Computer programming:Design,-0.02541871921182266
+Computer programming:Bus (computing),0.01487279843444227
+Computer programming:Architecture,0.00880389951256093
+Computer programming:Interrupt,-0.005871559633027525
+Computer programming:Direct memory access,-0.0030576441102756887
+Computer programming:Computer programming,0.0
+Computer programming:Assembly language,0.08190476190476191
+Computer programming:Program optimization,-0.14509316770186337
+Computer programming:Concurrency (computer science),-0.03563025210084034
+Computer programming:Instruction pipelining,-0.04883116883116883
+Computer programming:Knowledge,0.005714285714285714
+Computer programming:Functional decomposition,-0.02245472837022133
+Computer programming:Decomposition,0.0
+Computer programming:Digital electronics,-0.01214584578601315
+Computer programming:Understanding,-0.048339768339768344
+Computer programming:Machine,0.011849020544672718
+Computer programming:Hardware architecture,-0.08163265306122448
+Computer programming:Computer architecture,0.009523809523809518
+Computer programming:Compiled language,-0.015873015873015876
+Computer programming:Machine code,0.045925925925925926
+Computer programming:Software,0.0054957064793130506
+Computer programming:Logic gate,0.017509549274255156
+Computer programming:Computer,0.08841781874039938
+Computer programming:Operating system,0.15011155091759626
+Computer programming:Central processing unit,0.09021144920061888
+Computer programming:Two's complement,-0.059220779220779216
+Computer programming:Arithmetic,0.013684210526315792
+Computer programming:Von Neumann architecture,-0.027905346187554782
+Computer programming:Instruction set architecture,-0.04536585365853659
+Computer programming:Reduced instruction set computer,-0.0112987012987013
+Computer programming:Complex instruction set computer,-0.029111969111969116
+Computer programming:Communication,-0.0036315086782376495
+Computer programming:Computer science,0.10802799505969535
+Computer programming:Scientist,0.029760827407886232
+Computer programming:Macro (computer science),-0.020476190476190467
+Computer programming:Virtualization,0.00683357879234168
+Computer programming:Synchronization,-0.04
+Computer programming:Input/output,0.004741641337386027
+Computer programming:High-level programming language,0.012857142857142859
+Computer programming:Subroutine,-0.05886044591246904
+Productivity:Parallel computing,-0.006472491909385114
+Productivity:Computer hardware,-0.0051813471502590676
+Productivity:Memory,-0.0048543689320388345
+Productivity:Address space,0.0
+Productivity:Space,0.0
+Productivity:Data,0.0
+Productivity:Data type,0.0
+Productivity:Arithmetic logic unit,-0.02666666666666667
+Productivity:System,0.0
+Productivity:Computer network,-0.004842615012106538
+Productivity:Transistor,0.007478632478632478
+Productivity:Data (computing),0.0
+Productivity:Endianness,0.0
+Productivity:Integer,0.0
+Productivity:Compiler,-0.004807692307692308
+Productivity:Language,0.012060735323989437
+Productivity:Virtual memory,0.0
+Productivity:Error correction code,0.0
+Productivity:Page table,0.0
+Productivity:Cache (computing),0.0
+Productivity:Combinatorics,0.0
+Productivity:Clock signal,-0.013888888888888888
+Productivity:Processor register,-0.006622516556291391
+Productivity:Abstraction (computer science),0.0
+Productivity:Design,0.006992337164750957
+Productivity:Bus (computing),0.0
+Productivity:Architecture,-0.010498687664041995
+Productivity:Interrupt,0.0
+Productivity:Direct memory access,0.0
+Productivity:Computer programming,-0.011428571428571429
+Productivity:Assembly language,0.0
+Productivity:Program optimization,-0.008695652173913044
+Productivity:Concurrency (computer science),0.0
+Productivity:Instruction pipelining,0.0
+Productivity:Knowledge,0.013888888888888888
+Productivity:Functional decomposition,0.0
+Productivity:Decomposition,0.0
+Productivity:Digital electronics,0.0
+Productivity:Understanding,-0.013513513513513514
+Productivity:Machine,0.011055369751021924
+Productivity:Hardware architecture,0.0
+Productivity:Computer architecture,-0.009523809523809525
+Productivity:Compiled language,0.0
+Productivity:Machine code,0.0
+Productivity:Software,0.0029599271402550083
+Productivity:Logic gate,0.0
+Productivity:Computer,0.007168458781362006
+Productivity:Operating system,-0.0025188916876574307
+Productivity:Central processing unit,-0.007220216606498195
+Productivity:Two's complement,0.0
+Productivity:Arithmetic,0.0
+Productivity:Von Neumann architecture,0.0
+Productivity:Instruction set architecture,0.0
+Productivity:Reduced instruction set computer,0.0
+Productivity:Complex instruction set computer,0.0
+Productivity:Communication,0.004543094496365524
+Productivity:Computer science,0.008125200128081971
+Productivity:Scientist,-0.0022624434389140274
+Productivity:Macro (computer science),0.0
+Productivity:Virtualization,-0.010309278350515464
+Productivity:Synchronization,0.0
+Productivity:Input/output,0.0
+Productivity:High-level programming language,0.0
+Productivity:Subroutine,0.0
+Software:Parallel computing,-0.006631651546501138
+Software:Computer hardware,0.03355134630085789
+Software:Memory,0.0012202238845562107
+Software:Address space,-0.06835232008891358
+Software:Space,-0.005128205128205128
+Software:Data,-0.05978784956605593
+Software:Data type,0.0402563195345363
+Software:Arithmetic logic unit,0.0013114754098360604
+Software:System,0.0015876532269974881
+Software:Computer network,0.03658423636195239
+Software:Transistor,0.01261034047919294
+Software:Data (computing),-0.10430988894764673
+Software:Endianness,-0.050401440913392555
+Software:Integer,0.01639344262295082
+Software:Compiler,0.051387137452711215
+Software:Language,0.04369586717415411
+Software:Virtual memory,-0.03892878110463804
+Software:Error correction code,-0.0016277177072433436
+Software:Page table,-0.07142857142857142
+Software:Cache (computing),-0.07491627005111934
+Software:Combinatorics,0.005552617662612374
+Software:Clock signal,0.007969034608378871
+Software:Processor register,0.025838671154054936
+Software:Abstraction (computer science),-0.028226599048629945
+Software:Design,-0.04281138119464858
+Software:Bus (computing),-0.007410734336402422
+Software:Architecture,0.00043027408459188517
+Software:Interrupt,-0.037098310522885654
+Software:Direct memory access,-0.05708944492378487
+Software:Computer programming,-0.0054957064793130506
+Software:Assembly language,0.038737097753491184
+Software:Program optimization,-0.07279638869090045
+Software:Concurrency (computer science),-0.06595949855351976
+Software:Instruction pipelining,-0.12906110283159464
+Software:Knowledge,0.003410164756152677
+Software:Functional decomposition,0.0
+Software:Decomposition,0.0
+Software:Digital electronics,-0.024167181105242703
+Software:Understanding,-0.02156254615271009
+Software:Machine,-0.0024489646727708023
+Software:Hardware architecture,-0.061224489795918366
+Software:Computer architecture,-0.028259172521467604
+Software:Compiled language,0.01621129326047359
+Software:Machine code,-0.0058692572353774425
+Software:Software,0.0
+Software:Logic gate,-0.02638730604015078
+Software:Computer,0.10228274281685175
+Software:Operating system,0.17080287951989648
+Software:Central processing unit,0.12627488114260915
+Software:Two's complement,-0.009580583351075155
+Software:Arithmetic,0.02226056945642796
+Software:Von Neumann architecture,-0.01149887693184485
+Software:Instruction set architecture,-0.05447820871651339
+Software:Reduced instruction set computer,-0.07998012916045703
+Software:Complex instruction set computer,-0.02673164968246936
+Software:Communication,-0.0030897298401511668
+Software:Computer science,0.06258169162690351
+Software:Scientist,-0.0013228494424251417
+Software:Macro (computer science),-0.013319672131147542
+Software:Virtualization,-0.11216269505943327
+Software:Synchronization,-0.03453551912568306
+Software:Input/output,-0.06150447622369491
+Software:High-level programming language,0.041764246682279474
+Software:Subroutine,0.052433747117723244
+Data:Parallel computing,0.01323053493241957
+Data:Computer hardware,0.027176673778319622
+Data:Memory,0.009899105273177233
+Data:Address space,-0.06779661016949153
+Data:Space,-0.00045248868778280556
+Data:Data,0.0
+Data:Data type,-0.0039497813513894794
+Data:Arithmetic logic unit,-0.007058823529411767
+Data:System,0.021992580816110226
+Data:Computer network,0.005317381189764041
+Data:Transistor,0.00018853695324283493
+Data:Data (computing),-0.10246679316888045
+Data:Endianness,-0.0335195530726257
+Data:Integer,0.0513047324192835
+Data:Compiler,0.034596530920060334
+Data:Language,0.04536330071333835
+Data:Virtual memory,-0.014989466861124616
+Data:Error correction code,-0.02127659574468085
+Data:Page table,-0.08928571428571429
+Data:Cache (computing),-0.03225806451612903
+Data:Combinatorics,-0.021505376344086023
+Data:Clock signal,-0.017973856209150325
+Data:Processor register,0.006103103493052847
+Data:Abstraction (computer science),-0.040555790661588376
+Data:Design,-0.013793103448275862
+Data:Bus (computing),-0.007117915659414449
+Data:Architecture,0.007179249652616952
+Data:Interrupt,0.0012592192840438915
+Data:Direct memory access,-0.017543859649122806
+Data:Computer programming,0.018823529411764704
+Data:Assembly language,0.02679738562091503
+Data:Program optimization,-0.034782608695652174
+Data:Concurrency (computer science),-0.00196078431372549
+Data:Instruction pipelining,-0.01818181818181818
+Data:Knowledge,0.07024915229249595
+Data:Functional decomposition,-0.014084507042253521
+Data:Decomposition,0.00980392156862745
+Data:Digital electronics,-0.0027483796866026745
+Data:Understanding,0.002384737678855324
+Data:Machine,0.01626336153190373
+Data:Hardware architecture,-0.04081632653061224
+Data:Computer architecture,-0.047058823529411764
+Data:Compiled language,-0.011111111111111112
+Data:Machine code,0.0021786492374727684
+Data:Software,0.05978784956605593
+Data:Logic gate,0.004456327985739751
+Data:Computer,0.0498102466793169
+Data:Operating system,0.0532424556724453
+Data:Central processing unit,0.02735895802364267
+Data:Two's complement,-0.02915711739241151
+Data:Arithmetic,0.01888544891640867
+Data:Von Neumann architecture,-0.029471911463972093
+Data:Instruction set architecture,-0.0389765662362506
+Data:Reduced instruction set computer,-0.024286987522281638
+Data:Complex instruction set computer,-0.0037095919448860634
+Data:Communication,0.020524097489463076
+Data:Computer science,0.1113183025371532
+Data:Scientist,-0.0015082956259426846
+Data:Macro (computer science),-0.004084967320261437
+Data:Virtualization,-0.030927835051546393
+Data:Synchronization,-0.02
+Data:Input/output,-0.08844388819357529
+Data:High-level programming language,0.015406162464985995
+Data:Subroutine,-0.02085458460840984
+Structural induction:Parallel computing,0.0
+Structural induction:Computer hardware,0.03125
+Structural induction:Memory,0.0
+Structural induction:Address space,0.0
+Structural induction:Space,0.0
+Structural induction:Data,0.0
+Structural induction:Data type,0.055305755395683456
+Structural induction:Arithmetic logic unit,0.0
+Structural induction:System,0.0
+Structural induction:Computer network,0.0
+Structural induction:Transistor,0.0
+Structural induction:Data (computing),0.0
+Structural induction:Endianness,0.0
+Structural induction:Integer,0.09375
+Structural induction:Compiler,0.0
+Structural induction:Language,-0.0018281535648994515
+Structural induction:Virtual memory,0.0
+Structural induction:Error correction code,0.0
+Structural induction:Page table,0.0
+Structural induction:Cache (computing),0.0
+Structural induction:Combinatorics,0.0625
+Structural induction:Clock signal,0.0
+Structural induction:Processor register,0.0
+Structural induction:Abstraction (computer science),0.0
+Structural induction:Design,0.0
+Structural induction:Bus (computing),0.0
+Structural induction:Architecture,0.0
+Structural induction:Interrupt,0.0
+Structural induction:Direct memory access,0.0
+Structural induction:Computer programming,0.0625
+Structural induction:Assembly language,0.0
+Structural induction:Program optimization,-0.008695652173913044
+Structural induction:Concurrency (computer science),0.0
+Structural induction:Instruction pipelining,0.0
+Structural induction:Knowledge,0.0
+Structural induction:Functional decomposition,0.0
+Structural induction:Decomposition,0.0
+Structural induction:Digital electronics,0.0
+Structural induction:Understanding,0.0
+Structural induction:Machine,0.0
+Structural induction:Hardware architecture,0.0
+Structural induction:Computer architecture,0.03125
+Structural induction:Compiled language,0.0
+Structural induction:Machine code,0.0
+Structural induction:Software,0.0
+Structural induction:Logic gate,0.0
+Structural induction:Computer,0.0
+Structural induction:Operating system,0.03125
+Structural induction:Central processing unit,0.0
+Structural induction:Two's complement,0.0
+Structural induction:Arithmetic,0.0625
+Structural induction:Von Neumann architecture,0.0
+Structural induction:Instruction set architecture,0.0
+Structural induction:Reduced instruction set computer,0.0
+Structural induction:Complex instruction set computer,0.0
+Structural induction:Communication,0.0
+Structural induction:Computer science,0.3067363112391931
+Structural induction:Scientist,0.0
+Structural induction:Macro (computer science),0.0
+Structural induction:Virtualization,0.0
+Structural induction:Synchronization,0.0
+Structural induction:Input/output,0.03125
+Structural induction:High-level programming language,-0.011904761904761904
+Structural induction:Subroutine,0.013908959537572256
+Distributed computing:Parallel computing,0.06719833564493759
+Distributed computing:Computer hardware,0.06373056994818654
+Distributed computing:Memory,0.007142857142857143
+Distributed computing:Address space,-0.015133171912832935
+Distributed computing:Space,-0.0031135531135531138
+Distributed computing:Data,0.023249299719887956
+Distributed computing:Data type,-0.007297019527235356
+Distributed computing:Arithmetic logic unit,-0.0061904761904761916
+Distributed computing:System,0.04362934362934363
+Distributed computing:Computer network,0.16404358353510895
+Distributed computing:Transistor,0.01108058608058608
+Distributed computing:Data (computing),-0.020737327188940093
+Distributed computing:Endianness,-0.004030327214684757
+Distributed computing:Integer,0.013909774436090226
+Distributed computing:Compiler,0.03324175824175824
+Distributed computing:Language,0.0
+Distributed computing:Virtual memory,-0.028158205430932705
+Distributed computing:Error correction code,-0.0070921985815602835
+Distributed computing:Page table,-0.03571428571428571
+Distributed computing:Cache (computing),-0.05023041474654378
+Distributed computing:Combinatorics,0.0017665130568356368
+Distributed computing:Clock signal,0.007142857142857143
+Distributed computing:Processor register,-0.005061494796594134
+Distributed computing:Abstraction (computer science),-0.02168550873586845
+Distributed computing:Design,-0.006896551724137931
+Distributed computing:Bus (computing),0.003163731245923028
+Distributed computing:Architecture,0.025946756655418072
+Distributed computing:Interrupt,-0.0060943643512450865
+Distributed computing:Direct memory access,0.007142857142857143
+Distributed computing:Computer programming,-0.018571428571428572
+Distributed computing:Assembly language,0.006613756613756613
+Distributed computing:Program optimization,-0.043478260869565216
+Distributed computing:Concurrency (computer science),-0.10756302521008404
+Distributed computing:Instruction pipelining,0.007142857142857143
+Distributed computing:Knowledge,0.014285714285714285
+Distributed computing:Functional decomposition,0.0
+Distributed computing:Decomposition,-0.005649717514124294
+Distributed computing:Digital electronics,-0.0012253436939629403
+Distributed computing:Understanding,-0.006370656370656372
+Distributed computing:Machine,0.02857142857142857
+Distributed computing:Hardware architecture,-0.013265306122448979
+Distributed computing:Computer architecture,0.021428571428571432
+Distributed computing:Compiled language,-0.07777777777777778
+Distributed computing:Machine code,0.023368606701940034
+Distributed computing:Software,0.07056986729117876
+Distributed computing:Logic gate,0.016080977845683728
+Distributed computing:Computer,0.07269585253456222
+Distributed computing:Operating system,0.09289312702410937
+Distributed computing:Central processing unit,0.07818463125322331
+Distributed computing:Two's complement,-0.005844155844155845
+Distributed computing:Arithmetic,0.0018796992481203006
+Distributed computing:Von Neumann architecture,-0.009246275197195442
+Distributed computing:Instruction set architecture,-0.018292682926829267
+Distributed computing:Reduced instruction set computer,-0.022727272727272728
+Distributed computing:Complex instruction set computer,-0.013513513513513514
+Distributed computing:Communication,0.02857142857142857
+Distributed computing:Computer science,0.14248662000823384
+Distributed computing:Scientist,0.004880413703943116
+Distributed computing:Macro (computer science),-0.027579365079365082
+Distributed computing:Virtualization,-0.0816642120765832
+Distributed computing:Synchronization,-0.03
+Distributed computing:Input/output,0.0004559270516717312
+Distributed computing:High-level programming language,-0.02857142857142857
+Distributed computing:Subroutine,-0.0074731626754748134
+Version control:Parallel computing,0.03529411764705882
+Version control:Computer hardware,0.03529411764705882
+Version control:Memory,0.011764705882352941
+Version control:Address space,0.0
+Version control:Space,0.011764705882352941
+Version control:Data,0.03529411764705882
+Version control:Data type,0.0
+Version control:Arithmetic logic unit,0.011764705882352941
+Version control:System,0.07058823529411765
+Version control:Computer network,0.021108104258652612
+Version control:Transistor,0.0
+Version control:Data (computing),0.015464895635673624
+Version control:Endianness,0.011764705882352941
+Version control:Integer,0.0
+Version control:Compiler,0.06097285067873303
+Version control:Language,0.023529411764705882
+Version control:Virtual memory,-0.008264462809917356
+Version control:Error correction code,0.011764705882352941
+Version control:Page table,0.0
+Version control:Cache (computing),-0.008064516129032258
+Version control:Combinatorics,0.011764705882352941
+Version control:Clock signal,0.011764705882352941
+Version control:Processor register,0.011764705882352941
+Version control:Abstraction (computer science),0.023529411764705882
+Version control:Design,0.011764705882352941
+Version control:Bus (computing),0.011764705882352941
+Version control:Architecture,0.0
+Version control:Interrupt,0.011764705882352941
+Version control:Direct memory access,0.0
+Version control:Computer programming,0.018487394957983194
+Version control:Assembly language,0.027886710239651415
+Version control:Program optimization,-0.008695652173913044
+Version control:Concurrency (computer science),0.023529411764705882
+Version control:Instruction pipelining,0.0
+Version control:Knowledge,0.011764705882352941
+Version control:Functional decomposition,0.0
+Version control:Decomposition,0.0
+Version control:Digital electronics,0.011764705882352941
+Version control:Understanding,0.0
+Version control:Machine,0.0
+Version control:Hardware architecture,0.0
+Version control:Computer architecture,0.0
+Version control:Compiled language,0.0
+Version control:Machine code,0.03529411764705882
+Version control:Software,0.04410157505625201
+Version control:Logic gate,0.023529411764705882
+Version control:Computer,0.04033839342188488
+Version control:Operating system,0.12689287301822494
+Version control:Central processing unit,0.023529411764705882
+Version control:Two's complement,0.0
+Version control:Arithmetic,0.023529411764705882
+Version control:Von Neumann architecture,0.023529411764705882
+Version control:Instruction set architecture,0.0
+Version control:Reduced instruction set computer,0.0
+Version control:Complex instruction set computer,0.0
+Version control:Communication,0.023529411764705882
+Version control:Computer science,0.055941685031361245
+Version control:Scientist,0.0
+Version control:Macro (computer science),0.011764705882352941
+Version control:Virtualization,0.0
+Version control:Synchronization,-0.01
+Version control:Input/output,0.023529411764705882
+Version control:High-level programming language,0.011764705882352941
+Version control:Subroutine,0.011764705882352941
+System:Parallel computing,-0.038834951456310676
+System:Computer hardware,-0.007211875087522756
+System:Memory,-0.001049593282602991
+System:Address space,-0.03389830508474576
+System:Space,-0.0018711018711018712
+System:Data,-0.021992580816110226
+System:Data type,-0.00043748784755979
+System:Arithmetic logic unit,-0.013333333333333334
+System:System,0.0
+System:Computer network,-0.04116222760290557
+System:Transistor,0.004244629244629247
+System:Data (computing),-0.03356582388840453
+System:Endianness,-0.01675977653631285
+System:Integer,0.0
+System:Compiler,-0.019230769230769232
+System:Language,0.0019887346212757555
+System:Virtual memory,-0.0743801652892562
+System:Error correction code,-0.0070921985815602835
+System:Page table,-0.05357142857142857
+System:Cache (computing),-0.04032258064516129
+System:Combinatorics,0.016274338854984017
+System:Clock signal,-0.013888888888888888
+System:Processor register,-0.006622516556291391
+System:Abstraction (computer science),-0.050359712230215826
+System:Design,-0.028424976700838767
+System:Bus (computing),-0.0365296803652968
+System:Architecture,0.008654323614953538
+System:Interrupt,-0.009174311926605505
+System:Direct memory access,-0.017543859649122806
+System:Computer programming,-0.0051737451737451715
+System:Assembly language,-0.03333333333333333
+System:Program optimization,-0.02608695652173913
+System:Concurrency (computer science),-0.023529411764705882
+System:Instruction pipelining,-0.01818181818181818
+System:Knowledge,-0.004572241414346673
+System:Functional decomposition,-0.035496764370003805
+System:Decomposition,-0.010192395785616124
+System:Digital electronics,-0.008368200836820083
+System:Understanding,-0.033783783783783786
+System:Machine,-0.01324233932929585
+System:Hardware architecture,-0.027302813017098727
+System:Computer architecture,-0.021814671814671813
+System:Compiled language,-0.022222222222222223
+System:Machine code,0.0
+System:Software,-0.0015876532269974881
+System:Logic gate,-0.009286023991906346
+System:Computer,0.019071490845684397
+System:Operating system,-0.09056096398665668
+System:Central processing unit,-0.010830324909747292
+System:Two's complement,-0.012987012987012988
+System:Arithmetic,-0.023328591749644377
+System:Von Neumann architecture,-0.01778312054385674
+System:Instruction set architecture,-0.006097560975609756
+System:Reduced instruction set computer,-0.011363636363636364
+System:Complex instruction set computer,-0.013513513513513514
+System:Communication,0.030689568072745647
+System:Computer science,0.07064413116286317
+System:Scientist,0.020209123150299622
+System:Macro (computer science),-0.027965465465465467
+System:Virtualization,-0.010309278350515464
+System:Synchronization,-0.05
+System:Input/output,-0.05707303047728579
+System:High-level programming language,-0.03571428571428571
+System:Subroutine,0.0009764099359475089
+Understanding:Parallel computing,0.013513513513513514
+Understanding:Computer hardware,0.02702702702702703
+Understanding:Memory,0.057858829703489906
+Understanding:Address space,0.0
+Understanding:Space,0.0218988218988219
+Understanding:Data,-0.002384737678855324
+Understanding:Data type,0.013513513513513514
+Understanding:Arithmetic logic unit,0.02702702702702703
+Understanding:System,0.033783783783783786
+Understanding:Computer network,0.02702702702702703
+Understanding:Transistor,0.02702702702702703
+Understanding:Data (computing),0.005448997384481256
+Understanding:Endianness,0.0
+Understanding:Integer,0.0945945945945946
+Understanding:Compiler,0.013513513513513514
+Understanding:Language,0.017886259202529772
+Understanding:Virtual memory,0.0
+Understanding:Error correction code,0.0
+Understanding:Page table,0.0
+Understanding:Cache (computing),0.0
+Understanding:Combinatorics,0.013513513513513514
+Understanding:Clock signal,0.013513513513513514
+Understanding:Processor register,0.02702702702702703
+Understanding:Abstraction (computer science),-0.02158273381294964
+Understanding:Design,-0.006896551724137931
+Understanding:Bus (computing),0.02702702702702703
+Understanding:Architecture,-0.0026246719160104987
+Understanding:Interrupt,0.004339201586908009
+Understanding:Direct memory access,0.0
+Understanding:Computer programming,0.048339768339768344
+Understanding:Assembly language,0.013513513513513514
+Understanding:Program optimization,-0.008695652173913044
+Understanding:Concurrency (computer science),0.013513513513513514
+Understanding:Instruction pipelining,0.0
+Understanding:Knowledge,0.04348709611867507
+Understanding:Functional decomposition,-0.014084507042253521
+Understanding:Decomposition,0.0
+Understanding:Digital electronics,0.013513513513513514
+Understanding:Understanding,0.0
+Understanding:Machine,0.02702702702702703
+Understanding:Hardware architecture,-0.02040816326530612
+Understanding:Computer architecture,0.013513513513513514
+Understanding:Compiled language,0.0
+Understanding:Machine code,0.02702702702702703
+Understanding:Software,0.02156254615271009
+Understanding:Logic gate,0.013513513513513514
+Understanding:Computer,0.06756756756756757
+Understanding:Operating system,0.02702702702702703
+Understanding:Central processing unit,0.04054054054054054
+Understanding:Two's complement,0.02702702702702703
+Understanding:Arithmetic,0.08108108108108109
+Understanding:Von Neumann architecture,0.02702702702702703
+Understanding:Instruction set architecture,0.0
+Understanding:Reduced instruction set computer,0.013513513513513514
+Understanding:Complex instruction set computer,0.013513513513513514
+Understanding:Communication,0.04470825966153069
+Understanding:Computer science,0.14000311550743827
+Understanding:Scientist,-0.00904977375565611
+Understanding:Macro (computer science),0.0
+Understanding:Virtualization,0.0
+Understanding:Synchronization,0.0
+Understanding:Input/output,-0.029039677975848187
+Understanding:High-level programming language,0.013513513513513514
+Understanding:Subroutine,0.013513513513513514
+Experience:Parallel computing,0.0
+Experience:Computer hardware,0.010526315789473684
+Experience:Memory,0.049412365866121605
+Experience:Address space,0.0
+Experience:Space,-0.004588394062078272
+Experience:Data,0.002167182662538701
+Experience:Data type,0.0
+Experience:Arithmetic logic unit,0.0
+Experience:System,-0.013513513513513514
+Experience:Computer network,0.0
+Experience:Transistor,0.0
+Experience:Data (computing),-0.008064516129032258
+Experience:Endianness,0.0
+Experience:Integer,0.010526315789473684
+Experience:Compiler,0.0
+Experience:Language,0.04349081112287116
+Experience:Virtual memory,0.0
+Experience:Error correction code,0.0
+Experience:Page table,0.0
+Experience:Cache (computing),0.0
+Experience:Combinatorics,0.010526315789473684
+Experience:Clock signal,0.0
+Experience:Processor register,0.0
+Experience:Abstraction (computer science),0.0
+Experience:Design,-0.006896551724137931
+Experience:Bus (computing),0.0
+Experience:Architecture,-0.0026246719160104987
+Experience:Interrupt,0.0
+Experience:Direct memory access,0.0
+Experience:Computer programming,0.0
+Experience:Assembly language,0.0
+Experience:Program optimization,0.0
+Experience:Concurrency (computer science),0.0
+Experience:Instruction pipelining,0.0
+Experience:Knowledge,0.036090225563909784
+Experience:Functional decomposition,0.0
+Experience:Decomposition,0.0
+Experience:Digital electronics,0.0
+Experience:Understanding,-0.016500711237553346
+Experience:Machine,0.010526315789473684
+Experience:Hardware architecture,0.0
+Experience:Computer architecture,0.0
+Experience:Compiled language,0.0
+Experience:Machine code,0.0
+Experience:Software,0.010526315789473684
+Experience:Logic gate,0.0
+Experience:Computer,0.010526315789473684
+Experience:Operating system,0.0
+Experience:Central processing unit,0.0
+Experience:Two's complement,0.0
+Experience:Arithmetic,0.0
+Experience:Von Neumann architecture,0.0
+Experience:Instruction set architecture,0.0
+Experience:Reduced instruction set computer,0.0
+Experience:Complex instruction set computer,0.0
+Experience:Communication,0.007033939990162321
+Experience:Computer science,0.046867890186561505
+Experience:Scientist,-0.006787330316742082
+Experience:Macro (computer science),0.0
+Experience:Virtualization,0.0
+Experience:Synchronization,0.0
+Experience:Input/output,0.0
+Experience:High-level programming language,0.0
+Experience:Subroutine,0.0
+Concept:Parallel computing,-0.003236245954692557
+Concept:Computer hardware,0.008403361344537815
+Concept:Memory,0.07301949906176064
+Concept:Address space,-0.01694915254237288
+Concept:Space,0.007972419737125619
+Concept:Data,-0.001400560224089636
+Concept:Data type,-0.013179372468411827
+Concept:Arithmetic logic unit,0.0
+Concept:System,-0.03724733136497843
+Concept:Computer network,-0.009685230024213076
+Concept:Transistor,-0.00641025641025641
+Concept:Data (computing),-0.03225806451612903
+Concept:Endianness,-0.00558659217877095
+Concept:Integer,0.008403361344537815
+Concept:Compiler,0.0
+Concept:Language,0.047117201542408546
+Concept:Virtual memory,-0.024793388429752067
+Concept:Error correction code,0.0
+Concept:Page table,0.0
+Concept:Cache (computing),-0.008064516129032258
+Concept:Combinatorics,-0.007725670913526701
+Concept:Clock signal,0.0
+Concept:Processor register,-0.013245033112582781
+Concept:Abstraction (computer science),-0.04195635088567801
+Concept:Design,-0.01918284555201391
+Concept:Bus (computing),-0.0091324200913242
+Concept:Architecture,-0.007344670151525177
+Concept:Interrupt,-0.009174311926605505
+Concept:Direct memory access,-0.00036856848002358826
+Concept:Computer programming,0.011092436974789916
+Concept:Assembly language,-0.007407407407407408
+Concept:Program optimization,0.0
+Concept:Concurrency (computer science),0.008403361344537815
+Concept:Instruction pipelining,0.0
+Concept:Knowledge,0.08845643520566121
+Concept:Functional decomposition,0.0
+Concept:Decomposition,0.0
+Concept:Digital electronics,0.004219260926127773
+Concept:Understanding,0.023393141040199864
+Concept:Machine,0.008403361344537815
+Concept:Hardware architecture,-0.02040816326530612
+Concept:Computer architecture,0.008403361344537815
+Concept:Compiled language,0.0
+Concept:Machine code,-0.016287996680153544
+Concept:Software,-0.00546448087431694
+Concept:Logic gate,0.008403361344537815
+Concept:Computer,0.007059275323032438
+Concept:Operating system,0.0142878310014182
+Concept:Central processing unit,-0.0036101083032490976
+Concept:Two's complement,0.0
+Concept:Arithmetic,0.028350287483414418
+Concept:Von Neumann architecture,0.008403361344537815
+Concept:Instruction set architecture,0.0
+Concept:Reduced instruction set computer,0.0
+Concept:Complex instruction set computer,0.0
+Concept:Communication,-0.01217309353648001
+Concept:Computer science,0.10059816433778122
+Concept:Scientist,-0.02262443438914027
+Concept:Macro (computer science),0.0
+Concept:Virtualization,-0.010309278350515464
+Concept:Synchronization,-0.03
+Concept:Input/output,0.008403361344537815
+Concept:High-level programming language,-0.011904761904761904
+Concept:Subroutine,0.008403361344537815
+Functional programming:Parallel computing,0.046906967228359936
+Functional programming:Computer hardware,0.016457229071129377
+Functional programming:Memory,0.0038314176245210726
+Functional programming:Address space,0.0038314176245210726
+Functional programming:Space,-0.0012967875036840556
+Functional programming:Data,-0.0009015100292990783
+Functional programming:Data type,0.021417348879517073
+Functional programming:Arithmetic logic unit,0.007662835249042145
+Functional programming:System,0.01623174899036968
+Functional programming:Computer network,0.03206145111463639
+Functional programming:Transistor,0.01532567049808429
+Functional programming:Data (computing),-0.024996910147077
+Functional programming:Endianness,-0.020270125644812603
+Functional programming:Integer,0.03122749402241235
+Functional programming:Compiler,0.0897067491895078
+Functional programming:Language,0.12278047447939651
+Functional programming:Virtual memory,0.010892625312688007
+Functional programming:Error correction code,0.0
+Functional programming:Page table,0.0
+Functional programming:Cache (computing),0.003028055864540847
+Functional programming:Combinatorics,0.0022864911630206394
+Functional programming:Clock signal,0.0038314176245210726
+Functional programming:Processor register,0.010783791327294408
+Functional programming:Abstraction (computer science),-0.1631246726756526
+Functional programming:Design,0.007662835249042145
+Functional programming:Bus (computing),0.007662835249042145
+Functional programming:Architecture,0.0050381633330316465
+Functional programming:Interrupt,-0.010685788604168866
+Functional programming:Direct memory access,0.0038314176245210726
+Functional programming:Computer programming,0.0024083196496989534
+Functional programming:Assembly language,0.031928480204342274
+Functional programming:Program optimization,-0.08415792103948026
+Functional programming:Concurrency (computer science),-0.08343475321162949
+Functional programming:Instruction pipelining,-0.03253221873911529
+Functional programming:Knowledge,0.0038314176245210726
+Functional programming:Functional decomposition,-0.04867519291997194
+Functional programming:Decomposition,0.0
+Functional programming:Digital electronics,-0.008368200836820083
+Functional programming:Understanding,-0.013513513513513514
+Functional programming:Machine,0.0
+Functional programming:Hardware architecture,-0.02040816326530612
+Functional programming:Computer architecture,-0.013136288998357962
+Functional programming:Compiled language,-0.31034482758620685
+Functional programming:Machine code,0.019582801191996596
+Functional programming:Software,-0.018528986872683877
+Functional programming:Logic gate,0.0038314176245210726
+Functional programming:Computer,-0.0027499691014707707
+Functional programming:Operating system,0.09337270911143924
+Functional programming:Central processing unit,0.016432217104444168
+Functional programming:Two's complement,-0.01831119072498383
+Functional programming:Arithmetic,0.02538818310143174
+Functional programming:Von Neumann architecture,-0.01304562442705028
+Functional programming:Instruction set architecture,-0.027357256331184007
+Functional programming:Reduced instruction set computer,-0.0018504005572971094
+Functional programming:Complex instruction set computer,0.0
+Functional programming:Communication,-0.004672897196261682
+Functional programming:Computer science,0.19530292490642287
+Functional programming:Scientist,0.03065134099616858
+Functional programming:Macro (computer science),-0.14631226053639848
+Functional programming:Virtualization,0.0038314176245210726
+Functional programming:Synchronization,-0.02
+Functional programming:Input/output,-0.04679220673351268
+Functional programming:High-level programming language,-0.14956212370005473
+Functional programming:Subroutine,-0.0007972892166633327
+Programming language:Parallel computing,-0.024049961576344016
+Programming language:Computer hardware,0.027934219418788014
+Programming language:Memory,0.006688963210702341
+Programming language:Address space,-0.06110764695878918
+Programming language:Space,-0.005128205128205128
+Programming language:Data,-0.03875663977965768
+Programming language:Data type,-0.12855802314670003
+Programming language:Arithmetic logic unit,-0.03661092530657749
+Programming language:System,0.003141100967187921
+Programming language:Computer network,0.024682760128596534
+Programming language:Transistor,0.003623188405797102
+Programming language:Data (computing),-0.13178336390117598
+Programming language:Endianness,-0.11845817529567834
+Programming language:Integer,-0.011667965901375511
+Programming language:Compiler,-0.06835284280936454
+Programming language:Language,0.14622171406210832
+Programming language:Virtual memory,-0.054313275657149176
+Programming language:Error correction code,-0.010839915557769397
+Programming language:Page table,-0.08928571428571429
+Programming language:Cache (computing),-0.04504261516884238
+Programming language:Combinatorics,-0.04504261516884238
+Programming language:Clock signal,-0.021088814567075436
+Programming language:Processor register,-0.035991937805931476
+Programming language:Abstraction (computer science),-0.21267534467409352
+Programming language:Design,-0.00020758851343558992
+Programming language:Bus (computing),-0.01157587697194606
+Programming language:Architecture,-0.005249343832020997
+Programming language:Interrupt,-0.009941394863612656
+Programming language:Direct memory access,-0.017543859649122806
+Programming language:Computer programming,-0.1544386048733875
+Programming language:Assembly language,-0.026557661340270045
+Programming language:Program optimization,-0.23344481605351172
+Programming language:Concurrency (computer science),-0.0842022427700177
+Programming language:Instruction pipelining,-0.07272727272727272
+Programming language:Knowledge,0.0033444816053511705
+Programming language:Functional decomposition,-0.04225352112676056
+Programming language:Decomposition,0.0
+Programming language:Digital electronics,-0.015071157694406739
+Programming language:Understanding,-0.06756756756756757
+Programming language:Machine,-0.0033444816053511705
+Programming language:Hardware architecture,-0.08163265306122448
+Programming language:Computer architecture,-0.029877369007803786
+Programming language:Compiled language,-0.43656633221850616
+Programming language:Machine code,-0.05371815516743053
+Programming language:Software,-0.12168064769632839
+Programming language:Logic gate,-0.04678697261817466
+Programming language:Computer,0.021001905994893363
+Programming language:Operating system,0.10503525605924027
+Programming language:Central processing unit,0.019426970768989298
+Programming language:Two's complement,-0.06788863310602442
+Programming language:Arithmetic,-0.03448336560464707
+Programming language:Von Neumann architecture,-0.058579723823788905
+Programming language:Instruction set architecture,-0.11742393343665879
+Programming language:Reduced instruction set computer,-0.058148373365764665
+Programming language:Complex instruction set computer,-0.08790563138389226
+Programming language:Communication,-0.015347107179695558
+Programming language:Computer science,0.13335518009117808
+Programming language:Scientist,0.043478260869565216
+Programming language:Macro (computer science),-0.16304347826086957
+Programming language:Virtualization,-0.007240630279626245
+Programming language:Synchronization,-0.01
+Programming language:Input/output,-0.1279442112004554
+Programming language:High-level programming language,-0.21145883102404842
+Programming language:Subroutine,-0.15309219556517872
+Language:Parallel computing,-0.027298060027333558
+Language:Computer hardware,0.0
+Language:Memory,-0.013302923270797466
+Language:Address space,0.0
+Language:Space,-0.015028359818122158
+Language:Data,-0.04536330071333835
+Language:Data type,-0.05755395683453238
+Language:Arithmetic logic unit,-0.04
+Language:System,-0.0019887346212757555
+Language:Computer network,0.0
+Language:Transistor,-0.003205128205128205
+Language:Data (computing),-0.04838709677419355
+Language:Endianness,-0.027932960893854747
+Language:Integer,-0.03576583139750656
+Language:Compiler,-0.12913092392068626
+Language:Language,0.0
+Language:Virtual memory,0.0
+Language:Error correction code,0.0
+Language:Page table,-0.017857142857142856
+Language:Cache (computing),0.0
+Language:Combinatorics,-0.007096381042244108
+Language:Clock signal,0.0
+Language:Processor register,-0.006622516556291391
+Language:Abstraction (computer science),-0.09169702629121566
+Language:Design,-0.020689655172413793
+Language:Bus (computing),0.0
+Language:Architecture,-0.010263570801364637
+Language:Interrupt,0.0
+Language:Direct memory access,0.0
+Language:Computer programming,-0.053486550013058236
+Language:Assembly language,-0.03708443361094184
+Language:Program optimization,-0.06086956521739131
+Language:Concurrency (computer science),-0.09411764705882353
+Language:Instruction pipelining,0.0
+Language:Knowledge,-0.015656142183612595
+Language:Functional decomposition,0.0
+Language:Decomposition,0.0
+Language:Digital electronics,-0.016736401673640166
+Language:Understanding,-0.017886259202529772
+Language:Machine,-0.009721619291605779
+Language:Hardware architecture,0.0
+Language:Computer architecture,-0.047619047619047616
+Language:Compiled language,-0.4444444444444444
+Language:Machine code,-0.04572640891958381
+Language:Software,-0.04369586717415411
+Language:Logic gate,-0.016042780748663103
+Language:Computer,-0.015536848105993591
+Language:Operating system,-0.006419259620830819
+Language:Central processing unit,-0.007220216606498195
+Language:Two's complement,-0.025974025974025976
+Language:Arithmetic,-0.01191186375445011
+Language:Von Neumann architecture,-0.004306815760253923
+Language:Instruction set architecture,-0.010366968386320062
+Language:Reduced instruction set computer,0.0
+Language:Complex instruction set computer,-0.02702702702702703
+Language:Communication,-0.07843120504365357
+Language:Computer science,0.014282779004156813
+Language:Scientist,-0.012615086816613864
+Language:Macro (computer science),-0.1736111111111111
+Language:Virtualization,0.0
+Language:Synchronization,-0.018171846435100548
+Language:Input/output,-0.0851063829787234
+Language:High-level programming language,-0.23626708453033862
+Language:Subroutine,-0.07909670192643004
+Discipline:Parallel computing,0.0
+Discipline:Computer hardware,-0.010362694300518135
+Discipline:Memory,0.02127659574468085
+Discipline:Address space,0.0
+Discipline:Space,-0.005128205128205128
+Discipline:Data,0.0
+Discipline:Data type,0.0
+Discipline:Arithmetic logic unit,0.0
+Discipline:System,0.014519838987924093
+Discipline:Computer network,-0.004842615012106538
+Discipline:Transistor,0.0
+Discipline:Data (computing),-0.008064516129032258
+Discipline:Endianness,0.0
+Discipline:Integer,0.0
+Discipline:Compiler,0.0
+Discipline:Language,0.0425531914893617
+Discipline:Virtual memory,0.0
+Discipline:Error correction code,0.0
+Discipline:Page table,0.0
+Discipline:Cache (computing),0.0
+Discipline:Combinatorics,-0.005376344086021506
+Discipline:Clock signal,0.0
+Discipline:Processor register,0.0
+Discipline:Abstraction (computer science),0.0
+Discipline:Design,-0.013793103448275862
+Discipline:Bus (computing),0.0
+Discipline:Architecture,-0.007874015748031496
+Discipline:Interrupt,0.0
+Discipline:Direct memory access,0.0
+Discipline:Computer programming,-0.005714285714285714
+Discipline:Assembly language,-0.003703703703703704
+Discipline:Program optimization,-0.008695652173913044
+Discipline:Concurrency (computer science),0.0
+Discipline:Instruction pipelining,0.0
+Discipline:Knowledge,-0.007518796992481203
+Discipline:Functional decomposition,0.0
+Discipline:Decomposition,0.0
+Discipline:Digital electronics,0.0
+Discipline:Understanding,-0.013513513513513514
+Discipline:Machine,0.0
+Discipline:Hardware architecture,-0.02040816326530612
+Discipline:Computer architecture,-0.009523809523809525
+Discipline:Compiled language,0.0
+Discipline:Machine code,0.0
+Discipline:Software,-0.01092896174863388
+Discipline:Logic gate,0.0
+Discipline:Computer,-0.004032258064516129
+Discipline:Operating system,0.0
+Discipline:Central processing unit,-0.0036101083032490976
+Discipline:Two's complement,0.0
+Discipline:Arithmetic,0.0
+Discipline:Von Neumann architecture,0.0
+Discipline:Instruction set architecture,0.0
+Discipline:Reduced instruction set computer,0.0
+Discipline:Complex instruction set computer,0.0
+Discipline:Communication,-0.004672897196261682
+Discipline:Computer science,-0.002881844380403458
+Discipline:Scientist,0.0009146047944546057
+Discipline:Macro (computer science),0.0
+Discipline:Virtualization,0.0
+Discipline:Synchronization,0.0
+Discipline:Input/output,-0.02127659574468085
+Discipline:High-level programming language,0.0
+Discipline:Subroutine,0.0
+Computation:Parallel computing,0.024060785141409878
+Computation:Computer hardware,0.10970939400765937
+Computation:Memory,0.05065428450823132
+Computation:Address space,-0.01694915254237288
+Computation:Space,-0.005128205128205128
+Computation:Data,-0.027280477408354646
+Computation:Data type,-0.02877697841726619
+Computation:Arithmetic logic unit,0.016811594202898548
+Computation:System,0.05170387779083431
+Computation:Computer network,0.03621433835140541
+Computation:Transistor,0.08375139353400222
+Computation:Data (computing),-0.01858345021037868
+Computation:Endianness,-0.00558659217877095
+Computation:Integer,0.08695652173913043
+Computation:Compiler,0.007316053511705684
+Computation:Language,-0.0018281535648994515
+Computation:Virtual memory,-0.008264462809917356
+Computation:Error correction code,-0.014184397163120567
+Computation:Page table,-0.017857142857142856
+Computation:Cache (computing),-0.008064516129032258
+Computation:Combinatorics,0.005610098176718092
+Computation:Clock signal,0.0
+Computation:Processor register,0.015116613878491218
+Computation:Abstraction (computer science),0.021895527056615575
+Computation:Design,0.0
+Computation:Bus (computing),0.034345840778241016
+Computation:Architecture,-0.0026246719160104987
+Computation:Interrupt,0.003390506581571598
+Computation:Direct memory access,0.0
+Computation:Computer programming,0.08012422360248447
+Computation:Assembly language,0.07584541062801932
+Computation:Program optimization,-0.02608695652173913
+Computation:Concurrency (computer science),-0.0370843989769821
+Computation:Instruction pipelining,-0.03636363636363636
+Computation:Knowledge,-0.007518796992481203
+Computation:Functional decomposition,0.0
+Computation:Decomposition,0.0
+Computation:Digital electronics,0.03929416045115518
+Computation:Understanding,-0.04054054054054054
+Computation:Machine,0.11705685618729096
+Computation:Hardware architecture,-0.061224489795918366
+Computation:Computer architecture,0.024430641821946167
+Computation:Compiled language,0.0
+Computation:Machine code,0.031132581857219538
+Computation:Software,0.026966025184129244
+Computation:Logic gate,0.05452220413857242
+Computation:Computer,0.15509583917718558
+Computation:Operating system,0.05262293286606067
+Computation:Central processing unit,0.04716684978810234
+Computation:Two's complement,0.03049124788255223
+Computation:Arithmetic,0.11990846681922196
+Computation:Von Neumann architecture,0.04067751400373433
+Computation:Instruction set architecture,-0.024390243902439025
+Computation:Reduced instruction set computer,0.016057312252964424
+Computation:Complex instruction set computer,0.008225616921269094
+Computation:Communication,0.0
+Computation:Computer science,0.21476005513093596
+Computation:Scientist,-0.00904977375565611
+Computation:Macro (computer science),-0.013888888888888888
+Computation:Virtualization,0.0
+Computation:Synchronization,-0.02
+Computation:Input/output,-0.06244218316373727
+Computation:High-level programming language,-0.013975155279503104
+Computation:Subroutine,0.03191756722794672
+Type system:Parallel computing,0.004207119741100322
+Type system:Computer hardware,0.044444444444444446
+Type system:Memory,0.0
+Type system:Address space,0.016666666666666666
+Type system:Space,0.0
+Type system:Data,0.012418300653594772
+Type system:Data type,0.04828137490007994
+Type system:Arithmetic logic unit,-0.015555555555555557
+Type system:System,0.022222222222222223
+Type system:Computer network,0.027777777777777776
+Type system:Transistor,0.005555555555555556
+Type system:Data (computing),-0.029211469534050176
+Type system:Endianness,-0.005710738671632524
+Type system:Integer,0.027443609022556395
+Type system:Compiler,0.11752136752136752
+Type system:Language,0.06856591509242331
+Type system:Virtual memory,0.022222222222222223
+Type system:Error correction code,0.0
+Type system:Page table,-0.0123015873015873
+Type system:Cache (computing),0.005555555555555556
+Type system:Combinatorics,0.005555555555555556
+Type system:Clock signal,-0.008333333333333331
+Type system:Processor register,0.015599705665930833
+Type system:Abstraction (computer science),-0.09616306954436452
+Type system:Design,0.011111111111111112
+Type system:Bus (computing),0.011111111111111112
+Type system:Architecture,0.0
+Type system:Interrupt,0.007492354740061161
+Type system:Direct memory access,0.0
+Type system:Computer programming,0.026190476190476188
+Type system:Assembly language,0.04814814814814815
+Type system:Program optimization,-0.06714975845410628
+Type system:Concurrency (computer science),-0.04281045751633987
+Type system:Instruction pipelining,-0.01818181818181818
+Type system:Knowledge,-0.007518796992481203
+Type system:Functional decomposition,-0.014084507042253521
+Type system:Decomposition,0.0
+Type system:Digital electronics,-0.012552301255230125
+Type system:Understanding,0.0
+Type system:Machine,0.0
+Type system:Hardware architecture,0.0
+Type system:Computer architecture,-0.01984126984126984
+Type system:Compiled language,-0.2888888888888889
+Type system:Machine code,0.07654320987654321
+Type system:Software,-0.010564663023679418
+Type system:Logic gate,-0.0106951871657754
+Type system:Computer,0.01603942652329749
+Type system:Operating system,0.07881332213825917
+Type system:Central processing unit,0.044444444444444446
+Type system:Two's complement,0.0018037518037518005
+Type system:Arithmetic,0.011111111111111112
+Type system:Von Neumann architecture,-0.0017382413087934576
+Type system:Instruction set architecture,-0.0016260162601626008
+Type system:Reduced instruction set computer,-0.011363636363636364
+Type system:Complex instruction set computer,-0.013513513513513514
+Type system:Communication,0.0008826583592938739
+Type system:Computer science,0.13517451168748
+Type system:Scientist,0.005555555555555556
+Type system:Macro (computer science),-0.033333333333333326
+Type system:Virtualization,0.011111111111111112
+Type system:Synchronization,0.0
+Type system:Input/output,-0.047163120567375885
+Type system:High-level programming language,-0.04761904761904763
+Type system:Subroutine,0.03574181117533719
+Definition:Parallel computing,0.0
+Definition:Computer hardware,0.0
+Definition:Memory,0.0
+Definition:Address space,0.0
+Definition:Space,-0.0009971509971509977
+Definition:Data,-0.00980392156862745
+Definition:Data type,0.0
+Definition:Arithmetic logic unit,0.0
+Definition:System,-0.013513513513513514
+Definition:Computer network,0.0
+Definition:Transistor,0.0
+Definition:Data (computing),-0.008064516129032258
+Definition:Endianness,0.0
+Definition:Integer,0.059036480089111665
+Definition:Compiler,0.0
+Definition:Language,0.025949624212878324
+Definition:Virtual memory,0.0
+Definition:Error correction code,0.0
+Definition:Page table,0.0
+Definition:Cache (computing),0.0
+Definition:Combinatorics,0.007765830346475506
+Definition:Clock signal,-0.013888888888888888
+Definition:Processor register,0.0
+Definition:Abstraction (computer science),-0.007194244604316547
+Definition:Design,-0.006896551724137931
+Definition:Bus (computing),0.0
+Definition:Architecture,-0.0026246719160104987
+Definition:Interrupt,0.0
+Definition:Direct memory access,0.0
+Definition:Computer programming,0.018518518518518517
+Definition:Assembly language,0.018518518518518517
+Definition:Program optimization,-0.008695652173913044
+Definition:Concurrency (computer science),0.0
+Definition:Instruction pipelining,0.0
+Definition:Knowledge,0.014480646059593427
+Definition:Functional decomposition,-0.014084507042253521
+Definition:Decomposition,0.0
+Definition:Digital electronics,-0.0041841004184100415
+Definition:Understanding,-0.022022022022022025
+Definition:Machine,0.0
+Definition:Hardware architecture,0.0
+Definition:Computer architecture,0.0
+Definition:Compiled language,0.0
+Definition:Machine code,0.0
+Definition:Software,0.0
+Definition:Logic gate,-0.0106951871657754
+Definition:Computer,0.009259259259259259
+Definition:Operating system,0.0
+Definition:Central processing unit,0.0
+Definition:Two's complement,0.0
+Definition:Arithmetic,0.017251461988304094
+Definition:Von Neumann architecture,-0.006134969325153374
+Definition:Instruction set architecture,0.0
+Definition:Reduced instruction set computer,0.0
+Definition:Complex instruction set computer,0.0
+Definition:Communication,0.009259259259259259
+Definition:Computer science,0.07468780019212296
+Definition:Scientist,-0.006787330316742082
+Definition:Macro (computer science),0.0
+Definition:Virtualization,0.0
+Definition:Synchronization,0.0
+Definition:Input/output,0.0
+Definition:High-level programming language,0.0
+Definition:Subroutine,-0.005780346820809248
+Implementation:Parallel computing,0.041208198489751886
+Implementation:Computer hardware,0.08370754173862982
+Implementation:Memory,0.044444444444444446
+Implementation:Address space,-0.01694915254237288
+Implementation:Space,0.022222222222222223
+Implementation:Data,0.0026143790849673214
+Implementation:Data type,0.0006394884092725817
+Implementation:Arithmetic logic unit,0.022222222222222223
+Implementation:System,0.05990990990990991
+Implementation:Computer network,0.034759214420231374
+Implementation:Transistor,0.022222222222222223
+Implementation:Data (computing),0.014157706093189965
+Implementation:Endianness,0.0
+Implementation:Integer,0.022222222222222223
+Implementation:Compiler,0.1063034188034188
+Implementation:Language,0.02039406865732277
+Implementation:Virtual memory,-0.008264462809917356
+Implementation:Error correction code,0.0
+Implementation:Page table,0.0
+Implementation:Cache (computing),0.0
+Implementation:Combinatorics,-0.005376344086021506
+Implementation:Clock signal,0.022222222222222223
+Implementation:Processor register,0.015599705665930833
+Implementation:Abstraction (computer science),-0.00591526778577138
+Implementation:Design,0.0015325670498084303
+Implementation:Bus (computing),0.008523592085235922
+Implementation:Architecture,0.03132108486439195
+Implementation:Interrupt,0.0
+Implementation:Direct memory access,0.0
+Implementation:Computer programming,0.05523809523809524
+Implementation:Assembly language,0.03333333333333333
+Implementation:Program optimization,-0.008695652173913044
+Implementation:Concurrency (computer science),-0.011764705882352941
+Implementation:Instruction pipelining,0.0
+Implementation:Knowledge,0.022222222222222223
+Implementation:Functional decomposition,-0.014084507042253521
+Implementation:Decomposition,0.0
+Implementation:Digital electronics,-0.008368200836820083
+Implementation:Understanding,0.022222222222222223
+Implementation:Machine,0.0
+Implementation:Hardware architecture,-0.061224489795918366
+Implementation:Computer architecture,0.022222222222222223
+Implementation:Compiled language,-0.022222222222222223
+Implementation:Machine code,0.04197530864197531
+Implementation:Software,0.05573770491803279
+Implementation:Logic gate,-0.0053475935828877
+Implementation:Computer,0.08485663082437277
+Implementation:Operating system,0.09851665267282395
+Implementation:Central processing unit,0.040834336141195346
+Implementation:Two's complement,0.0
+Implementation:Arithmetic,0.022222222222222223
+Implementation:Von Neumann architecture,0.01608725289706885
+Implementation:Instruction set architecture,-0.006097560975609756
+Implementation:Reduced instruction set computer,-0.005681818181818182
+Implementation:Complex instruction set computer,-0.013513513513513514
+Implementation:Communication,0.03977154724818276
+Implementation:Computer science,0.007813000320204933
+Implementation:Scientist,0.0
+Implementation:Macro (computer science),-0.013888888888888888
+Implementation:Virtualization,-0.030927835051546393
+Implementation:Synchronization,-0.01
+Implementation:Input/output,0.044444444444444446
+Implementation:High-level programming language,-0.011904761904761904
+Implementation:Subroutine,0.010661528580603727
+Syntax:Parallel computing,-0.006472491909385114
+Syntax:Computer hardware,0.0
+Syntax:Memory,-0.010606903040930668
+Syntax:Address space,0.0
+Syntax:Space,-0.015384615384615385
+Syntax:Data,-0.0392156862745098
+Syntax:Data type,-0.02158273381294964
+Syntax:Arithmetic logic unit,-0.013333333333333334
+Syntax:System,-0.033783783783783786
+Syntax:Computer network,-0.004842615012106538
+Syntax:Transistor,0.0
+Syntax:Data (computing),-0.04838709677419355
+Syntax:Endianness,-0.01675977653631285
+Syntax:Integer,-0.015037593984962405
+Syntax:Compiler,-0.02043798712300915
+Syntax:Language,-0.03944623859417408
+Syntax:Virtual memory,0.0
+Syntax:Error correction code,0.0
+Syntax:Page table,0.0
+Syntax:Cache (computing),0.0
+Syntax:Combinatorics,-0.022476434086495193
+Syntax:Clock signal,0.0
+Syntax:Processor register,-0.006622516556291391
+Syntax:Abstraction (computer science),-0.02158273381294964
+Syntax:Design,-0.020689655172413793
+Syntax:Bus (computing),-0.0045662100456621
+Syntax:Architecture,-0.0008440574884086621
+Syntax:Interrupt,0.0
+Syntax:Direct memory access,0.0
+Syntax:Computer programming,-0.017142857142857144
+Syntax:Assembly language,-0.003703703703703704
+Syntax:Program optimization,-0.02608695652173913
+Syntax:Concurrency (computer science),-0.019124125421093548
+Syntax:Instruction pipelining,-0.01818181818181818
+Syntax:Knowledge,-0.0018217349541254004
+Syntax:Functional decomposition,-0.014084507042253521
+Syntax:Decomposition,-0.005649717514124294
+Syntax:Digital electronics,0.00022118592520229373
+Syntax:Understanding,-0.05405405405405406
+Syntax:Machine,0.0010608047382611647
+Syntax:Hardware architecture,-0.02040816326530612
+Syntax:Computer architecture,-0.01904761904761905
+Syntax:Compiled language,-0.022222222222222223
+Syntax:Machine code,-0.012345679012345678
+Syntax:Software,-0.033846079776606246
+Syntax:Logic gate,-0.006289900822163065
+Syntax:Computer,-0.0023151437639145466
+Syntax:Operating system,-0.0031513887193599568
+Syntax:Central processing unit,0.0
+Syntax:Two's complement,0.0
+Syntax:Arithmetic,0.00881057268722467
+Syntax:Von Neumann architecture,-0.012269938650306749
+Syntax:Instruction set architecture,-0.012195121951219513
+Syntax:Reduced instruction set computer,-0.011363636363636364
+Syntax:Complex instruction set computer,-0.02702702702702703
+Syntax:Communication,-0.029375437440816828
+Syntax:Computer science,0.021163147938909978
+Syntax:Scientist,-0.013574660633484163
+Syntax:Macro (computer science),-0.034722222222222224
+Syntax:Virtualization,0.0
+Syntax:Synchronization,0.0
+Syntax:Input/output,-0.02127659574468085
+Syntax:High-level programming language,-0.05952380952380952
+Syntax:Subroutine,-0.023121387283236993
+Parsing:Parallel computing,-0.012944983818770227
+Parsing:Computer hardware,0.013986013986013986
+Parsing:Memory,0.013986013986013986
+Parsing:Address space,0.006993006993006993
+Parsing:Space,0.0
+Parsing:Data,-0.01261483614424791
+Parsing:Data type,0.013181063540775771
+Parsing:Arithmetic logic unit,0.0
+Parsing:System,0.021215271215271215
+Parsing:Computer network,-0.009685230024213076
+Parsing:Transistor,0.003787878787878788
+Parsing:Data (computing),-0.04032258064516129
+Parsing:Endianness,-0.00558659217877095
+Parsing:Integer,0.006993006993006993
+Parsing:Compiler,0.08872377622377622
+Parsing:Language,0.07111900896178776
+Parsing:Virtual memory,-0.008264462809917356
+Parsing:Error correction code,0.0
+Parsing:Page table,0.0
+Parsing:Cache (computing),-0.008064516129032258
+Parsing:Combinatorics,-0.014512369351079031
+Parsing:Clock signal,0.0
+Parsing:Processor register,-0.019867549668874173
+Parsing:Abstraction (computer science),-0.0291794536398853
+Parsing:Design,0.0
+Parsing:Bus (computing),-0.0045662100456621
+Parsing:Architecture,0.0
+Parsing:Interrupt,0.0
+Parsing:Direct memory access,0.0
+Parsing:Computer programming,0.0006793206793206802
+Parsing:Assembly language,0.044004144004144014
+Parsing:Program optimization,-0.06086956521739131
+Parsing:Concurrency (computer science),-0.023529411764705882
+Parsing:Instruction pipelining,-0.01818181818181818
+Parsing:Knowledge,0.0
+Parsing:Functional decomposition,-0.014084507042253521
+Parsing:Decomposition,0.0
+Parsing:Digital electronics,-0.008368200836820083
+Parsing:Understanding,-0.006520506520506521
+Parsing:Machine,0.0
+Parsing:Hardware architecture,-0.04081632653061224
+Parsing:Computer architecture,-0.0025308025308025317
+Parsing:Compiled language,-0.04156954156954157
+Parsing:Machine code,-0.014417681084347746
+Parsing:Software,-0.0273224043715847
+Parsing:Logic gate,-0.0053475935828877
+Parsing:Computer,0.013187081735468831
+Parsing:Operating system,0.015377569533740818
+Parsing:Central processing unit,0.020751811365529775
+Parsing:Two's complement,0.0
+Parsing:Arithmetic,-0.003533308796466691
+Parsing:Von Neumann architecture,-0.018404907975460124
+Parsing:Instruction set architecture,0.0017908920347944734
+Parsing:Reduced instruction set computer,-0.005681818181818182
+Parsing:Complex instruction set computer,-0.013513513513513514
+Parsing:Communication,0.02097902097902098
+Parsing:Computer science,0.17808992160577175
+Parsing:Scientist,0.0
+Parsing:Macro (computer science),0.007235819735819736
+Parsing:Virtualization,-0.0033162713575084707
+Parsing:Synchronization,0.0
+Parsing:Input/output,-0.014283588751673858
+Parsing:High-level programming language,-0.005661005661005657
+Parsing:Subroutine,-0.0009297061320182702
+Semantics (computer science):Parallel computing,0.008912123475230273
+Semantics (computer science):Computer hardware,0.09230769230769231
+Semantics (computer science):Memory,0.0
+Semantics (computer science):Address space,0.015384615384615385
+Semantics (computer science):Space,0.0
+Semantics (computer science):Data,0.005580693815987935
+Semantics (computer science):Data type,0.011178749308245715
+Semantics (computer science):Arithmetic logic unit,0.0
+Semantics (computer science):System,0.03264033264033264
+Semantics (computer science):Computer network,0.012963307878562116
+Semantics (computer science):Transistor,0.015384615384615385
+Semantics (computer science):Data (computing),-0.024193548387096774
+Semantics (computer science):Endianness,-0.00558659217877095
+Semantics (computer science):Integer,0.05401966454598034
+Semantics (computer science):Compiler,0.13942307692307693
+Semantics (computer science):Language,0.02894107720433132
+Semantics (computer science):Virtual memory,0.0
+Semantics (computer science):Error correction code,0.0
+Semantics (computer science):Page table,0.0
+Semantics (computer science):Cache (computing),0.0
+Semantics (computer science):Combinatorics,0.025392886683209263
+Semantics (computer science):Clock signal,0.0
+Semantics (computer science):Processor register,0.008762098828323996
+Semantics (computer science):Abstraction (computer science),-0.010403984504703923
+Semantics (computer science):Design,0.015384615384615385
+Semantics (computer science):Bus (computing),0.0
+Semantics (computer science):Architecture,0.0
+Semantics (computer science):Interrupt,0.0
+Semantics (computer science):Direct memory access,-0.008771929824561403
+Semantics (computer science):Computer programming,0.09450549450549452
+Semantics (computer science):Assembly language,0.0547008547008547
+Semantics (computer science):Program optimization,-0.034782608695652174
+Semantics (computer science):Concurrency (computer science),0.03348416289592761
+Semantics (computer science):Instruction pipelining,-0.03636363636363636
+Semantics (computer science):Knowledge,0.0
+Semantics (computer science):Functional decomposition,-0.014084507042253521
+Semantics (computer science):Decomposition,0.0
+Semantics (computer science):Digital electronics,-0.0041841004184100415
+Semantics (computer science):Understanding,0.0
+Semantics (computer science):Machine,0.0
+Semantics (computer science):Hardware architecture,0.0
+Semantics (computer science):Computer architecture,0.011721611721611722
+Semantics (computer science):Compiled language,-0.013675213675213675
+Semantics (computer science):Machine code,0.009116809116809121
+Semantics (computer science):Software,0.08137873055905843
+Semantics (computer science):Logic gate,0.015384615384615385
+Semantics (computer science):Computer,0.04212158808933003
+Semantics (computer science):Operating system,0.0411160627785313
+Semantics (computer science):Central processing unit,0.027159122465981674
+Semantics (computer science):Two's complement,0.0
+Semantics (computer science):Arithmetic,0.07692307692307693
+Semantics (computer science):Von Neumann architecture,-0.012269938650306749
+Semantics (computer science):Instruction set architecture,0.006378986866791746
+Semantics (computer science):Reduced instruction set computer,-0.011363636363636364
+Semantics (computer science):Complex instruction set computer,0.0
+Semantics (computer science):Communication,-0.004672897196261682
+Semantics (computer science):Computer science,0.35770339170915544
+Semantics (computer science):Scientist,0.03076923076923077
+Semantics (computer science):Macro (computer science),0.0029914529914529947
+Semantics (computer science):Virtualization,0.015384615384615385
+Semantics (computer science):Synchronization,-0.02
+Semantics (computer science):Input/output,0.015384615384615385
+Semantics (computer science):High-level programming language,0.0020146520146520214
+Semantics (computer science):Subroutine,-0.00969319697643397
+Evaluation:Parallel computing,0.0
+Evaluation:Computer hardware,0.0
+Evaluation:Memory,0.014563106796116504
+Evaluation:Address space,0.0
+Evaluation:Space,-0.00027383619616629367
+Evaluation:Data,0.02912621359223301
+Evaluation:Data type,-0.0023398756722777126
+Evaluation:Arithmetic logic unit,0.0
+Evaluation:System,0.04178693256363159
+Evaluation:Computer network,0.0048543689320388345
+Evaluation:Transistor,0.0
+Evaluation:Data (computing),0.0
+Evaluation:Endianness,0.0
+Evaluation:Integer,0.0048543689320388345
+Evaluation:Compiler,0.0
+Evaluation:Language,0.019417475728155338
+Evaluation:Virtual memory,0.0
+Evaluation:Error correction code,0.0
+Evaluation:Page table,0.0
+Evaluation:Cache (computing),0.0
+Evaluation:Combinatorics,0.0048543689320388345
+Evaluation:Clock signal,0.0
+Evaluation:Processor register,0.0
+Evaluation:Abstraction (computer science),-0.007194244604316547
+Evaluation:Design,0.0007700033478406434
+Evaluation:Bus (computing),0.0
+Evaluation:Architecture,0.00708406594806717
+Evaluation:Interrupt,0.0
+Evaluation:Direct memory access,0.0
+Evaluation:Computer programming,0.0
+Evaluation:Assembly language,0.0
+Evaluation:Program optimization,0.0
+Evaluation:Concurrency (computer science),0.0
+Evaluation:Instruction pipelining,0.0
+Evaluation:Knowledge,0.06796116504854369
+Evaluation:Functional decomposition,0.0
+Evaluation:Decomposition,0.0
+Evaluation:Digital electronics,0.0
+Evaluation:Understanding,0.014563106796116505
+Evaluation:Machine,0.0
+Evaluation:Hardware architecture,-0.04081632653061224
+Evaluation:Computer architecture,0.0
+Evaluation:Compiled language,0.0
+Evaluation:Machine code,0.0048543689320388345
+Evaluation:Software,0.014563106796116505
+Evaluation:Logic gate,0.0
+Evaluation:Computer,0.038834951456310676
+Evaluation:Operating system,0.014563106796116505
+Evaluation:Central processing unit,0.0048543689320388345
+Evaluation:Two's complement,0.0
+Evaluation:Arithmetic,0.0
+Evaluation:Von Neumann architecture,0.0
+Evaluation:Instruction set architecture,0.0
+Evaluation:Reduced instruction set computer,0.0
+Evaluation:Complex instruction set computer,0.0
+Evaluation:Communication,0.04854368932038835
+Evaluation:Computer science,0.05339805825242718
+Evaluation:Scientist,-0.001932961384703247
+Evaluation:Macro (computer science),0.0
+Evaluation:Virtualization,0.0
+Evaluation:Synchronization,0.0
+Evaluation:Input/output,0.0
+Evaluation:High-level programming language,0.0
+Evaluation:Subroutine,0.0
+Documentation:Parallel computing,0.0
+Documentation:Computer hardware,0.0
+Documentation:Memory,0.0
+Documentation:Address space,0.0
+Documentation:Space,0.0
+Documentation:Data,-0.00980392156862745
+Documentation:Data type,-0.014388489208633094
+Documentation:Arithmetic logic unit,0.0
+Documentation:System,0.015873015873015872
+Documentation:Computer network,0.031746031746031744
+Documentation:Transistor,0.015873015873015872
+Documentation:Data (computing),0.0
+Documentation:Endianness,-0.00558659217877095
+Documentation:Integer,0.0
+Documentation:Compiler,-0.009615384615384616
+Documentation:Language,0.0
+Documentation:Virtual memory,0.0
+Documentation:Error correction code,0.0
+Documentation:Page table,0.0
+Documentation:Cache (computing),0.0
+Documentation:Combinatorics,0.0
+Documentation:Clock signal,0.0
+Documentation:Processor register,0.0
+Documentation:Abstraction (computer science),-0.014388489208633094
+Documentation:Design,-0.020689655172413793
+Documentation:Bus (computing),0.0
+Documentation:Architecture,0.015873015873015872
+Documentation:Interrupt,0.0
+Documentation:Direct memory access,-0.008771929824561403
+Documentation:Computer programming,-0.011428571428571429
+Documentation:Assembly language,-0.007407407407407408
+Documentation:Program optimization,-0.008695652173913044
+Documentation:Concurrency (computer science),0.0
+Documentation:Instruction pipelining,0.0
+Documentation:Knowledge,0.0
+Documentation:Functional decomposition,0.0
+Documentation:Decomposition,0.0
+Documentation:Digital electronics,0.01168891545460583
+Documentation:Understanding,0.0
+Documentation:Machine,0.0
+Documentation:Hardware architecture,0.0
+Documentation:Computer architecture,0.0
+Documentation:Compiled language,0.0
+Documentation:Machine code,-0.012345679012345678
+Documentation:Software,0.05802758261774655
+Documentation:Logic gate,0.0
+Documentation:Computer,0.027713773681515615
+Documentation:Operating system,0.04510015593139018
+Documentation:Central processing unit,0.0
+Documentation:Two's complement,0.0
+Documentation:Arithmetic,0.0
+Documentation:Von Neumann architecture,0.0
+Documentation:Instruction set architecture,0.0
+Documentation:Reduced instruction set computer,0.0
+Documentation:Complex instruction set computer,0.0
+Documentation:Communication,0.02707313454977006
+Documentation:Computer science,-0.005763688760806916
+Documentation:Scientist,-0.0022624434389140274
+Documentation:Macro (computer science),-0.013888888888888888
+Documentation:Virtualization,0.0
+Documentation:Synchronization,0.0
+Documentation:Input/output,-0.02127659574468085
+Documentation:High-level programming language,-0.011904761904761904
+Documentation:Subroutine,-0.011560693641618497
+Debugging:Parallel computing,0.005796792204559198
+Debugging:Computer hardware,0.11176905995558845
+Debugging:Memory,0.0
+Debugging:Address space,0.016017880424660087
+Debugging:Space,0.0
+Debugging:Data,0.001185089420383539
+Debugging:Data type,-0.010198434658866315
+Debugging:Arithmetic logic unit,-0.01802197802197802
+Debugging:System,0.02621027621027621
+Debugging:Computer network,0.03427081393183089
+Debugging:Transistor,0.007783882783882785
+Debugging:Data (computing),-0.03447359092520383
+Debugging:Endianness,-0.01712812327337467
+Debugging:Integer,0.01098901098901099
+Debugging:Compiler,0.14285714285714285
+Debugging:Language,0.05311690138015549
+Debugging:Virtual memory,-0.002815366451730087
+Debugging:Error correction code,-0.0070921985815602835
+Debugging:Page table,-0.03571428571428571
+Debugging:Cache (computing),-0.016129032258064516
+Debugging:Combinatorics,0.0
+Debugging:Clock signal,-0.0028998778998778982
+Debugging:Processor register,0.03718797758532858
+Debugging:Abstraction (computer science),0.04814609850581074
+Debugging:Design,0.001288366805608187
+Debugging:Bus (computing),0.014702192784384567
+Debugging:Architecture,0.0
+Debugging:Interrupt,0.07873777598548241
+Debugging:Direct memory access,-0.017543859649122806
+Debugging:Computer programming,0.012747252747252746
+Debugging:Assembly language,0.09112739112739113
+Debugging:Program optimization,-0.03889154323936933
+Debugging:Concurrency (computer science),-0.012540400775694892
+Debugging:Instruction pipelining,-0.07992007992007992
+Debugging:Knowledge,0.01098901098901099
+Debugging:Functional decomposition,0.0
+Debugging:Decomposition,0.0
+Debugging:Digital electronics,-0.01411559152144926
+Debugging:Understanding,0.0
+Debugging:Machine,-0.0033444816053511705
+Debugging:Hardware architecture,-0.061224489795918366
+Debugging:Computer architecture,-0.008791208791208788
+Debugging:Compiled language,-0.08901098901098901
+Debugging:Machine code,0.07977207977207978
+Debugging:Software,0.049840869513000666
+Debugging:Logic gate,-0.0053475935828877
+Debugging:Computer,0.09423372326598134
+Debugging:Operating system,0.26395770476375013
+Debugging:Central processing unit,0.12857539572341017
+Debugging:Two's complement,-0.05194805194805195
+Debugging:Arithmetic,0.01098901098901099
+Debugging:Von Neumann architecture,-0.014831793972898268
+Debugging:Instruction set architecture,-0.0036183328866255665
+Debugging:Reduced instruction set computer,-0.028409090909090908
+Debugging:Complex instruction set computer,-0.05405405405405406
+Debugging:Communication,-0.004672897196261682
+Debugging:Computer science,0.10593153244450075
+Debugging:Scientist,0.019715578539107954
+Debugging:Macro (computer science),0.02022283272283272
+Debugging:Virtualization,-0.010309278350515464
+Debugging:Synchronization,0.0
+Debugging:Input/output,0.02408230067804537
+Debugging:High-level programming language,0.005494505494505503
+Debugging:Subroutine,0.05786698850282665
+Design:Parallel computing,-0.012944983818770227
+Design:Computer hardware,0.010326960871895658
+Design:Memory,0.0
+Design:Address space,0.0
+Design:Space,-0.020512820512820513
+Design:Data,0.013793103448275862
+Design:Data type,0.0
+Design:Arithmetic logic unit,0.0
+Design:System,0.028424976700838767
+Design:Computer network,0.0
+Design:Transistor,0.010587975243147658
+Design:Data (computing),-0.016129032258064516
+Design:Endianness,0.0
+Design:Integer,-0.007518796992481203
+Design:Compiler,-0.004807692307692308
+Design:Language,0.020689655172413793
+Design:Virtual memory,0.0
+Design:Error correction code,0.0
+Design:Page table,0.0
+Design:Cache (computing),0.0
+Design:Combinatorics,-0.005376344086021506
+Design:Clock signal,-0.013888888888888888
+Design:Processor register,-0.013245033112582781
+Design:Abstraction (computer science),-0.01468618208881171
+Design:Design,0.0
+Design:Bus (computing),0.0
+Design:Architecture,0.12449995474703594
+Design:Interrupt,0.0
+Design:Direct memory access,0.0
+Design:Computer programming,0.02541871921182266
+Design:Assembly language,-0.007407407407407408
+Design:Program optimization,-0.008695652173913044
+Design:Concurrency (computer science),0.002028397565922921
+Design:Instruction pipelining,0.0
+Design:Knowledge,0.040757065076484314
+Design:Functional decomposition,0.006896551724137931
+Design:Decomposition,0.0
+Design:Digital electronics,-0.016736401673640166
+Design:Understanding,0.006896551724137931
+Design:Machine,0.020897243685849384
+Design:Hardware architecture,-0.02012667135819845
+Design:Computer architecture,-0.040722495894909685
+Design:Compiled language,0.0
+Design:Machine code,0.0
+Design:Software,0.04281138119464858
+Design:Logic gate,0.009994468006638392
+Design:Computer,0.012625139043381535
+Design:Operating system,0.0043776600364805
+Design:Central processing unit,-0.003933773185609361
+Design:Two's complement,0.0
+Design:Arithmetic,0.0
+Design:Von Neumann architecture,-0.018404907975460124
+Design:Instruction set architecture,-0.006097560975609756
+Design:Reduced instruction set computer,-0.028409090909090908
+Design:Complex instruction set computer,0.0
+Design:Communication,0.027586206896551724
+Design:Computer science,0.05918712113683792
+Design:Scientist,0.011530660009361834
+Design:Macro (computer science),0.0
+Design:Virtualization,0.0
+Design:Synchronization,0.0
+Design:Input/output,-0.0425531914893617
+Design:High-level programming language,-0.011904761904761904
+Design:Subroutine,-0.004664141917480566
+Recursion (computer science):Parallel computing,0.014304207119741105
+Recursion (computer science):Computer hardware,0.04666666666666667
+Recursion (computer science):Memory,0.0
+Recursion (computer science):Address space,0.013333333333333334
+Recursion (computer science):Space,0.0
+Recursion (computer science):Data,0.0035294117647058833
+Recursion (computer science):Data type,-0.0036930455635491577
+Recursion (computer science):Arithmetic logic unit,0.013333333333333334
+Recursion (computer science):System,-9.009009009009004e-05
+Recursion (computer science):Computer network,0.02666666666666667
+Recursion (computer science):Transistor,0.006666666666666667
+Recursion (computer science):Data (computing),0.005268817204301076
+Recursion (computer science):Endianness,-0.01567970204841713
+Recursion (computer science):Integer,0.08
+Recursion (computer science):Compiler,0.07192307692307692
+Recursion (computer science):Language,0.024838513101767216
+Recursion (computer science):Virtual memory,0.025068870523415977
+Recursion (computer science):Error correction code,0.0
+Recursion (computer science):Page table,-0.017857142857142856
+Recursion (computer science):Cache (computing),0.002473118279569895
+Recursion (computer science):Combinatorics,0.021290322580645164
+Recursion (computer science):Clock signal,0.006666666666666667
+Recursion (computer science):Processor register,0.006799116997792495
+Recursion (computer science):Abstraction (computer science),-0.018081534772182252
+Recursion (computer science):Design,0.0
+Recursion (computer science):Bus (computing),0.006666666666666667
+Recursion (computer science):Architecture,0.0
+Recursion (computer science):Interrupt,0.03333333333333333
+Recursion (computer science):Direct memory access,-0.017543859649122806
+Recursion (computer science):Computer programming,0.02285714285714286
+Recursion (computer science):Assembly language,0.0637037037037037
+Recursion (computer science):Program optimization,-0.06028985507246376
+Recursion (computer science):Concurrency (computer science),-0.015294117647058823
+Recursion (computer science):Instruction pipelining,0.006666666666666667
+Recursion (computer science):Knowledge,0.006666666666666667
+Recursion (computer science):Functional decomposition,0.0
+Recursion (computer science):Decomposition,0.0
+Recursion (computer science):Digital electronics,0.006666666666666667
+Recursion (computer science):Understanding,-0.013513513513513514
+Recursion (computer science):Machine,0.0
+Recursion (computer science):Hardware architecture,-0.02040816326530612
+Recursion (computer science):Computer architecture,0.017142857142857144
+Recursion (computer science):Compiled language,-0.06888888888888889
+Recursion (computer science):Machine code,0.1
+Recursion (computer science):Software,0.00721311475409836
+Recursion (computer science):Logic gate,0.006666666666666667
+Recursion (computer science):Computer,0.034516129032258064
+Recursion (computer science):Operating system,0.10236775818639798
+Recursion (computer science):Central processing unit,0.05583634175691937
+Recursion (computer science):Two's complement,-0.025974025974025976
+Recursion (computer science):Arithmetic,0.02666666666666667
+Recursion (computer science):Von Neumann architecture,0.0015950920245398764
+Recursion (computer science):Instruction set architecture,-0.011056910569105691
+Recursion (computer science):Reduced instruction set computer,-0.005681818181818182
+Recursion (computer science):Complex instruction set computer,-0.04054054054054054
+Recursion (computer science):Communication,0.0
+Recursion (computer science):Computer science,0.2684726224783862
+Recursion (computer science):Scientist,0.006666666666666667
+Recursion (computer science):Macro (computer science),-0.04972222222222222
+Recursion (computer science):Virtualization,-0.0036426116838487966
+Recursion (computer science):Synchronization,0.0
+Recursion (computer science):Input/output,0.025390070921985818
+Recursion (computer science):High-level programming language,-0.05904761904761904
+Recursion (computer science):Subroutine,0.0573025048169557
+Divide-and-conquer algorithm:Parallel computing,0.05128205128205128
+Divide-and-conquer algorithm:Computer hardware,0.02564102564102564
+Divide-and-conquer algorithm:Memory,0.01282051282051282
+Divide-and-conquer algorithm:Address space,0.02564102564102564
+Divide-and-conquer algorithm:Space,0.0
+Divide-and-conquer algorithm:Data,0.01282051282051282
+Divide-and-conquer algorithm:Data type,0.0
+Divide-and-conquer algorithm:Arithmetic logic unit,0.01282051282051282
+Divide-and-conquer algorithm:System,0.0
+Divide-and-conquer algorithm:Computer network,0.02564102564102564
+Divide-and-conquer algorithm:Transistor,0.0
+Divide-and-conquer algorithm:Data (computing),0.0
+Divide-and-conquer algorithm:Endianness,0.0
+Divide-and-conquer algorithm:Integer,0.08974358974358974
+Divide-and-conquer algorithm:Compiler,0.041666666666666664
+Divide-and-conquer algorithm:Language,0.0
+Divide-and-conquer algorithm:Virtual memory,0.02564102564102564
+Divide-and-conquer algorithm:Error correction code,0.0
+Divide-and-conquer algorithm:Page table,0.01282051282051282
+Divide-and-conquer algorithm:Cache (computing),0.06885856079404468
+Divide-and-conquer algorithm:Combinatorics,0.0
+Divide-and-conquer algorithm:Clock signal,0.0
+Divide-and-conquer algorithm:Processor register,0.038461538461538464
+Divide-and-conquer algorithm:Abstraction (computer science),0.02564102564102564
+Divide-and-conquer algorithm:Design,0.01282051282051282
+Divide-and-conquer algorithm:Bus (computing),0.01282051282051282
+Divide-and-conquer algorithm:Architecture,0.0
+Divide-and-conquer algorithm:Interrupt,0.003646200893907315
+Divide-and-conquer algorithm:Direct memory access,0.01282051282051282
+Divide-and-conquer algorithm:Computer programming,0.03274725274725275
+Divide-and-conquer algorithm:Assembly language,0.009116809116809116
+Divide-and-conquer algorithm:Program optimization,0.008249721293199553
+Divide-and-conquer algorithm:Concurrency (computer science),0.0
+Divide-and-conquer algorithm:Instruction pipelining,0.0
+Divide-and-conquer algorithm:Knowledge,0.0
+Divide-and-conquer algorithm:Functional decomposition,0.0
+Divide-and-conquer algorithm:Decomposition,0.0
+Divide-and-conquer algorithm:Digital electronics,0.0
+Divide-and-conquer algorithm:Understanding,0.0
+Divide-and-conquer algorithm:Machine,0.0
+Divide-and-conquer algorithm:Hardware architecture,0.0
+Divide-and-conquer algorithm:Computer architecture,0.038461538461538464
+Divide-and-conquer algorithm:Compiled language,0.0
+Divide-and-conquer algorithm:Machine code,0.00047483380816714174
+Divide-and-conquer algorithm:Software,0.0018915510718789403
+Divide-and-conquer algorithm:Logic gate,0.0
+Divide-and-conquer algorithm:Computer,0.0641025641025641
+Divide-and-conquer algorithm:Operating system,0.0641025641025641
+Divide-and-conquer algorithm:Central processing unit,0.038461538461538464
+Divide-and-conquer algorithm:Two's complement,0.0
+Divide-and-conquer algorithm:Arithmetic,0.01282051282051282
+Divide-and-conquer algorithm:Von Neumann architecture,0.03232656913638509
+Divide-and-conquer algorithm:Instruction set architecture,0.0
+Divide-and-conquer algorithm:Reduced instruction set computer,0.0
+Divide-and-conquer algorithm:Complex instruction set computer,0.0
+Divide-and-conquer algorithm:Communication,0.0
+Divide-and-conquer algorithm:Computer science,0.20930318480750756
+Divide-and-conquer algorithm:Scientist,0.01282051282051282
+Divide-and-conquer algorithm:Macro (computer science),0.01282051282051282
+Divide-and-conquer algorithm:Virtualization,0.0
+Divide-and-conquer algorithm:Synchronization,0.0
+Divide-and-conquer algorithm:Input/output,0.02564102564102564
+Divide-and-conquer algorithm:High-level programming language,0.01282051282051282
+Divide-and-conquer algorithm:Subroutine,0.014080331999407144
+Decomposition:Parallel computing,0.0
+Decomposition:Computer hardware,0.0
+Decomposition:Memory,0.005649717514124294
+Decomposition:Address space,0.0
+Decomposition:Space,0.005649717514124294
+Decomposition:Data,-0.00980392156862745
+Decomposition:Data type,0.0
+Decomposition:Arithmetic logic unit,0.0
+Decomposition:System,0.010192395785616124
+Decomposition:Computer network,0.0
+Decomposition:Transistor,0.0
+Decomposition:Data (computing),0.0
+Decomposition:Endianness,0.0
+Decomposition:Integer,0.0
+Decomposition:Compiler,0.0
+Decomposition:Language,0.0
+Decomposition:Virtual memory,0.0
+Decomposition:Error correction code,0.0
+Decomposition:Page table,0.0
+Decomposition:Cache (computing),0.0
+Decomposition:Combinatorics,0.0
+Decomposition:Clock signal,0.0
+Decomposition:Processor register,0.0
+Decomposition:Abstraction (computer science),0.0
+Decomposition:Design,0.0
+Decomposition:Bus (computing),0.0
+Decomposition:Architecture,0.003025045598113795
+Decomposition:Interrupt,0.0
+Decomposition:Direct memory access,0.0
+Decomposition:Computer programming,0.0
+Decomposition:Assembly language,0.0
+Decomposition:Program optimization,0.0
+Decomposition:Concurrency (computer science),0.0
+Decomposition:Instruction pipelining,0.0
+Decomposition:Knowledge,0.0
+Decomposition:Functional decomposition,0.0
+Decomposition:Decomposition,0.0
+Decomposition:Digital electronics,0.0
+Decomposition:Understanding,0.0
+Decomposition:Machine,0.0
+Decomposition:Hardware architecture,0.0
+Decomposition:Computer architecture,0.0
+Decomposition:Compiled language,0.0
+Decomposition:Machine code,0.0
+Decomposition:Software,0.0
+Decomposition:Logic gate,0.0
+Decomposition:Computer,0.0
+Decomposition:Operating system,0.0
+Decomposition:Central processing unit,0.005649717514124294
+Decomposition:Two's complement,0.0
+Decomposition:Arithmetic,0.0
+Decomposition:Von Neumann architecture,0.0
+Decomposition:Instruction set architecture,0.0
+Decomposition:Reduced instruction set computer,0.0
+Decomposition:Complex instruction set computer,0.0
+Decomposition:Communication,-0.009345794392523364
+Decomposition:Computer science,0.005649717514124294
+Decomposition:Scientist,-0.0034000562415318156
+Decomposition:Macro (computer science),0.0
+Decomposition:Virtualization,0.0
+Decomposition:Synchronization,0.0
+Decomposition:Input/output,0.0
+Decomposition:High-level programming language,0.0
+Decomposition:Subroutine,0.0
+Analysis:Parallel computing,0.0
+Analysis:Computer hardware,0.02030456852791878
+Analysis:Memory,0.0002217731999408605
+Analysis:Address space,0.0
+Analysis:Space,-0.005180268124430561
+Analysis:Data,0.02030456852791878
+Analysis:Data type,0.002958039659642843
+Analysis:Arithmetic logic unit,0.0
+Analysis:System,0.028776238167101113
+Analysis:Computer network,0.01015228426395939
+Analysis:Transistor,0.02030456852791878
+Analysis:Data (computing),0.0
+Analysis:Endianness,0.0
+Analysis:Integer,0.012785771535437578
+Analysis:Compiler,0.0002684498242873871
+Analysis:Language,0.036952829926038655
+Analysis:Virtual memory,0.0
+Analysis:Error correction code,0.0
+Analysis:Page table,0.0
+Analysis:Cache (computing),0.0
+Analysis:Combinatorics,0.004475738223896075
+Analysis:Clock signal,0.0
+Analysis:Processor register,0.005076142131979695
+Analysis:Abstraction (computer science),-0.014388489208633094
+Analysis:Design,-0.015613513040434098
+Analysis:Bus (computing),0.0
+Analysis:Architecture,-0.00017320170004130227
+Analysis:Interrupt,0.005076142131979695
+Analysis:Direct memory access,0.0
+Analysis:Computer programming,-0.0006381435823060192
+Analysis:Assembly language,-0.003703703703703704
+Analysis:Program optimization,-0.008695652173913044
+Analysis:Concurrency (computer science),0.0
+Analysis:Instruction pipelining,-0.01818181818181818
+Analysis:Knowledge,-0.004885309721003015
+Analysis:Functional decomposition,0.0
+Analysis:Decomposition,0.005076142131979695
+Analysis:Digital electronics,0.01015228426395939
+Analysis:Understanding,0.01015228426395939
+Analysis:Machine,0.015228426395939087
+Analysis:Hardware architecture,-0.02040816326530612
+Analysis:Computer architecture,0.0
+Analysis:Compiled language,0.0
+Analysis:Machine code,0.0
+Analysis:Software,0.03514465618152062
+Analysis:Logic gate,0.01015228426395939
+Analysis:Computer,0.030456852791878174
+Analysis:Operating system,0.0
+Analysis:Central processing unit,0.01015228426395939
+Analysis:Two's complement,0.0
+Analysis:Arithmetic,0.009778252738445096
+Analysis:Von Neumann architecture,0.0
+Analysis:Instruction set architecture,0.0
+Analysis:Reduced instruction set computer,0.0
+Analysis:Complex instruction set computer,0.0
+Analysis:Communication,0.02578395559561649
+Analysis:Computer science,0.05007387469096974
+Analysis:Scientist,0.0022050210166065613
+Analysis:Macro (computer science),0.0
+Analysis:Virtualization,0.0
+Analysis:Synchronization,0.0
+Analysis:Input/output,0.0
+Analysis:High-level programming language,0.0
+Analysis:Subroutine,0.0
+Brute-force search:Parallel computing,0.010310830134718145
+Brute-force search:Computer hardware,0.06976744186046512
+Brute-force search:Memory,0.023255813953488372
+Brute-force search:Address space,0.0
+Brute-force search:Space,0.0
+Brute-force search:Data,0.023255813953488372
+Brute-force search:Data type,-0.007194244604316547
+Brute-force search:Arithmetic logic unit,0.023255813953488372
+Brute-force search:System,0.0
+Brute-force search:Computer network,0.046511627906976744
+Brute-force search:Transistor,0.023255813953488372
+Brute-force search:Data (computing),0.038447111777944486
+Brute-force search:Endianness,0.0
+Brute-force search:Integer,0.09302325581395349
+Brute-force search:Compiler,0.018448121645796064
+Brute-force search:Language,0.023255813953488372
+Brute-force search:Virtual memory,0.023255813953488372
+Brute-force search:Error correction code,-0.0070921985815602835
+Brute-force search:Page table,0.0
+Brute-force search:Cache (computing),-0.008064516129032258
+Brute-force search:Combinatorics,0.07689422355588897
+Brute-force search:Clock signal,0.023255813953488372
+Brute-force search:Processor register,0.016633297397196982
+Brute-force search:Abstraction (computer science),-0.007194244604316547
+Brute-force search:Design,0.0
+Brute-force search:Bus (computing),0.023255813953488372
+Brute-force search:Architecture,0.046511627906976744
+Brute-force search:Interrupt,0.023255813953488372
+Brute-force search:Direct memory access,0.023255813953488372
+Brute-force search:Computer programming,0.04119601328903655
+Brute-force search:Assembly language,0.023255813953488372
+Brute-force search:Program optimization,-0.034782608695652174
+Brute-force search:Concurrency (computer science),-0.011764705882352941
+Brute-force search:Instruction pipelining,0.005073995771670191
+Brute-force search:Knowledge,-0.007518796992481203
+Brute-force search:Functional decomposition,0.0
+Brute-force search:Decomposition,0.0
+Brute-force search:Digital electronics,-0.0041841004184100415
+Brute-force search:Understanding,-0.013513513513513514
+Brute-force search:Machine,0.0
+Brute-force search:Hardware architecture,-0.02040816326530612
+Brute-force search:Computer architecture,0.046511627906976744
+Brute-force search:Compiled language,0.0
+Brute-force search:Machine code,0.046511627906976744
+Brute-force search:Software,0.041047147032659805
+Brute-force search:Logic gate,0.01790822037060067
+Brute-force search:Computer,0.09033508377094274
+Brute-force search:Operating system,0.06976744186046512
+Brute-force search:Central processing unit,0.06615733355721602
+Brute-force search:Two's complement,0.0
+Brute-force search:Arithmetic,0.0412484700122399
+Brute-force search:Von Neumann architecture,0.023255813953488372
+Brute-force search:Instruction set architecture,0.06976744186046512
+Brute-force search:Reduced instruction set computer,0.0
+Brute-force search:Complex instruction set computer,0.0
+Brute-force search:Communication,0.01858291675722669
+Brute-force search:Computer science,0.19777494805978152
+Brute-force search:Scientist,0.0
+Brute-force search:Macro (computer science),0.023255813953488372
+Brute-force search:Virtualization,0.0
+Brute-force search:Synchronization,0.0
+Brute-force search:Input/output,0.09302325581395349
+Brute-force search:High-level programming language,0.023255813953488372
+Brute-force search:Subroutine,0.046511627906976744
+Backtracking:Parallel computing,0.0076282940360610264
+Backtracking:Computer hardware,0.0
+Backtracking:Memory,0.023809523809523808
+Backtracking:Address space,0.0
+Backtracking:Space,0.0
+Backtracking:Data,0.037815126050420166
+Backtracking:Data type,0.04042480301473107
+Backtracking:Arithmetic logic unit,0.023809523809523808
+Backtracking:System,0.023809523809523808
+Backtracking:Computer network,0.023809523809523808
+Backtracking:Transistor,0.020604395604395604
+Backtracking:Data (computing),0.0076804915514592925
+Backtracking:Endianness,-0.00558659217877095
+Backtracking:Integer,0.09523809523809523
+Backtracking:Compiler,0.03296703296703296
+Backtracking:Language,0.047619047619047616
+Backtracking:Virtual memory,0.023809523809523808
+Backtracking:Error correction code,0.0
+Backtracking:Page table,0.0
+Backtracking:Cache (computing),-0.016129032258064516
+Backtracking:Combinatorics,0.023809523809523808
+Backtracking:Clock signal,0.023809523809523808
+Backtracking:Processor register,0.01718700725323242
+Backtracking:Abstraction (computer science),-0.02158273381294964
+Backtracking:Design,0.0
+Backtracking:Bus (computing),0.023809523809523808
+Backtracking:Architecture,0.0
+Backtracking:Interrupt,0.0
+Backtracking:Direct memory access,0.023809523809523808
+Backtracking:Computer programming,0.04285714285714286
+Backtracking:Assembly language,0.0
+Backtracking:Program optimization,-0.043478260869565216
+Backtracking:Concurrency (computer science),-0.023529411764705882
+Backtracking:Instruction pipelining,0.023809523809523808
+Backtracking:Knowledge,0.047619047619047616
+Backtracking:Functional decomposition,0.0
+Backtracking:Decomposition,0.0
+Backtracking:Digital electronics,0.023809523809523808
+Backtracking:Understanding,-0.013513513513513514
+Backtracking:Machine,-0.0033444816053511705
+Backtracking:Hardware architecture,-0.04081632653061224
+Backtracking:Computer architecture,0.023809523809523808
+Backtracking:Compiled language,0.0
+Backtracking:Machine code,0.01146384479717813
+Backtracking:Software,0.03669008587041374
+Backtracking:Logic gate,0.023809523809523808
+Backtracking:Computer,0.01977726574500768
+Backtracking:Operating system,0.04510015593139018
+Backtracking:Central processing unit,0.02019941550627471
+Backtracking:Two's complement,0.0
+Backtracking:Arithmetic,0.07142857142857142
+Backtracking:Von Neumann architecture,0.017674554484370435
+Backtracking:Instruction set architecture,0.023809523809523808
+Backtracking:Reduced instruction set computer,0.0
+Backtracking:Complex instruction set computer,-0.013513513513513514
+Backtracking:Communication,0.0
+Backtracking:Computer science,0.2294497049540277
+Backtracking:Scientist,0.0
+Backtracking:Macro (computer science),-0.034722222222222224
+Backtracking:Virtualization,0.0
+Backtracking:Synchronization,0.0
+Backtracking:Input/output,0.047619047619047616
+Backtracking:High-level programming language,0.0
+Backtracking:Subroutine,0.07142857142857142
+Heuristic:Parallel computing,-0.012944983818770227
+Heuristic:Computer hardware,0.0
+Heuristic:Memory,0.03596195759857341
+Heuristic:Address space,-0.01694915254237288
+Heuristic:Space,-0.015384615384615385
+Heuristic:Data,-0.00980392156862745
+Heuristic:Data type,-0.007194244604316547
+Heuristic:Arithmetic logic unit,0.0
+Heuristic:System,0.0034473248758963033
+Heuristic:Computer network,0.0077827741265997915
+Heuristic:Transistor,0.0
+Heuristic:Data (computing),-0.016129032258064516
+Heuristic:Endianness,0.0
+Heuristic:Integer,0.002685284640171858
+Heuristic:Compiler,-0.004807692307692308
+Heuristic:Language,0.014923702570607766
+Heuristic:Virtual memory,0.0
+Heuristic:Error correction code,0.0
+Heuristic:Page table,-0.017857142857142856
+Heuristic:Cache (computing),-0.016129032258064516
+Heuristic:Combinatorics,0.015031819179284615
+Heuristic:Clock signal,0.0
+Heuristic:Processor register,-0.006622516556291391
+Heuristic:Abstraction (computer science),-0.014388489208633094
+Heuristic:Design,-0.006896551724137931
+Heuristic:Bus (computing),-0.0045662100456621
+Heuristic:Architecture,0.01020408163265306
+Heuristic:Interrupt,0.0
+Heuristic:Direct memory access,-0.008771929824561403
+Heuristic:Computer programming,-0.0012244897959183682
+Heuristic:Assembly language,0.0
+Heuristic:Program optimization,-0.034782608695652174
+Heuristic:Concurrency (computer science),-0.023529411764705882
+Heuristic:Instruction pipelining,0.0
+Heuristic:Knowledge,0.010741138560687431
+Heuristic:Functional decomposition,-0.014084507042253521
+Heuristic:Decomposition,0.0
+Heuristic:Digital electronics,-0.012552301255230125
+Heuristic:Understanding,-0.04054054054054054
+Heuristic:Machine,0.02040816326530612
+Heuristic:Hardware architecture,-0.02040816326530612
+Heuristic:Computer architecture,-0.009523809523809525
+Heuristic:Compiled language,0.0
+Heuristic:Machine code,-0.002141597379692618
+Heuristic:Software,0.0047396007583361205
+Heuristic:Logic gate,-0.016042780748663103
+Heuristic:Computer,-0.004032258064516129
+Heuristic:Operating system,0.0
+Heuristic:Central processing unit,-0.0036101083032490976
+Heuristic:Two's complement,0.0
+Heuristic:Arithmetic,0.0200859291084855
+Heuristic:Von Neumann architecture,-0.006134969325153374
+Heuristic:Instruction set architecture,-0.006097560975609756
+Heuristic:Reduced instruction set computer,-0.005681818181818182
+Heuristic:Complex instruction set computer,0.0
+Heuristic:Communication,-0.004672897196261682
+Heuristic:Computer science,0.08763159442451332
+Heuristic:Scientist,-0.003370579000831103
+Heuristic:Macro (computer science),0.01020408163265306
+Heuristic:Virtualization,-0.010309278350515464
+Heuristic:Synchronization,0.0
+Heuristic:Input/output,0.0
+Heuristic:High-level programming language,0.0
+Heuristic:Subroutine,0.0
+Dynamic programming:Parallel computing,-0.009469820377489627
+Dynamic programming:Computer hardware,0.013422818791946308
+Dynamic programming:Memory,0.006711409395973154
+Dynamic programming:Address space,0.006711409395973154
+Dynamic programming:Space,0.0
+Dynamic programming:Data,-0.0030925121726542966
+Dynamic programming:Data type,0.012939983583602915
+Dynamic programming:Arithmetic logic unit,0.0
+Dynamic programming:System,0.02008888082713586
+Dynamic programming:Computer network,0.017712920681866192
+Dynamic programming:Transistor,0.006711409395973154
+Dynamic programming:Data (computing),-0.008064516129032258
+Dynamic programming:Endianness,0.0
+Dynamic programming:Integer,0.03355704697986577
+Dynamic programming:Compiler,0.050787299948373776
+Dynamic programming:Language,0.03172889341496632
+Dynamic programming:Virtual memory,0.0
+Dynamic programming:Error correction code,-0.014184397163120567
+Dynamic programming:Page table,0.0
+Dynamic programming:Cache (computing),0.005358302662914051
+Dynamic programming:Combinatorics,-0.016129032258064516
+Dynamic programming:Clock signal,0.0
+Dynamic programming:Processor register,-0.006622516556291391
+Dynamic programming:Abstraction (computer science),-0.00767707981265994
+Dynamic programming:Design,0.006711409395973154
+Dynamic programming:Bus (computing),0.0
+Dynamic programming:Architecture,0.013422818791946308
+Dynamic programming:Interrupt,0.0
+Dynamic programming:Direct memory access,0.0
+Dynamic programming:Computer programming,0.01840843720038351
+Dynamic programming:Assembly language,0.02314193388018891
+Dynamic programming:Program optimization,-0.05217391304347826
+Dynamic programming:Concurrency (computer science),-0.016818002368732727
+Dynamic programming:Instruction pipelining,0.0
+Dynamic programming:Knowledge,0.013422818791946308
+Dynamic programming:Functional decomposition,-0.028169014084507043
+Dynamic programming:Decomposition,0.0
+Dynamic programming:Digital electronics,0.0
+Dynamic programming:Understanding,-0.013513513513513514
+Dynamic programming:Machine,0.0
+Dynamic programming:Hardware architecture,-0.02040816326530612
+Dynamic programming:Computer architecture,0.0
+Dynamic programming:Compiled language,0.006711409395973154
+Dynamic programming:Machine code,0.020134228187919462
+Dynamic programming:Software,0.014669747313602523
+Dynamic programming:Logic gate,0.0
+Dynamic programming:Computer,0.024157465540881863
+Dynamic programming:Operating system,0.017615336500262032
+Dynamic programming:Central processing unit,0.016524119884670365
+Dynamic programming:Two's complement,0.0
+Dynamic programming:Arithmetic,0.0
+Dynamic programming:Von Neumann architecture,-0.0055585292543335945
+Dynamic programming:Instruction set architecture,0.013422818791946308
+Dynamic programming:Reduced instruction set computer,0.0
+Dynamic programming:Complex instruction set computer,0.0
+Dynamic programming:Communication,0.006711409395973154
+Dynamic programming:Computer science,0.1370713498249618
+Dynamic programming:Scientist,0.0021865225181450995
+Dynamic programming:Macro (computer science),0.013189783743475018
+Dynamic programming:Virtualization,-0.010309278350515464
+Dynamic programming:Synchronization,-0.003288590604026846
+Dynamic programming:Input/output,0.006711409395973154
+Dynamic programming:High-level programming language,0.008229466283157558
+Dynamic programming:Subroutine,0.016216006517438028
+Intellectual property:Parallel computing,-0.006472491909385114
+Intellectual property:Computer hardware,-0.009029482168287733
+Intellectual property:Memory,-0.0048543689320388345
+Intellectual property:Address space,0.0
+Intellectual property:Space,-0.010256410256410256
+Intellectual property:Data,-0.013759889920880633
+Intellectual property:Data type,0.0
+Intellectual property:Arithmetic logic unit,0.0
+Intellectual property:System,0.010787102892366049
+Intellectual property:Computer network,0.001005338204267731
+Intellectual property:Transistor,0.008490778227620333
+Intellectual property:Data (computing),0.0
+Intellectual property:Endianness,-0.0223463687150838
+Intellectual property:Integer,0.0
+Intellectual property:Compiler,-0.0037674313990103472
+Intellectual property:Language,0.011695906432748537
+Intellectual property:Virtual memory,-0.008264462809917356
+Intellectual property:Error correction code,0.0
+Intellectual property:Page table,0.0
+Intellectual property:Cache (computing),-0.016129032258064516
+Intellectual property:Combinatorics,0.0
+Intellectual property:Clock signal,-0.013888888888888888
+Intellectual property:Processor register,-0.026490066225165563
+Intellectual property:Abstraction (computer science),-0.007194244604316547
+Intellectual property:Design,-0.01798749747933051
+Intellectual property:Bus (computing),-0.0045662100456621
+Intellectual property:Architecture,0.014919187733112307
+Intellectual property:Interrupt,0.0
+Intellectual property:Direct memory access,-0.008771929824561403
+Intellectual property:Computer programming,-0.005714285714285714
+Intellectual property:Assembly language,0.0
+Intellectual property:Program optimization,0.0
+Intellectual property:Concurrency (computer science),-0.011764705882352941
+Intellectual property:Instruction pipelining,0.0
+Intellectual property:Knowledge,-0.001670843776106934
+Intellectual property:Functional decomposition,0.0
+Intellectual property:Decomposition,0.0
+Intellectual property:Digital electronics,-0.008368200836820083
+Intellectual property:Understanding,0.011695906432748537
+Intellectual property:Machine,0.005006943222046196
+Intellectual property:Hardware architecture,-0.02040816326530612
+Intellectual property:Computer architecture,-0.01904761904761905
+Intellectual property:Compiled language,0.0
+Intellectual property:Machine code,-0.012345679012345678
+Intellectual property:Software,-0.009395072380404566
+Intellectual property:Logic gate,-0.0053475935828877
+Intellectual property:Computer,-0.004904734955668743
+Intellectual property:Operating system,-0.0008985520055386168
+Intellectual property:Central processing unit,-0.010830324909747292
+Intellectual property:Two's complement,0.0
+Intellectual property:Arithmetic,0.0
+Intellectual property:Von Neumann architecture,0.0
+Intellectual property:Instruction set architecture,-0.042682926829268296
+Intellectual property:Reduced instruction set computer,-0.045454545454545456
+Intellectual property:Complex instruction set computer,0.0
+Intellectual property:Communication,0.005847953216374269
+Intellectual property:Computer science,0.00889832650791243
+Intellectual property:Scientist,-0.004524886877828055
+Intellectual property:Macro (computer science),-0.006944444444444444
+Intellectual property:Virtualization,-0.010309278350515464
+Intellectual property:Synchronization,-0.02
+Intellectual property:Input/output,0.0
+Intellectual property:High-level programming language,-0.011904761904761904
+Intellectual property:Subroutine,0.0
+Algorithm:Parallel computing,-0.05090755593077248
+Algorithm:Computer hardware,-0.026958023578884133
+Algorithm:Memory,0.00673983396651189
+Algorithm:Address space,-0.01694915254237288
+Algorithm:Space,-0.007357859531772575
+Algorithm:Data,-0.09045183290707588
+Algorithm:Data type,-0.09771660932123867
+Algorithm:Arithmetic logic unit,-0.028405797101449276
+Algorithm:System,-0.04341950646298473
+Algorithm:Computer network,-0.022781345404779454
+Algorithm:Transistor,-0.010228539576365662
+Algorithm:Data (computing),-0.10194015895278168
+Algorithm:Endianness,-0.04738077888430087
+Algorithm:Integer,-0.012596709164214882
+Algorithm:Compiler,-0.05267558528428094
+Algorithm:Language,0.014047637972604192
+Algorithm:Virtual memory,-0.02436219906575638
+Algorithm:Error correction code,-0.06382978723404255
+Algorithm:Page table,-0.08928571428571429
+Algorithm:Cache (computing),-0.06035530621785881
+Algorithm:Combinatorics,-0.06035530621785881
+Algorithm:Clock signal,-0.0051932367149758445
+Algorithm:Processor register,-0.051732411939725505
+Algorithm:Abstraction (computer science),-0.11060369096027527
+Algorithm:Design,-0.02468765617191404
+Algorithm:Bus (computing),-0.019932499503672818
+Algorithm:Architecture,-0.015748031496062992
+Algorithm:Interrupt,-0.0033772104773301427
+Algorithm:Direct memory access,-0.017543859649122806
+Algorithm:Computer programming,-0.08513457556935819
+Algorithm:Assembly language,-0.02286634460547504
+Algorithm:Program optimization,-0.17681159420289855
+Algorithm:Concurrency (computer science),-0.11474850809889173
+Algorithm:Instruction pipelining,-0.03636363636363636
+Algorithm:Knowledge,-0.0034433910864116804
+Algorithm:Functional decomposition,-0.0534394774443764
+Algorithm:Decomposition,0.0
+Algorithm:Digital electronics,-0.04698320295918986
+Algorithm:Understanding,-0.11872307089698395
+Algorithm:Machine,-0.008026755852842809
+Algorithm:Hardware architecture,-0.10204081632653061
+Algorithm:Computer architecture,-0.07122153209109731
+Algorithm:Compiled language,-0.04975845410628019
+Algorithm:Machine code,-0.041438539989264625
+Algorithm:Software,-0.08643383226419578
+Algorithm:Logic gate,-0.025389444315275515
+Algorithm:Computer,0.020885928003740062
+Algorithm:Operating system,-0.01711386120541744
+Algorithm:Central processing unit,-0.006351697797310735
+Algorithm:Two's complement,-0.06632787502352719
+Algorithm:Arithmetic,-0.0391304347826087
+Algorithm:Von Neumann architecture,-0.09303814350493465
+Algorithm:Instruction set architecture,-0.04618239660657476
+Algorithm:Reduced instruction set computer,-0.03977272727272727
+Algorithm:Complex instruction set computer,-0.02702702702702703
+Algorithm:Communication,-0.009345794392523364
+Algorithm:Computer science,0.07917971849809965
+Algorithm:Scientist,-0.00876778805167552
+Algorithm:Macro (computer science),-0.06944444444444445
+Algorithm:Virtualization,-0.02802928432690871
+Algorithm:Synchronization,-0.04
+Algorithm:Input/output,-0.13444341658957754
+Algorithm:High-level programming language,-0.07204968944099378
+Algorithm:Subroutine,-0.06056798190500126
+Property:Parallel computing,-0.003236245954692557
+Property:Computer hardware,0.0
+Property:Memory,0.011029411764705883
+Property:Address space,0.003676470588235294
+Property:Space,-0.020512820512820513
+Property:Data,-0.006127450980392157
+Property:Data type,0.003676470588235294
+Property:Arithmetic logic unit,0.0
+Property:System,-0.004372019077901433
+Property:Computer network,0.003676470588235294
+Property:Transistor,0.003676470588235294
+Property:Data (computing),0.0
+Property:Endianness,0.0
+Property:Integer,0.0
+Property:Compiler,0.0
+Property:Language,0.005565114528443918
+Property:Virtual memory,0.0
+Property:Error correction code,0.0
+Property:Page table,0.0
+Property:Cache (computing),0.0
+Property:Combinatorics,0.0
+Property:Clock signal,0.0
+Property:Processor register,0.0
+Property:Abstraction (computer science),-0.007194244604316547
+Property:Design,0.0004563894523326572
+Property:Bus (computing),-0.0045662100456621
+Property:Architecture,0.002103597344449591
+Property:Interrupt,0.0
+Property:Direct memory access,0.0
+Property:Computer programming,0.0
+Property:Assembly language,0.0
+Property:Program optimization,0.0
+Property:Concurrency (computer science),-0.011764705882352941
+Property:Instruction pipelining,0.0
+Property:Knowledge,0.007187085360459974
+Property:Functional decomposition,0.0
+Property:Decomposition,-0.0019732469258889997
+Property:Digital electronics,0.003676470588235294
+Property:Understanding,-0.00983704292527822
+Property:Machine,-0.003012492622467047
+Property:Hardware architecture,-0.02040816326530612
+Property:Computer architecture,0.0
+Property:Compiled language,0.0
+Property:Machine code,0.0
+Property:Software,0.007352941176470588
+Property:Logic gate,0.0
+Property:Computer,0.011029411764705883
+Property:Operating system,0.0
+Property:Central processing unit,0.0
+Property:Two's complement,0.0
+Property:Arithmetic,0.003676470588235294
+Property:Von Neumann architecture,0.0
+Property:Instruction set architecture,0.0
+Property:Reduced instruction set computer,0.0
+Property:Complex instruction set computer,0.0
+Property:Communication,-0.010342221000549753
+Property:Computer science,0.00894219359213426
+Property:Scientist,-0.0031108597285067876
+Property:Macro (computer science),0.0
+Property:Virtualization,0.0
+Property:Synchronization,-0.01
+Property:Input/output,0.0
+Property:High-level programming language,0.0
+Property:Subroutine,0.003676470588235294
+Data structure:Parallel computing,0.034350996217881236
+Data structure:Computer hardware,0.12734877333166866
+Data structure:Memory,0.002339454907006669
+Data structure:Address space,0.012048192771084338
+Data structure:Space,0.0
+Data structure:Data,0.02551381998582565
+Data structure:Data type,0.07532287423073589
+Data structure:Arithmetic logic unit,0.012048192771084338
+Data structure:System,-0.013513513513513514
+Data structure:Computer network,0.04813442632515534
+Data structure:Transistor,0.017686129131912268
+Data structure:Data (computing),-0.0969685192382433
+Data structure:Endianness,0.01379820959816921
+Data structure:Integer,0.057251562641543616
+Data structure:Compiler,0.14718489341983315
+Data structure:Language,0.10660558137485959
+Data structure:Virtual memory,0.05954396096783829
+Data structure:Error correction code,0.0
+Data structure:Page table,-0.11295180722891567
+Data structure:Cache (computing),0.003886513797123979
+Data structure:Combinatorics,-0.004080839486980178
+Data structure:Clock signal,0.0
+Data structure:Processor register,0.02050586451767334
+Data structure:Abstraction (computer science),-0.001820230562537925
+Data structure:Design,0.005151641046946407
+Data structure:Bus (computing),0.01787973813060461
+Data structure:Architecture,-0.005249343832020997
+Data structure:Interrupt,-0.0005526693931690099
+Data structure:Direct memory access,0.0
+Data structure:Computer programming,0.005576592082616183
+Data structure:Assembly language,0.10107095046854084
+Data structure:Program optimization,-0.0749083289680461
+Data structure:Concurrency (computer science),-0.03501063075832743
+Data structure:Instruction pipelining,0.012048192771084338
+Data structure:Knowledge,0.016577588549687473
+Data structure:Functional decomposition,-0.04225352112676056
+Data structure:Decomposition,0.0
+Data structure:Digital electronics,-0.004688208902555828
+Data structure:Understanding,-0.02702702702702703
+Data structure:Machine,0.012048192771084338
+Data structure:Hardware architecture,-0.10204081632653061
+Data structure:Computer architecture,0.04876649454962709
+Data structure:Compiled language,-0.04069611780455154
+Data structure:Machine code,0.094898110962368
+Data structure:Software,0.019882809928237544
+Data structure:Logic gate,0.0013530056053089375
+Data structure:Computer,0.0226551366757352
+Data structure:Operating system,0.14096689023094897
+Data structure:Central processing unit,0.057848723413509634
+Data structure:Two's complement,0.03520575809732436
+Data structure:Arithmetic,0.05497780596068484
+Data structure:Von Neumann architecture,-0.018848399733904946
+Data structure:Instruction set architecture,-0.0004407875404055239
+Data structure:Reduced instruction set computer,0.006366374589266156
+Data structure:Complex instruction set computer,-0.028492347769456205
+Data structure:Communication,-0.004672897196261682
+Data structure:Computer science,0.35148085135932783
+Data structure:Scientist,0.10390884806193099
+Data structure:Macro (computer science),-0.0077811244979919675
+Data structure:Virtualization,0.0
+Data structure:Synchronization,0.0
+Data structure:Input/output,-0.006408613176108691
+Data structure:High-level programming language,-0.05823293172690762
+Data structure:Subroutine,0.05836061007033916
+Software development:Parallel computing,0.01771707531128298
+Software development:Computer hardware,0.04566611047685958
+Software development:Memory,0.006445066096209753
+Software development:Address space,-0.011299435028248588
+Software development:Space,0.011299435028248588
+Software development:Data,0.036889332003988036
+Software development:Data type,0.02361500630004471
+Software development:Arithmetic logic unit,-0.02666666666666667
+Software development:System,0.0655825316842266
+Software development:Computer network,0.029862792574656984
+Software development:Transistor,0.0016840504128639716
+Software development:Data (computing),-0.0015946783305995985
+Software development:Endianness,-0.0223463687150838
+Software development:Integer,0.003780638035767385
+Software development:Compiler,0.09628965667101261
+Software development:Language,0.0847457627118644
+Software development:Virtual memory,-0.01652892561983471
+Software development:Error correction code,-0.0014424810674359897
+Software development:Page table,0.0
+Software development:Cache (computing),-0.01854383087297248
+Software development:Combinatorics,-0.005102970657918718
+Software development:Clock signal,-0.013888888888888888
+Software development:Processor register,-0.007595315598458488
+Software development:Abstraction (computer science),0.0174368979392757
+Software development:Design,-0.0005844535359438921
+Software development:Bus (computing),0.005649717514124294
+Software development:Architecture,0.005649717514124294
+Software development:Interrupt,0.0021251231016430824
+Software development:Direct memory access,0.0
+Software development:Computer programming,0.027409200968523006
+Software development:Assembly language,0.038166980539861894
+Software development:Program optimization,-0.011741586833701793
+Software development:Concurrency (computer science),-0.007045530076437354
+Software development:Instruction pipelining,-0.012532100667693887
+Software development:Knowledge,0.015080073064015972
+Software development:Functional decomposition,-0.008434789528129228
+Software development:Decomposition,0.0
+Software development:Digital electronics,-0.02092050209205021
+Software development:Understanding,0.01694915254237288
+Software development:Machine,0.01694915254237288
+Software development:Hardware architecture,-0.03516660901648795
+Software development:Computer architecture,-0.007748184019370462
+Software development:Compiled language,0.00583804143126177
+Software development:Machine code,0.03075957313245449
+Software development:Software,-0.0019449847179772162
+Software development:Logic gate,0.00030212393123659354
+Software development:Computer,0.03364771277565154
+Software development:Operating system,0.08154378175297786
+Software development:Central processing unit,0.040017132717371354
+Software development:Two's complement,-0.012987012987012988
+Software development:Arithmetic,0.0
+Software development:Von Neumann architecture,-0.0009705036220581612
+Software development:Instruction set architecture,-0.007441091360066144
+Software development:Reduced instruction set computer,-0.017045454545454544
+Software development:Complex instruction set computer,-0.04054054054054054
+Software development:Communication,0.01694915254237288
+Software development:Computer science,0.05869519204155066
+Software development:Scientist,0.005649717514124294
+Software development:Macro (computer science),0.0004708097928436926
+Software development:Virtualization,-0.00465956083639117
+Software development:Synchronization,-0.0043502824858757064
+Software development:Input/output,-0.019954321432864526
+Software development:High-level programming language,0.026432606941081523
+Software development:Subroutine,0.021945723523072405
+Paradigm:Parallel computing,0.0033314296592423373
+Paradigm:Computer hardware,0.0
+Paradigm:Memory,0.009899105273177233
+Paradigm:Address space,0.0
+Paradigm:Space,0.05837104072398191
+Paradigm:Data,0.0
+Paradigm:Data type,-0.007194244604316547
+Paradigm:Arithmetic logic unit,0.0
+Paradigm:System,0.01589825119236884
+Paradigm:Computer network,-0.004842615012106538
+Paradigm:Transistor,0.0196078431372549
+Paradigm:Data (computing),0.0
+Paradigm:Endianness,0.0
+Paradigm:Integer,0.0
+Paradigm:Compiler,-0.004807692307692308
+Paradigm:Language,0.026418611320213642
+Paradigm:Virtual memory,0.0
+Paradigm:Error correction code,0.0
+Paradigm:Page table,0.0
+Paradigm:Cache (computing),0.0
+Paradigm:Combinatorics,0.0
+Paradigm:Clock signal,0.0
+Paradigm:Processor register,0.0
+Paradigm:Abstraction (computer science),-0.02877697841726619
+Paradigm:Design,-0.006896551724137931
+Paradigm:Bus (computing),-0.0045662100456621
+Paradigm:Architecture,0.0019299058205959549
+Paradigm:Interrupt,-0.009174311926605505
+Paradigm:Direct memory access,0.0
+Paradigm:Computer programming,-0.02857142857142857
+Paradigm:Assembly language,-0.0013071895424836607
+Paradigm:Program optimization,-0.008695652173913044
+Paradigm:Concurrency (computer science),-0.013725490196078431
+Paradigm:Instruction pipelining,-0.01818181818181818
+Paradigm:Knowledge,0.08233819843726964
+Paradigm:Functional decomposition,-0.014084507042253521
+Paradigm:Decomposition,-0.005649717514124294
+Paradigm:Digital electronics,0.005619821150217409
+Paradigm:Understanding,-0.0013248542660307394
+Paradigm:Machine,0.006459439963276281
+Paradigm:Hardware architecture,0.0
+Paradigm:Computer architecture,0.0
+Paradigm:Compiled language,0.0
+Paradigm:Machine code,0.00980392156862745
+Paradigm:Software,0.0
+Paradigm:Logic gate,-0.0053475935828877
+Paradigm:Computer,0.015575585072738773
+Paradigm:Operating system,0.0
+Paradigm:Central processing unit,-0.001026403341119841
+Paradigm:Two's complement,0.0
+Paradigm:Arithmetic,0.0196078431372549
+Paradigm:Von Neumann architecture,-0.012269938650306749
+Paradigm:Instruction set architecture,0.0
+Paradigm:Reduced instruction set computer,0.0
+Paradigm:Complex instruction set computer,0.0
+Paradigm:Communication,0.020065970313358987
+Paradigm:Computer science,0.019042775611685596
+Paradigm:Scientist,-0.010558069381598794
+Paradigm:Macro (computer science),0.0
+Paradigm:Virtualization,0.0
+Paradigm:Synchronization,-0.01
+Paradigm:Input/output,0.0
+Paradigm:High-level programming language,-0.014005602240896357
+Paradigm:Subroutine,-0.01909781253541879
+Imperative programming:Parallel computing,0.06892515320526062
+Imperative programming:Computer hardware,0.09574468085106383
+Imperative programming:Memory,0.0
+Imperative programming:Address space,0.0
+Imperative programming:Space,0.0
+Imperative programming:Data,0.0229453483521068
+Imperative programming:Data type,0.03038420327567734
+Imperative programming:Arithmetic logic unit,0.0425531914893617
+Imperative programming:System,-0.002875215641173089
+Imperative programming:Computer network,0.04834887434959559
+Imperative programming:Transistor,0.00743316966721222
+Imperative programming:Data (computing),0.002230610844200412
+Imperative programming:Endianness,-0.012242957327944847
+Imperative programming:Integer,0.01687729963205887
+Imperative programming:Compiler,0.1824877250409165
+Imperative programming:Language,0.16838461239254734
+Imperative programming:Virtual memory,0.02127659574468085
+Imperative programming:Error correction code,0.0
+Imperative programming:Page table,-0.017857142857142856
+Imperative programming:Cache (computing),0.02127659574468085
+Imperative programming:Combinatorics,0.0052619537863189195
+Imperative programming:Clock signal,-0.003250591016548463
+Imperative programming:Processor register,0.061223051993800195
+Imperative programming:Abstraction (computer science),-0.08724934945660494
+Imperative programming:Design,0.010638297872340425
+Imperative programming:Bus (computing),0.02127659574468085
+Imperative programming:Architecture,0.0
+Imperative programming:Interrupt,0.04401717743509662
+Imperative programming:Direct memory access,0.0
+Imperative programming:Computer programming,0.04686930091185411
+Imperative programming:Assembly language,0.12576832151300235
+Imperative programming:Program optimization,-0.09176688251618871
+Imperative programming:Concurrency (computer science),-0.06107634543178973
+Imperative programming:Instruction pipelining,-0.01818181818181818
+Imperative programming:Knowledge,0.0
+Imperative programming:Functional decomposition,-0.003446209169913096
+Imperative programming:Decomposition,0.0
+Imperative programming:Digital electronics,0.006454197453930384
+Imperative programming:Understanding,-0.013513513513513514
+Imperative programming:Machine,0.007293816266989255
+Imperative programming:Hardware architecture,-0.04081632653061224
+Imperative programming:Computer architecture,0.07892603850050658
+Imperative programming:Compiled language,-0.3574468085106383
+Imperative programming:Machine code,0.1438140267927502
+Imperative programming:Software,0.01464945936519009
+Imperative programming:Logic gate,0.010638297872340425
+Imperative programming:Computer,0.03291580873941889
+Imperative programming:Operating system,0.19261482394554907
+Imperative programming:Central processing unit,0.1168292495583378
+Imperative programming:Two's complement,0.018927880630008286
+Imperative programming:Arithmetic,0.02127659574468085
+Imperative programming:Von Neumann architecture,0.01187834486359483
+Imperative programming:Instruction set architecture,-0.00921120913336793
+Imperative programming:Reduced instruction set computer,0.0425531914893617
+Imperative programming:Complex instruction set computer,-0.04341575618171363
+Imperative programming:Communication,-0.004672897196261682
+Imperative programming:Computer science,0.14228340180268564
+Imperative programming:Scientist,0.07446808510638298
+Imperative programming:Macro (computer science),-0.046394799054373534
+Imperative programming:Virtualization,0.02127659574468085
+Imperative programming:Synchronization,-0.01
+Imperative programming:Input/output,0.021276595744680854
+Imperative programming:High-level programming language,-0.046605876393110424
+Imperative programming:Subroutine,0.09230106997909235
+Programming paradigm:Parallel computing,0.05866733051199072
+Programming paradigm:Computer hardware,0.03418803418803419
+Programming paradigm:Memory,0.02564102564102564
+Programming paradigm:Address space,0.008547008547008548
+Programming paradigm:Space,0.0
+Programming paradigm:Data,0.023127199597787834
+Programming paradigm:Data type,0.11922769476726311
+Programming paradigm:Arithmetic logic unit,0.017094017094017096
+Programming paradigm:System,0.02564102564102564
+Programming paradigm:Computer network,0.042735042735042736
+Programming paradigm:Transistor,-0.003205128205128205
+Programming paradigm:Data (computing),-0.006617038875103391
+Programming paradigm:Endianness,0.03418803418803419
+Programming paradigm:Integer,0.04376325428957008
+Programming paradigm:Compiler,0.26175213675213677
+Programming paradigm:Language,0.20330005156330566
+Programming paradigm:Virtual memory,0.042735042735042736
+Programming paradigm:Error correction code,0.008547008547008548
+Programming paradigm:Page table,0.008547008547008548
+Programming paradigm:Cache (computing),0.02564102564102564
+Programming paradigm:Combinatorics,0.008547008547008548
+Programming paradigm:Clock signal,-0.013888888888888888
+Programming paradigm:Processor register,0.06367804381049415
+Programming paradigm:Abstraction (computer science),0.030621656520937096
+Programming paradigm:Design,0.008547008547008548
+Programming paradigm:Bus (computing),0.017094017094017096
+Programming paradigm:Architecture,0.0
+Programming paradigm:Interrupt,0.00729240178781463
+Programming paradigm:Direct memory access,0.008547008547008548
+Programming paradigm:Computer programming,0.031159951159951155
+Programming paradigm:Assembly language,0.13646723646723646
+Programming paradigm:Program optimization,-0.0004459308807134889
+Programming paradigm:Concurrency (computer science),0.02131724484665662
+Programming paradigm:Instruction pipelining,0.008547008547008548
+Programming paradigm:Knowledge,0.017094017094017096
+Programming paradigm:Functional decomposition,-0.019622005537498495
+Programming paradigm:Decomposition,0.0
+Programming paradigm:Digital electronics,-0.0041841004184100415
+Programming paradigm:Understanding,0.0
+Programming paradigm:Machine,0.008547008547008548
+Programming paradigm:Hardware architecture,-0.04081632653061224
+Programming paradigm:Computer architecture,0.06739926739926741
+Programming paradigm:Compiled language,-0.09914529914529914
+Programming paradigm:Machine code,0.12535612535612536
+Programming paradigm:Software,0.015412638363458037
+Programming paradigm:Logic gate,0.0
+Programming paradigm:Computer,0.07471739729804246
+Programming paradigm:Operating system,0.19154341320588172
+Programming paradigm:Central processing unit,0.09895399426085347
+Programming paradigm:Two's complement,0.0
+Programming paradigm:Arithmetic,0.03418803418803419
+Programming paradigm:Von Neumann architecture,0.03287714330659115
+Programming paradigm:Instruction set architecture,0.05373149885345008
+Programming paradigm:Reduced instruction set computer,0.008547008547008548
+Programming paradigm:Complex instruction set computer,-0.013513513513513514
+Programming paradigm:Communication,-0.004672897196261682
+Programming paradigm:Computer science,0.21328111529840638
+Programming paradigm:Scientist,0.02564102564102564
+Programming paradigm:Macro (computer science),0.05555555555555555
+Programming paradigm:Virtualization,0.0
+Programming paradigm:Synchronization,0.0
+Programming paradigm:Input/output,0.01727586833969813
+Programming paradigm:High-level programming language,0.08760683760683761
+Programming paradigm:Subroutine,0.1387777283731041
+Mathematical proof:Parallel computing,0.0
+Mathematical proof:Computer hardware,-0.0051813471502590676
+Mathematical proof:Memory,0.011494252873563218
+Mathematical proof:Address space,0.0
+Mathematical proof:Space,0.0024756852343059237
+Mathematical proof:Data,0.024678837052062204
+Mathematical proof:Data type,-0.004341354502604814
+Mathematical proof:Arithmetic logic unit,0.0
+Mathematical proof:System,0.002718235476856165
+Mathematical proof:Computer network,0.005747126436781609
+Mathematical proof:Transistor,0.005747126436781609
+Mathematical proof:Data (computing),0.0
+Mathematical proof:Endianness,-0.00558659217877095
+Mathematical proof:Integer,0.11537464350531501
+Mathematical proof:Compiler,0.0009394341290893012
+Mathematical proof:Language,0.015413225745445376
+Mathematical proof:Virtual memory,0.0
+Mathematical proof:Error correction code,-0.0070921985815602835
+Mathematical proof:Page table,0.0
+Mathematical proof:Cache (computing),0.0
+Mathematical proof:Combinatorics,0.059695958472376714
+Mathematical proof:Clock signal,0.0
+Mathematical proof:Processor register,0.0
+Mathematical proof:Abstraction (computer science),-0.03597122302158273
+Mathematical proof:Design,0.0
+Mathematical proof:Bus (computing),-0.0045662100456621
+Mathematical proof:Architecture,0.017241379310344827
+Mathematical proof:Interrupt,-0.009174311926605505
+Mathematical proof:Direct memory access,0.0
+Mathematical proof:Computer programming,-0.011395730706075535
+Mathematical proof:Assembly language,0.005747126436781609
+Mathematical proof:Program optimization,-0.008695652173913044
+Mathematical proof:Concurrency (computer science),-0.011764705882352941
+Mathematical proof:Instruction pipelining,0.0
+Mathematical proof:Knowledge,0.011926367643246047
+Mathematical proof:Functional decomposition,0.0
+Mathematical proof:Decomposition,0.0
+Mathematical proof:Digital electronics,0.0015630260183715676
+Mathematical proof:Understanding,-0.007766387076731905
+Mathematical proof:Machine,0.0
+Mathematical proof:Hardware architecture,-0.02040816326530612
+Mathematical proof:Computer architecture,0.005747126436781609
+Mathematical proof:Compiled language,0.0
+Mathematical proof:Machine code,0.005747126436781609
+Mathematical proof:Software,0.005747126436781609
+Mathematical proof:Logic gate,0.006146659290675518
+Mathematical proof:Computer,0.056127178346310716
+Mathematical proof:Operating system,-0.0025188916876574307
+Mathematical proof:Central processing unit,-0.0036101083032490976
+Mathematical proof:Two's complement,-0.0014927601134497696
+Mathematical proof:Arithmetic,0.0206291591046582
+Mathematical proof:Von Neumann architecture,-0.00652281221352514
+Mathematical proof:Instruction set architecture,0.0
+Mathematical proof:Reduced instruction set computer,0.0
+Mathematical proof:Complex instruction set computer,0.0
+Mathematical proof:Communication,0.005747126436781609
+Mathematical proof:Computer science,0.08041008314286661
+Mathematical proof:Scientist,0.002444479117907109
+Mathematical proof:Macro (computer science),0.005747126436781609
+Mathematical proof:Virtualization,0.0
+Mathematical proof:Synchronization,0.0
+Mathematical proof:Input/output,0.0
+Mathematical proof:High-level programming language,0.005747126436781609
+Mathematical proof:Subroutine,-0.011593914025646135
+Asymptotic analysis:Parallel computing,-0.003236245954692557
+Asymptotic analysis:Computer hardware,0.0125
+Asymptotic analysis:Memory,0.0
+Asymptotic analysis:Address space,0.0
+Asymptotic analysis:Space,0.0
+Asymptotic analysis:Data,0.025
+Asymptotic analysis:Data type,0.0125
+Asymptotic analysis:Arithmetic logic unit,0.0
+Asymptotic analysis:System,0.018243243243243244
+Asymptotic analysis:Computer network,0.0
+Asymptotic analysis:Transistor,0.009294871794871797
+Asymptotic analysis:Data (computing),0.0
+Asymptotic analysis:Endianness,0.0
+Asymptotic analysis:Integer,0.1174812030075188
+Asymptotic analysis:Compiler,0.0
+Asymptotic analysis:Language,0.0
+Asymptotic analysis:Virtual memory,0.0
+Asymptotic analysis:Error correction code,0.0
+Asymptotic analysis:Page table,0.0
+Asymptotic analysis:Cache (computing),0.0
+Asymptotic analysis:Combinatorics,0.09811827956989247
+Asymptotic analysis:Clock signal,0.0
+Asymptotic analysis:Processor register,0.0
+Asymptotic analysis:Abstraction (computer science),0.0
+Asymptotic analysis:Design,0.0
+Asymptotic analysis:Bus (computing),0.0
+Asymptotic analysis:Architecture,0.025
+Asymptotic analysis:Interrupt,0.0
+Asymptotic analysis:Direct memory access,0.0
+Asymptotic analysis:Computer programming,0.0010714285714285721
+Asymptotic analysis:Assembly language,0.0
+Asymptotic analysis:Program optimization,0.003804347826086957
+Asymptotic analysis:Concurrency (computer science),0.0
+Asymptotic analysis:Instruction pipelining,0.0
+Asymptotic analysis:Knowledge,0.0
+Asymptotic analysis:Functional decomposition,0.0
+Asymptotic analysis:Decomposition,0.0
+Asymptotic analysis:Digital electronics,0.0
+Asymptotic analysis:Understanding,-0.013513513513513514
+Asymptotic analysis:Machine,0.0
+Asymptotic analysis:Hardware architecture,0.0
+Asymptotic analysis:Computer architecture,0.0125
+Asymptotic analysis:Compiled language,-0.011111111111111112
+Asymptotic analysis:Machine code,0.0
+Asymptotic analysis:Software,-0.00546448087431694
+Asymptotic analysis:Logic gate,-0.0053475935828877
+Asymptotic analysis:Computer,0.07365591397849462
+Asymptotic analysis:Operating system,0.0375
+Asymptotic analysis:Central processing unit,-0.0036101083032490976
+Asymptotic analysis:Two's complement,0.0
+Asymptotic analysis:Arithmetic,0.0019736842105263167
+Asymptotic analysis:Von Neumann architecture,-0.006134969325153374
+Asymptotic analysis:Instruction set architecture,0.0
+Asymptotic analysis:Reduced instruction set computer,-0.005681818181818182
+Asymptotic analysis:Complex instruction set computer,0.0
+Asymptotic analysis:Communication,0.0
+Asymptotic analysis:Computer science,0.10097262247838618
+Asymptotic analysis:Scientist,0.0
+Asymptotic analysis:Macro (computer science),0.0
+Asymptotic analysis:Virtualization,0.0
+Asymptotic analysis:Synchronization,0.0
+Asymptotic analysis:Input/output,0.0125
+Asymptotic analysis:High-level programming language,0.0
+Asymptotic analysis:Subroutine,0.0
+Abstract data type:Parallel computing,0.014146064791645815
+Abstract data type:Computer hardware,0.030927835051546393
+Abstract data type:Memory,0.010309278350515464
+Abstract data type:Address space,0.0
+Abstract data type:Space,0.0
+Abstract data type:Data,0.021123913482918942
+Abstract data type:Data type,0.057998961655417916
+Abstract data type:Arithmetic logic unit,0.0
+Abstract data type:System,0.01386179994427417
+Abstract data type:Computer network,0.028506527545493123
+Abstract data type:Transistor,0.0
+Abstract data type:Data (computing),-0.019704023944130362
+Abstract data type:Endianness,0.015031964522259977
+Abstract data type:Integer,0.0674366328191613
+Abstract data type:Compiler,0.1505253766851705
+Abstract data type:Language,0.05154639175257732
+Abstract data type:Virtual memory,0.030927835051546393
+Abstract data type:Error correction code,0.020618556701030927
+Abstract data type:Page table,-0.07142857142857142
+Abstract data type:Cache (computing),0.002244762221483206
+Abstract data type:Combinatorics,0.020618556701030927
+Abstract data type:Clock signal,0.0
+Abstract data type:Processor register,0.024305318495255003
+Abstract data type:Abstraction (computer science),0.07335162797596975
+Abstract data type:Design,0.041237113402061855
+Abstract data type:Bus (computing),0.010309278350515464
+Abstract data type:Architecture,-0.0026246719160104987
+Abstract data type:Interrupt,0.010309278350515464
+Abstract data type:Direct memory access,0.0
+Abstract data type:Computer programming,0.09054491899852725
+Abstract data type:Assembly language,0.08827796869033983
+Abstract data type:Program optimization,-0.0070820259973106234
+Abstract data type:Concurrency (computer science),-0.013220133414190418
+Abstract data type:Instruction pipelining,0.010309278350515464
+Abstract data type:Knowledge,0.0
+Abstract data type:Functional decomposition,-0.0037752286917380577
+Abstract data type:Decomposition,0.0
+Abstract data type:Digital electronics,0.0
+Abstract data type:Understanding,0.0
+Abstract data type:Machine,0.0
+Abstract data type:Hardware architecture,0.0
+Abstract data type:Computer architecture,0.011094747177221403
+Abstract data type:Compiled language,-0.02382588774341352
+Abstract data type:Machine code,0.05154639175257732
+Abstract data type:Software,0.024843670779111034
+Abstract data type:Logic gate,0.020618556701030927
+Abstract data type:Computer,0.09009533311162843
+Abstract data type:Operating system,0.09805500012983977
+Abstract data type:Central processing unit,0.041237113402061855
+Abstract data type:Two's complement,0.061855670103092786
+Abstract data type:Arithmetic,0.061855670103092786
+Abstract data type:Von Neumann architecture,0.02479286572639302
+Abstract data type:Instruction set architecture,0.014520995725421171
+Abstract data type:Reduced instruction set computer,0.004627460168697282
+Abstract data type:Complex instruction set computer,-0.0032042351629980505
+Abstract data type:Communication,0.0
+Abstract data type:Computer science,0.40660744525981163
+Abstract data type:Scientist,0.041237113402061855
+Abstract data type:Macro (computer science),0.061855670103092786
+Abstract data type:Virtualization,0.0
+Abstract data type:Synchronization,-0.01
+Abstract data type:Input/output,0.030927835051546393
+Abstract data type:High-level programming language,0.01264113892979872
+Abstract data type:Subroutine,0.10511888445265478
+Data type:Parallel computing,-0.008265232474214804
+Data type:Computer hardware,0.059566854288589856
+Data type:Memory,0.007194244604316547
+Data type:Address space,-0.005121326667479574
+Data type:Space,-0.005128205128205128
+Data type:Data,0.0039497813513894794
+Data type:Data type,0.0
+Data type:Arithmetic logic unit,0.00105515587529976
+Data type:System,0.00043748784755979
+Data type:Computer network,0.050359712230215826
+Data type:Transistor,0.007194244604316547
+Data type:Data (computing),-0.0671269436064052
+Data type:Endianness,8.038262127727652e-05
+Data type:Integer,0.09352517985611511
+Data type:Compiler,0.05976757055893747
+Data type:Language,0.05755395683453238
+Data type:Virtual memory,0.00291337178191331
+Data type:Error correction code,0.0
+Data type:Page table,-0.04637718396711202
+Data type:Cache (computing),-0.0017405430494314214
+Data type:Combinatorics,0.0
+Data type:Clock signal,-0.013888888888888888
+Data type:Processor register,-0.003763876316165614
+Data type:Abstraction (computer science),-0.05755395683453238
+Data type:Design,0.0
+Data type:Bus (computing),-0.0065043855326697535
+Data type:Architecture,0.0045695726883060485
+Data type:Interrupt,0.0
+Data type:Direct memory access,-0.008771929824561403
+Data type:Computer programming,0.009085303186022603
+Data type:Assembly language,0.0669597655209166
+Data type:Program optimization,-0.04497966843916171
+Data type:Concurrency (computer science),-0.009140922556072788
+Data type:Instruction pipelining,0.007194244604316547
+Data type:Knowledge,0.014388489208633094
+Data type:Functional decomposition,-0.014084507042253521
+Data type:Decomposition,0.0
+Data type:Digital electronics,0.0030101441859065057
+Data type:Understanding,-0.013513513513513514
+Data type:Machine,0.007194244604316547
+Data type:Hardware architecture,0.0
+Data type:Computer architecture,0.052894826995546415
+Data type:Compiled language,-0.1745003996802558
+Data type:Machine code,0.012256861177724496
+Data type:Software,-0.0402563195345363
+Data type:Logic gate,0.014388489208633094
+Data type:Computer,0.054943142260385235
+Data type:Operating system,0.05179131254190602
+Data type:Central processing unit,0.03947744331610524
+Data type:Two's complement,0.004204428664860323
+Data type:Arithmetic,0.03070806512684589
+Data type:Von Neumann architecture,-0.015227082137970607
+Data type:Instruction set architecture,-0.018906825758905073
+Data type:Reduced instruction set computer,-0.022727272727272728
+Data type:Complex instruction set computer,-0.06756756756756757
+Data type:Communication,0.0025213474080548652
+Data type:Computer science,0.2575207845251176
+Data type:Scientist,0.0
+Data type:Macro (computer science),-0.04066746602717826
+Data type:Virtualization,-0.0031150337461989166
+Data type:Synchronization,0.0
+Data type:Input/output,-0.06352364916577376
+Data type:High-level programming language,-0.07339842411784858
+Data type:Subroutine,0.015428119931800224
+Modular programming:Parallel computing,0.05884339383706206
+Modular programming:Computer hardware,0.06438387024104528
+Modular programming:Memory,0.0
+Modular programming:Address space,0.017391304347826087
+Modular programming:Space,0.0
+Modular programming:Data,0.016283034953111678
+Modular programming:Data type,0.08877072255239288
+Modular programming:Arithmetic logic unit,0.008695652173913044
+Modular programming:System,0.034782608695652174
+Modular programming:Computer network,0.02608695652173913
+Modular programming:Transistor,0.008695652173913044
+Modular programming:Data (computing),-0.01549789621318373
+Modular programming:Endianness,-0.008064124362399805
+Modular programming:Integer,0.008695652173913044
+Modular programming:Compiler,0.29790969899665554
+Modular programming:Language,0.2608695652173913
+Modular programming:Virtual memory,0.000862378727991376
+Modular programming:Error correction code,0.0
+Modular programming:Page table,-0.03571428571428571
+Modular programming:Cache (computing),-0.008064516129032258
+Modular programming:Combinatorics,0.008695652173913044
+Modular programming:Clock signal,0.008695652173913044
+Modular programming:Processor register,0.008695652173913044
+Modular programming:Abstraction (computer science),-0.06593681576477947
+Modular programming:Design,0.010494752623688156
+Modular programming:Bus (computing),0.017391304347826087
+Modular programming:Architecture,0.008695652173913044
+Modular programming:Interrupt,-0.000957319505384923
+Modular programming:Direct memory access,0.0
+Modular programming:Computer programming,-0.010683229813664603
+Modular programming:Assembly language,0.08357487922705314
+Modular programming:Program optimization,-0.06956521739130435
+Modular programming:Concurrency (computer science),0.04603580562659847
+Modular programming:Instruction pipelining,0.0
+Modular programming:Knowledge,0.0
+Modular programming:Functional decomposition,-0.005388854868340478
+Modular programming:Decomposition,0.0
+Modular programming:Digital electronics,0.0
+Modular programming:Understanding,0.0
+Modular programming:Machine,0.0
+Modular programming:Hardware architecture,0.0
+Modular programming:Computer architecture,0.006211180124223604
+Modular programming:Compiled language,-0.08357487922705312
+Modular programming:Machine code,0.12678475577026302
+Modular programming:Software,0.03131385127108577
+Modular programming:Logic gate,0.008695652173913044
+Modular programming:Computer,0.026005142589995325
+Modular programming:Operating system,0.2457562150914467
+Modular programming:Central processing unit,0.05364934861089311
+Modular programming:Two's complement,-0.017278373800112934
+Modular programming:Arithmetic,0.008695652173913044
+Modular programming:Von Neumann architecture,-0.015844225126700452
+Modular programming:Instruction set architecture,-0.00090137857900318
+Modular programming:Reduced instruction set computer,-0.0026679841897233204
+Modular programming:Complex instruction set computer,-0.013513513513513514
+Modular programming:Communication,0.0
+Modular programming:Computer science,0.0899887232176419
+Modular programming:Scientist,0.008695652173913044
+Modular programming:Macro (computer science),0.04704106280193237
+Modular programming:Virtualization,-0.03254146122814881
+Modular programming:Synchronization,0.0
+Modular programming:Input/output,0.023126734505087884
+Modular programming:High-level programming language,0.035196687370600416
+Modular programming:Subroutine,0.06695149535059058
+Solution:Parallel computing,0.0
+Solution:Computer hardware,0.0
+Solution:Memory,0.0
+Solution:Address space,0.0
+Solution:Space,0.0
+Solution:Data,0.0
+Solution:Data type,0.0
+Solution:Arithmetic logic unit,0.0
+Solution:System,0.0
+Solution:Computer network,0.0
+Solution:Transistor,0.0
+Solution:Data (computing),0.0
+Solution:Endianness,0.0
+Solution:Integer,0.0
+Solution:Compiler,0.0
+Solution:Language,0.0
+Solution:Virtual memory,0.0
+Solution:Error correction code,0.0
+Solution:Page table,0.0
+Solution:Cache (computing),0.0
+Solution:Combinatorics,0.0
+Solution:Clock signal,0.0
+Solution:Processor register,0.0
+Solution:Abstraction (computer science),-0.007194244604316547
+Solution:Design,0.0
+Solution:Bus (computing),0.0
+Solution:Architecture,0.0
+Solution:Interrupt,0.0
+Solution:Direct memory access,0.0
+Solution:Computer programming,0.0
+Solution:Assembly language,0.0
+Solution:Program optimization,0.0
+Solution:Concurrency (computer science),0.0
+Solution:Instruction pipelining,0.0
+Solution:Knowledge,0.0
+Solution:Functional decomposition,0.0
+Solution:Decomposition,0.0
+Solution:Digital electronics,0.0
+Solution:Understanding,0.0
+Solution:Machine,0.0
+Solution:Hardware architecture,0.0
+Solution:Computer architecture,0.0
+Solution:Compiled language,0.0
+Solution:Machine code,0.0
+Solution:Software,0.0
+Solution:Logic gate,0.0
+Solution:Computer,0.0
+Solution:Operating system,0.0
+Solution:Central processing unit,0.0
+Solution:Two's complement,0.0
+Solution:Arithmetic,0.0
+Solution:Von Neumann architecture,0.0
+Solution:Instruction set architecture,0.0
+Solution:Reduced instruction set computer,0.0
+Solution:Complex instruction set computer,0.0
+Solution:Communication,0.0
+Solution:Computer science,0.07142857142857142
+Solution:Scientist,0.0
+Solution:Macro (computer science),0.0
+Solution:Virtualization,0.0
+Solution:Synchronization,0.0
+Solution:Input/output,0.0
+Solution:High-level programming language,0.0
+Solution:Subroutine,0.0
+Variable (computer science):Parallel computing,0.02413975298857407
+Variable (computer science):Computer hardware,0.04081632653061224
+Variable (computer science):Memory,0.0
+Variable (computer science):Address space,0.030612244897959183
+Variable (computer science):Space,0.0
+Variable (computer science):Data,0.03101240496198479
+Variable (computer science):Data type,0.11173102334458965
+Variable (computer science):Arithmetic logic unit,-0.0031292517006802738
+Variable (computer science):System,0.0
+Variable (computer science):Computer network,0.04081632653061224
+Variable (computer science):Transistor,0.0
+Variable (computer science):Data (computing),-0.0016458196181698484
+Variable (computer science):Endianness,0.03522973435184129
+Variable (computer science):Integer,0.07411385606874328
+Variable (computer science):Compiler,0.20104003139717427
+Variable (computer science):Language,0.06960041786367198
+Variable (computer science):Virtual memory,0.022347782088041827
+Variable (computer science):Error correction code,0.0
+Variable (computer science):Page table,-0.025510204081632654
+Variable (computer science):Cache (computing),0.0021395655036208026
+Variable (computer science):Combinatorics,0.01020408163265306
+Variable (computer science):Clock signal,-0.013888888888888888
+Variable (computer science):Processor register,0.04135694012704419
+Variable (computer science):Abstraction (computer science),0.03545734840698869
+Variable (computer science):Design,0.01020408163265306
+Variable (computer science):Bus (computing),0.01020408163265306
+Variable (computer science):Architecture,0.0
+Variable (computer science):Interrupt,0.011233851338700616
+Variable (computer science):Direct memory access,0.0
+Variable (computer science):Computer programming,0.20285714285714285
+Variable (computer science):Assembly language,0.1512471655328798
+Variable (computer science):Program optimization,0.0
+Variable (computer science):Concurrency (computer science),0.02040816326530612
+Variable (computer science):Instruction pipelining,0.0
+Variable (computer science):Knowledge,0.0
+Variable (computer science):Functional decomposition,-0.014084507042253521
+Variable (computer science):Decomposition,0.0
+Variable (computer science):Digital electronics,0.0
+Variable (computer science):Understanding,0.0
+Variable (computer science):Machine,0.0
+Variable (computer science):Hardware architecture,-0.02040816326530612
+Variable (computer science):Computer architecture,0.05170068027210884
+Variable (computer science):Compiled language,-0.0036281179138322045
+Variable (computer science):Machine code,0.11010330057949105
+Variable (computer science):Software,0.0040147206423553
+Variable (computer science):Logic gate,0.0
+Variable (computer science):Computer,0.06067588325652841
+Variable (computer science):Operating system,0.1199300879041793
+Variable (computer science):Central processing unit,0.057614381492669266
+Variable (computer science):Two's complement,0.02040816326530612
+Variable (computer science):Arithmetic,0.02040816326530612
+Variable (computer science):Von Neumann architecture,0.014273193940152747
+Variable (computer science):Instruction set architecture,0.02451468392234943
+Variable (computer science):Reduced instruction set computer,-0.005681818181818182
+Variable (computer science):Complex instruction set computer,0.0
+Variable (computer science):Communication,0.01020408163265306
+Variable (computer science):Computer science,0.20119978827265778
+Variable (computer science):Scientist,0.0
+Variable (computer science):Macro (computer science),0.04365079365079365
+Variable (computer science):Virtualization,0.0
+Variable (computer science):Synchronization,0.0
+Variable (computer science):Input/output,0.030612244897959183
+Variable (computer science):High-level programming language,0.06292517006802721
+Variable (computer science):Subroutine,0.1343635720184027
+Conditional (computer programming):Parallel computing,0.08181818181818182
+Conditional (computer programming):Computer hardware,0.01818181818181818
+Conditional (computer programming):Memory,0.0
+Conditional (computer programming):Address space,0.00909090909090909
+Conditional (computer programming):Space,0.0
+Conditional (computer programming):Data,0.00837789661319073
+Conditional (computer programming):Data type,0.14015696533682145
+Conditional (computer programming):Arithmetic logic unit,0.02727272727272727
+Conditional (computer programming):System,0.00909090909090909
+Conditional (computer programming):Computer network,0.02727272727272727
+Conditional (computer programming):Transistor,0.0
+Conditional (computer programming):Data (computing),0.0
+Conditional (computer programming):Endianness,0.00909090909090909
+Conditional (computer programming):Integer,0.05454545454545454
+Conditional (computer programming):Compiler,0.31284965034965034
+Conditional (computer programming):Language,0.23636363636363636
+Conditional (computer programming):Virtual memory,0.01818181818181818
+Conditional (computer programming):Error correction code,0.0
+Conditional (computer programming):Page table,0.0
+Conditional (computer programming):Cache (computing),0.02727272727272727
+Conditional (computer programming):Combinatorics,0.00909090909090909
+Conditional (computer programming):Clock signal,0.0
+Conditional (computer programming):Processor register,0.02727272727272727
+Conditional (computer programming):Abstraction (computer science),0.04015696533682145
+Conditional (computer programming):Design,0.0
+Conditional (computer programming):Bus (computing),0.0
+Conditional (computer programming):Architecture,0.0
+Conditional (computer programming):Interrupt,0.01818181818181818
+Conditional (computer programming):Direct memory access,-0.008771929824561403
+Conditional (computer programming):Computer programming,0.07714285714285715
+Conditional (computer programming):Assembly language,0.10875420875420874
+Conditional (computer programming):Program optimization,0.02727272727272727
+Conditional (computer programming):Concurrency (computer science),0.05454545454545454
+Conditional (computer programming):Instruction pipelining,0.0
+Conditional (computer programming):Knowledge,0.0
+Conditional (computer programming):Functional decomposition,-0.014084507042253521
+Conditional (computer programming):Decomposition,0.0
+Conditional (computer programming):Digital electronics,0.0
+Conditional (computer programming):Understanding,0.0
+Conditional (computer programming):Machine,0.0
+Conditional (computer programming):Hardware architecture,0.0
+Conditional (computer programming):Computer architecture,0.045454545454545456
+Conditional (computer programming):Compiled language,0.03232323232323232
+Conditional (computer programming):Machine code,0.14545454545454545
+Conditional (computer programming):Software,0.0
+Conditional (computer programming):Logic gate,0.0
+Conditional (computer programming):Computer,0.05826001955034212
+Conditional (computer programming):Operating system,0.17272727272727273
+Conditional (computer programming):Central processing unit,0.08181818181818182
+Conditional (computer programming):Two's complement,0.0
+Conditional (computer programming):Arithmetic,0.02727272727272727
+Conditional (computer programming):Von Neumann architecture,0.002955939765755716
+Conditional (computer programming):Instruction set architecture,0.01818181818181818
+Conditional (computer programming):Reduced instruction set computer,0.01818181818181818
+Conditional (computer programming):Complex instruction set computer,0.01818181818181818
+Conditional (computer programming):Communication,0.0
+Conditional (computer programming):Computer science,0.16408173958606234
+Conditional (computer programming):Scientist,0.00909090909090909
+Conditional (computer programming):Macro (computer science),0.058838383838383836
+Conditional (computer programming):Virtualization,0.01818181818181818
+Conditional (computer programming):Synchronization,0.0
+Conditional (computer programming):Input/output,0.09090909090909091
+Conditional (computer programming):High-level programming language,0.11883116883116883
+Conditional (computer programming):Subroutine,0.155386232264845
+Iteration:Parallel computing,0.030564545127651922
+Iteration:Computer hardware,0.07407407407407407
+Iteration:Memory,0.037037037037037035
+Iteration:Address space,-0.01694915254237288
+Iteration:Space,0.037037037037037035
+Iteration:Data,0.017429193899782133
+Iteration:Data type,0.0010658140154543028
+Iteration:Arithmetic logic unit,0.037037037037037035
+Iteration:System,-0.006756756756756757
+Iteration:Computer network,0.037037037037037035
+Iteration:Transistor,0.0
+Iteration:Data (computing),0.028972520908004777
+Iteration:Endianness,-0.01675977653631285
+Iteration:Integer,0.14814814814814814
+Iteration:Compiler,0.12891737891737892
+Iteration:Language,0.037037037037037035
+Iteration:Virtual memory,0.0
+Iteration:Error correction code,0.0
+Iteration:Page table,0.0
+Iteration:Cache (computing),0.028972520908004777
+Iteration:Combinatorics,0.026284348864994023
+Iteration:Clock signal,0.023148148148148147
+Iteration:Processor register,0.030414520480745645
+Iteration:Abstraction (computer science),0.04529709565680788
+Iteration:Design,-0.013793103448275862
+Iteration:Bus (computing),0.037037037037037035
+Iteration:Architecture,0.0
+Iteration:Interrupt,0.0
+Iteration:Direct memory access,0.0
+Iteration:Computer programming,0.13100529100529099
+Iteration:Assembly language,0.029629629629629627
+Iteration:Program optimization,-0.043478260869565216
+Iteration:Concurrency (computer science),-0.023529411764705882
+Iteration:Instruction pipelining,0.0
+Iteration:Knowledge,0.037037037037037035
+Iteration:Functional decomposition,0.0
+Iteration:Decomposition,0.0
+Iteration:Digital electronics,-0.008368200836820083
+Iteration:Understanding,-0.013513513513513514
+Iteration:Machine,-0.006688963210702341
+Iteration:Hardware architecture,-0.02040816326530612
+Iteration:Computer architecture,0.037037037037037035
+Iteration:Compiled language,-0.03333333333333333
+Iteration:Machine code,0.07407407407407407
+Iteration:Software,0.031572556162720096
+Iteration:Logic gate,0.0
+Iteration:Computer,0.03166069295101553
+Iteration:Operating system,0.1111111111111111
+Iteration:Central processing unit,0.033426928733787935
+Iteration:Two's complement,-0.012987012987012988
+Iteration:Arithmetic,0.06354775828460038
+Iteration:Von Neumann architecture,0.03090206771188366
+Iteration:Instruction set architecture,0.0
+Iteration:Reduced instruction set computer,-0.005681818181818182
+Iteration:Complex instruction set computer,0.0
+Iteration:Communication,0.0
+Iteration:Computer science,0.20781300032020492
+Iteration:Scientist,0.0
+Iteration:Macro (computer science),-0.027777777777777776
+Iteration:Virtualization,0.0
+Iteration:Synchronization,0.0
+Iteration:Input/output,0.1111111111111111
+Iteration:High-level programming language,-0.023809523809523808
+Iteration:Subroutine,0.056733033611646326
+Eager evaluation:Parallel computing,-0.003236245954692557
+Eager evaluation:Computer hardware,0.0
+Eager evaluation:Memory,0.0
+Eager evaluation:Address space,0.0
+Eager evaluation:Space,0.0
+Eager evaluation:Data,-0.00980392156862745
+Eager evaluation:Data type,-0.007194244604316547
+Eager evaluation:Arithmetic logic unit,0.0
+Eager evaluation:System,0.0
+Eager evaluation:Computer network,0.0
+Eager evaluation:Transistor,0.0
+Eager evaluation:Data (computing),0.0
+Eager evaluation:Endianness,0.0
+Eager evaluation:Integer,0.0
+Eager evaluation:Compiler,-0.004807692307692308
+Eager evaluation:Language,0.0
+Eager evaluation:Virtual memory,0.0
+Eager evaluation:Error correction code,0.0
+Eager evaluation:Page table,0.0
+Eager evaluation:Cache (computing),0.0
+Eager evaluation:Combinatorics,0.0
+Eager evaluation:Clock signal,0.0
+Eager evaluation:Processor register,-0.006622516556291391
+Eager evaluation:Abstraction (computer science),-0.007194244604316547
+Eager evaluation:Design,0.0
+Eager evaluation:Bus (computing),0.0
+Eager evaluation:Architecture,0.0
+Eager evaluation:Interrupt,0.0
+Eager evaluation:Direct memory access,0.0
+Eager evaluation:Computer programming,-0.011428571428571429
+Eager evaluation:Assembly language,-0.003703703703703704
+Eager evaluation:Program optimization,-0.017391304347826087
+Eager evaluation:Concurrency (computer science),0.48823529411764705
+Eager evaluation:Instruction pipelining,-0.01818181818181818
+Eager evaluation:Knowledge,0.0
+Eager evaluation:Functional decomposition,0.0
+Eager evaluation:Decomposition,0.0
+Eager evaluation:Digital electronics,0.0
+Eager evaluation:Understanding,0.0
+Eager evaluation:Machine,0.0
+Eager evaluation:Hardware architecture,0.0
+Eager evaluation:Computer architecture,0.0
+Eager evaluation:Compiled language,-0.07777777777777778
+Eager evaluation:Machine code,-0.012345679012345678
+Eager evaluation:Software,0.0
+Eager evaluation:Logic gate,0.0
+Eager evaluation:Computer,-0.0013440860215053765
+Eager evaluation:Operating system,0.0
+Eager evaluation:Central processing unit,-0.0036101083032490976
+Eager evaluation:Two's complement,0.0
+Eager evaluation:Arithmetic,0.0
+Eager evaluation:Von Neumann architecture,-0.006134969325153374
+Eager evaluation:Instruction set architecture,0.0
+Eager evaluation:Reduced instruction set computer,0.0
+Eager evaluation:Complex instruction set computer,0.0
+Eager evaluation:Communication,0.0
+Eager evaluation:Computer science,-0.002881844380403458
+Eager evaluation:Scientist,0.0
+Eager evaluation:Macro (computer science),-0.034722222222222224
+Eager evaluation:Virtualization,0.0
+Eager evaluation:Synchronization,0.0
+Eager evaluation:Input/output,-0.02127659574468085
+Eager evaluation:High-level programming language,-0.011904761904761904
+Eager evaluation:Subroutine,-0.017341040462427744
+Organization:Parallel computing,0.0
+Organization:Computer hardware,-0.010362694300518135
+Organization:Memory,0.002553038475368573
+Organization:Address space,0.0
+Organization:Space,0.0022792022792022795
+Organization:Data,-0.029411764705882353
+Organization:Data type,0.007407407407407408
+Organization:Arithmetic logic unit,0.0
+Organization:System,-0.016366366366366368
+Organization:Computer network,0.009972199802708278
+Organization:Transistor,-0.00641025641025641
+Organization:Data (computing),-0.008064516129032258
+Organization:Endianness,0.0
+Organization:Integer,0.0
+Organization:Compiler,0.0
+Organization:Language,0.02597332249983073
+Organization:Virtual memory,0.0
+Organization:Error correction code,0.0
+Organization:Page table,-0.017857142857142856
+Organization:Cache (computing),0.0
+Organization:Combinatorics,0.0
+Organization:Clock signal,0.0
+Organization:Processor register,0.0
+Organization:Abstraction (computer science),0.0
+Organization:Design,-0.05517241379310345
+Organization:Bus (computing),-0.0045662100456621
+Organization:Architecture,-0.0057159521726450856
+Organization:Interrupt,-0.009174311926605505
+Organization:Direct memory access,0.0
+Organization:Computer programming,0.0
+Organization:Assembly language,0.0
+Organization:Program optimization,0.0
+Organization:Concurrency (computer science),0.0
+Organization:Instruction pipelining,0.0
+Organization:Knowledge,-0.0151489835700362
+Organization:Functional decomposition,0.0
+Organization:Decomposition,0.014814814814814815
+Organization:Digital electronics,-0.0041841004184100415
+Organization:Understanding,-0.01961961961961962
+Organization:Machine,0.014814814814814815
+Organization:Hardware architecture,0.0
+Organization:Computer architecture,0.0
+Organization:Compiled language,0.0
+Organization:Machine code,0.0
+Organization:Software,-0.00546448087431694
+Organization:Logic gate,-0.0106951871657754
+Organization:Computer,0.00943847072879331
+Organization:Operating system,-0.005037783375314861
+Organization:Central processing unit,-0.0036101083032490976
+Organization:Two's complement,0.0
+Organization:Arithmetic,0.0
+Organization:Von Neumann architecture,0.0
+Organization:Instruction set architecture,0.0
+Organization:Reduced instruction set computer,0.0
+Organization:Complex instruction set computer,0.0
+Organization:Communication,0.03589477327795085
+Organization:Computer science,0.034155192656633575
+Organization:Scientist,0.002882520529579353
+Organization:Macro (computer science),0.0
+Organization:Virtualization,-0.010309278350515464
+Organization:Synchronization,0.0
+Organization:Input/output,-0.0425531914893617
+Organization:High-level programming language,0.0
+Organization:Subroutine,0.0
+Subroutine:Parallel computing,-0.0009166245767626355
+Subroutine:Computer hardware,0.020935038485728835
+Subroutine:Memory,0.005780346820809248
+Subroutine:Address space,0.023121387283236993
+Subroutine:Space,0.0
+Subroutine:Data,0.02085458460840984
+Subroutine:Data type,-0.015428119931800224
+Subroutine:Arithmetic logic unit,-0.01865125240847785
+Subroutine:System,-0.0009764099359475089
+Subroutine:Computer network,0.010077117944267938
+Subroutine:Transistor,0.025696605898918038
+Subroutine:Data (computing),-0.03789856423643484
+Subroutine:Endianness,-0.02754545160977815
+Subroutine:Integer,0.02138293711156504
+Subroutine:Compiler,0.11388394842152068
+Subroutine:Language,0.07909670192643004
+Subroutine:Virtual memory,-0.014904695934648646
+Subroutine:Error correction code,0.0
+Subroutine:Page table,-0.06564822460776218
+Subroutine:Cache (computing),-0.0426067499533843
+Subroutine:Combinatorics,0.00040400273478774246
+Subroutine:Clock signal,-0.013888888888888888
+Subroutine:Processor register,0.038663246947134716
+Subroutine:Abstraction (computer science),-0.03135526261072068
+Subroutine:Design,0.004664141917480566
+Subroutine:Bus (computing),0.019769314012722042
+Subroutine:Architecture,0.0
+Subroutine:Interrupt,-0.04889430980537732
+Subroutine:Direct memory access,-0.0004056383733901242
+Subroutine:Computer programming,0.05886044591246904
+Subroutine:Assembly language,0.03755084564333119
+Subroutine:Program optimization,-0.11309374214626791
+Subroutine:Concurrency (computer science),-0.018361101666099965
+Subroutine:Instruction pipelining,-0.07934839726747242
+Subroutine:Knowledge,0.0
+Subroutine:Functional decomposition,-0.030692827485142064
+Subroutine:Decomposition,0.0
+Subroutine:Digital electronics,-0.008368200836820083
+Subroutine:Understanding,-0.013513513513513514
+Subroutine:Machine,-0.0033444816053511705
+Subroutine:Hardware architecture,-0.02040816326530612
+Subroutine:Computer architecture,-0.018387007982383713
+Subroutine:Compiled language,-0.07597944765574824
+Subroutine:Machine code,0.011061157496610297
+Subroutine:Software,-0.052433747117723244
+Subroutine:Logic gate,0.0008655064758430961
+Subroutine:Computer,0.05310305177450432
+Subroutine:Operating system,0.135627029309416
+Subroutine:Central processing unit,0.02172325285365498
+Subroutine:Two's complement,-0.015839651677801967
+Subroutine:Arithmetic,0.0010343778521448126
+Subroutine:Von Neumann architecture,-0.02124188801021313
+Subroutine:Instruction set architecture,-0.06287889468490061
+Subroutine:Reduced instruction set computer,-0.03389385181292696
+Subroutine:Complex instruction set computer,-0.10232776128729887
+Subroutine:Communication,-0.004672897196261682
+Subroutine:Computer science,0.18215588612550182
+Subroutine:Scientist,0.03241963748594146
+Subroutine:Macro (computer science),-0.008188824662813093
+Subroutine:Virtualization,-0.020618556701030927
+Subroutine:Synchronization,-0.02
+Subroutine:Input/output,-0.013897429590456284
+Subroutine:High-level programming language,-0.08064960088081474
+Subroutine:Subroutine,0.0
+Algebraic data type:Parallel computing,0.06756756756756757
+Algebraic data type:Computer hardware,0.013513513513513514
+Algebraic data type:Memory,0.0
+Algebraic data type:Address space,0.0
+Algebraic data type:Space,0.0
+Algebraic data type:Data,0.04054054054054054
+Algebraic data type:Data type,0.16673147968111998
+Algebraic data type:Arithmetic logic unit,0.0
+Algebraic data type:System,0.0
+Algebraic data type:Computer network,0.02702702702702703
+Algebraic data type:Transistor,0.0
+Algebraic data type:Data (computing),-0.008064516129032258
+Algebraic data type:Endianness,0.0
+Algebraic data type:Integer,0.06756756756756757
+Algebraic data type:Compiler,0.3147089397089397
+Algebraic data type:Language,0.25675675675675674
+Algebraic data type:Virtual memory,0.0
+Algebraic data type:Error correction code,0.0
+Algebraic data type:Page table,0.0
+Algebraic data type:Cache (computing),0.0
+Algebraic data type:Combinatorics,0.04054054054054054
+Algebraic data type:Clock signal,0.0
+Algebraic data type:Processor register,0.0
+Algebraic data type:Abstraction (computer science),0.012638537818393934
+Algebraic data type:Design,0.013513513513513514
+Algebraic data type:Bus (computing),0.0
+Algebraic data type:Architecture,0.0
+Algebraic data type:Interrupt,0.0
+Algebraic data type:Direct memory access,0.0
+Algebraic data type:Computer programming,0.05405405405405406
+Algebraic data type:Assembly language,0.06756756756756757
+Algebraic data type:Program optimization,0.0318448883666275
+Algebraic data type:Concurrency (computer science),0.04054054054054054
+Algebraic data type:Instruction pipelining,0.0
+Algebraic data type:Knowledge,0.0
+Algebraic data type:Functional decomposition,0.0
+Algebraic data type:Decomposition,0.0
+Algebraic data type:Digital electronics,0.0
+Algebraic data type:Understanding,0.0
+Algebraic data type:Machine,0.0
+Algebraic data type:Hardware architecture,0.0
+Algebraic data type:Computer architecture,0.02702702702702703
+Algebraic data type:Compiled language,-0.0039039039039039033
+Algebraic data type:Machine code,0.10810810810810811
+Algebraic data type:Software,0.013513513513513514
+Algebraic data type:Logic gate,0.0
+Algebraic data type:Computer,0.02702702702702703
+Algebraic data type:Operating system,0.05405405405405406
+Algebraic data type:Central processing unit,0.04054054054054054
+Algebraic data type:Two's complement,0.013513513513513514
+Algebraic data type:Arithmetic,0.04054054054054054
+Algebraic data type:Von Neumann architecture,0.013513513513513514
+Algebraic data type:Instruction set architecture,0.0
+Algebraic data type:Reduced instruction set computer,0.0
+Algebraic data type:Complex instruction set computer,0.0
+Algebraic data type:Communication,0.0
+Algebraic data type:Computer science,0.21045252745540932
+Algebraic data type:Scientist,0.013513513513513514
+Algebraic data type:Macro (computer science),0.08727477477477479
+Algebraic data type:Virtualization,0.013513513513513514
+Algebraic data type:Synchronization,0.0
+Algebraic data type:Input/output,0.013513513513513514
+Algebraic data type:High-level programming language,0.04536679536679537
+Algebraic data type:Subroutine,0.04249336041243556
+Pattern matching:Parallel computing,0.027618417181523976
+Pattern matching:Computer hardware,0.011363636363636364
+Pattern matching:Memory,0.0
+Pattern matching:Address space,0.011363636363636364
+Pattern matching:Space,0.0
+Pattern matching:Data,0.022727272727272728
+Pattern matching:Data type,0.1261445389143231
+Pattern matching:Arithmetic logic unit,0.0
+Pattern matching:System,0.0
+Pattern matching:Computer network,0.0
+Pattern matching:Transistor,0.0
+Pattern matching:Data (computing),-0.008064516129032258
+Pattern matching:Endianness,-0.00558659217877095
+Pattern matching:Integer,0.07954545454545454
+Pattern matching:Compiler,0.10926573426573427
+Pattern matching:Language,0.17045454545454544
+Pattern matching:Virtual memory,0.0
+Pattern matching:Error correction code,0.0
+Pattern matching:Page table,0.0
+Pattern matching:Cache (computing),0.0
+Pattern matching:Combinatorics,0.005987292277614858
+Pattern matching:Clock signal,0.0
+Pattern matching:Processor register,0.011363636363636364
+Pattern matching:Abstraction (computer science),-0.020438194898626555
+Pattern matching:Design,0.011363636363636364
+Pattern matching:Bus (computing),0.0
+Pattern matching:Architecture,0.011363636363636364
+Pattern matching:Interrupt,0.0
+Pattern matching:Direct memory access,0.0
+Pattern matching:Computer programming,0.062402597402597404
+Pattern matching:Assembly language,0.041750841750841754
+Pattern matching:Program optimization,-0.02608695652173913
+Pattern matching:Concurrency (computer science),0.010561497326203206
+Pattern matching:Instruction pipelining,0.0
+Pattern matching:Knowledge,0.0
+Pattern matching:Functional decomposition,0.0
+Pattern matching:Decomposition,0.0
+Pattern matching:Digital electronics,0.0
+Pattern matching:Understanding,0.0
+Pattern matching:Machine,0.0
+Pattern matching:Hardware architecture,0.0
+Pattern matching:Computer architecture,0.0018398268398268393
+Pattern matching:Compiled language,-0.12196969696969696
+Pattern matching:Machine code,0.022727272727272728
+Pattern matching:Software,-0.00546448087431694
+Pattern matching:Logic gate,0.0
+Pattern matching:Computer,0.016006842619745845
+Pattern matching:Operating system,0.09090909090909091
+Pattern matching:Central processing unit,0.03048080078765999
+Pattern matching:Two's complement,0.022727272727272728
+Pattern matching:Arithmetic,0.022727272727272728
+Pattern matching:Von Neumann architecture,0.00522866703848299
+Pattern matching:Instruction set architecture,0.004434589800443461
+Pattern matching:Reduced instruction set computer,0.0
+Pattern matching:Complex instruction set computer,0.0
+Pattern matching:Communication,0.0
+Pattern matching:Computer science,0.19029997380141472
+Pattern matching:Scientist,0.011363636363636364
+Pattern matching:Macro (computer science),-0.047348484848484855
+Pattern matching:Virtualization,0.0
+Pattern matching:Synchronization,0.0
+Pattern matching:Input/output,0.022727272727272728
+Pattern matching:High-level programming language,0.02056277056277056
+Pattern matching:Subroutine,0.03349973725696269
+Parametric polymorphism:Parallel computing,0.07272727272727272
+Parametric polymorphism:Computer hardware,0.0
+Parametric polymorphism:Memory,0.0
+Parametric polymorphism:Address space,0.01818181818181818
+Parametric polymorphism:Space,0.0
+Parametric polymorphism:Data,0.01818181818181818
+Parametric polymorphism:Data type,0.23296272073250487
+Parametric polymorphism:Arithmetic logic unit,0.0
+Parametric polymorphism:System,0.01818181818181818
+Parametric polymorphism:Computer network,0.01576051067576491
+Parametric polymorphism:Transistor,0.0
+Parametric polymorphism:Data (computing),0.0
+Parametric polymorphism:Endianness,0.0
+Parametric polymorphism:Integer,0.07272727272727272
+Parametric polymorphism:Compiler,0.31284965034965034
+Parametric polymorphism:Language,0.2
+Parametric polymorphism:Virtual memory,0.0
+Parametric polymorphism:Error correction code,0.0
+Parametric polymorphism:Page table,0.0
+Parametric polymorphism:Cache (computing),0.0
+Parametric polymorphism:Combinatorics,0.01818181818181818
+Parametric polymorphism:Clock signal,0.0
+Parametric polymorphism:Processor register,0.0
+Parametric polymorphism:Abstraction (computer science),0.01137998691955526
+Parametric polymorphism:Design,0.0
+Parametric polymorphism:Bus (computing),0.0
+Parametric polymorphism:Architecture,0.0
+Parametric polymorphism:Interrupt,0.0
+Parametric polymorphism:Direct memory access,0.0
+Parametric polymorphism:Computer programming,0.0612987012987013
+Parametric polymorphism:Assembly language,0.06531986531986532
+Parametric polymorphism:Program optimization,0.018972332015810275
+Parametric polymorphism:Concurrency (computer science),-0.005347593582887701
+Parametric polymorphism:Instruction pipelining,0.0
+Parametric polymorphism:Knowledge,0.0
+Parametric polymorphism:Functional decomposition,-0.014084507042253521
+Parametric polymorphism:Decomposition,0.0
+Parametric polymorphism:Digital electronics,0.0
+Parametric polymorphism:Understanding,0.0
+Parametric polymorphism:Machine,0.0
+Parametric polymorphism:Hardware architecture,0.0
+Parametric polymorphism:Computer architecture,0.008658008658008656
+Parametric polymorphism:Compiled language,-0.048484848484848485
+Parametric polymorphism:Machine code,0.09090909090909091
+Parametric polymorphism:Software,0.0
+Parametric polymorphism:Logic gate,0.0
+Parametric polymorphism:Computer,0.015493646138807427
+Parametric polymorphism:Operating system,0.05202656285779711
+Parametric polymorphism:Central processing unit,0.0
+Parametric polymorphism:Two's complement,0.005194805194805193
+Parametric polymorphism:Arithmetic,0.0
+Parametric polymorphism:Von Neumann architecture,-0.006134969325153374
+Parametric polymorphism:Instruction set architecture,0.05454545454545454
+Parametric polymorphism:Reduced instruction set computer,0.0
+Parametric polymorphism:Complex instruction set computer,0.0
+Parametric polymorphism:Communication,0.0
+Parametric polymorphism:Computer science,0.17317264867697144
+Parametric polymorphism:Scientist,0.05454545454545454
+Parametric polymorphism:Macro (computer science),0.040656565656565655
+Parametric polymorphism:Virtualization,0.01818181818181818
+Parametric polymorphism:Synchronization,0.0
+Parametric polymorphism:Input/output,-0.0030947775628626696
+Parametric polymorphism:High-level programming language,0.08528138528138528
+Parametric polymorphism:Subroutine,0.0372044140830268
+Polymorphism (computer science):Parallel computing,0.01884396378681742
+Polymorphism (computer science):Computer hardware,0.012658227848101266
+Polymorphism (computer science):Memory,0.0
+Polymorphism (computer science):Address space,0.0
+Polymorphism (computer science):Space,0.0
+Polymorphism (computer science):Data,0.012658227848101266
+Polymorphism (computer science):Data type,0.1087332665513159
+Polymorphism (computer science):Arithmetic logic unit,0.0
+Polymorphism (computer science):System,0.02531645569620253
+Polymorphism (computer science):Computer network,0.012658227848101266
+Polymorphism (computer science):Transistor,0.0
+Polymorphism (computer science):Data (computing),-0.008064516129032258
+Polymorphism (computer science):Endianness,-0.00558659217877095
+Polymorphism (computer science):Integer,0.06329113924050633
+Polymorphism (computer science):Compiler,0.12786027263875366
+Polymorphism (computer science):Language,0.05063291139240506
+Polymorphism (computer science):Virtual memory,0.02531645569620253
+Polymorphism (computer science):Error correction code,0.0
+Polymorphism (computer science):Page table,0.0
+Polymorphism (computer science):Cache (computing),0.0
+Polymorphism (computer science):Combinatorics,0.0
+Polymorphism (computer science):Clock signal,0.0
+Polymorphism (computer science):Processor register,0.0
+Polymorphism (computer science):Abstraction (computer science),-0.0014570621983425874
+Polymorphism (computer science):Design,0.012658227848101266
+Polymorphism (computer science):Bus (computing),0.012658227848101266
+Polymorphism (computer science):Architecture,0.0
+Polymorphism (computer science):Interrupt,0.0
+Polymorphism (computer science):Direct memory access,0.0
+Polymorphism (computer science):Computer programming,0.010632911392405062
+Polymorphism (computer science):Assembly language,0.012048757618377873
+Polymorphism (computer science):Program optimization,-0.017391304347826087
+Polymorphism (computer science):Concurrency (computer science),-0.009977661950856292
+Polymorphism (computer science):Instruction pipelining,0.0
+Polymorphism (computer science):Knowledge,0.0
+Polymorphism (computer science):Functional decomposition,-0.014084507042253521
+Polymorphism (computer science):Decomposition,0.0
+Polymorphism (computer science):Digital electronics,0.0
+Polymorphism (computer science):Understanding,0.0
+Polymorphism (computer science):Machine,0.0
+Polymorphism (computer science):Hardware architecture,-0.02040816326530612
+Polymorphism (computer science):Computer architecture,-0.01904761904761905
+Polymorphism (computer science):Compiled language,-0.09845288326300984
+Polymorphism (computer science):Machine code,0.05063291139240506
+Polymorphism (computer science):Software,0.012658227848101266
+Polymorphism (computer science):Logic gate,0.0
+Polymorphism (computer science):Computer,0.009970055805090514
+Polymorphism (computer science):Operating system,0.035455791856646365
+Polymorphism (computer science):Central processing unit,0.0
+Polymorphism (computer science):Two's complement,0.012329442709189543
+Polymorphism (computer science):Arithmetic,0.012658227848101266
+Polymorphism (computer science):Von Neumann architecture,-0.006134969325153374
+Polymorphism (computer science):Instruction set architecture,0.006560666872491509
+Polymorphism (computer science):Reduced instruction set computer,0.0
+Polymorphism (computer science):Complex instruction set computer,0.0
+Polymorphism (computer science):Communication,0.0
+Polymorphism (computer science):Computer science,0.11793674533980229
+Polymorphism (computer science):Scientist,0.05063291139240506
+Polymorphism (computer science):Macro (computer science),-0.03595288326300985
+Polymorphism (computer science):Virtualization,0.0
+Polymorphism (computer science):Synchronization,0.0
+Polymorphism (computer science):Input/output,-0.02127659574468085
+Polymorphism (computer science):High-level programming language,-0.05877034358047016
+Polymorphism (computer science):Subroutine,0.06190092924562815
+Higher-order function:Parallel computing,0.028013754045307444
+Higher-order function:Computer hardware,0.015625
+Higher-order function:Memory,0.0
+Higher-order function:Address space,-0.01694915254237288
+Higher-order function:Space,0.026121794871794873
+Higher-order function:Data,0.02144607843137255
+Higher-order function:Data type,0.07216726618705036
+Higher-order function:Arithmetic logic unit,0.0
+Higher-order function:System,0.03125
+Higher-order function:Computer network,0.0
+Higher-order function:Transistor,0.0
+Higher-order function:Data (computing),0.0
+Higher-order function:Endianness,0.01003840782122905
+Higher-order function:Integer,0.0625
+Higher-order function:Compiler,0.10096153846153846
+Higher-order function:Language,0.03125
+Higher-order function:Virtual memory,0.0
+Higher-order function:Error correction code,0.0
+Higher-order function:Page table,0.0
+Higher-order function:Cache (computing),-0.008064516129032258
+Higher-order function:Combinatorics,0.010248655913978494
+Higher-order function:Clock signal,0.0
+Higher-order function:Processor register,0.0
+Higher-order function:Abstraction (computer science),0.09745953237410071
+Higher-order function:Design,0.0
+Higher-order function:Bus (computing),0.0
+Higher-order function:Architecture,0.0
+Higher-order function:Interrupt,0.0
+Higher-order function:Direct memory access,-0.008771929824561403
+Higher-order function:Computer programming,0.12196428571428572
+Higher-order function:Assembly language,0.1607638888888889
+Higher-order function:Program optimization,-0.02608695652173913
+Higher-order function:Concurrency (computer science),-0.023529411764705882
+Higher-order function:Instruction pipelining,0.0
+Higher-order function:Knowledge,0.015625
+Higher-order function:Functional decomposition,0.003080985915492957
+Higher-order function:Decomposition,0.0
+Higher-order function:Digital electronics,0.0
+Higher-order function:Understanding,0.0
+Higher-order function:Machine,0.0
+Higher-order function:Hardware architecture,0.0
+Higher-order function:Computer architecture,0.021726190476190475
+Higher-order function:Compiled language,-0.004166666666666666
+Higher-order function:Machine code,0.078125
+Higher-order function:Software,0.0
+Higher-order function:Logic gate,0.0
+Higher-order function:Computer,0.010248655913978494
+Higher-order function:Operating system,0.10685610831234257
+Higher-order function:Central processing unit,0.03125
+Higher-order function:Two's complement,-0.012987012987012988
+Higher-order function:Arithmetic,0.0625
+Higher-order function:Von Neumann architecture,0.009490030674846626
+Higher-order function:Instruction set architecture,-0.012195121951219513
+Higher-order function:Reduced instruction set computer,0.0
+Higher-order function:Complex instruction set computer,0.0
+Higher-order function:Communication,0.0
+Higher-order function:Computer science,0.29399315561959655
+Higher-order function:Scientist,0.0
+Higher-order function:Macro (computer science),-0.0034722222222222238
+Higher-order function:Virtualization,0.015625
+Higher-order function:Synchronization,0.015625
+Higher-order function:Input/output,-0.011303191489361701
+Higher-order function:High-level programming language,0.0029761904761904795
+Higher-order function:Subroutine,0.21531791907514453

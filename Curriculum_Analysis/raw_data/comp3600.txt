@@ -1,0 +1,7 @@
+This course provides basic approaches for designing and analysing algorithms and data structures. 
+It will focus on two fundamental problems in computing: Sorting and searching. 
+It will cover various data structures and algorithm design techniques for solving these two classes of problems, as well as basic performance measures and analysis techniques for solving such problems.
+Display an advanced understanding of a variety of algorithms, including linear selection, minimum spanning trees, single source shortest path, Huffman coding, etc, with real-life applications and the resource requirements.
+Expertly apply the most effective algorithmic techniques including dynamic programming, greedy policy, and divide-and-conquer, to solve some practical problems.
+Define and analyse time and space complexities of algorithms.
+Demonstrate experience in the design and implementation of algorithms for practical problems, using languages like C, C++.

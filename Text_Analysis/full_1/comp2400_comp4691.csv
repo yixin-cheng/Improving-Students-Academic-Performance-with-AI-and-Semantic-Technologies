@@ -1,8 +1,0 @@
-score,s1,s2
-0.9146,"This course provides foundations and plenty of exercises in practical optimisation problems, while covering all basic elements of optimisation including forms of constraint programming as well as variations on linear programming and convex optimisation.",This course is an introduction to relational databases and the general skills for designing and using them.
-0.9126,Be able to apply Linear Programming and Mixed-Integer Programming model to solve real-world problems.,Apply database design methods on functional dependencies and normal forms to evaluate the quality of a relational database design.
-0.9037,Be able to recognize and formulate convex optimization problems arising in practice.,Describe the basic concepts of the relational model and understand its mathematical foundation;
-0.9245,Demonstrate an understanding of theoretical foundations of convex optimization and be able to use it to characterize optimal solutions to general problems.,Describe the basic concepts of the relational model and understand its mathematical foundation;
-0.9037,Be able to define an appropriate local search neighbourhood for a given problem.,Apply database design methods on functional dependencies and normal forms to evaluate the quality of a relational database design.
-0.9068,Be able to use a variety of meta-heuristics to escape local minima in a neighbourhood.,Apply database design methods on functional dependencies and normal forms to evaluate the quality of a relational database design.
-0.9271,Demonstrate an understanding of the propagation of a global constraint in a Constraint programming system.,Apply database design methods on functional dependencies and normal forms to evaluate the quality of a relational database design.

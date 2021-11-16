@@ -1,8 +1,0 @@
-This course takes a detailed look at the services provided by, and the internals of, an existing operating system to see how each part is constructed and integrated into the whole. 
-The lectures will also address recent literature describing advances in operating systems. 
-The following topics are addressed: system programming and its facilities (including I/O, signals, job control, interprocess communication, sockets, transport layers, remote operations), system calls and their relation to the system libraries, process management and coordination, implementation of message passing, memory management, interrupt handling, real-time clocks, device-independent input/output, serial-line drivers, network communication, disk drivers, deadlock avoidance, scheduling paradigms, file systems, security.
-identify and evaluate features of the system library of a particular operating system, and be able to apply this knowledge to program small applications.
-describe and analyse the actual algorithms and data structures that are used in a particular operating system.
-define and analyse the structure of operating systems in general, especially those that support communicating processes.
-identify and describe the reasons for many architectural features of contemporary machines.
-demonstrate experience in the design and implementation of a large software system.

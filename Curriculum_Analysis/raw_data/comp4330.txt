@@ -1,0 +1,10 @@
+Real-time and embedded systems are all around us. Controlling cars, trains, or aeroplanes, as well as mobile phones, cameras, or A/V equipment, embedded systems are a challenging and demanding part of computer science and engineering. 
+This course delivers foundations of real-time analysis and implementation of systems which are interconnected with the physical world (embedded systems). 
+It also delivers the principles of fault tolerant systems and highly reliable systems. 
+Techniques which are introduced include real-time calculus, real-time scheduling, elementary sensor data filtering and fusion methods, error recovery strategies, and graceful degradation methods.
+Formulate real-time constraints.
+Employ standard real-time programming constructs.
+Develop a concept to handle the requests level of reliability.
+Construct and implement an architecture for an asynchronous, distributed real-time system.
+Understand and consider constraints from physical dynamical systems.
+Participate significantly in the enhancement of the reliability (or analysis) of safety critical systems.

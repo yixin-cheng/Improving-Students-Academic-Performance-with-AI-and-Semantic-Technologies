@@ -1,8 +1,0 @@
-score,s1,s2
-0.8456,"Real-world data are commonly messy, distributed, and heterogeneous.","Apply the concepts of standard mathematical logic to produce proofs or refutations of well-formed propositions or arguments phrased in English or in a variety of formal notations (first order logic, discrete mathematics or Hoare Logic)."
-0.9072,"This course introduces core concepts of data cleaning, standardisation, and data integration, that are aimed at converting and mapping raw data into other formats that allow more efficient and convenient use and analysis of data. The courses also discusses data quality, management, and storage issues as relevant to data analytics.","The following areas of study constitute the backbone of the course. Predicate calculus and natural deduction, inductive definitions of data types as a basis for recursive functions and structural induction, formal language theory (particularly regular expressions, finite state machines and context free grammars), and specification languages."
-0.8717,"Critically reflect upon different data sources, types, formats and structures.",Prove simple programs correct using Hoare Logic.
-0.8856,"Justify and apply data cleaning, preprocessing, and standardisation for data analytics.",Prove simple programs correct using Hoare Logic.
-0.8806,Apply data integration concepts and techniques to heterogeneous and distributed data.,Design a Turing Machine which will accomplish simple tasks.
-0.8829,"Interpret, assess and discuss data quality measurements.",Prove simple programs correct using Hoare Logic.
-0.8902,"Understand and be able to use advanced data wrangling, data integration, and database techniques as relevant to data analytics.",Prove simple programs correct using Hoare Logic.

@@ -1,8 +1,0 @@
-score,s1,s2
-0.8996,Artificial intelligence is the science that studies and develops methods of making computers more /intelligent/.,"The course emphasises technical programming, the simulation of scientific systems and the processing of scientific data."
-0.9499,"The focus of this course is on core AI techniques for search, knowledge representation and reasoning, planning, and designing intelligent agents.","The course emphasises technical programming, the simulation of scientific systems and the processing of scientific data."
-0.9315,"The course also aims to give an overview of the historical, philosophical, and logical foundations of AI.",This course teaches introductory programming within a problem solving framework applicable to the sciences.
-0.9175,"Identify problems that are amenable to solution by AI methods, and which AI methods may be suited to solving a given problem.",The course will be taught using one or more programming languages which are widely applicable to scientific work.
-0.8956,"Formalise a given problem in the language/framework of different AI methods (e.g., as a search problem, as a constraint satisfaction problem, as a planning problem, etc).",The course will be taught using one or more programming languages which are widely applicable to scientific work.
-0.9103,"Implement basic AI algorithms (e.g., standard search or constraint propagation algorithms).",Have an understanding of practical aspects of machine architecture including finite precision and rounding errors.
-0.9204,"Design and perform an empirical evaluation of different algorithms on a problem formalisation, and state the conclusions that the evaluation supports.","Design, write and debug small programs to solve practical problems of a scientific nature."
