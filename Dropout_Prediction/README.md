@@ -1,4 +1,4 @@
-#Dropout Prediction
+# Dropout Prediction
 
 This sub-project is for predicting student dropout in 3 degree (ADM, ARQ, and CSI) at a Brazilian university. By using Genetic Algorithm (GA)+ Support Vector machine (SVM) for feature selection and Long short-term memory (LSTM) for Time Series (TS) data training and test.
 
