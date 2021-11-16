@@ -1,8 +1,0 @@
-score,s1,s2
-0.8782,"Real-world data are commonly messy, distributed, and heterogeneous.",Describe and apply alternative computational paradigms to simple problems.
-0.9368,"This course introduces core concepts of data cleaning, standardisation, and data integration, that are aimed at converting and mapping raw data into other formats that allow more efficient and convenient use and analysis of data. The courses also discusses data quality, management, and storage issues as relevant to data analytics.","Students also gain exposure to structural induction and proof, introduction to asymptotic analysis of basic data structures, abstract data types, modules, laziness, and streams."
-0.9171,"Critically reflect upon different data sources, types, formats and structures.",Describe and apply alternative computational paradigms to simple problems.
-0.9261,"Justify and apply data cleaning, preprocessing, and standardisation for data analytics.","Students also gain exposure to structural induction and proof, introduction to asymptotic analysis of basic data structures, abstract data types, modules, laziness, and streams."
-0.9279,Apply data integration concepts and techniques to heterogeneous and distributed data.,Describe and apply alternative computational paradigms to simple problems.
-0.9214,"Interpret, assess and discuss data quality measurements.",Describe and apply alternative computational paradigms to simple problems.
-0.9320,"Understand and be able to use advanced data wrangling, data integration, and database techniques as relevant to data analytics.","Students also gain exposure to structural induction and proof, introduction to asymptotic analysis of basic data structures, abstract data types, modules, laziness, and streams."
