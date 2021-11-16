@@ -1,4 +1,4 @@
-# 8755Project
+# COMP8755Project
 This project contains *two* main parts, that is, ***Dropouts_prediction*** and ***Curriculum_Analysis*** in the seperate corresponding folders. There is also a README file in each folder.
 
 ## Dropout_Prediction
