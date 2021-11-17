@@ -94,7 +94,7 @@ This part focuses on the ***prerequisite of concepts and courses*** in further m
 5. run `entity_extractor.py` to get the result which will be in `/result/prerequisite_identification`
 ## Paper Crawling
 
-This sub-ject is regarding acquiring the paper from Springer https://www.springer.com/gp by using beautifulsoup.
+This sub-project is regarding acquiring the paper from Springer https://www.springer.com/gp by using beautifulsoup.
 
 ### Imported Libraries
 The scripts of projects are all based in Python 3.8 and anaconda package manager. The external dependencies are as following:
