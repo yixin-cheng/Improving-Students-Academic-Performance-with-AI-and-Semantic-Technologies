@@ -49,7 +49,7 @@ for i in range (200):
     input_size = len(pd.read_csv(ga_path).columns) - 1
     hidden_size = 100
     num_classes = 2
-    num_epochs = 100
+    num_epochs = 20
     num_layers = 2 #number of stacked lstm layers
     batch_size = math.ceil(len(data)*0.8/32) #define the batch by the sequence of each input (32)
     learning_rate = 0.001
@@ -134,7 +134,7 @@ for i in range (200):
     all_accuracy=[]
     all_losses = []
     total_step = len(train_loader)
-    for epoch in range(num_epochs):
+    for epoch in range(num_epochs+1):
         correct = 0
         total = 0
         for i, (inputs, labels) in enumerate(train_loader):
@@ -162,12 +162,17 @@ for i in range (200):
                 all_accuracy.append(100 * correct / total)
     # plot the loss and accuracy as prefer. If not, comment it
     plt.figure()
+    plt.plot(all_losses)
+    plt.xlabel('epoch*time step')
+    plt.ylabel('loss')
+    plt.show()
+    # plt.savefig('fig/ADM_loss.jpg')
+    plt.figure()
     plt.plot(all_accuracy)
     plt.xlabel('epoch*time step')
     plt.ylabel('accuracy')
     plt.show()
-    plt.savefig('fig/ADM_acc.jpg')
-
+    #plt.savefig('fig/ADM_acc.jpg')
 
     """
     Evaluating the Results
