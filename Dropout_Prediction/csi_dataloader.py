@@ -48,7 +48,7 @@ for i in range (200):
     input_size = len(pd.read_csv(ga_path).columns) - 1
     hidden_size = 100
     num_classes = 2
-    num_epochs = 100
+    num_epochs = 20
     num_layers = 2 #number of stacked lstm layers
     batch_size = math.ceil(len(data)*0.8/32) #define the batch by the sequence of each input (32)
     learning_rate = 0.001
@@ -165,7 +165,13 @@ for i in range (200):
     plt.xlabel('epoch*time step')
     plt.ylabel('loss')
     plt.show()
-    plt.savefig('fig/CSI_loss.jpg')
+    # plt.savefig('fig/CSI_loss.jpg')
+    plt.figure()
+    plt.plot(all_accuracy)
+    plt.xlabel('epoch*time step')
+    plt.ylabel('accuracy')
+    plt.show()
+    # plt.savefig('fig/CSI_acc.jpg')
 
 
     """

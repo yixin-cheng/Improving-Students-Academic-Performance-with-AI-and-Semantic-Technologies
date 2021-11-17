@@ -6,7 +6,6 @@ import requests
 from bs4 import BeautifulSoup
 import xlwt
 from selenium import webdriver
-from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 def request_springer(url):
     try:

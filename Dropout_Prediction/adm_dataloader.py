@@ -43,7 +43,7 @@ else:
     print("Running on the CPU")
 
 
-for i in range (200):
+for i in range (1):
     # Hyper Parameters
     data = pd.read_csv(ga_path, header=None, dtype=float)
     input_size = len(pd.read_csv(ga_path).columns) - 1

@@ -1,6 +1,6 @@
 # Curriculum Analysis
 This sub-project contains two parts, one is ***similarity measurement***, which aims to get the similarity between two courses with using *BERT*; another one is ***prerequisite identification***, which is about using *SemfD* to analysis semantic relation between two concepts and courses further.
-###Dataset
+### Dataset
 The dataset this project used is from ANU Course & Program https://programsandcourses.anu.edu.au/, which is a website providing the course description and curriculum arrangement.
 
 The `raw_data` stores the each course in txt format； the `raw_data_csv` store each course in csv format.  
