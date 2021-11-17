@@ -1,6 +1,6 @@
 # Paper Crawling
 
-This sub-ject is regarding acquiring the paper from Springer https://www.springer.com/gp by using beautifulsoup.
+This sub-project is regarding acquiring the paper from Springer https://www.springer.com/gp by using beautifulsoup.
 
 ### Imported Libraries
 The scripts of projects are all based in Python 3.8 and anaconda package manager. The external dependencies are as following:
