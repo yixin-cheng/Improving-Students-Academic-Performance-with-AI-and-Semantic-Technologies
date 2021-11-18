@@ -92,7 +92,7 @@ This part focuses on the ***prerequisite of concepts and courses*** in further m
 3. `entity_extractor.py` is using TextRazor (https://www.textrazor.com/) to segment and extract entities from text.
 4. `config.cfg` is the configuration file, you may need to change the proxy before using it.
 5. run `entity_extractor.py` to get the result which will be in `/result/prerequisite_identification`
-## Paper Crawling
+## Systematic Review-Paper Crawling
 
 This sub-project is regarding acquiring the paper from Springer https://www.springer.com/gp by using beautifulsoup.
 
