@@ -1,4 +1,4 @@
-# COMP8755 Project-Improving Students’ Academic Performance with AI and Semantic Technologies
+# Project-Improving Students’ Academic Performance with AI and Semantic Technologies
 This project contains *two* main parts, that is, ***Dropouts_prediction*** and ***Curriculum_Analysis*** in the seperate corresponding folders. There is also a README file in each folder.
 
 ## Dropout_Prediction
